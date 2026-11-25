@@ -1,0 +1,49 @@
+{
+  "checks": [
+    {
+      "file": "loop-sort-local-level-41-source-41.json",
+      "selection": {
+        "dataset": "local",
+        "displayLevel": 41,
+        "savedIndex": 40,
+        "sourceIndex": 40,
+        "sourceId": 41,
+        "loopCount": 1
+      }
+    },
+    {
+      "file": "loop-sort-local-level-1300-source-801.json",
+      "selection": {
+        "dataset": "local",
+        "displayLevel": 1300,
+        "savedIndex": 1299,
+        "sourceIndex": 800,
+        "sourceId": 801,
+        "loopCount": 2
+      }
+    },
+    {
+      "file": "loop-sort-v18-level-20-source-20.json",
+      "selection": {
+        "dataset": "v18",
+        "displayLevel": 20,
+        "savedIndex": 19,
+        "sourceIndex": 19,
+        "sourceId": 20,
+        "loopCount": 1
+      }
+    },
+    {
+      "file": "loop-sort-daily-level-30-source-30.json",
+      "selection": {
+        "dataset": "daily",
+        "displayLevel": 30,
+        "savedIndex": 29,
+        "sourceIndex": 29,
+        "sourceId": 30,
+        "loopCount": 1
+      }
+    }
+  ],
+  "errors": []
+}
