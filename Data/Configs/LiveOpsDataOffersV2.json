@@ -1,0 +1,822 @@
+{
+  "source": "Evidence/Assets/resources.assets_9865.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 30735859712
+    },
+    "m_Name": "LiveOpsDataOffersV2",
+    "DataByType": {
+      "list": [
+        {
+          "Key": 1,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "10b8953bfe4164d8799cf9c0ee23afec",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "74be3c6f07d1c44eda3a86f5b8fd03ff",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.6887515783309937,
+              "Offset": {
+                "x": -4.0,
+                "y": -46.79999923706055
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 799
+              },
+              "ScaleMultiplier": 0.949999988079071,
+              "Offset": {
+                "x": -3.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 4050
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "57be323de3d1a4daba0dc2b182d7030a",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.5428519248962402,
+              "Offset": {
+                "x": -4.0,
+                "y": -22.899999618530273
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1092
+              },
+              "ScaleMultiplier": 1.149999976158142,
+              "Offset": {
+                "x": -2.5,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 3293
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "9e97bb94e79bb460bbdf934e9c0422c6",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.7525100111961365,
+              "Offset": {
+                "x": 0.0,
+                "y": -60.099998474121094
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1034
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 2580
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 6,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "644fe6e64b2ef4e5e93011ec46833e06",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.4319845139980316,
+              "Offset": {
+                "x": -10.300000190734863,
+                "y": -13.300000190734863
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 906
+              },
+              "ScaleMultiplier": 1.350000023841858,
+              "Offset": {
+                "x": 0.0,
+                "y": -5.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 1560
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 7,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "9c617530cd2e54d4680fe88435d8a300",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.5637742877006531,
+              "Offset": {
+                "x": -5.699999809265137,
+                "y": -15.699999809265137
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 815
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 0.0,
+                "y": -18.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 1561
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 8,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "45f329a3be9264f858432d85a9d0775c",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1172
+              },
+              "ScaleMultiplier": 0.979480504989624,
+              "Offset": {
+                "x": 0.0,
+                "y": -5.099999904632568
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1172
+              },
+              "ScaleMultiplier": 0.979480504989624,
+              "Offset": {
+                "x": 0.0,
+                "y": -5.099999904632568
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 9,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "9881426013724483a9f8608a7e616188",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.5463575124740601,
+              "Offset": {
+                "x": -1.899999976158142,
+                "y": 30.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 925
+              },
+              "ScaleMultiplier": 0.8999999761581421,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 2120
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 10,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "6ffb7130995774c43afe5b0a2e5b7728",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 0.5834072232246399,
+              "Offset": {
+                "x": -3.0,
+                "y": 8.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1002
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 10.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 2274
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 11,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "6caa8799527df40ea84043dab23b2389",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 12,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "977ac9b7377364237a21587a37225f8b",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 902
+              },
+              "ScaleMultiplier": 1.2200160026550293,
+              "Offset": {
+                "x": 0.0,
+                "y": -10.199999809265137
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 902
+              },
+              "ScaleMultiplier": 1.2200160026550293,
+              "Offset": {
+                "x": 0.0,
+                "y": -10.199999809265137
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 13,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "6bacd6a09d0cd43f5b67b2260ce78f97",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1005
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1005
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 20,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "023b782fdee034ec99cb5c3a62969f35",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 980
+              },
+              "ScaleMultiplier": 1.0993549823760986,
+              "Offset": {
+                "x": 0.0,
+                "y": -23.799999237060547
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 980
+              },
+              "ScaleMultiplier": 1.0993549823760986,
+              "Offset": {
+                "x": 0.0,
+                "y": -23.799999237060547
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 22,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "b25327f1512294b32bff2c096833ddc8",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 713
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 6.900000095367432,
+                "y": -4.099999904632568
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 713
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 6.900000095367432,
+                "y": -4.099999904632568
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 23,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "cf46b67ad65c74375b48816aa2d0e6d2",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 822
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 822
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 27,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "5a3c1767cda1f4f6fae5d921255515aa",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 28,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "ca4dace216fba49d697784d5edadeb99",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 973
+              },
+              "ScaleMultiplier": 1.25,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 973
+              },
+              "ScaleMultiplier": 1.25,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 29,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "6e21efb772b6a4ffea2ae5671cc0eddf",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 696
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 696
+              },
+              "ScaleMultiplier": 1.0,
+              "Offset": {
+                "x": 0.0,
+                "y": 0.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 30,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "38bbb3f778b904def87f20180ffcbb97",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 31,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "fec6db08efab64eddba0986fe050abd6",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        },
+        {
+          "Key": 32,
+          "Value": {
+            "MonitorPrefab": {
+              "m_AssetGUID": "309ddd9b17317465a97d8045cfed88f0",
+              "m_SubObjectName": "",
+              "m_SubObjectType": ""
+            },
+            "HomeIcon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIcon2": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "ScaleMultiplier": 1.5,
+              "Offset": {
+                "x": 0.0,
+                "y": -30.0
+              }
+            },
+            "HomeIconPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "HomeViewState": 0,
+            "HomeViewItem": 0
+          }
+        }
+      ],
+      "keyCollision": 0
+    },
+    "Skins": {
+      "list": [],
+      "keyCollision": 0
+    }
+  }
+}

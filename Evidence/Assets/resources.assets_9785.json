@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 6559891456
+  },
+  "m_Name": "ShakeBehavior",
+  "tagID": "shake",
+  "baseAmplitude": 1.1299999952316284,
+  "baseDelay": 0.10000000149011612,
+  "baseWaveSize": 0.44999998807907104
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 41087401984
+  },
+  "m_Name": "WiggleBehavior",
+  "tagID": "wiggle",
+  "baseAmplitude": 4.739999771118164,
+  "baseFrequency": 7.820000171661377,
+  "baseWaveSize": 0.5509999990463257
+}

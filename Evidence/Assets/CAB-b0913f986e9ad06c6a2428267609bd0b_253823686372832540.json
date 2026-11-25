@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8641790985647764764
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6696502864416079338
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 7182464945662670108
+  },
+  "Reskin": "",
+  "Containers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8529806525040243996
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6209441431980460772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8567487582367790364
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3454003172099831068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1643873423812277532
+    }
+  ],
+  "GiftSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7967504174212951086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1160487133205581296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3158910214116819537
+    }
+  ],
+  "ColorStateByGiftSprite": {
+    "list": [
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": 7967504174212951086
+        },
+        "Value": -136944284
+      },
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": -3158910214116819537
+        },
+        "Value": -1899490322
+      },
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": -1160487133205581296
+        },
+        "Value": -1273337485
+      }
+    ],
+    "keyCollision": 0
+  }
+}

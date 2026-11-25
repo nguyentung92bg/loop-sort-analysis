@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 687865856
+  },
+  "m_Name": "DangleBehavior",
+  "tagID": "dangle",
+  "baseAmplitude": 7.869999885559082,
+  "baseFrequency": 3.369999885559082,
+  "baseWaveSize": 0.3059999942779541,
+  "anchorBottom": 0
+}

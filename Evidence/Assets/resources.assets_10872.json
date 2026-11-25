@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1710
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 83382763520
+  },
+  "m_Name": "",
+  "toggle": {
+    "m_FileID": 0,
+    "m_PathID": 10407
+  },
+  "label": {
+    "m_FileID": 0,
+    "m_PathID": 12008
+  },
+  "backgroundImage": {
+    "m_FileID": 0,
+    "m_PathID": 12138
+  },
+  "defaultColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "checkedColor": {
+    "r": 0.615686297416687,
+    "g": 0.8352941274642944,
+    "b": 0.8117647171020508,
+    "a": 1.0
+  }
+}

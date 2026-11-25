@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 50465865728
+  },
+  "m_Name": "WaveBehavior",
+  "tagID": "wave",
+  "baseAmplitude": 7.269999980926514,
+  "baseFrequency": 4.0,
+  "baseWaveSize": 0.4000000059604645
+}

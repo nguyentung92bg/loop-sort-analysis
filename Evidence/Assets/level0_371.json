@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 43671093248
+  },
+  "m_Name": "",
+  "m_ramGraphGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5
+  },
+  "m_backgroundImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 460
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 474
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2448082706890838188
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1712002915,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 7089356413892931412
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_congratulations",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 2013521210877980500
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "TreasureHunt_Win_TextYouWin_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -181694132289163436
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -24583174,
+      "Identificator": "TreasureHunt_Win_TextPrize_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 7861249318430486356
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 869186573,
+      "Identificator": "TreasureHunt_Win_TextShare_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -6608620439117910188
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_taptocontinue",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -2480713535179608236
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 1925560008,
+      "Identificator": "TreasureHunt_GrandPrize",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -7848887101504114860
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Animator": {
+        "m_FileID": 0,
+        "m_PathID": 224533229468430164
+      }
+    }
+  ],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": 1875862075,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -3327355608399171756
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": -1541754218,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 3062002353054068564
+      }
+    }
+  ],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2708
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "GameMaintenanceMonitor_Title",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12542
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "GameMaintenanceMonitor_Desc",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11364
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 889390096,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3393
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

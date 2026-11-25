@@ -1,0 +1,160 @@
+{
+  "source": "Evidence/Assets/resources.assets_9841.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 16676552704
+    },
+    "m_Name": "Boosters",
+    "Collection": {
+      "list": [
+        {
+          "Key": 5,
+          "Value": {
+            "BoosterPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 11070
+            },
+            "Icon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 691
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 0.0,
+                "y": -3.0
+              }
+            },
+            "Background": {
+              "m_FileID": 0,
+              "m_PathID": 831
+            },
+            "BackgroundDisabled": {
+              "m_FileID": 0,
+              "m_PathID": 1057
+            }
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "BoosterPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 10251
+            },
+            "Icon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 961
+              },
+              "ScaleMultiplier": 1.0199999809265137,
+              "Offset": {
+                "x": 0.0,
+                "y": -3.0
+              }
+            },
+            "Background": {
+              "m_FileID": 0,
+              "m_PathID": 831
+            },
+            "BackgroundDisabled": {
+              "m_FileID": 0,
+              "m_PathID": 1057
+            }
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "BoosterPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 10444
+            },
+            "Icon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1076
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 6.0,
+                "y": -3.0
+              }
+            },
+            "Background": {
+              "m_FileID": 0,
+              "m_PathID": 831
+            },
+            "BackgroundDisabled": {
+              "m_FileID": 0,
+              "m_PathID": 1057
+            }
+          }
+        },
+        {
+          "Key": 6,
+          "Value": {
+            "BoosterPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 11540
+            },
+            "Icon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 1170
+              },
+              "ScaleMultiplier": 1.0499999523162842,
+              "Offset": {
+                "x": 7.25,
+                "y": -5.25
+              }
+            },
+            "Background": {
+              "m_FileID": 0,
+              "m_PathID": 831
+            },
+            "BackgroundDisabled": {
+              "m_FileID": 0,
+              "m_PathID": 1057
+            }
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "BoosterPrefab": {
+              "m_FileID": 0,
+              "m_PathID": 12643
+            },
+            "Icon": {
+              "Sprite": {
+                "m_FileID": 0,
+                "m_PathID": 686
+              },
+              "ScaleMultiplier": 1.1200000047683716,
+              "Offset": {
+                "x": 0.0,
+                "y": -4.0
+              }
+            },
+            "Background": {
+              "m_FileID": 0,
+              "m_PathID": 831
+            },
+            "BackgroundDisabled": {
+              "m_FileID": 0,
+              "m_PathID": 1057
+            }
+          }
+        }
+      ],
+      "keyCollision": 0
+    }
+  }
+}

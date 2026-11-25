@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 26206011392
+  },
+  "m_Name": "",
+  "FramingMode": 2,
+  "FramingSize": 1.0,
+  "CenterOffset": {
+    "x": 10.0,
+    "y": 0.0
+  },
+  "Damping": 0.0,
+  "SizeAdjustment": 2,
+  "LateralAdjustment": 0,
+  "FovRange": {
+    "x": 1.0,
+    "y": 100.0
+  },
+  "DollyRange": {
+    "x": -100.0,
+    "y": 100.0
+  },
+  "OrthoSizeRange": {
+    "x": 1.0,
+    "y": 100.0
+  }
+}

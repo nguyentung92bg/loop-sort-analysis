@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1272
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 55180263424
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 1081
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Event Info",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "errorScreen": {
+    "m_FileID": 0,
+    "m_PathID": 12818
+  },
+  "eventInformationListPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 13436
+  },
+  "eventInformationLineItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11719
+  },
+  "eventName": {
+    "m_FileID": 0,
+    "m_PathID": 13327
+  },
+  "eventDate": {
+    "m_FileID": 0,
+    "m_PathID": 9949
+  },
+  "eventSendingStatus": {
+    "m_FileID": 0,
+    "m_PathID": 2239
+  },
+  "eventSentStatus": {
+    "m_FileID": 0,
+    "m_PathID": 3652
+  },
+  "eventErrorStatus": {
+    "m_FileID": 0,
+    "m_PathID": 1949
+  },
+  "eventInformationContainer": {
+    "m_FileID": 0,
+    "m_PathID": 9183
+  },
+  "eventCopyJson": {
+    "m_FileID": 0,
+    "m_PathID": 13313
+  },
+  "eventSeeError": {
+    "m_FileID": 0,
+    "m_PathID": 11976
+  }
+}

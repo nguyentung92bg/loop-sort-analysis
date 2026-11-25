@@ -1,0 +1,70 @@
+[
+  {
+    "Progress": true,
+    "Id": "Portal"
+  },
+  {
+    "Progress": true,
+    "Id": "HiddenCube"
+  },
+  {
+    "Progress": true,
+    "Id": "HiddenTruck"
+  },
+  {
+    "Progress": true,
+    "Id": "Rock"
+  },
+  {
+    "Progress": true,
+    "Id": "Ice"
+  },
+  {
+    "Progress": true,
+    "Id": "LockKey"
+  },
+  {
+    "Progress": true,
+    "Id": "Tag"
+  },
+  {
+    "Progress": true,
+    "Id": "ConnectedIce"
+  },
+  {
+    "Progress": true,
+    "Id": "Carpet"
+  },
+  {
+    "Progress": true,
+    "Id": "Tunnel"
+  },
+  {
+    "Progress": true,
+    "Id": "Sticky"
+  },
+  {
+    "Progress": true,
+    "Id": "Vault"
+  },
+  {
+    "Progress": true,
+    "Id": "Glass"
+  },
+  {
+    "Progress": true,
+    "Id": "MetalCube"
+  },
+  {
+    "Progress": true,
+    "Id": "SurpriseCube"
+  },
+  {
+    "Progress": true,
+    "Id": "LongTruck"
+  },
+  {
+    "Progress": true,
+    "Id": "Elevator"
+  }
+]

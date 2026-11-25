@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 16341008384
+  },
+  "m_Name": "BlockConfig",
+  "BeveledMesh": {
+    "m_FileID": 0,
+    "m_PathID": 434
+  },
+  "FlatMesh": {
+    "m_FileID": 0,
+    "m_PathID": 416
+  },
+  "CornerMesh": {
+    "m_FileID": 0,
+    "m_PathID": 428
+  },
+  "MiddleMesh": {
+    "m_FileID": 0,
+    "m_PathID": 419
+  },
+  "GroupBeveledMesh": {
+    "m_FileID": 0,
+    "m_PathID": 455
+  },
+  "GroupCornerMesh": {
+    "m_FileID": 0,
+    "m_PathID": 465
+  },
+  "GroupCenterMesh": {
+    "m_FileID": 0,
+    "m_PathID": 452
+  },
+  "ConveyorBlock": {
+    "m_FileID": 0,
+    "m_PathID": 9904
+  },
+  "BlockGroupShapePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11388
+  },
+  "ConveyorForce": 12.0,
+  "Mass": 4.0,
+  "Drag": 0.10000000149011612,
+  "AngularDrag": 10.0,
+  "InitialImpulseForce": 20.0,
+  "MaxLinearVelocity": 20.0,
+  "ForceDirectionOffset": 1.0,
+  "BakeSampleCount": 256,
+  "CellSize": 0.33000001311302185,
+  "MaxSearchRadius": 2
+}

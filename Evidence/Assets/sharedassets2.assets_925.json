@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 312
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 71470940160
+  },
+  "m_Name": "",
+  "_title": {
+    "m_FileID": 0,
+    "m_PathID": 1332
+  },
+  "_intro": {
+    "m_FileID": 0,
+    "m_PathID": 1020
+  },
+  "_emailTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1318
+  },
+  "_email": {
+    "m_FileID": 0,
+    "m_PathID": 1236
+  },
+  "_idfaTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1030
+  },
+  "_idfa": {
+    "m_FileID": 0,
+    "m_PathID": 930
+  },
+  "_idfvTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1024
+  },
+  "_idfv": {
+    "m_FileID": 0,
+    "m_PathID": 1036
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": 1410
+  },
+  "_deleteText": {
+    "m_FileID": 0,
+    "m_PathID": 1227
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1413
+  },
+  "_closeText": {
+    "m_FileID": 0,
+    "m_PathID": 1325
+  }
+}

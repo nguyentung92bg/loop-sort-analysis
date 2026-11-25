@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 190
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 71269613568
+  },
+  "m_Name": "",
+  "_privacyScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1146
+  },
+  "_learnMoreScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1268
+  },
+  "_parternsScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1115
+  },
+  "_settingsScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1144
+  },
+  "_cmpSettingsScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1143
+  },
+  "_deleteScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 925
+  },
+  "_accessDataScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1279
+  },
+  "_popupScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1124
+  },
+  "_loadingScreenPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 959
+  }
+}

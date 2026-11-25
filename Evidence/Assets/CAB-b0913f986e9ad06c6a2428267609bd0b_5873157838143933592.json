@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8770465082830435176
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6464223844122935978
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -906860243350926184
+  },
+  "Reskin": "",
+  "MilestoneSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5240670301616724300
+    }
+  ],
+  "Scene": {
+    "m_FileID": 0,
+    "m_PathID": -8962436859462169448
+  }
+}

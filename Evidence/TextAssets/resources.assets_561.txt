@@ -1,0 +1,13 @@
+
+Diamond3.png
+size: 377, 282
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+diamon
+  rotate: false
+  xy: 2, 2
+  size: 373, 278
+  orig: 392, 332
+  offset: 19, 33
+  index: -1

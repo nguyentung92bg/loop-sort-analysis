@@ -1,0 +1,164 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2611
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11377
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1985798706,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12707
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1281847254,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11951
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "SpeedBoostBuyMonitor_TextTitle_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10916
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -1724828479,
+      "Identificator": "SpeedBoostBuyMonitor_TextDesc_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 13102
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -1946897475,
+      "Identificator": "SpeedBoostBuyMonitor_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11706
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "SpeedBoostBuyMonitor_Text_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12539
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 1367191875,
+      "Identificator": "SpeedBoostBuyMonitor_TextTime_04",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11264
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 1281847254,
+      "Identificator": "SpeedBoostBuyMonitor_TextTime_05",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10649
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 889390096,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 1868
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

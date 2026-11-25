@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3357
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 56925093888
+  },
+  "m_Name": "",
+  "rowName": {
+    "m_FileID": 0,
+    "m_PathID": 10369
+  },
+  "rowValuePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 12782
+  },
+  "rowValuesParent": {
+    "m_FileID": 0,
+    "m_PathID": 9163
+  }
+}

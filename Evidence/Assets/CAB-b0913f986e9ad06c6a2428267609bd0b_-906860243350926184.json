@@ -1,0 +1,595 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8770465082830435176
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -972578863,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 5559980217953209496
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 3954593568057838744
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_watch",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 4664279301094952088
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -8896648404313518952
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "BonusTripOfferSubMonitor_TextEndsIn_08",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -1211288927581320040
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -837446999,
+      "Identificator": "VideoRewardsSubMonitor_TextTime_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 4902228069672144024
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 221536580857351320
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -2923350791292793704
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 3614604839791217816
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 2514183591075826840
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_TextTitle",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 9021391723096034456
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "VideoRewardsSubMonitor_Reward_09",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 5478250780429765784
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": -2075895812,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -1164442644333146984
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -2047301169,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 1775786076060765336
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 889390096,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 678085581094505624
+      }
+    }
+  ],
+  "States": [
+    {
+      "Comment": "",
+      "Role": 394229313,
+      "NodeData": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ParentRoles": []
+      },
+      "Description": [
+        {
+          "Type": 2,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": -4785155166087754600
+          },
+          "ImageImpact": 1,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 6788377210290824222
+          },
+          "ImageSetColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        }
+      ]
+    },
+    {
+      "Comment": "",
+      "Role": 604411353,
+      "NodeData": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ParentRoles": []
+      },
+      "Description": [
+        {
+          "Type": 2,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": -4785155166087754600
+          },
+          "ImageImpact": 1,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": -4616475369084806082
+          },
+          "ImageSetColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        }
+      ]
+    }
+  ],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

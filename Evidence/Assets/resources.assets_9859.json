@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 45885685760
+  },
+  "m_Name": "CellElements",
+  "Collection": {
+    "list": [
+      {
+        "Key": 10,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 11,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 12,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 13,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 14,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 15,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 16,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": 17,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      }
+    ],
+    "keyCollision": 0
+  }
+}

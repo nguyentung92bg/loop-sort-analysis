@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6507384246864180304
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2621807395814886592
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -2822113479921896368
+  },
+  "Reskin": "",
+  "SmallProductId": "com.garawell.loopsort.chooseone1",
+  "MediumProductId": "com.garawell.loopsort.chooseone2",
+  "BigProductId": "com.garawell.loopsort.chooseone3",
+  "AllProductId": "com.garawell.loopsort.chooseoneall"
+}

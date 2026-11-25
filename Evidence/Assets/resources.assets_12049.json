@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3700
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 27145535488
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 13233
+  },
+  "<AlwaysActivated>k__BackingField": 0,
+  "DisabledSaveSprite": {
+    "m_FileID": 0,
+    "m_PathID": 737
+  }
+}

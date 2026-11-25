@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 209
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 53418655744
+  },
+  "m_Name": "",
+  "rootView": {
+    "m_FileID": 0,
+    "m_PathID": 209
+  },
+  "viewButton": {
+    "m_FileID": 0,
+    "m_PathID": 1253
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1255
+  }
+}

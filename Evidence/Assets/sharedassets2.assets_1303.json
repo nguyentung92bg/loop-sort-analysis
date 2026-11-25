@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 70732742656
+  },
+  "m_Name": "",
+  "rootView": {
+    "m_FileID": 0,
+    "m_PathID": 15
+  },
+  "viewButton": {
+    "m_FileID": 0,
+    "m_PathID": 1217
+  },
+  "_image": {
+    "m_FileID": 0,
+    "m_PathID": 1244
+  },
+  "_squarreImage": {
+    "m_FileID": 0,
+    "m_PathID": 7
+  },
+  "_rectangleImage": {
+    "m_FileID": 0,
+    "m_PathID": 5
+  },
+  "_transform": {
+    "m_FileID": 0,
+    "m_PathID": 651
+  }
+}

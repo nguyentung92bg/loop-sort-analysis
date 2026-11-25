@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 29
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 29662117888
+  },
+  "m_Name": "",
+  "_title": {
+    "m_FileID": 0,
+    "m_PathID": 1042
+  },
+  "_intro": {
+    "m_FileID": 0,
+    "m_PathID": 1034
+  },
+  "_outro": {
+    "m_FileID": 0,
+    "m_PathID": 1119
+  },
+  "_advertising": {
+    "m_FileID": 0,
+    "m_PathID": 1023
+  },
+  "_analytics": {
+    "m_FileID": 0,
+    "m_PathID": 953
+  },
+  "_age": {
+    "m_FileID": 0,
+    "m_PathID": 1107
+  },
+  "_acceptText": {
+    "m_FileID": 0,
+    "m_PathID": 1017
+  },
+  "_acceptButton": {
+    "m_FileID": 0,
+    "m_PathID": 936
+  },
+  "_learnMore": {
+    "m_FileID": 0,
+    "m_PathID": 1031
+  },
+  "_learnMoreButton": {
+    "m_FileID": 0,
+    "m_PathID": 940
+  },
+  "_body": {
+    "m_FileID": 0,
+    "m_PathID": 950
+  },
+  "_scrollbarHandle": {
+    "m_FileID": 0,
+    "m_PathID": 1203
+  },
+  "_separators": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 32
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 232
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 142
+    }
+  ]
+}

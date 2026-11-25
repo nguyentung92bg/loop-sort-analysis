@@ -1,0 +1,70 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3627022428110834840
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7628415264536380183
+  },
+  "m_Name": "",
+  "ScreenPlay": {
+    "m_FileID": 0,
+    "m_PathID": 8614371207826689176
+  },
+  "ScreenCoin": {
+    "m_FileID": 0,
+    "m_PathID": -2098024811581485928
+  },
+  "ScreenReward": {
+    "m_FileID": 0,
+    "m_PathID": 5478250780429765784
+  },
+  "ScreenFlash": {
+    "m_FileID": 0,
+    "m_PathID": 6707023636868943000
+  },
+  "ScreenSleep": {
+    "m_FileID": 0,
+    "m_PathID": -5379616539139519336
+  },
+  "Truck": {
+    "m_FileID": 0,
+    "m_PathID": 1481373516213701784
+  },
+  "GiftBoxes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4810834356583150440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4613788997905036136
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1885861181578398872
+    }
+  ],
+  "GiftLid": {
+    "m_FileID": 0,
+    "m_PathID": -5816056934456767336
+  },
+  "GiftGlow": {
+    "m_FileID": 0,
+    "m_PathID": 7475734494307011736
+  },
+  "Milestones": {
+    "m_FileID": 0,
+    "m_PathID": -2660289192600548200
+  },
+  "WatchButton": {
+    "m_FileID": 0,
+    "m_PathID": -7129330284192740200
+  },
+  "TimerPulse": {
+    "m_FileID": 0,
+    "m_PathID": 7677162652755676312
+  }
+}

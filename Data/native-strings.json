@@ -1,0 +1,2704 @@
+{
+  "Extensions$$ToNakamaType": [
+    "authType"
+  ],
+  "LoopSortConflictResolver$$TryBuildConflict": [
+    "loopsortsave"
+  ],
+  "GameDebugger$$GetTitle": [
+    "Game"
+  ],
+  "GameDebugger$$SetupScreen": [
+    "Level",
+    "Set Level",
+    "Set ",
+    "Win Game",
+    "Lose Game",
+    "UI",
+    "Alpha Visibility",
+    "Green",
+    "Economy Items"
+  ],
+  "GameDebugger$$SetLevel": [
+    "GameStartState"
+  ],
+  "EditorProvider$$StartPurchase": [
+    "StartPurchase:{0}:{1}:{2}:{3}:Level{4}"
+  ],
+  "EditorProvider$$CompletePurchase": [
+    "CompletePurchase:{0}:{1}:{2}:{3}:Level{4}"
+  ],
+  "EditorProvider$$FailPurchase": [
+    "FailPurchase:{0}:{1}:{2}:{3}:{4}:Level{5}"
+  ],
+  "FallbackPurchasingProvider$$StartPurchase": [
+    "Fallback"
+  ],
+  "FallbackPurchasingProvider$$GetProductMetadata": [
+    "Fallback",
+    "$1.00",
+    "US"
+  ],
+  "LofeltHapticProvider$$Initialize": [
+    "()V",
+    "(F)V",
+    "com.lofelt.haptics.LofeltHaptics",
+    "play",
+    "([F)V",
+    "seek",
+    "com.unity3d.player.UnityPlayer",
+    "loop",
+    "setAmplitudeMultiplication",
+    "getControllerHandle",
+    "currentActivity",
+    "com.lofelt.haptics.HapticPatterns",
+    "stop",
+    "playMaximumAmplitudePattern",
+    "(Z)V"
+  ],
+  "LofeltHapticProvider$$PlaySoft": [
+    "{duration}"
+  ],
+  "NakamaBootstrapper$$Update": [
+    " Init did not finish in time; continuing without it."
+  ],
+  "NakamaBootstrapper$$.cctor": [
+    "[NakamaBootstrapper]"
+  ],
+  "NakamaCloudSaveProvider$$OnAuthenticationCompleted": [
+    "More Subsystem:",
+    "------{0}------",
+    "PlayerLoop List",
+    "{0}",
+    "{0} has no subsystems!"
+  ],
+  "NakamaCloudSaveProvider$$.cctor": [
+    "[NakamaCloudSaveProvider]"
+  ],
+  "VoodooAdjustProvider$$TrackEvent": [
+    ", ",
+    "TrackCustomEvent: AnalyticsProviders: {0}; providers = {1}",
+    "VoodooAnalytics"
+  ],
+  "VoodooAdjustProvider$$TrackEventIfNotTracked": [
+    "_tracked",
+    "event_"
+  ],
+  "VoodooAdjustProvider$$GetWinDailyCount": [
+    "adjust_win_game_daily_count",
+    "adjust_win_game_daily_count_{0}"
+  ],
+  "VoodooAdjustProvider$$GetWinCapTimestamp": [
+    "adjust_win_game_cap_timestamp_{0}",
+    "adjust_win_game_cap_timestamp"
+  ],
+  "VoodooAdjustProvider$$GetWinCount": [
+    "adjust_win_game_count",
+    "adjust_win_game_count_{0}"
+  ],
+  "VoodooAdjustProvider$$.cctor": [
+    "adjust_shop_open_count",
+    "adjust_total_spent_coins",
+    "adjust_use_booster_count"
+  ],
+  "VoodooMetaProvider$$get_AdImpressionToken": [
+    "l6dylq"
+  ],
+  "VoodooMetaProvider$$OnImpressionTracked": [
+    "placement",
+    "network",
+    "_valueToSum",
+    "0.############",
+    "l6dylq",
+    "ad_unit",
+    "fb_currency"
+  ],
+  "VoodooPurchasingProvider$$StartPurchase": [
+    "IAP not initialized: {0}",
+    "Product not found: "
+  ],
+  "VoodooPurchasingProvider$$GetPurchaseContextProperties": [
+    "endless_life_balance",
+    "reskin_name",
+    "none",
+    "life_balance",
+    "[booster_undo, booster_shuffle, booster_capacity, booster_conveyorcapacity]",
+    "_balance",
+    "product_master",
+    "booster_name"
+  ],
+  "VoodooPurchasingProvider$$StartRestorePurchases": [
+    "VoodooSauce/IAP/{0}: Attempt to restore the purchases failed because the IAP module is not initialized. State:{1}",
+    "IAP module is not initialized",
+    "PurchasingManager",
+    "IAP not initialized: {0}"
+  ],
+  "VoodooPurchasingProvider$$GetProductMetadata": [
+    "{0} {1}",
+    "Product not found: "
+  ],
+  "VoodooPurchasingProvider$$OnRestorePurchases": [
+    "Restore transactions: ",
+    " "
+  ],
+  "VoodooPurchasingProvider$$OnPurchaseComplete": [
+    "-"
+  ],
+  "VoodooPurchasingProvider$$OnPurchaseFailure": [
+    "-"
+  ],
+  "VoodooPurchasingProvider$$GetProductMaster": [
+    "garage_sale",
+    "buyall",
+    "endless 2",
+    "revive_2",
+    "endless 1",
+    "battle pass",
+    "fail",
+    "po1",
+    "battle_pass",
+    "choose_one_offer",
+    "london_trip"
+  ],
+  "VoodooPurchasingProvider$$PlacementToProductMaster": [
+    "garage_sale",
+    "buyall",
+    "endless 2",
+    "revive_2",
+    "endless 1",
+    "battle pass",
+    "fail",
+    "po1",
+    "battle_pass",
+    "choose_one_offer",
+    "london_trip"
+  ],
+  "VoodooSauceBootstrapper$$TrackNakamaEvent": [
+    ", ",
+    "TrackCustomEvent: AnalyticsProviders: {0}; providers = {1}",
+    "VoodooAnalytics"
+  ],
+  "VoodooSauceProvider$$get_LevelFunnelName": [
+    " - missing bundle "
+  ],
+  "VoodooSauceProvider$$RestoreNoAds": [
+    "VoodooSauce.Premium",
+    "premium",
+    "VoodooPremium",
+    "User is now PREMIUM"
+  ],
+  "VoodooSauceProvider$$ToggleDebuggerMode": [
+    "io.voodoo.saucetestapp"
+  ],
+  "VoodooSauceProvider$$StartGame": [
+    "level_funnel",
+    "number_of_mechanics",
+    "core_streak_rockets",
+    "number_of_colors",
+    "mechanics",
+    "[]",
+    "number_of_objectives"
+  ],
+  "VoodooSauceProvider$$WinGame": [
+    "won"
+  ],
+  "VoodooSauceProvider$$CreateGameFinishedParameters": [
+    "level_funnel",
+    "on_fire",
+    "number_of_mechanics",
+    "endless_life_balance",
+    "rewards",
+    "core_streak_rockets",
+    "nb_shop_open",
+    "number_of_colors",
+    "life_balance",
+    "battle_pass_tokens_collected",
+    "mechanics",
+    "[booster_undo, booster_shuffle, booster_capacity, booster_conveyorcapacity]",
+    "_balance",
+    "max_win_streak",
+    "core_streak_at_finish",
+    "booster_name",
+    "[]",
+    "collection_bar_tokens_collected",
+    "golds",
+    "max_core_streak",
+    "is_payer_user",
+    "remaining_carrier_count",
+    "coin_balance"
+  ],
+  "VoodooSauceProvider$$LoseGame": [
+    "lost"
+  ],
+  "VoodooSauceProvider$$ExitGame": [
+    "exit"
+  ],
+  "VoodooSauceProvider$$CustomEvent": [
+    ", ",
+    "TrackCustomEvent: AnalyticsProviders: {0}; providers = {1}",
+    "VoodooAnalytics"
+  ],
+  "VoodooSauceProvider$$CreateItemTransactionParameters": [
+    "[booster_undo, booster_shuffle, booster_capacity, booster_conveyorcapacity]",
+    "booster_name"
+  ],
+  "VoodooSauceProvider$$StartPurchase": [
+    "gw_iap_clicked"
+  ],
+  "VoodooSauceProvider$$SendPurchaseEvent": [
+    "usd_price",
+    "placement",
+    "product_id",
+    "reason"
+  ],
+  "VoodooSauceProvider$$CompletePurchase": [
+    "gw_iap_purchased"
+  ],
+  "VoodooSauceProvider$$FailPurchase": [
+    "gw_iap_failed"
+  ],
+  "VoodooSauceProvider$$LiveOpsEventJoined": [
+    "live_ops_eventjoined"
+  ],
+  "VoodooSauceProvider$$LiveOpsImpressions": [
+    "live_ops_impressions"
+  ],
+  "VoodooSauceProvider$$LiveOpsMilestoneCompleted": [
+    "live_ops_milestonecompleted"
+  ],
+  "VoodooSauceProvider$$LiveOpsEventCompleted": [
+    "live_ops_eventcompleted"
+  ],
+  "VoodooSauceProvider$$LiveOpsPurchase": [
+    "live_ops_iaprewarded"
+  ],
+  "VoodooSauceProvider$$LiveOpsItemTransaction": [
+    "live_ops_itemtransaction"
+  ],
+  "VoodooSauceProvider$$EnableNoAds": [
+    "VoodooSauce.Premium",
+    "premium",
+    "VoodooPremium",
+    "User is now PREMIUM"
+  ],
+  "VoodooSauceProvider$$DisableNoAds": [
+    "premium",
+    "VoodooPremium",
+    "User isn't PREMIUM.",
+    "VoodooSauce.Premium"
+  ],
+  "VoodooSauceProvider$$WatchRewardedVideo": [
+    "not-specified"
+  ],
+  "VoodooSauceProvider$$WatchInterstitial": [
+    "not-specified",
+    "Displaying an interstitial ad ..."
+  ],
+  "Block$$SetFeatures": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "BlockGroupShapeSystem$$OnAwake": [
+    "Block Group Shapes"
+  ],
+  "BlockGroupShapeSystem$$CreateCanvas": [
+    "Block Group Shapes"
+  ],
+  "BlockTriggerSystem$$OnLevelBuildComplete": [
+    "Trigger"
+  ],
+  "BlockTriggerSystem$$AddCarrierTriggers": [
+    "Trigger"
+  ],
+  "HiddenBlockSystem$$HandleDissolve": [
+    "_DissolveAmount"
+  ],
+  "MetalBlockSystem$$CreatePile": [
+    "Metal Pile"
+  ],
+  "MetalBlockSystem$$.cctor": [
+    "_BaseColor"
+  ],
+  "StickyBlockGroup$$.cctor": [
+    "Complete"
+  ],
+  "CapacityBooster$$Start": [
+    "_used"
+  ],
+  "CapacityBooster$$Apply": [
+    "_used"
+  ],
+  "ShuffleBoosterSystem$$CreateGroupMeshProxies": [
+    "Shuffle Group Proxy"
+  ],
+  "UndoBooster$$Start": [
+    "_used"
+  ],
+  "UndoBooster$$Apply": [
+    "_used"
+  ],
+  "CarpetCarrierGroupV2$$OnReturn": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "CarpetCarrierGroupV2$$.cctor": [
+    "_BaseMap_ST"
+  ],
+  "ConnectedCarrierGroup$$OnReturn": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "ConnectedCarrierGroup$$.cctor": [
+    "_BaseMap_ST"
+  ],
+  "ElevatorHole$$.cctor": [
+    "_PlatformDepth",
+    "_BottomScale",
+    "_BottomOffset"
+  ],
+  "UIMotionExtensions$$ApplyTempColor": [
+    "MotionSequenuceBuilder is either not initialized or has already run."
+  ],
+  "CollectionBarHomeElement$$OnActivated": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "CollectionBarHomeElement$$Setup": [
+    "/"
+  ],
+  "CollectionBarHomeElement$$SetupBar": [
+    "/"
+  ],
+  "CollectionBarHomeElement$$OnLevelWin": [
+    "level_win"
+  ],
+  "CollectionBarHomeElement$$OnLevelLose": [
+    "/"
+  ],
+  "CollectionBarHomeElement$$HandleRewardPayouts": [
+    "collection_bar"
+  ],
+  "ReviveOfferElement$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "ReviveOfferElement$$OnBuyClicked": [
+    "revive_2"
+  ],
+  "ToggleElement$$Initialize": [
+    "OFF",
+    "ON"
+  ],
+  "ToggleElement$$UpdateView": [
+    "OFF",
+    "ON"
+  ],
+  "HomeSceneFxRunner$$Create": [
+    "stars",
+    "steam",
+    "veil",
+    "shimmer",
+    "shadow",
+    "glow",
+    "motes",
+    "fog",
+    "flash",
+    "rays",
+    "line",
+    "clock",
+    "snow",
+    "rings",
+    "rain",
+    "cabins",
+    "ripple"
+  ],
+  "HomeSceneFxRunner.Glow$$.ctor": [
+    "Glow"
+  ],
+  "HomeSceneFxRunner.Rays$$.ctor": [
+    "Rays"
+  ],
+  "HomeSceneFxRunner.Flash$$.ctor": [
+    "Flash"
+  ],
+  "HomeSceneFxRunner.Stars$$.ctor": [
+    "Star"
+  ],
+  "HomeSceneFxRunner.CloudShadow$$.ctor": [
+    "Cloud Shadow"
+  ],
+  "HomeSceneFxRunner.Motes$$.ctor": [
+    "Mote"
+  ],
+  "HomeSceneFxRunner.Steam$$.ctor": [
+    "Steam"
+  ],
+  "HomeSceneFxRunner.Line$$.ctor": [
+    "Line"
+  ],
+  "HomeSceneFxRunner.Clock$$.ctor": [
+    "Clock",
+    "Hub"
+  ],
+  "HomeSceneFxRunner.Cabins$$.ctor": [
+    "Turn",
+    "Cabin",
+    "Cabins"
+  ],
+  "HomeSceneFxRunner.Rings$$Add": [
+    "Ring"
+  ],
+  "HomeSceneFxRunner.Clock$$Hand": [
+    "Hand"
+  ],
+  "HomeSceneMover$$.ctor": [
+    " Ground",
+    "Wheel",
+    "Contact",
+    "Reflection",
+    "Sprite",
+    "Mover",
+    "Tyre Contact",
+    "Wheel Cover",
+    "Bob",
+    "Spin"
+  ],
+  "HomeSceneSplash$$.ctor": [
+    "Spray",
+    "Wake",
+    "Hull Foam",
+    "Churn",
+    "Bow Wave",
+    "Wake Line"
+  ],
+  "HomeSceneBlade$$.ctor": [
+    "Propeller",
+    "Blade",
+    "Hub",
+    "Rotor",
+    "Blur"
+  ],
+  "HomeSceneShapes$$get_Screen": [
+    "Shaders/HomeSceneScreen"
+  ],
+  "HomeSceneSpawnerRunner$$.ctor": [
+    "Left To Right",
+    "{0} {1:0.#}",
+    "Right To Left",
+    "Ground"
+  ],
+  "HomeSceneView$$Create": [
+    "Home Scene "
+  ],
+  "HomeSceneView$$CreateGrade": [
+    "Shaders/HomeSceneGrade",
+    "Home Scene Grade "
+  ],
+  "HomeSceneView$$CreateGroup": [
+    "Screen",
+    "Camera"
+  ],
+  "HomeSceneView$$CreateClip": [
+    "Clip",
+    "Content"
+  ],
+  "HomeSceneView$$AddCar": [
+    "Body",
+    "Shadow",
+    "Home Car",
+    "Wheels"
+  ],
+  "HomeSceneView$$.cctor": [
+    "_GradeOffset",
+    "_GradeB",
+    "_GradeG",
+    "_GradeR"
+  ],
+  "HomeSceneShimmer$$Band": [
+    "Shimmer"
+  ],
+  "HomeSceneRipple$$.ctor": [
+    "_Scale",
+    "_Dur",
+    "_Rect",
+    "Ripple",
+    "Shaders/HomeSceneRipple",
+    "_Freq"
+  ],
+  "HomeSceneFog$$.ctor": [
+    "Fog"
+  ],
+  "HomeSceneRain$$.ctor": [
+    "Rain"
+  ],
+  "HomeSceneSnow$$.ctor": [
+    "Snow"
+  ],
+  "HomeSceneVeil$$.ctor": [
+    "Veil"
+  ],
+  "AreaCompletedMonitor$$OnUnlockClicked": [
+    "area_index",
+    "area",
+    "area_unlocked",
+    "level"
+  ],
+  "AreasMonitor$$FormatJourneyLevel": [
+    "<color={0}><size=190%>{1}</size></color>",
+    "common_level",
+    "{0}",
+    "#3E2A1F",
+    "</color>\n",
+    "<color=#9A7660>",
+    "</color>"
+  ],
+  "BoosterBuyMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "BoosterBuyMonitor$$OnRVClicked": [
+    "booster_buy"
+  ],
+  "DailyChallengeLoseMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "DailyChallengeWinMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "DataConflictMonitor$$CreateSaveElement": [
+    "-",
+    "g"
+  ],
+  "GameUpdateMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "HomeMonitor$$UpdatePlayerProfileView": [
+    "Idle_1"
+  ],
+  "HomeMonitor$$UpdateLevelMultiplier": [
+    "x"
+  ],
+  "HomeMonitor$$RenderLife": [
+    "mm\\:ss"
+  ],
+  "HomeMonitor$$RenderDebug": [
+    "dd MMM yy ddd\nHH:mm 'UTC'"
+  ],
+  "HomeMonitor$$UpdateLife": [
+    "mm\\:ss"
+  ],
+  "HomeMonitor$$RefreshAreaAnimation": [
+    "BaseEnter2",
+    "idle"
+  ],
+  "HomeMonitor$$ShowArea": [
+    "homearea: no area '",
+    "'",
+    "homearea: Home is not open"
+  ],
+  "LevelExitMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "LiveOpsMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "LiveOpsUnavailableMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "LiveOpsUnavailableMonitor$$Show": [
+    "M"
+  ],
+  "MockAccountLinkMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "NoInternetMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "PlayingMonitor$$Setup": [
+    "in_game",
+    "{0}x"
+  ],
+  "PlayingMonitor$$HandleRemoteConfig": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "PlayingMonitor$$SetupGiveUp": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "PlayingMonitor$$ActivateDebug": [
+    "x"
+  ],
+  "PlayingMonitor$$RenderTimer": [
+    "{0:00}:{1:00}"
+  ],
+  "PlayingMonitor$$OnSpeedBoostClicked": [
+    "{0}x"
+  ],
+  "PlayingMonitor$$OnGiveUpContinueClicked": [
+    "revive_1"
+  ],
+  "PlayingMonitor$$OnGiveUpRVClicked": [
+    "revive_1"
+  ],
+  "PlayingMonitor$$OnDebugPreviousLevelClicked": [
+    "GameStartState"
+  ],
+  "PlayingMonitor$$OnDebugNextLevelClicked": [
+    "GameStartState"
+  ],
+  "PlayingMonitor$$OnDebugTimeScaleClicked": [
+    "x"
+  ],
+  "PurchaseProcessMonitor$$OnPurchaseComplete": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "RankingMonitor$$Setup": [
+    "View ",
+    ", scene path: ",
+    " does not contain state with role "
+  ],
+  "RankingMonitor$$SetupButtons": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "RankingMonitor$$CreatePlayerElement": [
+    "{0}+"
+  ],
+  "RankingMonitor$$UpdateTournamentElement": [
+    "#"
+  ],
+  "RateUsMonitor$$OnActivated": [
+    "\n",
+    "\u0000",
+    "\t"
+  ],
+  "RateUsMonitor$$OnStarClicked": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "RateUsMonitor$$.cctor": [
+    "[RateUsMonitor]"
+  ],
+  "RefillLivesMonitor$$Setup": [
+    "refill_lives"
+  ],
+  "RefillLivesMonitor$$OnActivated": [
+    "refill_lives"
+  ],
+  "RefillLivesMonitor$$OnGoldClicked": [
+    "refill_lives"
+  ],
+  "RefillLivesMonitor$$OnRVClicked": [
+    "refill_lives"
+  ],
+  "RewardClaimMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "SettingsPageMonitor$$OnTermsClicked": [
+    "https://voodoo.io/terms"
+  ],
+  "SettingsPageMonitor$$OnAuthInfoContinueClicked": [
+    "GameMainMenuState"
+  ],
+  "SettingsPageMonitor$$HandleSignInContinuation": [
+    "GameMainMenuState"
+  ],
+  "SettingsPageMonitor$$<Setup>b__18_10": [
+    "cancelAllPendingNotificationIntents"
+  ],
+  "SettingsPopupMonitor$$OnActivated": [
+    "OFF",
+    "ON"
+  ],
+  "SettingsPopupMonitor$$OnShopClicked": [
+    "in_game_settings"
+  ],
+  "ShopMonitor$$OnDeactivated": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "ShopMonitor$$Render": [
+    "hh\\:mm\\:ss"
+  ],
+  "ShopMonitor$$RefreshRewardedElement": [
+    "hh\\:mm\\:ss"
+  ],
+  "ShopMonitor$$TrackShopOpen": [
+    "scene",
+    "shop_open",
+    "home",
+    "source",
+    "in_game",
+    "GameMainMenuState",
+    "menu"
+  ],
+  "ShopMonitor$$CreateBundleElement": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "ShopMonitor$$RefreshBundleElement": [
+    "x{0}"
+  ],
+  "ShopMonitor$$FormatGoldQuantity": [
+    " "
+  ],
+  "ShopMonitor$$FormatLifeQuantity": [
+    "time_minute_firstletter",
+    "time_hour_firstletter",
+    "{0}{1}"
+  ],
+  "ShopMonitor$$OnCloseClicked": [
+    "GameMainMenuState"
+  ],
+  "ShopMonitor$$OnPurchaseComplete": [
+    "shop"
+  ],
+  "ShopMonitor$$OnRewardedClaimClicked": [
+    "shop_free_coins"
+  ],
+  "ShopMonitor$$<OnRewardedClaimClicked>b__45_0": [
+    "shop_free_coins"
+  ],
+  "SpeedBoostBuyMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "SpeedBoostBuyMonitor$$ShowPopup": [
+    "{0}x"
+  ],
+  "SpeedBoostBuyMonitor$$OnBuyClicked": [
+    "speed_boost"
+  ],
+  "SpeedBoostBuyMonitor$$OnRVClicked": [
+    "speed_boost"
+  ],
+  "SupportMonitor$$GetApplicationText": [
+    "Screen: {0}x{1} @ {2:F0}dpi",
+    "Genuine: {0}",
+    " (",
+    "Uptime: {0:F0}s",
+    "Unity: ",
+    "Version: ",
+    "Platform: {0}",
+    "Bundle: ",
+    "Language: {0}",
+    ")",
+    "Target FPS: {0}",
+    "Install Mode: {0}",
+    "Locale: ",
+    "Active Scene: ",
+    "Internet: {0}"
+  ],
+  "SupportMonitor$$GetSystemInfoText": [
+    "CPU: ",
+    "Country Code: ",
+    "UDID: ",
+    "CPU Cores: {0} @ {1}MHz",
+    "Battery: {0:P0} ({1})",
+    "GPU: ",
+    "Max Texture: {0}",
+    "Mono Memory: {0}MB",
+    "Allocated Memory: {0}MB",
+    "Advertising Id: ",
+    "Nakama Id: ",
+    "OS: ",
+    "GPU Vendor: ",
+    "Device: ",
+    "VRAM: {0}MB",
+    "Vendor Id: ",
+    "RAM: {0}MB",
+    "User Id: ",
+    "GPU Driver: ",
+    "Type: {0}",
+    "GPU Type: {0}",
+    "Reserved Memory: {0}MB"
+  ],
+  "SupportMonitor$$GetPrefsText": [
+    "{0}: {1}",
+    "economy_item_quantity_",
+    ": "
+  ],
+  "SupportMonitor$$GetPurchaseHistoryText": [
+    "_purchasingLog"
+  ],
+  "SupportMonitor$$.cctor": [
+    "[SupportMonitor]"
+  ],
+  "VideoRewardsScene$$SetNextReward": [
+    "+{0}"
+  ],
+  "VideoRewardsScene$$JumpTruck": [
+    "MotionSequenuceBuilder is either not initialized or has already run."
+  ],
+  "AreaOfferSubMonitor$$OnBuyClicked": [
+    "area_offer"
+  ],
+  "BattlePassSubMonitor$$Setup": [
+    "com.garawell.loopsort.battlepass"
+  ],
+  "BattlePassSubMonitor$$UpdateProgressBar": [
+    "/"
+  ],
+  "BattlePassSubMonitor$$OnDestroy": [
+    "com.garawell.loopsort.battlepass"
+  ],
+  "BattlePassSubMonitor$$OnProgressClaimClicked": [
+    "battle_pass_milestone_{0}"
+  ],
+  "BattlePassSubMonitor$$OnBuyViewBuyClicked": [
+    "com.garawell.loopsort.battlepass",
+    "battle_pass"
+  ],
+  "ChooseOneSubMonitor$$OnBuyClicked": [
+    "choose_one_offer"
+  ],
+  "ChooseOneSubMonitor$$<Setup>b__6_0": [
+    "choose_one_offer"
+  ],
+  "ChooseOneSubMonitor$$<Setup>b__6_1": [
+    "choose_one_offer"
+  ],
+  "ChooseOneSubMonitor$$<Setup>b__6_2": [
+    "choose_one_offer"
+  ],
+  "ChooseOneSubMonitor$$<Setup>b__6_3": [
+    "choose_one_offer"
+  ],
+  "CoinRushSubMonitor$$Setup": [
+    "com.garawell.loopsort.coinrush2"
+  ],
+  "CoinRushSubMonitor$$OnDestroy": [
+    "com.garawell.loopsort.coinrush2"
+  ],
+  "CoinRushSubMonitor$$CreateMilestoneElement": [
+    "{0}/{1}"
+  ],
+  "CoinRushSubMonitor$$OnMilestoneClaimClicked": [
+    "coin_rush_milestone_{0}"
+  ],
+  "CoinRushSubMonitor$$OnBuyClicked": [
+    "com.garawell.loopsort.coinrush2",
+    "coin_rush_complete"
+  ],
+  "CollectionBarSubMonitor$$Setup": [
+    "+{0}"
+  ],
+  "CollectionBarSubMonitor$$FillProgressBarElement": [
+    "/"
+  ],
+  "CoreStreakSubMonitor$$Setup": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "DailyChallengeSubMonitor$$Setup": [
+    "M",
+    "Y"
+  ],
+  "DailyRewardsSubMonitor$$OnMultiplierClicked": [
+    "daily_bonus_x2"
+  ],
+  "DailyRewardsSubMonitor$$OnReshuffleClicked": [
+    "daily_bonus_reshuffle"
+  ],
+  "GarageSaleSubMonitor$$FillProductIds": [
+    "pack"
+  ],
+  "GarageSaleSubMonitor$$OnBuyClicked": [
+    "garage_sale"
+  ],
+  "LavaQuestSubMonitor$$SetupButtons": [
+    "View ",
+    ", scene path: ",
+    " does not contain button with role "
+  ],
+  "LavaQuestSubMonitor$$UpdateGameStateView": [
+    "{0}/{1}"
+  ],
+  "LavaQuestSubMonitor$$ShowFail": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "LondonTripSubMonitor$$Setup": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "LondonTripSubMonitor$$FillProductIds": [
+    "pack"
+  ],
+  "LondonTripSubMonitor$$OnBuyClicked": [
+    "london_trip"
+  ],
+  "NoAdsOfferSubMonitor$$Setup": [
+    "x{0}"
+  ],
+  "NoAdsOfferSubMonitor$$OnBuyClicked": [
+    "no_ads_offer"
+  ],
+  "PiggyBankSubMonitor$$Setup": [
+    "com.garawell.loopsort.piggybank"
+  ],
+  "PiggyBankSubMonitor$$UpdatePrice": [
+    "com.garawell.loopsort.piggybank"
+  ],
+  "PiggyBankSubMonitor$$UpdateView": [
+    "full",
+    "default"
+  ],
+  "PiggyBankSubMonitor$$OnDestroy": [
+    "com.garawell.loopsort.piggybank"
+  ],
+  "PiggyBankSubMonitor$$OnBreakClicked": [
+    "piggy_bank_purchase",
+    "com.garawell.loopsort.piggybank"
+  ],
+  "PiggyBankSubMonitor$$OnPurchase": [
+    "piggy_bank_purchase"
+  ],
+  "StreakTournamentSubMonitor$$SetupButtons": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "StreakTournamentSubMonitor$$UpdateMultiplierView": [
+    "x"
+  ],
+  "StreakTournamentSubMonitor$$UpdateCompletedView": [
+    "#{0}"
+  ],
+  "StreakTournamentSubMonitor$$OnDeactivated": [
+    "streak_tournament"
+  ],
+  "StreakTournamentSubMonitor$$UpdatePersonalBarPreviousView": [
+    "View ",
+    "{0}/{1}",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "StreakTournamentSubMonitor$$OnPersonalCloseClicked": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "VideoRewardsSubMonitor$$OnWatchClicked": [
+    "video_rewards"
+  ],
+  "WeeklyMissionsSubMonitor$$CreateMissionElement": [
+    "/"
+  ],
+  "WeeklyMissionsSubMonitor$$OnMissionClaimClicked": [
+    "missions_stage_{0}_milestone_{1}"
+  ],
+  "WeeklyMissionsSubMonitor$$OnClaimClicked": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "LoseLifeVariant$$Render": [
+    "m",
+    " ",
+    "s"
+  ],
+  "LoseLifeVariant$$OnContinueClicked": [
+    "level_lose_continue"
+  ],
+  "LosePopupVariant$$Setup": [
+    "View ",
+    ", scene path: ",
+    " does not contain button with role "
+  ],
+  "LosePopupVariant$$OnTryAgainClicked": [
+    "level_lose_continue"
+  ],
+  "LosePopupVariant$$OnCloseClicked": [
+    "level_lose_continue"
+  ],
+  "LosePopupVariant$$<OnTryAgainClicked>b__8_0": [
+    "GameMainMenuState",
+    "GameStartState"
+  ],
+  "LosePopupVariant$$<OnTryAgainClicked>b__8_2": [
+    "level_lose_continue"
+  ],
+  "ReviveMultiplePageVariant$$Setup": [
+    "revive_2"
+  ],
+  "ReviveMultiplePageVariant$$OnActivated": [
+    "com.garawell.loopsort.failoffer"
+  ],
+  "ReviveMultiplePageVariant$$SetReasonState": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "ReviveMultiplePageVariant$$OnDeactivated": [
+    "com.garawell.loopsort.failoffer"
+  ],
+  "ReviveMultiplePageVariant$$OnReviveClicked": [
+    "revive_2"
+  ],
+  "ReviveMultiplePageVariant$$OnRVClicked": [
+    "revive_2"
+  ],
+  "ReviveMultiplePageVariant$$OnFailOfferPurchase": [
+    "fail_offer_v2"
+  ],
+  "ReviveMultiplePageVariant$$UpdateOfferView": [
+    "View ",
+    "fail_offer_v2",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "WinFireworkVariant$$OnActivated": [
+    "LEVEL "
+  ],
+  "WinFireworkVariant$$OnNextClicked": [
+    "GameStartState"
+  ],
+  "WinStandartVariant$$Setup": [
+    "level_win"
+  ],
+  "WinStandartVariant$$OnRVClicked": [
+    "level_win_multiplier"
+  ],
+  "WinStandartVariant$$HandleEconomyUpdate": [
+    "level_win"
+  ],
+  "WorldCanvasBase$$GetText": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$Get": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$GetTextInput": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$GetDropdown": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$SetState": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "WorldCanvasBase$$HasAnimator": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasVideoPlayer": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasText": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasTextInput": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasDropdown": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasToggle": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasSlider": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasButton": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasObject": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasImage": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasContainer": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$HasInnerComponent": [
+    "Type {0} is not supported"
+  ],
+  "WorldCanvasBase$$SetImage": [
+    "View ",
+    ", scene path: ",
+    " does not contain image with role "
+  ],
+  "AutoQualitySetter$$DetectTierFromHardware": [
+    "[AutoQualitySetter] Current hardware: ",
+    "[AutoQualitySetter] Failed to parse GPU tier list or it's empty.",
+    "' by exact GPU name match: ",
+    " ",
+    "Configs/gpu_tier_list",
+    "' by family and model match: ",
+    ", Model: ",
+    "[AutoQualitySetter] GPU tier list JSON is null or empty.",
+    "[AutoQualitySetter] Found tier '{0}' by RAM detection.",
+    ")",
+    " (Family: ",
+    "}",
+    "[AutoQualitySetter] Found tier '",
+    "[AutoQualitySetter] No matching tier found for GPU: ",
+    "{\"gpus\":"
+  ],
+  "GpuDetect$$GetNormalized": [
+    "Mali[-\\s]*([A-Za-z]?[0-9]+[A-Za-z0-9]*)",
+    "-",
+    "Radeon",
+    "PowerVR",
+    "Qualcomm",
+    "(R)",
+    "(TM)",
+    "Apple",
+    "GeForce",
+    "Imagination",
+    "Intel",
+    "AMD",
+    " ",
+    "_",
+    "(r)",
+    "ARM",
+    "Adreno\\s*([0-9]+[A-Za-z]?)",
+    "Unknown",
+    "IMG",
+    "\\s+",
+    "(PowerVR|IMG)\\s*([A-Z0-9\\-]+)",
+    "NVIDIA",
+    "Apple\\s*A?([0-9X]+)",
+    "A",
+    "(tm)",
+    "Adreno",
+    "Mali"
+  ],
+  "AutoQualitySetter$$Normalize": [
+    " ",
+    "-"
+  ],
+  "AutoQualitySetter$$CleanGpuName": [
+    "(r)",
+    "(tm)",
+    " ",
+    "(R)",
+    "  ",
+    "(TM)"
+  ],
+  "AutoQualitySetter$$.cctor": [
+    "A",
+    "C",
+    "A+",
+    "D",
+    "B"
+  ],
+  "GpuDetect$$Describe": [
+    "GPU: {0} ({1}) | API: {2} | ShaderLevel: {3} | Key: {4} | Compute: {5} | Instancing: {6}"
+  ],
+  "GpuDetect.Raw$$ToString": [
+    "\n",
+    "  API: {0}\n",
+    "  Shader Level: {0}\n",
+    "  Supports Compute: {0}\n",
+    "\n  Vendor: ",
+    "\n  Device Version: ",
+    "GPU Raw Data:\n  Device Name: ",
+    "  Supports Instancing: {0}",
+    "  Supports Geometry Shaders: {0}\n",
+    "null",
+    "  UAV Support: {0}\n"
+  ],
+  "GpuDetect.Normalized$$ToString": [
+    "\n",
+    "  Shader Level: {0}",
+    "\n  API: ",
+    "\n  Family: ",
+    "GPU Normalized Data:\n  Key: ",
+    "null",
+    "\n  Model: "
+  ],
+  "PersistentObject$$Awake": [
+    "target"
+  ],
+  "RendererPropertyRegistry$$RemoveAllRenderers": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "SlicedFilledImage$$GetAdjustedBorders": [
+    "Invalid Vector4 index!"
+  ],
+  "TimeTracker$$Begin": [
+    "{0:0.000}s"
+  ],
+  "HiddenCarrier$$.cctor": [
+    "_BaseColor",
+    "Reset",
+    "Reveal"
+  ],
+  "IceCarrier$$OnRent": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "LockCarrierGroupSystem$$OnLevelBuildComplete": [
+    "{0} is not found. {1}",
+    "LockCarrierGroupSystem"
+  ],
+  "LockCarrierGroupSystem$$Create": [
+    "{0} is not found. {1}",
+    "LockCarrierGroupSystem"
+  ],
+  "VaultCarrier$$.cctor": [
+    "Open",
+    "Damage"
+  ],
+  "Conveyor$$SetSideColor": [
+    "Side Color"
+  ],
+  "ConveyorRedSystem$$OnAwake": [
+    "Side Color"
+  ],
+  "ConveyorSlot$$OnReturn": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "SandFlowRenderer$$.ctor": [
+    "Sand flow (runtime)",
+    "SolveGrains"
+  ],
+  "SandFlowRenderer$$SetLiquid": [
+    "SAND_LIQUID",
+    "Sand Liquid Composite",
+    "Sand Liquid",
+    "Sand liquid density (runtime)",
+    "Sand Liquid Density"
+  ],
+  "SandFlowRenderer$$DisableLiquid": [
+    "SAND_LIQUID"
+  ],
+  "SandFlowRenderer$$CreateMaskTexture": [
+    "Sand Liquid Mask"
+  ],
+  "SandFlowRenderer$$TryCreate": [
+    "SolveGrains"
+  ],
+  "SandFlowRenderer$$BuildDriftProfile": [
+    "Array passed to ComputeBuffer.SetData(array) must be blittable.\n{0}",
+    "data",
+    "Bad indices/count arguments (managedBufferStartIndex:{0} computeBufferStartIndex:{1} count:{2})"
+  ],
+  "SandFlowRenderer$$.cctor": [
+    "_SandLiquid",
+    "_SandPathLength",
+    "_SandColorMask",
+    "_SandTime",
+    "_SandViewLight",
+    "_SandLiquidBlend",
+    "_SandLiquidTexture_TexelSize",
+    "_SandPourArc",
+    "_SandDrawCount",
+    "_SandSplitSlots",
+    "_SandLiquidView",
+    "SandFlow.Upload",
+    "SandFlow.Pile",
+    "_SandLiquidMaskMargin",
+    "_SandReform",
+    "_SandDrift",
+    "_SandLiquidMaskSize",
+    "_SandPourLanding",
+    "_SandRewind",
+    "SandFlow.Draw",
+    "_SandPackets",
+    "_GrainsPerPacket",
+    "_SandTravel",
+    "_SandDrawsRW",
+    "_SandLiquidDensityTexture",
+    "_SandStencilWrite",
+    "_SandLiquidTexture",
+    "_SandPath",
+    "_SandFlow",
+    "_SandLiquidProjection",
+    "_SandLiquidAirShrink",
+    "_SandSolveCount",
+    "_SandLiquidLight",
+    "_SandPileGrid",
+    "_SandPathCount",
+    "_SandChunkQuads",
+    "_SandSplit",
+    "_SandLiquidMask",
+    "_SandDraws",
+    "_SandPathClosed",
+    "_SandShading",
+    "_SandLiquidTone",
+    "_SandUndoArc",
+    "_SandPourAir"
+  ],
+  "SandFlowSystem$$BuildMessages": [
+    "Sand Sounds",
+    "Game/SandConfig",
+    "Game/LiquidConfig",
+    "Hidden/Sand Jelly",
+    "Custom/HiddenBlocker"
+  ],
+  "SandFlowSystem$$UpdateSounds": [
+    "source"
+  ],
+  "SandFlowSystem$$OfferIntake": [
+    "match"
+  ],
+  "SandFlowSystem$$FadeLoop": [
+    "source"
+  ],
+  "SandFlowSystem$$.cctor": [
+    "_BaseColor",
+    "_Color",
+    "SandFlow.Update"
+  ],
+  "SandJellyRenderer$$.ctor": [
+    "Sand jelly (runtime)"
+  ],
+  "SandJellyRenderer$$BuildMesh": [
+    "Invalid Vector3 index!",
+    "Sand Jelly"
+  ],
+  "SandJellyRenderer$$SetHidden": [
+    "_Scale",
+    "_Spacing",
+    "_MainTex",
+    "_ShadowColor",
+    "_Speed",
+    "_Color",
+    "_Density",
+    "_QuestionColor",
+    "_RotationVariance",
+    "_Direction"
+  ],
+  "SandJellyRenderer$$.cctor": [
+    "_JellyHiddenColor",
+    "_JellyHiddenTex",
+    "_JellyHiddenParams",
+    "_JellyWobble",
+    "_JellyNeck",
+    "_JellyColors",
+    "_JellySpan",
+    "_JellyMax",
+    "_JellyHiddenShadow",
+    "_JellyHiddenQuestion",
+    "_JellyHiddenMotion",
+    "_JellyShape",
+    "_JellyMin",
+    "_JellyLight",
+    "_JellyTone"
+  ],
+  "CameraBoundsSystem$$CreateTargetGroup": [
+    "Left",
+    "Cinemachine Target Group Members",
+    "Right",
+    "Top",
+    "Bottom"
+  ],
+  "LevelBuildSystem$$ParseFloat": [
+    "Value was either too large or too small for a Single."
+  ],
+  "LevelBuildSystem$$ParseAngle": [
+    "Value was either too large or too small for a Single."
+  ],
+  "WinSystem$$OnUpdate": [
+    "GamePlayingState"
+  ],
+  "ConveyorViewElement$$UpdateView": [
+    "{0}/{1}"
+  ],
+  "ConveyorViewElement$$<Setup>b__14_0": [
+    "{0}/{1}"
+  ],
+  "ConveyorViewElement$$<Setup>b__14_1": [
+    "{0}/{1}"
+  ],
+  "ConveyorViewElement$$<Setup>b__14_2": [
+    "{0}/{1}"
+  ],
+  "ConveyorViewElement$$<Setup>b__14_3": [
+    "{0}/{1}"
+  ],
+  "BoosterSystem$$Complete": [
+    "_used"
+  ],
+  "Extensions$$ToAnalyticsName": [
+    "streak_tower",
+    "coin_rush",
+    "unknown_liveops",
+    "core_streak",
+    "collection_bar",
+    "daily_bonus",
+    "daily_challenge",
+    "battle_pass",
+    "streak_tournament",
+    "weekly_missions",
+    "lava_quest"
+  ],
+  "Extensions$$ToInGamePurchasePlacement": [
+    "in_game_",
+    "_purchase"
+  ],
+  "Extensions$$ToLocalizedName": [
+    "area_name_{0}"
+  ],
+  "Extensions$$ToLocalizedDesc": [
+    "_desc",
+    "booster_"
+  ],
+  "Extensions$$ToReadableString": [
+    "time_day_firstletter",
+    "time_second_firstletter",
+    "time_minute_firstletter",
+    "time_hour_firstletter"
+  ],
+  "Extensions$$AppendInt": [
+    "charCount",
+    "value",
+    "startIndex",
+    "Index was out of range. Must be non-negative and less than the size of the collection.",
+    "Value must be positive."
+  ],
+  "Extensions$$GetPrefs": [
+    "economy_item_quantity_{0}"
+  ],
+  "Extensions$$ToDisplayName": [
+    "Apple",
+    "authType",
+    "Play Games",
+    "Game Center",
+    "Facebook",
+    "Mock",
+    "Email",
+    "Google"
+  ],
+  "Extensions$$HasTracking": [
+    "unknown_liveops"
+  ],
+  "Extensions$$ToClassType": [
+    "Unknown LiveOps Class Type: {0}"
+  ],
+  "Extensions$$ToProductId": [
+    "com.garawell.loopsort.parisoffer",
+    "com.garawell.loopsort.piggybank",
+    "com.garawell.loopsort.coinrush2",
+    "com.garawell.loopsort.starterbundle",
+    "Unknown LiveOps Product Id: {0}"
+  ],
+  "Extensions$$ToDescription": [
+    "weeklymissions_"
+  ],
+  "Extensions$$ToTextRole": [
+    "authType"
+  ],
+  "CloudPrefsRegistry$$IsRegistered": [
+    "Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct."
+  ],
+  "CloudSaveModule$$ReconcileAccountSwitch": [
+    " Account switched; dropping the previous account's local data."
+  ],
+  "CloudSaveModule$$RecordUserId": [
+    "Could not store preference value"
+  ],
+  "CloudSaveModule$$ShouldPushLocal": [
+    "{0} Level differs (local {1}, cloud {2}); the higher level wins."
+  ],
+  "CloudSaveModule$$OnProviderReloaded": [
+    "Could not store preference value"
+  ],
+  "CloudSaveModule$$MarkDirty": [
+    "{0} Cloud level {1} is above local {2}; adopting the cloud save."
+  ],
+  "CloudSaveModule$$RecordBaseline": [
+    "Could not store preference value"
+  ],
+  "CloudSaveModule$$.cctor": [
+    "[CloudSaveModule]"
+  ],
+  "BootstrapScope$$<>n__0": [
+    "{0} ({1})"
+  ],
+  "ConsoleListener$$OnLogReceived": [
+    "[{0}] {1}\n{2}"
+  ],
+  "ConsoleMethods$$LoadLevel": [
+    "GameStartState"
+  ],
+  "ConsoleMethods$$SetLevel": [
+    "GameStartState"
+  ],
+  "ConsoleMethods$$ClearDataOverride": [
+    "Data Container override cleared. Restart required!"
+  ],
+  "ConsoleMethods$$SetDataOverride": [
+    "Data container injected. Restart required!"
+  ],
+  "ConsoleMethods$$SetLocalSheet": [
+    "Local sheet converter set. Restart required!"
+  ],
+  "ConsoleMethods$$SetGoogleSheet": [
+    "Google sheet converter set. Restart required!"
+  ],
+  "ConsoleMethods$$DisableCapacity": [
+    "Capacity disabled."
+  ],
+  "ConsoleMethods$$EnableCapacity": [
+    "Capacity enabled."
+  ],
+  "ConsoleMethods$$SetCoinRushWinCount": [
+    "Coin Rush Win count set."
+  ],
+  "ConsoleMethods$$SetNoAds": [
+    "No Ads set."
+  ],
+  "ConsoleMethods$$SetBattlePassKeyCount": [
+    "Battle Pass Key count set."
+  ],
+  "ConsoleMethods$$SetLanguage": [
+    "Language changed. Restart required!",
+    " not found.",
+    "Language "
+  ],
+  "ConsoleMethods$$SetLevelSheetId": [
+    ". Restart required!",
+    "Level Sheet Id set to ",
+    " not found.",
+    "Level Sheet Id "
+  ],
+  "ConsoleMethods$$SetWinStreak": [
+    "Win Streak set."
+  ],
+  "ConsoleMethods$$SetLife": [
+    "Life set."
+  ],
+  "ConsoleMethods$$SetLavaQuestLevel": [
+    "Lava Quest level set."
+  ],
+  "ConsoleMethods$$ActivateDeepLink": [
+    "Deep Link activated. AbsoluteURL: ",
+    "loopsort://"
+  ],
+  "ConsoleMethods$$SetStreakTowerWin": [
+    "Streak Tower win streak set."
+  ],
+  "ConsoleMethods$$SetStreakTournamentToken": [
+    "Streak Tournament token set."
+  ],
+  "ConsoleMethods$$UpdateStreakTournamentPersonal": [
+    "Streak Tournament personal updated."
+  ],
+  "ConsoleMethods$$SetCoreStreakWinStreak": [
+    "Core Streak win streak set."
+  ],
+  "ConsoleMethods$$SetDailyChallengeDays": [
+    "Daily Challenge completed days set."
+  ],
+  "ConsoleMethods$$PlayDailyChallenge": [
+    "Daily Challenge day {0} is already completed."
+  ],
+  "Game$$GetBuildInfo": [
+    "-",
+    "BuildInfo"
+  ],
+  "Game$$GetBuildNumber": [
+    ")",
+    "(",
+    "-",
+    "String cannot be of zero length.",
+    "oldValue"
+  ],
+  "GameBehaviourBase$$InjectColorType": [
+    "Color",
+    "Color not found: "
+  ],
+  "ColorType$$ToString": [
+    "{0}{1}"
+  ],
+  "GameBehaviourBase$$InjectMaterial": [
+    "Color"
+  ],
+  "GameBehaviourBase$$OnDestroy": [
+    "There is a PrefabModule leak. "
+  ],
+  "Prefs$$.cctor": [
+    "PlayerProfile",
+    "DailyChallengeCompletedDays",
+    "SpeedBoostFreeGranted",
+    "TotalPurchaseCount",
+    "Level",
+    "Sound",
+    "CloudSaveFlushTimestamp",
+    "PiggyBankPopupLevel",
+    "PiggyBankEarlyPopup",
+    "MaxWinStreak",
+    "Life",
+    "FreeEgpUsedCount",
+    "CloudSaveUserId",
+    "DailyChallengeMonth",
+    "CoinRushWinCount",
+    "LeaderboardTournamentScore",
+    "WeeklyMissionsProgress",
+    "ShopRewardedClaimTimestamp",
+    "TotalShopOpen",
+    "SelectedLevelSheetId",
+    "SupportSendTimestamp",
+    "BattlePassPremium",
+    "NextPurchaseOfferIdx",
+    "DailyChallengeStartedDays",
+    "InstallTimestamp",
+    "FreeEgpGranted",
+    "CoreStreakMaxWinStreak",
+    "WeeklyMissionsLoginTimestamp",
+    "ReturnHome",
+    "NextLifeTimestamp",
+    "LondonTripProgress",
+    "TotalPurchaseSpending",
+    "ColorBlind",
+    "SpeedBoostRemainingSeconds",
+    "NoAds",
+    "BattlePassLevel",
+    "DailyChallengeClaimedRewards",
+    "DataContainerPaths",
+    "PayerUser",
+    "HomeAreaPickedIn",
+    "WatchedInterstitialCount",
+    "DisableCapacity",
+    "Language",
+    "DailyChallengePopup",
+    "StreakTournamentSave",
+    "WinStreak",
+    "Skin",
+    "Notification",
+    "LastClaimedTournamentId",
+    "PiggyBankBreakCount",
+    "LastDailyRewardTimestamp",
+    "GarageSaleProgress",
+    "UnlimitedLifeTimestamp",
+    "LevelStartTimestamp",
+    "Default",
+    "LavaQuestGame",
+    "FreeEgpCount",
+    "VideoRewardsCount",
+    "BattlePassTutorial",
+    "CoinRushProgress",
+    "StreakTowerSave",
+    "HomeArea",
+    "EmailAddress",
+    "CoinRushActive",
+    "LeaderboardSubmitLevel",
+    "CoreStreakWinStreak",
+    "VideoRewardsTimestamp",
+    "Haptic",
+    "AreaRewardLevel",
+    "FreeLifeRefill",
+    "Music",
+    "WeeklyMissionsBlockCount",
+    "CloudSaveBaseline",
+    "SheetConverterType",
+    "LeaderboardSubmitTimestamp",
+    "SelectedSheetGroupName",
+    "RateUsCompleted",
+    "LavaQuestFailCooldownUtc",
+    "SpeedBoostActive",
+    "GreenLevel",
+    "NonPayerPopup"
+  ],
+  "Store$$GetStoreUrl": [
+    "https://play.google.com/store/apps/details?id={0}"
+  ],
+  "Store$$GetStoreReviewUrl": [
+    "https://play.google.com/store/apps/details?id={0}"
+  ],
+  "TimeProvider$$.cctor": [
+    "TimeProviderOffset"
+  ],
+  "ColorType$$.ctor": [
+    "L",
+    "Dark",
+    "D",
+    "Light"
+  ],
+  "DataInstaller$$Install": [
+    "<b>DataInstaller</b>: Install (",
+    ")"
+  ],
+  "GameMachine$$Initialize": [
+    "GameBootstrapState"
+  ],
+  "GameLoseState$$OnEnter": [
+    "golds",
+    "remaining_carrier_count"
+  ],
+  "GameSettingsState$$OnEnter": [
+    "View ",
+    " does not contain state with role ",
+    ", scene path: "
+  ],
+  "CellMesh$$IsCreateValueValid": [
+    "-"
+  ],
+  "Grid$$Initialize": [
+    "-"
+  ],
+  "Grid$$PopulateCellElements": [
+    "-"
+  ],
+  "EmailH$$IsValid": [
+    "input"
+  ],
+  "EmailH$$.cctor": [
+    "^[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(\\.[A-Za-z0-9-]+)*\\.[A-Za-z]{2,}$"
+  ],
+  "AreaOffer$$GetTitle": [
+    "areaoffer_{0}_{1}"
+  ],
+  "AreaOffer$$PreviewAreaOffers": [
+    "'",
+    "Area offers preview off",
+    "No area offers for '",
+    "none"
+  ],
+  "AreaOffer$$Preview": [
+    "Area offers preview: {0}"
+  ],
+  "AreaOffer$$.cctor": [
+    "com.garawell.loopsort.areaoffer2",
+    "com.garawell.loopsort.areaoffer3",
+    "com.garawell.loopsort.areaoffer1"
+  ],
+  "BattlePass$$Initialize": [
+    "com.garawell.loopsort.battlepass"
+  ],
+  "BattlePass$$GetAnalyticsData": [
+    "milestone_level"
+  ],
+  "BattlePass$$OnWeeklyMissionsMilestoneCreate": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "BattlePass$$OnBattlePassPurchase": [
+    "battle_pass"
+  ],
+  "BattlePass$$<OnWeeklyMissionsMilestoneCreate>b__30_0": [
+    "M"
+  ],
+  "CoinRush$$Initialize": [
+    "com.garawell.loopsort.coinrush2"
+  ],
+  "CollectionBar$$GetAnalyticsData": [
+    "milestone_level"
+  ],
+  "CreatePlayerProfileOffer$$CreateRandomProfile": [
+    "Player_{0}",
+    "abcdefghijklmnopqrstuvwxyz0123456789"
+  ],
+  "DailyChallenge$$GetHomeText": [
+    "{0}/{1}"
+  ],
+  "DailyChallenge$$GetAnalyticsData": [
+    "milestone_level",
+    "01",
+    "run_id",
+    "yyyyMM"
+  ],
+  "DailyChallenge$$Finish": [
+    "daily_challenge"
+  ],
+  "DailyChallenge$$ClaimReward": [
+    "reward_bar",
+    "daily_challenge"
+  ],
+  "DailyChallenge.PlaySession$$get_Label": [
+    "M"
+  ],
+  "DailyChallenge.PlaySession$$OnWin": [
+    "daily_challenge"
+  ],
+  "DailyChallenge.PlaySession$$OnLose": [
+    "daily_challenge"
+  ],
+  "DailyGoldGift$$ApplyHomeAction": [
+    "daily_reward"
+  ],
+  "DailyRewards$$GetHomeText": [
+    "common_ready_upper"
+  ],
+  "DailyRewards$$ClaimReward": [
+    "daily_bonus"
+  ],
+  "GarageSale$$BuyNextProgress": [
+    "garage_sale"
+  ],
+  "GarageSale$$OnProgressPurchase": [
+    "garage_sale"
+  ],
+  "GiftsReward$$GrantGift": [
+    "gifts_reward"
+  ],
+  "HomeReturnOffer$$ApplyHomeAction": [
+    "home"
+  ],
+  "LavaQuest$$GetAnalyticsData": [
+    "milestone_level"
+  ],
+  "LavaQuest$$HandlePrizeClaim": [
+    "lava_quest_win"
+  ],
+  "LavaQuest$$OnWeeklyMissionsMilestoneCreate": [
+    "View ",
+    " does not contain button with role ",
+    ", scene path: "
+  ],
+  "LavaQuest$$<OnWeeklyMissionsMilestoneCreate>b__42_0": [
+    "M"
+  ],
+  "Leaderboard$$get_TournamentId": [
+    "tournament"
+  ],
+  "Leaderboard$$get_LevelWorldId": [
+    "level-world"
+  ],
+  "Leaderboard$$get_LevelCountryId": [
+    "country-"
+  ],
+  "Leaderboard$$Initialize": [
+    "us"
+  ],
+  "LeaderboardSnapshot$$ResetSnapshot": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "LondonTrip$$BuyNextProgress": [
+    "london_trip"
+  ],
+  "LondonTrip$$OnProgressPurchase": [
+    "london_trip"
+  ],
+  "NoAdsOffer$$GetHomeText": [
+    "common_noads_upper"
+  ],
+  "Phrase$$get_NoAdsUpper": [
+    "common_noads_upper"
+  ],
+  "NonPayerOffer$$Initialize": [
+    "com.garawell.loopsort.bonustripoffer"
+  ],
+  "NotificationReward$$ApplyHomeAction": [
+    "notification_reward"
+  ],
+  "Phrase$$get_NotificationRewardTitle": [
+    "notification_reward_title"
+  ],
+  "Phrase$$get_NotificationRewardDesc": [
+    "notification_reward_desc"
+  ],
+  "StreakTournament$$GetAnalyticsData": [
+    "milestone_level",
+    "current_win_streak",
+    "current_multiplier",
+    "max_multiplier"
+  ],
+  "StreakTournament$$GetHomeText": [
+    "common_join_upper",
+    "common_finished_upper"
+  ],
+  "Phrase$$get_FinishedUpper": [
+    "common_finished_upper"
+  ],
+  "Phrase$$get_JoinUpper": [
+    "common_join_upper"
+  ],
+  "StreakTournament$$HandlePayouts": [
+    "streak_tournament"
+  ],
+  "StreakTournament$$TrackPersonalRewardClaim": [
+    "personal_bar"
+  ],
+  "StreakTournament$$TrackLeaderboardRewardClaim": [
+    "leaderboard"
+  ],
+  "StreakTournament$$OnReviveContinueResultUpdate": [
+    "x"
+  ],
+  "StreakTower$$GetAnalyticsData": [
+    "milestone_level",
+    "current_win_streak"
+  ],
+  "VideoRewards$$GetHomeText": [
+    "time_day_firstletter",
+    "time_second_firstletter",
+    "time_minute_firstletter",
+    "{0}/{1}",
+    "time_hour_firstletter"
+  ],
+  "VideoRewards$$Claim": [
+    "video_rewards"
+  ],
+  "WeeklyMissions$$OnRewardedVideoPostShow": [
+    "level_win_multiplier"
+  ],
+  "Localization$$get_Culture": [
+    "pt-BR",
+    "zh-TW",
+    "en-US",
+    "ru-RU",
+    "de-DE",
+    "ja-JP",
+    "zh-CN",
+    "es-ES",
+    "tr-TR",
+    "it-IT",
+    "ko-KR",
+    "fr-FR",
+    "id-ID"
+  ],
+  "Localization$$Set": [
+    ".",
+    "Language set to "
+  ],
+  "Localization$$UpdateFallbackFont": [
+    "SC",
+    "JP",
+    "TC",
+    "KR"
+  ],
+  "Phrase$$get_DailyBonusTitle": [
+    "daily_bonus_title"
+  ],
+  "Phrase$$get_DailyBonusDesc": [
+    "daily_bonus_desc"
+  ],
+  "Phrase$$get_Free": [
+    "common_free"
+  ],
+  "Phrase$$get_FreeUpper": [
+    "common_free_upper"
+  ],
+  "Phrase$$get_FirstLevelTutorial": [
+    "first_level_tutorial_0"
+  ],
+  "Phrase$$get_SecondLevelTutorial": [
+    "second_level_tutorial_0"
+  ],
+  "Phrase$$get_HomeLifeFull": [
+    "home_life_full"
+  ],
+  "Phrase$$get_Full": [
+    "common_full"
+  ],
+  "Phrase$$get_Success": [
+    "common_success"
+  ],
+  "Phrase$$get_PurchaseProcessSuccess": [
+    "purchaseprocess_success"
+  ],
+  "Phrase$$get_Failed": [
+    "common_failed"
+  ],
+  "Phrase$$get_PurchaseProcessFailed": [
+    "purchaseprocess_failed"
+  ],
+  "Phrase$$get_PurchaseProcessRestoreSuccess": [
+    "purchaseprocess_restore_success"
+  ],
+  "Phrase$$get_PurchaseProcessRestoreFailed": [
+    "purchaseprocess_restore_failed"
+  ],
+  "Phrase$$get_CoinRushTitle": [
+    "CoinRushSubMonitor_Title_GoldRush"
+  ],
+  "Phrase$$get_ReadyUpper": [
+    "common_ready_upper"
+  ],
+  "Phrase$$get_LiveOpsUnavailableLevel": [
+    "LiveOpsUnavailableMonitor_DescLevel"
+  ],
+  "Phrase$$get_LiveOpsUnavailableDate": [
+    "LiveOpsUnavailableMonitor_DescDate"
+  ],
+  "Phrase$$get_Level": [
+    "common_level"
+  ],
+  "Phrase$$get_LevelShort": [
+    "common_level_short"
+  ],
+  "Phrase$$get_ClaimUpper": [
+    "common_claim_upper"
+  ],
+  "Phrase$$get_GiftsRewardTitle": [
+    "gifts_reward_title"
+  ],
+  "Phrase$$get_GiftsRewardDesc": [
+    "gifts_reward_desc"
+  ],
+  "Phrase$$get_Connected": [
+    "common_connected"
+  ],
+  "Phrase$$get_SignOut": [
+    "common_signout"
+  ],
+  "Phrase$$get_SignedIn": [
+    "common_signedin"
+  ],
+  "Phrase$$get_SignedOut": [
+    "common_signedout"
+  ],
+  "Phrase$$get_SignInWith": [
+    "common_signinwith"
+  ],
+  "Phrase$$get_SignOutFrom": [
+    "common_signoutfrom"
+  ],
+  "Phrase$$get_SignInFail": [
+    "common_signinfail"
+  ],
+  "Phrase$$get_SignOutFail": [
+    "common_signoutfail"
+  ],
+  "Phrase$$get_SignInCancel": [
+    "common_signincancel"
+  ],
+  "Phrase$$get_UpdateProfileFail": [
+    "updateprofile_fail"
+  ],
+  "Phrase$$get_UpdateProfileFailInvalidNickname": [
+    "updateprofile_fail_invalidnickname"
+  ],
+  "Phrase$$get_UpdateProfileFailShortNickname": [
+    "updateprofile_fail_shortnickname"
+  ],
+  "Phrase$$get_UpdateProfileFailChange": [
+    "updateprofile_fail_change"
+  ],
+  "Phrase$$get_TryAgainLater": [
+    "common_tryagainlater"
+  ],
+  "AudioModule$$Initialize": [
+    "Music Source",
+    "Audio Source Container"
+  ],
+  "AudioModule$$EnableMusic": [
+    "source"
+  ],
+  "AudioModule$$RestartMusic": [
+    "source"
+  ],
+  "ConnectivityModule$$.cctor": [
+    "https://cp.cloudflare.com/generate_204",
+    "https://connectivitycheck.gstatic.com/generate_204",
+    "https://captive.apple.com/hotspot-detect.html"
+  ],
+  "DeepLinkModule$$Start": [
+    "deep_link_activated",
+    "loopsort://",
+    "link"
+  ],
+  "DeepLinkModule$$OnDeepLinkActivated": [
+    "deep_link_activated",
+    "loopsort://",
+    "link"
+  ],
+  "DeepLinkModule$$Activate": [
+    "deep_link_activated",
+    "loopsort://",
+    "link"
+  ],
+  "EconomyModule$$Initialize": [
+    "InitialValue"
+  ],
+  "InteractionModule$$Start": [
+    "Default"
+  ],
+  "PerformanceModule$$Start": [
+    "Quality Level: {0}, Render Scale: {1}, Target FPS: {2}"
+  ],
+  "PrefabModule$$Rent": [
+    "original"
+  ],
+  "PrefabModule$$GetOrCreatePoolParent": [
+    " - Pool",
+    "Prefab Module - Pools"
+  ],
+  "PrefabModule$$Prewarm": [
+    "original"
+  ],
+  "SettingsModule$$SetNotification": [
+    "cancelAllPendingNotificationIntents"
+  ],
+  "SkinModule$$SetSkin": [
+    "none",
+    "Skin override cleared",
+    "Skin forced: "
+  ],
+  "AccountModule$$.ctor": [
+    "_mockAuthLinkStatus"
+  ],
+  "AdsModule$$IsPlacementEligibleForInterstitial": [
+    "placement_request_count_",
+    "level_win_continue",
+    "level_lose_continue"
+  ],
+  "AnalyticsModule$$OnEconomyConsume": [
+    "ooc_trigger"
+  ],
+  "AnalyticsModule$$OnOutOfGolds": [
+    "ooc_trigger"
+  ],
+  "AnalyticsModule$$OnEconomyConsumeFail": [
+    "ooc_trigger"
+  ],
+  "AnalyticsModule$$OnOutOfLives": [
+    "ool_trigger"
+  ],
+  "AnalyticsCustomEvent$$AddGameLevel": [
+    "game_level"
+  ],
+  "AnalyticsCustomEvent$$AddDaysSinceInstall": [
+    "days_since_install"
+  ],
+  "AnalyticsCustomEvent$$AddGameCoinBalance": [
+    "game_coin_balance"
+  ],
+  "AnalyticsPurchaseEvent$$CreateFrom": [
+    "com.garawell.loopsort.",
+    "null"
+  ],
+  "AnalyticsPurchaseEvent$$ToString": [
+    ", Placement:",
+    ", LevelNumber:",
+    ", UsdPrice:",
+    "Id:",
+    "values",
+    ", Reason:"
+  ],
+  "AnalyticsLiveOpsEvent$$.ctor": [
+    "Run-",
+    "run_id",
+    "game_level",
+    "yyyyMMdd",
+    "name",
+    "milestone_type",
+    "stage_number",
+    "null",
+    "reward_track_type",
+    "milestone_level",
+    "participation_count",
+    "Progression"
+  ],
+  "AnalyticsLiveOpsEvent$$AddGeneralData": [
+    "pass_status",
+    "game_coin_balance",
+    "current_win_streak",
+    "liveops_currency_collected",
+    "max_multiplier",
+    "tournament_placement",
+    "liveops_currency_balance",
+    "max_win_streak",
+    "current_multiplier",
+    "null",
+    "liveops_currency_used",
+    "max_stage_completed",
+    "max_milestone_level",
+    "impression_trigger",
+    "placement",
+    "final_track_status"
+  ],
+  "AnalyticsLiveOpsEvent$$AddTransactionData": [
+    "nb_units",
+    "item_name",
+    "days_since_install",
+    "null",
+    "transaction_type"
+  ],
+  "AnalyticsLiveOpsEvent$$SetImpressionTrigger": [
+    "impression_trigger"
+  ],
+  "AnalyticsLiveOpsEvent$$SetMilestoneLevel": [
+    "milestone_level"
+  ],
+  "AnalyticsLiveOpsEvent$$SetRewardTrackType": [
+    "reward_track_type"
+  ],
+  "AnalyticsLiveOpsEvent$$SetStageNumber": [
+    "stage_number"
+  ],
+  "AnalyticsLiveOpsEvent$$SetPassStatus": [
+    "pass_status"
+  ],
+  "AnalyticsLiveOpsEvent$$SetCurrencyBalance": [
+    "liveops_currency_balance"
+  ],
+  "AnalyticsLiveOpsEvent$$SetCurrencyCollected": [
+    "liveops_currency_collected"
+  ],
+  "AnalyticsLiveOpsEvent$$SetMaxMilestoneLevel": [
+    "max_milestone_level"
+  ],
+  "AnalyticsLiveOpsEvent$$SetMaxWinStreak": [
+    "max_win_streak"
+  ],
+  "AnalyticsLiveOpsEvent$$SetFinalTrackStatus": [
+    "final_track_status"
+  ],
+  "AnalyticsLiveOpsEvent$$SetMaxStageCompleted": [
+    "max_stage_completed"
+  ],
+  "AnalyticsLiveOpsEvent$$SetTournamentPlacement": [
+    "tournament_placement"
+  ],
+  "AnalyticsLiveOpsEvent$$SetPlacement": [
+    "placement"
+  ],
+  "AnalyticsLiveOpsEvent$$SetItemName": [
+    "item_name"
+  ],
+  "AnalyticsLiveOpsEvent$$SetMilestoneType": [
+    "milestone_type"
+  ],
+  "AnalyticsLiveOpsEvent$$SetUnitNumber": [
+    "nb_units"
+  ],
+  "AnalyticsLiveOpsEvent$$SetTransactionType": [
+    "transaction_type"
+  ],
+  "FulfillModule$$FulfillPurchase": [
+    "com.garawell.loopsort.",
+    "_"
+  ],
+  "FulfillModule$$FulfillPurchasePayout": [
+    "{0} Cloud level {1} is above local {2}; adopting the cloud save."
+  ],
+  "FulfillModule$$FulfillPayout": [
+    "{0} Cloud level {1} is above local {2}; adopting the cloud save."
+  ],
+  "FulfillModule$$FulfillFreePayout": [
+    "{0} Cloud level {1} is above local {2}; adopting the cloud save."
+  ],
+  "FulfillModule$$FulfillRewardedPayout": [
+    "{0} Cloud level {1} is above local {2}; adopting the cloud save."
+  ],
+  "FulfillModule$$FulfillBooster": [
+    "booster"
+  ],
+  "Products$$.cctor": [
+    "com.garawell.loopsort.pack25",
+    "com.garawell.loopsort.pack30",
+    "com.garawell.loopsort.pack1",
+    "com.garawell.loopsort.pack8",
+    "com.garawell.loopsort.pack6",
+    "com.garawell.loopsort.pack7",
+    "com.garawell.loopsort.pack12",
+    "com.garawell.loopsort.pack20",
+    "com.garawell.loopsort.pack16",
+    "com.garawell.loopsort.pack15",
+    "com.garawell.loopsort.pack9",
+    "com.garawell.loopsort.pack3",
+    "com.garawell.loopsort.pack10",
+    "com.garawell.loopsort.pack2",
+    "com.garawell.loopsort.pack23",
+    "com.garawell.loopsort.pack4",
+    "com.garawell.loopsort.pack5"
+  ],
+  "PurchasingModule$$LogPurchaseComplete": [
+    ", Tx:",
+    "{0} - {1} - {2}",
+    ", {0}",
+    "UserCancelled",
+    "yyyyMMdd HH:mm:ss"
+  ],
+  "PurchasingModule$$AppendPurchasingLog": [
+    "Could not store preference value",
+    ";"
+  ],
+  "PurchasingModule$$.ctor": [
+    "_purchasingLog"
+  ],
+  "FulfillSummary$$ToString": [
+    "Payouts:"
+  ],
+  "ProductMetadata$$.ctor": [
+    "_PurchaseCount"
+  ],
+  "NotificationInstaller$$Install": [
+    "Main notifications",
+    "Notifications",
+    "default"
+  ],
+  "NotificationModule$$SetActive": [
+    "cancelAllPendingNotificationIntents"
+  ],
+  "Notifications$$.cctor": [
+    "gold,250:boosters,1",
+    "notification_title_fulllife",
+    "notification_desc_reminder14d",
+    "gold,100",
+    "gold,500:boosters,1",
+    "notification_desc_fulllife",
+    "notification_desc_reminder24h",
+    "notification_title_reminder24h",
+    "notification_desc_refreshevents",
+    "notification_title_refreshevents",
+    "notification_title_reminder30d",
+    "notification_title_reminder14d",
+    "notification_title_reminder7d",
+    "notification_desc_reminder7d",
+    "notification_desc_reminder30d",
+    "notification_desc_reminder48h",
+    "notification_title_reminder48h",
+    "gold,1000"
+  ],
+  "HighlightModule$$Start": [
+    "Custom/CubeStencilWriter"
+  ],
+  "HighlightModule$$OnScenePostLoad": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "OutlineModule$$Start": [
+    "Custom/Outline Fill",
+    "Custom/Outline Mask"
+  ],
+  "OutlineModule$$OnScenePostLoad": [
+    "array",
+    "index + length > size",
+    "index < lower bound",
+    "length < 0"
+  ],
+  "OutlineModule$$.cctor": [
+    "_OutlineWidth",
+    "_OutlineColor",
+    "_StencilBit",
+    "_ZTest"
+  ],
+  "NicknameGenerator$$Generate": [
+    "Nouns",
+    "Adjectives",
+    "Suffixes",
+    "Prefixes"
+  ],
+  "NicknameGenerator$$BuildCandidate": [
+    "LastNames.",
+    "{0}{1}",
+    "FirstNames."
+  ],
+  "NicknameGenerator$$Number": [
+    "00"
+  ],
+  "NicknameGenerator$$Sep": [
+    ".",
+    "_"
+  ],
+  "NicknameGenerator$$.cctor": [
+    "23",
+    "24",
+    "9",
+    "77",
+    "55",
+    "17",
+    "13",
+    "99",
+    "22",
+    "11",
+    "100",
+    "ja",
+    "tr",
+    "it",
+    "en",
+    "de",
+    "10",
+    "sl",
+    "44",
+    "777",
+    "fr",
+    "es",
+    "in",
+    "af",
+    "7",
+    "12",
+    "8",
+    "zh",
+    "21",
+    "88",
+    "ar",
+    "33",
+    "111",
+    "123",
+    "ko",
+    "pt",
+    "gr"
+  ],
+  "PlayerModule$$IsPlayerNameValid": [
+    "Player"
+  ],
+  "PlayerModule$$CleanPlayerName": [
+    "   ",
+    "oldValue",
+    "String cannot be of zero length.",
+    "  "
+  ],
+  "PlayerProfile$$.cctor": [
+    "default",
+    "Player"
+  ],
+  "LevelFunnelConfig$$.ctor": [
+    "20261106 - v4.9.0 - LevelFunnelv17 (Vault v2)"
+  ],
+  "MapLoader$$Awake": [
+    "Maps/"
+  ],
+  "MapLoader$$CreateMap": [
+    "Maps/"
+  ],
+  "SceneScope$$Awake": [
+    "{0} ({1})"
+  ],
+  "Level$$.ctor": [
+    "level_{0}_lose_count"
+  ],
+  "AdjustEventSheet$$PostLoad": [
+    "iap_cumulative_",
+    "_day",
+    "_coins_spent",
+    "_levels_won_capped_"
+  ],
+  "AdjustEventSheet$$TryGetRewardedVideoWatchedToken": [
+    "rv_watched"
+  ],
+  "AdjustEventSheet$$TryGetLevelCompletedToken": [
+    "level_reached"
+  ],
+  "AdjustEventSheet$$TryGetPurchasePriceToken": [
+    "purchase_",
+    "0.00"
+  ],
+  "AdjustEventSheet$$TryGetLevelReachedToken": [
+    "{0}_level_reached"
+  ],
+  "AdjustEventSheet$$TryGetPurchaseConsumableToken": [
+    "unknown",
+    "fifth",
+    "fourth",
+    "first",
+    "third",
+    "twentieth",
+    "{0}_purchase_consumable",
+    "seventh",
+    "tenth",
+    "second"
+  ],
+  "AdjustEventSheet$$TryGetIAPCountToken": [
+    "iap_count_{0}"
+  ],
+  "AdjustEventSheet$$TryGetBoostersUsed": [
+    "{0}_boosters_used"
+  ],
+  "AdjustEventSheet$$TryGetCappedLevelsWonToken": [
+    "{0}_levels_won_capped_{1}_day"
+  ],
+  "AdjustEventSheet$$TryGetShopOpensToken": [
+    "{0}_shop_opens"
+  ],
+  "AreaSheet$$GetRewards": [
+    "source"
+  ],
+  "AreaSheet.Row$$get_LevelRange": [
+    "{0} - {1}",
+    "{0}+"
+  ],
+  "AreaSheet.Row$$PostLoad": [
+    "_Unlocked",
+    "Area_"
+  ],
+  "AreaSheet.Elem$$get_HasRewards": [
+    "-"
+  ],
+  "BattlePassSheet.Row$$PostLoad": [
+    "BattlePassFreeClaim_{0}",
+    "BattlePassPaidClaim_{0}"
+  ],
+  "BoosterSheet.Booster$$PostLoad": [
+    "LockOf_"
+  ],
+  "CarrierSheet.Row$$CheckColorDistribution": [
+    "[CarrierSheet] Level {0} Color {1} is not correct: {2}"
+  ],
+  "CoinRushSheet.Row$$PostLoad": [
+    "coinrush_claimed_{0}",
+    "coinrush_completed_{0}"
+  ],
+  "CollectionBarSheet.Row$$PostLoad": [
+    "CollectionBarClaim_{0}"
+  ],
+  "CustomFileSystem$$UpdatePath": [
+    "length",
+    "startIndex cannot be larger than length of string.",
+    "Length cannot be less than zero.",
+    "startIndex",
+    "Index and length must refer to a location within the string."
+  ],
+  "CustomFileSystem$$OpenRead": [
+    "OverrideSheet",
+    "File not found in Resources: ",
+    "\\n",
+    "/",
+    "Sheet",
+    "\\\"",
+    "[{\"Data\":\"\\\"\\\"\"}]",
+    "\\\\n",
+    "\""
+  ],
+  "CustomFileSystem$$CreateDirectory": [
+    "CreateDirectory is not supported in CustomFileSystem."
+  ],
+  "CustomFileSystem$$OpenWrite": [
+    "Writing is not supported in CustomFileSystem."
+  ],
+  "DailyChallengeSheetModule$$get_HasData": [
+    "Sheets/Daily Challenge/Levels"
+  ],
+  "HomeLiveOpsSheet.Slot$$PostLoad": [
+    "HomePopup_{0}_OrderIdx"
+  ],
+  "LevelFunnel$$get_Folder": [
+    "Sheets/Funnels/"
+  ],
+  "LevelFunnel$$Resolve": [
+    "Sheets/Funnels/",
+    "[LevelFunnel] Bundle '",
+    "/",
+    "'.",
+    " in this build; playing the control funnel.",
+    "[LevelFunnel] Playing bundled funnel '",
+    "' has no "
+  ],
+  "LevelFunnel$$ReadConfig": [
+    "{\"List\":",
+    "}",
+    "LevelFunnelConfig"
+  ],
+  "LevelFunnel$$.cctor": [
+    "Levels",
+    "LevelConstants",
+    "Splines",
+    "Carriers"
+  ],
+  "LiveOpsSheet.Row$$PostLoad": [
+    "RefreshTimestamp_",
+    "JoinCount_",
+    "JoinTimestamp_",
+    "IntervalTimestamp_"
+  ],
+  "LocalizationSheet$$PostLoad": [
+    ".",
+    "Language set to "
+  ],
+  "LocalizationSheet$$SetSystemLanguage": [
+    ".",
+    "Language set to "
+  ],
+  "LocalizationSheet$$SetDefaultLanguageIfNeeded": [
+    ".",
+    "Language set to "
+  ],
+  "ResourcesFileSystem$$OpenRead": [
+    "File not found in Resources: "
+  ],
+  "ResourcesFileSystem$$CreateDirectory": [
+    "CreateDirectory is not supported in ResourcesFileSystem."
+  ],
+  "ResourcesFileSystem$$OpenWrite": [
+    "Writing is not supported in ResourcesFileSystem."
+  ],
+  "SheetInstaller$$LoadLocalSheetConverters": [
+    "Sheets/Local"
+  ],
+  "SplineSheet.Grid$$Create": [
+    "-"
+  ],
+  "SplineSheet.Layout$$CheckCapacityCarriers": [
+    "[SplineSheet] Level {0} wrong capacity carriers count: {1}"
+  ],
+  "StreakTowerSheet.Stage$$PostLoad": [
+    "StreakTowerClaim_{0}"
+  ],
+  "WeeklyMissionProgressSheet.Row$$PostLoad": [
+    "WeeklyMissionProgressFulfill_{0}"
+  ],
+  "WeeklyMissionSheet.Row$$PostLoad": [
+    "WeeklyMissionCompleted_{0}_{1}",
+    "WeeklyMissionClaim_{0}_{1}"
+  ],
+  "BoosterContainer$$OnUpdateElement": [
+    "_unlocked"
+  ],
+  "BoosterContainer$$OnRefreshReviveElement": [
+    "x"
+  ],
+  "Avatars$$GetAvatarId": [
+    "default"
+  ],
+  "Shop$$FormatItemQuantity": [
+    "time_day_firstletter",
+    "time_second_firstletter",
+    "time_minute_firstletter",
+    "x",
+    "time_hour_firstletter"
+  ],
+  "Shop$$FormatBoosterQuantity": [
+    "x"
+  ],
+  "Extensions$$ToColor": [
+    ", "
+  ],
+  "Extensions$$SetProperty": [
+    "array has less elements than passed count.",
+    "values",
+    "Zero-sized array is not allowed."
+  ]
+}

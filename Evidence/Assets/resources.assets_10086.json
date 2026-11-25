@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3557
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -178797907,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11698
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1483270941,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11562
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1872639189,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12391
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 9970
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 13003
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11654
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -837446999,
+      "Identificator": "Debug_TextDate_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11967
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

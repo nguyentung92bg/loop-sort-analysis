@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3909
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 42396024832
+  },
+  "m_Name": "",
+  "MeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 4774
+  },
+  "MetalMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 155
+  },
+  "MetalMesh": {
+    "m_FileID": 0,
+    "m_PathID": 437
+  },
+  "MetalGroupMesh": {
+    "m_FileID": 0,
+    "m_PathID": 436
+  },
+  "MagnetPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3983
+  }
+}

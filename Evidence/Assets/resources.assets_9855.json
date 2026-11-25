@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 73182216192
+  },
+  "m_Name": "ConveyorConfig",
+  "Speed": 5.0,
+  "ConveyorHeight": 1.100000023841858,
+  "EndPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3181
+  },
+  "ShinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2876
+  },
+  "ColliderPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1572
+  },
+  "GrowPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3862
+  },
+  "ArrowPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3664
+  },
+  "ArrowPerDistance": 2.0,
+  "SlotPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3663
+  },
+  "SlotElementOffset": 0.5,
+  "SlotCollisionDistance": 0.25,
+  "CarrierTriggerOffset": 0.10000000149011612,
+  "CarrierTriggerSize": 0.8999999761581421,
+  "SideRedColor": {
+    "r": 0.800000011920929,
+    "g": 0.1599999964237213,
+    "b": 0.1599999964237213,
+    "a": 1.0
+  },
+  "RedRatio": 0.75,
+  "ColorPingPongModifier": 1.5,
+  "ColorLerpModifier": 4.0,
+  "ViewPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11579
+  }
+}

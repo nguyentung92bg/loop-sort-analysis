@@ -1,0 +1,179 @@
+{
+  "types": {
+    "MonoScript": 5087,
+    "AssetBundle": 55,
+    "Texture2D": 549,
+    "CanvasRenderer": 3677,
+    "MonoBehaviour": 6516,
+    "RectTransform": 4687,
+    "GameObject": 5192,
+    "Sprite": 1212,
+    "Animator": 54,
+    "AnimatorController": 15,
+    "Material": 325,
+    "CanvasGroup": 27,
+    "AnimationClip": 23,
+    "Shader": 86,
+    "SpriteAtlas": 16,
+    "TextAsset": 111,
+    "PlayerSettings": 1,
+    "InputManager": 1,
+    "TagManager": 1,
+    "AudioManager": 1,
+    "ScriptMapper": 1,
+    "MonoManager": 1,
+    "GraphicsSettings": 1,
+    "TimeManager": 1,
+    "DelayedCallManager": 1,
+    "PhysicsManager": 1,
+    "BuildSettings": 1,
+    "QualitySettings": 1,
+    "ResourceManager": 1,
+    "NavMeshProjectSettings": 1,
+    "Physics2DSettings": 1,
+    "RuntimeInitializeOnLoadManager": 1,
+    "UnityConnectSettings": 1,
+    "StreamingManager": 1,
+    "VFXManager": 1,
+    "Unknown (655991488)": 1,
+    "PreloadData": 9,
+    "ShaderVariantCollection": 2,
+    "Cubemap": 1,
+    "Font": 4,
+    "Transform": 505,
+    "RenderSettings": 8,
+    "LightmapSettings": 8,
+    "NavMeshSettings": 8,
+    "Canvas": 102,
+    "Light": 2,
+    "Mesh": 69,
+    "ComputeShader": 1,
+    "AudioClip": 28,
+    "PhysicMaterial": 1,
+    "AudioMixerController": 1,
+    "AudioMixerGroupController": 1,
+    "AudioMixerSnapshotController": 1,
+    "Camera": 1,
+    "MeshRenderer": 161,
+    "MeshFilter": 161,
+    "Rigidbody": 4,
+    "MeshCollider": 2,
+    "BoxCollider": 11,
+    "AudioListener": 1,
+    "AudioSource": 1,
+    "LineRenderer": 3,
+    "SphereCollider": 4,
+    "SkinnedMeshRenderer": 20,
+    "ParticleSystem": 54,
+    "ParticleSystemRenderer": 54,
+    "SpriteRenderer": 16,
+    "PositionConstraint": 3
+  },
+  "errors": [
+    {
+      "type": "PlayerSettings",
+      "asset": "globalgamemanagers",
+      "path_id": 1,
+      "error": "Expected to read 1032 bytes, but only read 1028 bytes"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9764,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9793,
+      "error": "read_str out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9797,
+      "error": "read_str out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9798,
+      "error": "read_str out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9799,
+      "error": "read_str out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9801,
+      "error": "read_str out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9806,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9808,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9812,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9838,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 9840,
+      "error": "Expected to read 88 bytes, but only read 72 bytes"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 10776,
+      "error": "read_int out of bounds"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 10797,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 11373,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 11396,
+      "error": "failed to dump nodes raw"
+    },
+    {
+      "type": "MonoBehaviour",
+      "asset": "resources.assets",
+      "path_id": 12645,
+      "error": "failed to dump nodes raw"
+    }
+  ],
+  "records": 6500,
+  "texts": 111,
+  "images": 200
+}

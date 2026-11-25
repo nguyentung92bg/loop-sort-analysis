@@ -1,0 +1,57 @@
+/* IL2CPP: ArrowEffect$$Update
+void ArrowEffect__Update (ArrowEffect_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: ArrowEffect$$Update
+   void ArrowEffect__Update (ArrowEffect_o* __this, const MethodInfo* method); */
+
+void ArrowEffect__Update_25703e8(long param_1)
+
+{
+  long lVar1;
+  long lVar2;
+  float fVar3;
+  
+  if (*(char *)(param_1 + 0x20) == '\0') {
+    fVar3 = (float)UnityEngine_Time__get_time_3c295c8(0);
+  }
+  else {
+    fVar3 = (float)UnityEngine_Time__get_unscaledTime_3c296e8(0);
+  }
+  lVar1 = *(long *)(param_1 + 0x30);
+  if (*(char *)(param_1 + 0x2c) == '\0') {
+    if (lVar1 == 0) goto LAB_0267049c;
+    UnityEngine_Transform__get_up_3c2dafc(lVar1,0);
+  }
+  else {
+    if (lVar1 == 0) goto LAB_0267049c;
+    UnityEngine_Transform__get_right_3c2da80(lVar1,0);
+  }
+  lVar1 = *(long *)(param_1 + 0x30);
+  if (lVar1 != 0) {
+    FUN_04608760(fVar3 * *(float *)(param_1 + 0x24));
+    if ((bRam0000000004f58960 & 1) == 0) {
+      FUN_021f03f8(PTR_DAT_04a26c78,0);
+      bRam0000000004f58960 = 1;
+    }
+    if (lVar1 != 0) {
+      lVar2 = *(long *)(lVar1 + 0x10);
+      if (lVar2 == 0) {
+                    /* WARNING: Subroutine does not return */
+        UnityEngine_Bindings_ThrowHelper__ThrowNullReferenceException_3c32e4c(lVar1,0);
+      }
+      if (pcRam0000000004f589a8 == (code *)0x0) {
+        pcRam0000000004f589a8 = (code *)FUN_021f03bc(&UNK_013cb96e);
+      }
+      (*pcRam0000000004f589a8)(lVar2,&stack0xffffffffffffffe8);
+      return;
+    }
+                    /* WARNING: Subroutine does not return */
+    FUN_021f06a0();
+  }
+LAB_0267049c:
+                    /* WARNING: Subroutine does not return */
+  FUN_021f06a0();
+}
+

@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3612
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 17246978048
+  },
+  "m_Name": "",
+  "Renderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4711
+    }
+  ],
+  "PropertyDefinitions": [
+    {
+      "PropertyKey": "Side Color",
+      "ShaderPropertyName": "_BaseColor",
+      "MaterialIndex": 1
+    }
+  ]
+}

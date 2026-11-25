@@ -1,0 +1,10 @@
+[
+  {
+    "Value": "3000",
+    "Id": "LavaQuestGrandPrize"
+  },
+  {
+    "Value": "30",
+    "Id": "LavaQuestFailCooldown"
+  }
+]

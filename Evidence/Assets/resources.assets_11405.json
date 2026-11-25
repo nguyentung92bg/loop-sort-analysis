@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1408
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 62931337216
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Frequency": 10.0,
+  "Amplitude": 50.0,
+  "Right": 0
+}

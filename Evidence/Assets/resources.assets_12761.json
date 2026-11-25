@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4033
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 30400315392
+  },
+  "m_Name": "",
+  "FrontParts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4528
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4250
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4333
+    }
+  ],
+  "MiddleParts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9543
+    }
+  ],
+  "StretchParts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4667
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4658
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5167
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5049
+    }
+  ]
+}

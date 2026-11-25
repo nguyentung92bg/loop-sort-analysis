@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 452984832
+  },
+  "m_Name": "",
+  "ApplyAfter": 2,
+  "ChannelMask": 1,
+  "Gain": 1.0,
+  "Use2DDistance": 0,
+  "UseCameraSpace": 1,
+  "ReactionSettings": {
+    "m_SecondaryNoise": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "AmplitudeGain": 1.0,
+    "FrequencyGain": 1.0,
+    "Duration": 1.0,
+    "m_NoiseOffsets": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}

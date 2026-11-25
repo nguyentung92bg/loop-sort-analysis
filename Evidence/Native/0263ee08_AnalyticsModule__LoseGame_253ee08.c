@@ -1,0 +1,50 @@
+/* IL2CPP: AnalyticsModule$$LoseGame
+void AnalyticsModule__LoseGame (AnalyticsModule_o* __this, System_Collections_Generic_Dictionary_string__object__o* customData, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: AnalyticsModule$$LoseGame
+   void AnalyticsModule__LoseGame (AnalyticsModule_o* __this,
+   System_Collections_Generic_Dictionary_string__object__o* customData, const MethodInfo* method);
+    */
+
+void AnalyticsModule__LoseGame_253ee08(long param_1,undefined8 param_2)
+
+{
+  undefined4 uVar1;
+  undefined8 *puVar2;
+  long lVar3;
+  ulong uVar4;
+  int *piVar5;
+  long *plVar6;
+  
+  if ((bRam0000000004f4bfa4 & 1) == 0) {
+    FUN_021f03f8(PTR_DAT_049ca4d8);
+    bRam0000000004f4bfa4 = 1;
+  }
+  plVar6 = *(long **)(param_1 + 0x10);
+  if (plVar6 == (long *)0x0) {
+    return;
+  }
+  lVar3 = *plVar6;
+  uVar1 = *(undefined4 *)(param_1 + 0x58);
+  uVar4 = (ulong)*(ushort *)(lVar3 + 0x12e);
+  if (uVar4 != 0) {
+    piVar5 = (int *)(*(long *)(lVar3 + 0xb0) + 8);
+    do {
+      if (*(long *)(piVar5 + -2) == *(long *)PTR_DAT_049ca4d8) {
+        puVar2 = (undefined8 *)(lVar3 + (long)(*piVar5 + 2) * 0x10 + 0x138);
+        goto LAB_0263eea8;
+      }
+      uVar4 = uVar4 - 1;
+      piVar5 = piVar5 + 4;
+    } while (uVar4 != 0);
+  }
+  puVar2 = (undefined8 *)FUN_02229a4c(plVar6,*(long *)PTR_DAT_049ca4d8,2);
+LAB_0263eea8:
+                    /* WARNING: Could not recover jumptable at 0x0263eec0. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+  (*(code *)*puVar2)(plVar6,uVar1,param_2,puVar2[1]);
+  return;
+}
+

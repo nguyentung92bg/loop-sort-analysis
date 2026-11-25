@@ -1,0 +1,52 @@
+[
+  {
+    "WinCount": 1,
+    "Reward": 100,
+    "Id": 1
+  },
+  {
+    "WinCount": 2,
+    "Reward": 200,
+    "Id": 2
+  },
+  {
+    "WinCount": 3,
+    "Reward": 300,
+    "Id": 3
+  },
+  {
+    "WinCount": 5,
+    "Reward": 400,
+    "Id": 4
+  },
+  {
+    "WinCount": 7,
+    "Reward": 600,
+    "Id": 5
+  },
+  {
+    "WinCount": 10,
+    "Reward": 800,
+    "Id": 6
+  },
+  {
+    "WinCount": 15,
+    "Reward": 1000,
+    "Id": 7
+  },
+  {
+    "WinCount": 20,
+    "Reward": 1600,
+    "Id": 8
+  },
+  {
+    "WinCount": 25,
+    "Reward": 2000,
+    "Id": 9
+  },
+  {
+    "WinCount": 30,
+    "Reward": 3000,
+    "Id": 10
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3489
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": 1858387083,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11532
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1245292439,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12718
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1988506300,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11349
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1083664087,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 13364
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 783335051,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12451
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1414246213,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12845
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 339800536,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 12778
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Placeholder_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10265
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11825
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -1083664087,
+      "Identificator": "Debug_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10064
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11292
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 1931211062,
+      "Identificator": "Debug_TextBuildVersion_04",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10000
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_05",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10430
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Debug_Text_06",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10771
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [
+    {
+      "Comment": "",
+      "Role": 1594932300,
+      "InputFieldTMP": {
+        "m_FileID": 0,
+        "m_PathID": 11572
+      },
+      "InputField": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "IsTMP": 1
+    }
+  ],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

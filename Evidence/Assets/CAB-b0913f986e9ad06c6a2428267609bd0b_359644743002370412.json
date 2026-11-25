@@ -1,0 +1,2093 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -610850040352722580
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 8988177756549951852
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -2003398468,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": -3566719823076118164
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -676523153,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 289387319797363052
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "liveops_dailyrewards_name",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 5977050129250988396
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "DailyRewardsSubMonitor_TextDesc_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 581355794572915052
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "DailyRewardsSubMonitor_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 8289985183174766956
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -1126420587,
+      "Identificator": "DailyRewardsSubMonitor_TextQuantity_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 4468750469138755948
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2990922698484338324
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -4369424359619743380
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -5574803750901173908
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2068774585317576340
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -3769623612231044756
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -8534960905641905812
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2883245079497133716
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 1919654152838787436
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -5857555664566406804
+      }
+    }
+  ],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -1126420587,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 1661369388971667820
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": -938831642,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": -503213476584869524
+      }
+    }
+  ],
+  "States": [
+    {
+      "Comment": "",
+      "Role": 1594942057,
+      "NodeData": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ParentRoles": []
+      },
+      "Description": [
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 7910597184938127724
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -1027137624681598612
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        }
+      ]
+    },
+    {
+      "Comment": "",
+      "Role": -555757312,
+      "NodeData": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ParentRoles": []
+      },
+      "Description": [
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 7910597184938127724
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -1027137624681598612
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -4276181297598221972
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 5192301232563237228
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        }
+      ]
+    },
+    {
+      "Comment": "",
+      "Role": -1339960366,
+      "NodeData": {
+        "Position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "ParentRoles": []
+      },
+      "Description": [
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 7910597184938127724
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -1027137624681598612
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": -4276181297598221972
+          },
+          "GameObjectIsActive": 0,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 0,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 5192301232563237228
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformSize": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformWidth": 0.0,
+          "RectTransformHeight": 0.0,
+          "RectTransformTop": 0.0,
+          "RectTransformBottom": 0.0,
+          "RectTransformLeft": 0.0,
+          "RectTransformRight": 0.0,
+          "RectTransformAnchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        },
+        {
+          "Type": 4,
+          "GameObject": {
+            "m_FileID": 0,
+            "m_PathID": 5192301232563237228
+          },
+          "GameObjectIsActive": 1,
+          "RectTransform": {
+            "m_FileID": 0,
+            "m_PathID": 5035442137585299820
+          },
+          "RectTransformImpactType": 0,
+          "RectTransformPosition": {
+            "x": 0.0,
+            "y": 93.0
+          },
+          "RectTransformSize": {
+            "x": 504.82598876953125,
+            "y": 252.39920043945312
+          },
+          "RectTransformRotation": {
+            "x": -0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "RectTransformScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "RectTransformWidth": 504.82598876953125,
+          "RectTransformHeight": 252.39920043945312,
+          "RectTransformTop": -219.19960021972656,
+          "RectTransformBottom": -33.19960021972656,
+          "RectTransformLeft": 27.587005615234375,
+          "RectTransformRight": -532.4129638671875,
+          "RectTransformAnchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "RectTransformAnchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "RectTransformPivot": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "LayoutElement": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutElementImpactType": 0,
+          "LayoutElementPreferredWidth": 0.0,
+          "LayoutElementPreferredHeight": 0.0,
+          "LayoutElementMinWidth": 0.0,
+          "LayoutElementMinHeight": 0.0,
+          "LayoutElementFlexibleWidth": 0.0,
+          "LayoutElementFlexibleHeight": 0.0,
+          "CanvasGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "CanvasGroupImpactType": 0,
+          "CanvasGroupAlpha": 0.0,
+          "CanvasGroupInteractable": 0,
+          "Image": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageImpact": 0,
+          "ImageEnabled": 0,
+          "ImageSetSprite": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ImageSetColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "ImageSetMaterialFloatParam": "",
+          "ImageSetMaterialFloatValue": 0.0,
+          "TextMeshPro": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProImpact": 0,
+          "TextMeshProColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "TextMeshProPhraseCode": "",
+          "TextMeshProFontSize": 0.0,
+          "TextMeshProMaxFontSize": 0.0,
+          "TextMeshProFont": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProTextHorizontalAlignment": 0,
+          "TextMeshProFontMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProText": "",
+          "Button": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ButtonInteractable": 0,
+          "Animator": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimImpact": 0,
+          "AnimParamSetBoolTrue": "",
+          "AnimParamSetBoolFalse": "",
+          "AnimParamSetTrigger": "",
+          "AnimParamResetTrigger": "",
+          "AnimParamSetInteger": "",
+          "AnimParamSetIntegerValue": 0,
+          "AnimParamSetFloat": "",
+          "AnimParamSetFloatValue": 0,
+          "AnimationImpactType": 0,
+          "AnimationClip": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "AnimationTarget": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "IsStartTimeRandomized": 0,
+          "LayoutGroup": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "LayoutGroupImpactType": 0,
+          "IsLayoutGroupReversed": 0,
+          "PaddingValue": 0,
+          "InnerStatefulComponent": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "StateRole": 0,
+          "Component": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "ComponentIsEnabled": 0,
+          "Graphic": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "GraphicMaterial": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputField": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          },
+          "TextMeshProInputFieldInteractable": 0
+        }
+      ]
+    }
+  ],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

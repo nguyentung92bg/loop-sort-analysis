@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 12918456320
+  },
+  "m_Name": "",
+  "m_allocatedSystemMemorySizeText": {
+    "m_FileID": 0,
+    "m_PathID": 468
+  },
+  "m_reservedSystemMemorySizeText": {
+    "m_FileID": 0,
+    "m_PathID": 465
+  },
+  "m_monoSystemMemorySizeText": {
+    "m_FileID": 0,
+    "m_PathID": 455
+  }
+}

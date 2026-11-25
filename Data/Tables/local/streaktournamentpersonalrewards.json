@@ -1,0 +1,62 @@
+[
+  {
+    "TokenCount": 5,
+    "Rewards": "life:5",
+    "Id": 1
+  },
+  {
+    "TokenCount": 10,
+    "Rewards": "gold:10",
+    "Id": 2
+  },
+  {
+    "TokenCount": 15,
+    "Rewards": "life:10",
+    "Id": 3
+  },
+  {
+    "TokenCount": 30,
+    "Rewards": "gold:20",
+    "Id": 4
+  },
+  {
+    "TokenCount": 45,
+    "Rewards": "life:15",
+    "Id": 5
+  },
+  {
+    "TokenCount": 60,
+    "Rewards": "undobooster:1",
+    "Id": 6
+  },
+  {
+    "TokenCount": 80,
+    "Rewards": "gold:30",
+    "Id": 7
+  },
+  {
+    "TokenCount": 100,
+    "Rewards": "life:20",
+    "Id": 8
+  },
+  {
+    "TokenCount": 200,
+    "Rewards": "shufflebooster:1",
+    "Id": 9
+  },
+  {
+    "TokenCount": 300,
+    "Rewards": "gold:50",
+    "Id": 10
+  },
+  {
+    "TokenCount": 500,
+    "Rewards": "conveyorcapacitybooster:1\nlife:30",
+    "Id": 11
+  },
+  {
+    "TokenCount": 750,
+    "Rewards": "gold:100",
+    "Id": 12
+  }
+]

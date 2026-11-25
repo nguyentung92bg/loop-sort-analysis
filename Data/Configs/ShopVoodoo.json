@@ -1,0 +1,498 @@
+{
+  "source": "Evidence/Assets/resources.assets_9868.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 83063996416
+    },
+    "m_Name": "ShopVoodoo",
+    "Bundles": [
+      {
+        "DisplayNameKey": "iap_starterbundle",
+        "Id": "com.garawell.loopsort.starterbundle",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 1017
+        },
+        "IconScaleMultiplier": 0.699999988079071,
+        "IconOffset": {
+          "x": 80.0,
+          "y": 15.0
+        },
+        "Options": 6,
+        "Badge": 2,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 877
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 856
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 121
+        }
+      },
+      {
+        "DisplayNameKey": "iap_smallbundle",
+        "Id": "com.garawell.loopsort.smallbundle6",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 809
+        },
+        "IconScaleMultiplier": 0.8184226155281067,
+        "IconOffset": {
+          "x": 57.0,
+          "y": -23.0
+        },
+        "Options": 0,
+        "Badge": 0,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "DisplayNameKey": "iap_mediumbundle",
+        "Id": "com.garawell.loopsort.mediumbundle13",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 784
+        },
+        "IconScaleMultiplier": 0.8104140162467957,
+        "IconOffset": {
+          "x": 43.0,
+          "y": 0.0
+        },
+        "Options": 0,
+        "Badge": 0,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "DisplayNameKey": "iap_bigbundle",
+        "Id": "com.garawell.loopsort.bigbundle27",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 749
+        },
+        "IconScaleMultiplier": 0.9249426126480103,
+        "IconOffset": {
+          "x": 46.0,
+          "y": -30.0
+        },
+        "Options": 0,
+        "Badge": 0,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "DisplayNameKey": "iap_largebundle",
+        "Id": "com.garawell.loopsort.largebundle",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 755
+        },
+        "IconScaleMultiplier": 1.0533939599990845,
+        "IconOffset": {
+          "x": 35.0,
+          "y": -13.0
+        },
+        "Options": 0,
+        "Badge": 0,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "DisplayNameKey": "iap_megabundle",
+        "Id": "com.garawell.loopsort.megabundle",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 1085
+        },
+        "IconScaleMultiplier": 1.0975470542907715,
+        "IconOffset": {
+          "x": 43.0,
+          "y": -21.0
+        },
+        "Options": 0,
+        "Badge": 1,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomItemBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ],
+    "Products": [
+      {
+        "Id": "com.garawell.loopsort.coin2",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 743
+        },
+        "IconScaleMultiplier": 0.699999988079071,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Id": "com.garawell.loopsort.coin8",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 684
+        },
+        "IconScaleMultiplier": 0.75,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Id": "com.garawell.loopsort.coin14",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 1070
+        },
+        "IconScaleMultiplier": 0.8500000238418579,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Id": "com.garawell.loopsort.coin30",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 922
+        },
+        "IconScaleMultiplier": 0.8999999761581421,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Id": "com.garawell.loopsort.coin55",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 718
+        },
+        "IconScaleMultiplier": 0.949999988079071,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      },
+      {
+        "Id": "com.garawell.loopsort.coin100",
+        "Icon": {
+          "m_FileID": 0,
+          "m_PathID": 976
+        },
+        "IconScaleMultiplier": 1.0,
+        "CustomBackground": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomBuyButton": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "CustomDescMaterial": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        }
+      }
+    ],
+    "Icons": {
+      "list": [
+        {
+          "Key": 1,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 883
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1044
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 10,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1021
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 11,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 796
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 12,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1112
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 13,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 963
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1172
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 19,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 847
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 30,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 745
+            },
+            "ScaleMultiplier": 1.0,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 40,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1002
+            },
+            "ScaleMultiplier": 0.8500000238418579,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 50,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 690
+            },
+            "ScaleMultiplier": 1.2000000476837158,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "Key": 60,
+          "Value": {
+            "Sprite": {
+              "m_FileID": 0,
+              "m_PathID": 1147
+            },
+            "ScaleMultiplier": 0.8700000047683716,
+            "Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        }
+      ],
+      "keyCollision": 0
+    }
+  }
+}

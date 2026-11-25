@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 13136560128
+  },
+  "m_Name": "",
+  "manager": {
+    "m_FileID": 0,
+    "m_PathID": 330
+  },
+  "maxLogCount": 2147483647,
+  "maxElapsedTime": Infinity
+}

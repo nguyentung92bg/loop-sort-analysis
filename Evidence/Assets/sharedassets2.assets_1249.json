@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 202
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 54945382400
+  },
+  "m_Name": "",
+  "bannerAd": {
+    "m_FileID": 0,
+    "m_PathID": 1148
+  },
+  "interstitialAd": {
+    "m_FileID": 0,
+    "m_PathID": 1281
+  },
+  "rewardedAd": {
+    "m_FileID": 0,
+    "m_PathID": 1311
+  },
+  "appOpenAd": {
+    "m_FileID": 0,
+    "m_PathID": 1288
+  },
+  "nativeAd": {
+    "m_FileID": 0,
+    "m_PathID": 1303
+  },
+  "mrecAd": {
+    "m_FileID": 0,
+    "m_PathID": 1035
+  }
+}

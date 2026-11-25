@@ -1,0 +1,8857 @@
+[
+  {
+    "id": 4412,
+    "name": "<Module>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4412.cs"
+  },
+  {
+    "id": 4413,
+    "name": "EmbeddedAttribute",
+    "kind": "class",
+    "namespace": "Microsoft.CodeAnalysis",
+    "file": "Evidence/Classes/4413.cs"
+  },
+  {
+    "id": 4414,
+    "name": "IsUnmanagedAttribute",
+    "kind": "class",
+    "namespace": "System.Runtime.CompilerServices",
+    "file": "Evidence/Classes/4414.cs"
+  },
+  {
+    "id": 4415,
+    "name": "Block.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4415.cs"
+  },
+  {
+    "id": 4416,
+    "name": "Block",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4416.cs"
+  },
+  {
+    "id": 4417,
+    "name": "IBlockContainer",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4417.cs"
+  },
+  {
+    "id": 4418,
+    "name": "IBlockFeature",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4418.cs"
+  },
+  {
+    "id": 4419,
+    "name": "IBlockTransferHandler",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4419.cs"
+  },
+  {
+    "id": 4420,
+    "name": "BlockCarrierMeshSystem.Rule",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4420.cs"
+  },
+  {
+    "id": 4421,
+    "name": "BlockCarrierMeshSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4421.cs"
+  },
+  {
+    "id": 4422,
+    "name": "CarrierBlockGroupUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4422.cs"
+  },
+  {
+    "id": 4423,
+    "name": "BlockGroupShapeSystem.<RemoveShape>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4423.cs"
+  },
+  {
+    "id": 4424,
+    "name": "BlockGroupShapeSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4424.cs"
+  },
+  {
+    "id": 4425,
+    "name": "BlockNextTransferSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4425.cs"
+  },
+  {
+    "id": 4426,
+    "name": "BlockNextTransfer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4426.cs"
+  },
+  {
+    "id": 4427,
+    "name": "BlockNextTransferUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4427.cs"
+  },
+  {
+    "id": 4428,
+    "name": "BlockOutlineSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4428.cs"
+  },
+  {
+    "id": 4429,
+    "name": "BlockPhysicsSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4429.cs"
+  },
+  {
+    "id": 4430,
+    "name": "BlockPhysicsActive",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4430.cs"
+  },
+  {
+    "id": 4431,
+    "name": "BlockTransferSystem.<TransferBlocks>d__33",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4431.cs"
+  },
+  {
+    "id": 4432,
+    "name": "BlockTransferSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4432.cs"
+  },
+  {
+    "id": 4433,
+    "name": "BlockTransferStartMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4433.cs"
+  },
+  {
+    "id": 4434,
+    "name": "BlockTransferCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4434.cs"
+  },
+  {
+    "id": 4435,
+    "name": "BlockTransferRejectMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4435.cs"
+  },
+  {
+    "id": 4436,
+    "name": "BlockCarrierMeshUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4436.cs"
+  },
+  {
+    "id": 4437,
+    "name": "BlockLoop",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4437.cs"
+  },
+  {
+    "id": 4438,
+    "name": "BlockTransferCarrier",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4438.cs"
+  },
+  {
+    "id": 4439,
+    "name": "BlockGroup",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4439.cs"
+  },
+  {
+    "id": 4440,
+    "name": "BlockTransferBond",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4440.cs"
+  },
+  {
+    "id": 4441,
+    "name": "BlockTrigger",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4441.cs"
+  },
+  {
+    "id": 4442,
+    "name": "BlockTriggerSystem.<>c__DisplayClass9_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4442.cs"
+  },
+  {
+    "id": 4443,
+    "name": "BlockTriggerSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4443.cs"
+  },
+  {
+    "id": 4444,
+    "name": "HiddenBlock",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4444.cs"
+  },
+  {
+    "id": 4445,
+    "name": "HiddenBlockSystem.<HandleOpen>d__21",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4445.cs"
+  },
+  {
+    "id": 4446,
+    "name": "HiddenBlockSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4446.cs"
+  },
+  {
+    "id": 4447,
+    "name": "HiddenBlockRevealMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4447.cs"
+  },
+  {
+    "id": 4448,
+    "name": "KeyBlockGroup",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4448.cs"
+  },
+  {
+    "id": 4449,
+    "name": "KeyBlockCollectMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4449.cs"
+  },
+  {
+    "id": 4450,
+    "name": "KeyBlockGroupSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4450.cs"
+  },
+  {
+    "id": 4451,
+    "name": "MetalBlock",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4451.cs"
+  },
+  {
+    "id": 4452,
+    "name": "MetalBlockSystem.MetalPile",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4452.cs"
+  },
+  {
+    "id": 4453,
+    "name": "MetalBlockSystem.MagnetPiece",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4453.cs"
+  },
+  {
+    "id": 4454,
+    "name": "MetalBlockSystem.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4454.cs"
+  },
+  {
+    "id": 4455,
+    "name": "MetalBlockSystem.<>c__DisplayClass55_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4455.cs"
+  },
+  {
+    "id": 4456,
+    "name": "MetalBlockSystem.<>c__DisplayClass61_0.<<ApplyMagnetMotion>g__UpdatePose|1>d",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4456.cs"
+  },
+  {
+    "id": 4457,
+    "name": "MetalBlockSystem.<>c__DisplayClass61_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4457.cs"
+  },
+  {
+    "id": 4458,
+    "name": "MetalBlockSystem.<>c__DisplayClass65_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4458.cs"
+  },
+  {
+    "id": 4459,
+    "name": "MetalBlockSystem.<ApplyMagnetMotion>d__61",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4459.cs"
+  },
+  {
+    "id": 4460,
+    "name": "MetalBlockSystem.<PullPieceToMagnet>d__65",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4460.cs"
+  },
+  {
+    "id": 4461,
+    "name": "MetalBlockSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4461.cs"
+  },
+  {
+    "id": 4462,
+    "name": "StickyBlockGroup",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4462.cs"
+  },
+  {
+    "id": 4463,
+    "name": "StickyBlockGroupSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4463.cs"
+  },
+  {
+    "id": 4464,
+    "name": "SurpriseBlock",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4464.cs"
+  },
+  {
+    "id": 4465,
+    "name": "SurpriseBlockSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4465.cs"
+  },
+  {
+    "id": 4466,
+    "name": "CapacityBooster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4466.cs"
+  },
+  {
+    "id": 4467,
+    "name": "CapacityBoosterSystem.<>c__DisplayClass18_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4467.cs"
+  },
+  {
+    "id": 4468,
+    "name": "CapacityBoosterSystem.<IncreaseCapacity>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4468.cs"
+  },
+  {
+    "id": 4469,
+    "name": "CapacityBoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4469.cs"
+  },
+  {
+    "id": 4470,
+    "name": "ConveyorCapacityBooster.<Apply>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4470.cs"
+  },
+  {
+    "id": 4471,
+    "name": "ConveyorCapacityBooster.<ApplyIconMotion>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4471.cs"
+  },
+  {
+    "id": 4472,
+    "name": "ConveyorCapacityBooster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4472.cs"
+  },
+  {
+    "id": 4473,
+    "name": "ConveyorCapacityBoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4473.cs"
+  },
+  {
+    "id": 4474,
+    "name": "SelectBooster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4474.cs"
+  },
+  {
+    "id": 4475,
+    "name": "SelectBoosterSystem.<ApplySelectOutlineEffect>d__27",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4475.cs"
+  },
+  {
+    "id": 4476,
+    "name": "SelectBoosterSystem.<ClearSelectables>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4476.cs"
+  },
+  {
+    "id": 4477,
+    "name": "SelectBoosterSystem.<Select>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4477.cs"
+  },
+  {
+    "id": 4478,
+    "name": "SelectBoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4478.cs"
+  },
+  {
+    "id": 4479,
+    "name": "SelectBoosterUseMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4479.cs"
+  },
+  {
+    "id": 4480,
+    "name": "ShuffleBooster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4480.cs"
+  },
+  {
+    "id": 4481,
+    "name": "ShuffleBoosterSystem.<ApplyShuffleGroupBlockMotion>d__18",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4481.cs"
+  },
+  {
+    "id": 4482,
+    "name": "ShuffleBoosterSystem.<ApplyShuffleSphereMotion>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4482.cs"
+  },
+  {
+    "id": 4483,
+    "name": "ShuffleBoosterSystem.<Shuffle>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4483.cs"
+  },
+  {
+    "id": 4484,
+    "name": "ShuffleBoosterSystem.<ShuffleBlocks>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4484.cs"
+  },
+  {
+    "id": 4485,
+    "name": "ShuffleBoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4485.cs"
+  },
+  {
+    "id": 4486,
+    "name": "ShuffleCarrierMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4486.cs"
+  },
+  {
+    "id": 4487,
+    "name": "UndoBooster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4487.cs"
+  },
+  {
+    "id": 4488,
+    "name": "UndoBoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4488.cs"
+  },
+  {
+    "id": 4489,
+    "name": "CarpetCarrierGroup",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4489.cs"
+  },
+  {
+    "id": 4490,
+    "name": "CarpetCarrierGroupControl.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4490.cs"
+  },
+  {
+    "id": 4491,
+    "name": "CarpetCarrierGroupControl",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4491.cs"
+  },
+  {
+    "id": 4492,
+    "name": "CarpetCarrierGroupSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4492.cs"
+  },
+  {
+    "id": 4493,
+    "name": "CarpetCarrierGroupV2.<>c__DisplayClass14_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4493.cs"
+  },
+  {
+    "id": 4494,
+    "name": "CarpetCarrierGroupV2.<ApplyRemoveDividerMotion>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4494.cs"
+  },
+  {
+    "id": 4495,
+    "name": "CarpetCarrierGroupV2",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4495.cs"
+  },
+  {
+    "id": 4496,
+    "name": "Carrier.<AddBlock>d__116",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4496.cs"
+  },
+  {
+    "id": 4497,
+    "name": "Carrier.<ApplyCloseBackMotion>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4497.cs"
+  },
+  {
+    "id": 4498,
+    "name": "Carrier.<ApplyOpenBackMotion>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4498.cs"
+  },
+  {
+    "id": 4499,
+    "name": "Carrier.<SetCompleteTransferDelay>d__121",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4499.cs"
+  },
+  {
+    "id": 4500,
+    "name": "Carrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4500.cs"
+  },
+  {
+    "id": 4501,
+    "name": "CarrierSelectMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4501.cs"
+  },
+  {
+    "id": 4502,
+    "name": "CarrierCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4502.cs"
+  },
+  {
+    "id": 4503,
+    "name": "CarrierAddBlockMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4503.cs"
+  },
+  {
+    "id": 4504,
+    "name": "CarrierRemoveBlockMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4504.cs"
+  },
+  {
+    "id": 4505,
+    "name": "CarrierInteractUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4505.cs"
+  },
+  {
+    "id": 4506,
+    "name": "CarrierBlockCreateSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4506.cs"
+  },
+  {
+    "id": 4507,
+    "name": "CarrierBlockCreateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4507.cs"
+  },
+  {
+    "id": 4508,
+    "name": "CarrierBlockCreateCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4508.cs"
+  },
+  {
+    "id": 4509,
+    "name": "CarrierOutlineSystem.<HandleOutline>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4509.cs"
+  },
+  {
+    "id": 4510,
+    "name": "CarrierOutlineSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4510.cs"
+  },
+  {
+    "id": 4511,
+    "name": "CarrierSelectSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4511.cs"
+  },
+  {
+    "id": 4512,
+    "name": "BlockTransferMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4512.cs"
+  },
+  {
+    "id": 4513,
+    "name": "CarrierVisibilitySystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4513.cs"
+  },
+  {
+    "id": 4514,
+    "name": "ConnectedCarrierGroup.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4514.cs"
+  },
+  {
+    "id": 4515,
+    "name": "ConnectedCarrierGroup",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4515.cs"
+  },
+  {
+    "id": 4516,
+    "name": "ConnectedCarrierGroupSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4516.cs"
+  },
+  {
+    "id": 4517,
+    "name": "ElevatorHole.<>c__DisplayClass34_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4517.cs"
+  },
+  {
+    "id": 4518,
+    "name": "ElevatorHole.<>c__DisplayClass35_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4518.cs"
+  },
+  {
+    "id": 4519,
+    "name": "ElevatorHole.<Lower>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4519.cs"
+  },
+  {
+    "id": 4520,
+    "name": "ElevatorHole.<Rise>d__31",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4520.cs"
+  },
+  {
+    "id": 4521,
+    "name": "ElevatorHole.<Swap>d__33",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4521.cs"
+  },
+  {
+    "id": 4522,
+    "name": "ElevatorHole",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4522.cs"
+  },
+  {
+    "id": 4523,
+    "name": "ElevatorHoleSystem.<Move>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4523.cs"
+  },
+  {
+    "id": 4524,
+    "name": "ElevatorHoleSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4524.cs"
+  },
+  {
+    "id": 4525,
+    "name": "ElevatorMember",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4525.cs"
+  },
+  {
+    "id": 4526,
+    "name": "GlassCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4526.cs"
+  },
+  {
+    "id": 4527,
+    "name": "GlassCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4527.cs"
+  },
+  {
+    "id": 4528,
+    "name": "HiddenCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4528.cs"
+  },
+  {
+    "id": 4529,
+    "name": "HiddenCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4529.cs"
+  },
+  {
+    "id": 4530,
+    "name": "IceCarrier.<BreakDelay>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4530.cs"
+  },
+  {
+    "id": 4531,
+    "name": "IceCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4531.cs"
+  },
+  {
+    "id": 4532,
+    "name": "IceCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4532.cs"
+  },
+  {
+    "id": 4533,
+    "name": "LockCarrierGroup.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4533.cs"
+  },
+  {
+    "id": 4534,
+    "name": "LockCarrierGroup.<>c__DisplayClass17_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4534.cs"
+  },
+  {
+    "id": 4535,
+    "name": "LockCarrierGroup.<OnLevelAnimationEnd>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4535.cs"
+  },
+  {
+    "id": 4536,
+    "name": "LockCarrierGroup.<Unlock>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4536.cs"
+  },
+  {
+    "id": 4537,
+    "name": "LockCarrierGroup",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4537.cs"
+  },
+  {
+    "id": 4538,
+    "name": "LockCarrierGroupSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4538.cs"
+  },
+  {
+    "id": 4539,
+    "name": "LongCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4539.cs"
+  },
+  {
+    "id": 4540,
+    "name": "RockCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4540.cs"
+  },
+  {
+    "id": 4541,
+    "name": "RockCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4541.cs"
+  },
+  {
+    "id": 4542,
+    "name": "TagCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4542.cs"
+  },
+  {
+    "id": 4543,
+    "name": "TagCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4543.cs"
+  },
+  {
+    "id": 4544,
+    "name": "TunnelCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4544.cs"
+  },
+  {
+    "id": 4545,
+    "name": "TunnelCarrierSystem.<EnableNextTransferBlocks>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4545.cs"
+  },
+  {
+    "id": 4546,
+    "name": "TunnelCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4546.cs"
+  },
+  {
+    "id": 4547,
+    "name": "VaultCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4547.cs"
+  },
+  {
+    "id": 4548,
+    "name": "VaultCarrierSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4548.cs"
+  },
+  {
+    "id": 4549,
+    "name": "Conveyor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4549.cs"
+  },
+  {
+    "id": 4550,
+    "name": "ConveyorArrowSystem.<CreateArrows>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4550.cs"
+  },
+  {
+    "id": 4551,
+    "name": "ConveyorArrowSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4551.cs"
+  },
+  {
+    "id": 4552,
+    "name": "ConveyorBlock",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4552.cs"
+  },
+  {
+    "id": 4553,
+    "name": "ConveyorColliderSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4553.cs"
+  },
+  {
+    "id": 4554,
+    "name": "ConveyorEndMeshSystem.<>c__DisplayClass8_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4554.cs"
+  },
+  {
+    "id": 4555,
+    "name": "ConveyorEndMeshSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4555.cs"
+  },
+  {
+    "id": 4556,
+    "name": "ConveyorRedSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4556.cs"
+  },
+  {
+    "id": 4557,
+    "name": "ConveyorSlot.<AddBlock>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4557.cs"
+  },
+  {
+    "id": 4558,
+    "name": "ConveyorSlot",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4558.cs"
+  },
+  {
+    "id": 4559,
+    "name": "ConveyorSlotAddBlockMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4559.cs"
+  },
+  {
+    "id": 4560,
+    "name": "ConveyorSlotRemoveBlockMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4560.cs"
+  },
+  {
+    "id": 4561,
+    "name": "BlockTakeOffMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4561.cs"
+  },
+  {
+    "id": 4562,
+    "name": "ConveyorSlotCreateSystem.<CreateSlots>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4562.cs"
+  },
+  {
+    "id": 4563,
+    "name": "ConveyorSlotCreateSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4563.cs"
+  },
+  {
+    "id": 4564,
+    "name": "SlotCreateCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4564.cs"
+  },
+  {
+    "id": 4565,
+    "name": "ConveyorSpeedSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4565.cs"
+  },
+  {
+    "id": 4566,
+    "name": "ConveyorView",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4566.cs"
+  },
+  {
+    "id": 4567,
+    "name": "Surface",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4567.cs"
+  },
+  {
+    "id": 4568,
+    "name": "BlockConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4568.cs"
+  },
+  {
+    "id": 4569,
+    "name": "Blocks.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4569.cs"
+  },
+  {
+    "id": 4570,
+    "name": "Blocks",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4570.cs"
+  },
+  {
+    "id": 4571,
+    "name": "CameraConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4571.cs"
+  },
+  {
+    "id": 4572,
+    "name": "CarrierConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4572.cs"
+  },
+  {
+    "id": 4573,
+    "name": "Carriers.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4573.cs"
+  },
+  {
+    "id": 4574,
+    "name": "Carriers",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4574.cs"
+  },
+  {
+    "id": 4575,
+    "name": "ConveyorConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4575.cs"
+  },
+  {
+    "id": 4576,
+    "name": "RocketConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4576.cs"
+  },
+  {
+    "id": 4577,
+    "name": "HomeAreaScene",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4577.cs"
+  },
+  {
+    "id": 4578,
+    "name": "MainMenuCarrier.<HandleAnimation>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4578.cs"
+  },
+  {
+    "id": 4579,
+    "name": "MainMenuCarrier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4579.cs"
+  },
+  {
+    "id": 4580,
+    "name": "Rocket",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4580.cs"
+  },
+  {
+    "id": 4581,
+    "name": "RocketSystem.<>c__DisplayClass36_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4581.cs"
+  },
+  {
+    "id": 4582,
+    "name": "RocketSystem.<AssignFakeHiddenBlocks>d__28",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4582.cs"
+  },
+  {
+    "id": 4583,
+    "name": "RocketSystem.<Fire>d__24",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4583.cs"
+  },
+  {
+    "id": 4584,
+    "name": "RocketSystem.<HandleCoreStreak>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4584.cs"
+  },
+  {
+    "id": 4585,
+    "name": "RocketSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4585.cs"
+  },
+  {
+    "id": 4586,
+    "name": "CoreStreakRocketFireMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4586.cs"
+  },
+  {
+    "id": 4587,
+    "name": "SandConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4587.cs"
+  },
+  {
+    "id": 4588,
+    "name": "SandFlowPacket",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4588.cs"
+  },
+  {
+    "id": 4589,
+    "name": "SandPourStyle",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4589.cs"
+  },
+  {
+    "id": 4590,
+    "name": "SandFlowRenderer.PileGrain",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4590.cs"
+  },
+  {
+    "id": 4591,
+    "name": "SandFlowRenderer.ReformJob",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4591.cs"
+  },
+  {
+    "id": 4592,
+    "name": "SandFlowRenderer.DepositPacket",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4592.cs"
+  },
+  {
+    "id": 4593,
+    "name": "SandFlowRenderer.DepositJob",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4593.cs"
+  },
+  {
+    "id": 4594,
+    "name": "SandFlowRenderer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4594.cs"
+  },
+  {
+    "id": 4595,
+    "name": "SandFlowSystem.Landing",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4595.cs"
+  },
+  {
+    "id": 4596,
+    "name": "SandFlowSystem.Approach",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4596.cs"
+  },
+  {
+    "id": 4597,
+    "name": "SandFlowSystem.CarrierTrigger",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4597.cs"
+  },
+  {
+    "id": 4598,
+    "name": "SandFlowSystem.JellyShape",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4598.cs"
+  },
+  {
+    "id": 4599,
+    "name": "SandFlowSystem.JellyState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4599.cs"
+  },
+  {
+    "id": 4600,
+    "name": "SandFlowSystem.Pour",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4600.cs"
+  },
+  {
+    "id": 4601,
+    "name": "SandFlowSystem.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4601.cs"
+  },
+  {
+    "id": 4602,
+    "name": "SandFlowSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4602.cs"
+  },
+  {
+    "id": 4603,
+    "name": "SandJellyRenderer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4603.cs"
+  },
+  {
+    "id": 4604,
+    "name": "SandPileDynamics",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4604.cs"
+  },
+  {
+    "id": 4605,
+    "name": "SandPileField.StepJob",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4605.cs"
+  },
+  {
+    "id": 4606,
+    "name": "SandPileField",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4606.cs"
+  },
+  {
+    "id": 4607,
+    "name": "CameraBoundsSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4607.cs"
+  },
+  {
+    "id": 4608,
+    "name": "CameraUpdateBoundsMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4608.cs"
+  },
+  {
+    "id": 4609,
+    "name": "CameraUpdateCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4609.cs"
+  },
+  {
+    "id": 4610,
+    "name": "CameraTransitionSystem.<HandleLevelEnter>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4610.cs"
+  },
+  {
+    "id": 4611,
+    "name": "CameraTransitionSystem.<HandleLevelExit>d__13",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4611.cs"
+  },
+  {
+    "id": 4612,
+    "name": "CameraTransitionSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4612.cs"
+  },
+  {
+    "id": 4613,
+    "name": "LevelTransitionCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4613.cs"
+  },
+  {
+    "id": 4614,
+    "name": "LevelAnimationSystem.<>c__DisplayClass28_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4614.cs"
+  },
+  {
+    "id": 4615,
+    "name": "LevelAnimationSystem.<ApplyLevelEnter>d__31",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4615.cs"
+  },
+  {
+    "id": 4616,
+    "name": "LevelAnimationSystem.<ApplyLevelExit>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4616.cs"
+  },
+  {
+    "id": 4617,
+    "name": "LevelAnimationSystem.<HandleLevelEnterAnimation>d__26",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4617.cs"
+  },
+  {
+    "id": 4618,
+    "name": "LevelAnimationSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4618.cs"
+  },
+  {
+    "id": 4619,
+    "name": "LevelAnimationEnterStartMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4619.cs"
+  },
+  {
+    "id": 4620,
+    "name": "LevelAnimationEnterCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4620.cs"
+  },
+  {
+    "id": 4621,
+    "name": "LevelAnimationCarrierCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4621.cs"
+  },
+  {
+    "id": 4622,
+    "name": "ILevelAnimationListener",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4622.cs"
+  },
+  {
+    "id": 4623,
+    "name": "LevelBuildSystem.<Build>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4623.cs"
+  },
+  {
+    "id": 4624,
+    "name": "LevelBuildSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4624.cs"
+  },
+  {
+    "id": 4625,
+    "name": "LevelBuildCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4625.cs"
+  },
+  {
+    "id": 4626,
+    "name": "CarrierBlockArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4626.cs"
+  },
+  {
+    "id": 4627,
+    "name": "LevelEnvironmentSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4627.cs"
+  },
+  {
+    "id": 4628,
+    "name": "LevelEnvironmentUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4628.cs"
+  },
+  {
+    "id": 4629,
+    "name": "LoseSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4629.cs"
+  },
+  {
+    "id": 4630,
+    "name": "LoseReason",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4630.cs"
+  },
+  {
+    "id": 4631,
+    "name": "ReviveSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4631.cs"
+  },
+  {
+    "id": 4632,
+    "name": "TutorialSystem.<>c__DisplayClass12_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4632.cs"
+  },
+  {
+    "id": 4633,
+    "name": "TutorialSystem.<HandleTutorial>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4633.cs"
+  },
+  {
+    "id": 4634,
+    "name": "TutorialSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4634.cs"
+  },
+  {
+    "id": 4635,
+    "name": "TutorialCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4635.cs"
+  },
+  {
+    "id": 4636,
+    "name": "WinSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4636.cs"
+  },
+  {
+    "id": 4637,
+    "name": "ConveyorViewElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4637.cs"
+  },
+  {
+    "id": 4638,
+    "name": "FirstLevelTutorial.<Play>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4638.cs"
+  },
+  {
+    "id": 4639,
+    "name": "FirstLevelTutorial",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4639.cs"
+  },
+  {
+    "id": 4640,
+    "name": "SecondLevelTutorial.<Play>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4640.cs"
+  },
+  {
+    "id": 4641,
+    "name": "SecondLevelTutorial",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4641.cs"
+  },
+  {
+    "id": 4642,
+    "name": "BoosterBase.<HandleCameraBlend>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4642.cs"
+  },
+  {
+    "id": 4643,
+    "name": "BoosterBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4643.cs"
+  },
+  {
+    "id": 4644,
+    "name": "BoosterSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4644.cs"
+  },
+  {
+    "id": 4645,
+    "name": "BoosterSelectedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4645.cs"
+  },
+  {
+    "id": 4646,
+    "name": "BoosterCanceledMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4646.cs"
+  },
+  {
+    "id": 4647,
+    "name": "BoosterCompletedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4647.cs"
+  },
+  {
+    "id": 4648,
+    "name": "Boosters.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4648.cs"
+  },
+  {
+    "id": 4649,
+    "name": "Boosters",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4649.cs"
+  },
+  {
+    "id": 4650,
+    "name": "BoosterType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4650.cs"
+  },
+  {
+    "id": 4651,
+    "name": "Extensions.<>c__26<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4651.cs"
+  },
+  {
+    "id": 4652,
+    "name": "Extensions.<>c__27<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4652.cs"
+  },
+  {
+    "id": 4653,
+    "name": "Extensions.<>c__28<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4653.cs"
+  },
+  {
+    "id": 4654,
+    "name": "Extensions.<>c__29<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4654.cs"
+  },
+  {
+    "id": 4655,
+    "name": "Extensions.<>c__30<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4655.cs"
+  },
+  {
+    "id": 4656,
+    "name": "Extensions.<>c__31<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4656.cs"
+  },
+  {
+    "id": 4657,
+    "name": "Extensions.<>c__32<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4657.cs"
+  },
+  {
+    "id": 4658,
+    "name": "Extensions.<>c__33<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4658.cs"
+  },
+  {
+    "id": 4659,
+    "name": "Extensions.<>c__34<TOptions, TAdapter>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4659.cs"
+  },
+  {
+    "id": 4660,
+    "name": "Extensions.<>c__DisplayClass38_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4660.cs"
+  },
+  {
+    "id": 4661,
+    "name": "Extensions.<WaitUntilComplete>d__37",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4661.cs"
+  },
+  {
+    "id": 4662,
+    "name": "Extensions.<WaitUntilFirstEvent>d__38",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4662.cs"
+  },
+  {
+    "id": 4663,
+    "name": "Extensions",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4663.cs"
+  },
+  {
+    "id": 4664,
+    "name": "ICloudPrefsStore",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4664.cs"
+  },
+  {
+    "id": 4665,
+    "name": "ICloudPrefs",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4665.cs"
+  },
+  {
+    "id": 4666,
+    "name": "CloudPrefsRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4666.cs"
+  },
+  {
+    "id": 4667,
+    "name": "CloudPrefsInt",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4667.cs"
+  },
+  {
+    "id": 4668,
+    "name": "CloudPrefsFloat",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4668.cs"
+  },
+  {
+    "id": 4669,
+    "name": "CloudPrefsString",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4669.cs"
+  },
+  {
+    "id": 4670,
+    "name": "CloudPrefsBool",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4670.cs"
+  },
+  {
+    "id": 4671,
+    "name": "CloudPrefsEnum<T>",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4671.cs"
+  },
+  {
+    "id": 4672,
+    "name": "CloudPrefsT<T>",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4672.cs"
+  },
+  {
+    "id": 4673,
+    "name": "CloudSaveConflict.<OnConflictResolved>d__9",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4673.cs"
+  },
+  {
+    "id": 4674,
+    "name": "CloudSaveConflict",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4674.cs"
+  },
+  {
+    "id": 4675,
+    "name": "CloudSaveConflictResolution",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4675.cs"
+  },
+  {
+    "id": 4676,
+    "name": "CloudSaveConflictMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4676.cs"
+  },
+  {
+    "id": 4677,
+    "name": "CloudSaveModule.<DeleteAll>d__24",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4677.cs"
+  },
+  {
+    "id": 4678,
+    "name": "CloudSaveModule.<FlushDirty>d__22",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4678.cs"
+  },
+  {
+    "id": 4679,
+    "name": "CloudSaveModule.<InitializeSdk>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4679.cs"
+  },
+  {
+    "id": 4680,
+    "name": "CloudSaveModule.<TryReconnect>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4680.cs"
+  },
+  {
+    "id": 4681,
+    "name": "CloudSaveModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4681.cs"
+  },
+  {
+    "id": 4682,
+    "name": "CloudSaveFlushResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4682.cs"
+  },
+  {
+    "id": 4683,
+    "name": "AccountSwitchedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4683.cs"
+  },
+  {
+    "id": 4684,
+    "name": "ICloudSaveProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4684.cs"
+  },
+  {
+    "id": 4685,
+    "name": "IGameUpdateProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4685.cs"
+  },
+  {
+    "id": 4686,
+    "name": "BootstrapScope.<InitializeInstallers>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4686.cs"
+  },
+  {
+    "id": 4687,
+    "name": "BootstrapScope",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4687.cs"
+  },
+  {
+    "id": 4688,
+    "name": "ConsoleListener",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4688.cs"
+  },
+  {
+    "id": 4689,
+    "name": "ConsoleMethods",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4689.cs"
+  },
+  {
+    "id": 4690,
+    "name": "Game",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4690.cs"
+  },
+  {
+    "id": 4691,
+    "name": "GameBehaviourBase.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4691.cs"
+  },
+  {
+    "id": 4692,
+    "name": "GameBehaviourBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4692.cs"
+  },
+  {
+    "id": 4693,
+    "name": "Enabled",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4693.cs"
+  },
+  {
+    "id": 4694,
+    "name": "BehaviourView<T>",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4694.cs"
+  },
+  {
+    "id": 4695,
+    "name": "GameBehaviourRentedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4695.cs"
+  },
+  {
+    "id": 4696,
+    "name": "GameBehaviourReturnedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4696.cs"
+  },
+  {
+    "id": 4697,
+    "name": "IPadOrientation",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4697.cs"
+  },
+  {
+    "id": 4698,
+    "name": "Prefs.BakingSheetConverterType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4698.cs"
+  },
+  {
+    "id": 4699,
+    "name": "Prefs.EditorSdkType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4699.cs"
+  },
+  {
+    "id": 4700,
+    "name": "Prefs",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4700.cs"
+  },
+  {
+    "id": 4701,
+    "name": "Store",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4701.cs"
+  },
+  {
+    "id": 4702,
+    "name": "TimeProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4702.cs"
+  },
+  {
+    "id": 4703,
+    "name": "Colors.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4703.cs"
+  },
+  {
+    "id": 4704,
+    "name": "Colors",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4704.cs"
+  },
+  {
+    "id": 4705,
+    "name": "BaseColor",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4705.cs"
+  },
+  {
+    "id": 4706,
+    "name": "ColorShade",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4706.cs"
+  },
+  {
+    "id": 4707,
+    "name": "ColorType",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4707.cs"
+  },
+  {
+    "id": 4708,
+    "name": "Data",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4708.cs"
+  },
+  {
+    "id": 4709,
+    "name": "DataContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4709.cs"
+  },
+  {
+    "id": 4710,
+    "name": "DataInstaller.<>c__DisplayClass2_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4710.cs"
+  },
+  {
+    "id": 4711,
+    "name": "DataInstaller.<Initialize>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4711.cs"
+  },
+  {
+    "id": 4712,
+    "name": "DataInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4712.cs"
+  },
+  {
+    "id": 4713,
+    "name": "DataFlags",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4713.cs"
+  },
+  {
+    "id": 4714,
+    "name": "Features.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4714.cs"
+  },
+  {
+    "id": 4715,
+    "name": "Features",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4715.cs"
+  },
+  {
+    "id": 4716,
+    "name": "FeatureType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4716.cs"
+  },
+  {
+    "id": 4717,
+    "name": "IFeatureProcessor",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4717.cs"
+  },
+  {
+    "id": 4718,
+    "name": "FeatureContainer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4718.cs"
+  },
+  {
+    "id": 4719,
+    "name": "Materials",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4719.cs"
+  },
+  {
+    "id": 4720,
+    "name": "MonitorContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4720.cs"
+  },
+  {
+    "id": 4721,
+    "name": "Particles",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4721.cs"
+  },
+  {
+    "id": 4722,
+    "name": "Prefabs",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4722.cs"
+  },
+  {
+    "id": 4723,
+    "name": "Sounds",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4723.cs"
+  },
+  {
+    "id": 4724,
+    "name": "Themes",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4724.cs"
+  },
+  {
+    "id": 4725,
+    "name": "ThemeType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4725.cs"
+  },
+  {
+    "id": 4726,
+    "name": "GameMachine",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4726.cs"
+  },
+  {
+    "id": 4727,
+    "name": "GameMachineInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4727.cs"
+  },
+  {
+    "id": 4728,
+    "name": "PlaySessionBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4728.cs"
+  },
+  {
+    "id": 4729,
+    "name": "MainPlaySession",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4729.cs"
+  },
+  {
+    "id": 4730,
+    "name": "GameBootstrapState.<GateGameUpdate>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4730.cs"
+  },
+  {
+    "id": 4731,
+    "name": "GameBootstrapState.<OnEnter>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4731.cs"
+  },
+  {
+    "id": 4732,
+    "name": "GameBootstrapState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4732.cs"
+  },
+  {
+    "id": 4733,
+    "name": "IProviderInitialize",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4733.cs"
+  },
+  {
+    "id": 4734,
+    "name": "LoginMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4734.cs"
+  },
+  {
+    "id": 4735,
+    "name": "GameLoseState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4735.cs"
+  },
+  {
+    "id": 4736,
+    "name": "LevelLoseMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4736.cs"
+  },
+  {
+    "id": 4737,
+    "name": "GameMainMenuState.<HandleAreaComplete>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4737.cs"
+  },
+  {
+    "id": 4738,
+    "name": "GameMainMenuState.<HandleAreaProgress>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4738.cs"
+  },
+  {
+    "id": 4739,
+    "name": "GameMainMenuState.<HandleHomeActions>d__13",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4739.cs"
+  },
+  {
+    "id": 4740,
+    "name": "GameMainMenuState.<OnEnterAsync>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4740.cs"
+  },
+  {
+    "id": 4741,
+    "name": "GameMainMenuState.<PlayAreaProgress>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4741.cs"
+  },
+  {
+    "id": 4742,
+    "name": "GameMainMenuState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4742.cs"
+  },
+  {
+    "id": 4743,
+    "name": "GamePlayingState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4743.cs"
+  },
+  {
+    "id": 4744,
+    "name": "GameReviveState.<OnEnterAsync>d__13",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4744.cs"
+  },
+  {
+    "id": 4745,
+    "name": "GameReviveState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4745.cs"
+  },
+  {
+    "id": 4746,
+    "name": "GameSettingsState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4746.cs"
+  },
+  {
+    "id": 4747,
+    "name": "GameStartState.<OnEnterAsync>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4747.cs"
+  },
+  {
+    "id": 4748,
+    "name": "GameStartState.<TrackStartGame>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4748.cs"
+  },
+  {
+    "id": 4749,
+    "name": "GameStartState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4749.cs"
+  },
+  {
+    "id": 4750,
+    "name": "GameStateBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4750.cs"
+  },
+  {
+    "id": 4751,
+    "name": "GameStateEnterMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4751.cs"
+  },
+  {
+    "id": 4752,
+    "name": "GameStateExitMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4752.cs"
+  },
+  {
+    "id": 4753,
+    "name": "GameWinState.<OnEnterAsync>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4753.cs"
+  },
+  {
+    "id": 4754,
+    "name": "GameWinState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4754.cs"
+  },
+  {
+    "id": 4755,
+    "name": "LevelWinMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4755.cs"
+  },
+  {
+    "id": 4756,
+    "name": "CellBase.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4756.cs"
+  },
+  {
+    "id": 4757,
+    "name": "CellBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4757.cs"
+  },
+  {
+    "id": 4758,
+    "name": "CellDistanceComparer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4758.cs"
+  },
+  {
+    "id": 4759,
+    "name": "CellElementBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4759.cs"
+  },
+  {
+    "id": 4760,
+    "name": "CellElements.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4760.cs"
+  },
+  {
+    "id": 4761,
+    "name": "CellElements",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4761.cs"
+  },
+  {
+    "id": 4762,
+    "name": "CellElementType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4762.cs"
+  },
+  {
+    "id": 4763,
+    "name": "GridConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4763.cs"
+  },
+  {
+    "id": 4764,
+    "name": "GridType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4764.cs"
+  },
+  {
+    "id": 4765,
+    "name": "CellMesh",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4765.cs"
+  },
+  {
+    "id": 4766,
+    "name": "Grid.PivotType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4766.cs"
+  },
+  {
+    "id": 4767,
+    "name": "Grid",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4767.cs"
+  },
+  {
+    "id": 4768,
+    "name": "GridContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4768.cs"
+  },
+  {
+    "id": 4769,
+    "name": "HexCell",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4769.cs"
+  },
+  {
+    "id": 4770,
+    "name": "RectCell",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4770.cs"
+  },
+  {
+    "id": 4771,
+    "name": "EmailH",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4771.cs"
+  },
+  {
+    "id": 4772,
+    "name": "InputH",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4772.cs"
+  },
+  {
+    "id": 4773,
+    "name": "LifetimeScopeH",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4773.cs"
+  },
+  {
+    "id": 4774,
+    "name": "TypeH.NameCache<T>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4774.cs"
+  },
+  {
+    "id": 4775,
+    "name": "TypeH",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4775.cs"
+  },
+  {
+    "id": 4776,
+    "name": "CameraInstaller.<Initialize>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4776.cs"
+  },
+  {
+    "id": 4777,
+    "name": "CameraInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4777.cs"
+  },
+  {
+    "id": 4778,
+    "name": "InstallerBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4778.cs"
+  },
+  {
+    "id": 4779,
+    "name": "MessagePipeInstaller.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4779.cs"
+  },
+  {
+    "id": 4780,
+    "name": "MessagePipeInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4780.cs"
+  },
+  {
+    "id": 4781,
+    "name": "ShaderInstaller.<Initialize>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4781.cs"
+  },
+  {
+    "id": 4782,
+    "name": "ShaderInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4782.cs"
+  },
+  {
+    "id": 4783,
+    "name": "AreaOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4783.cs"
+  },
+  {
+    "id": 4784,
+    "name": "AreaOffer1",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4784.cs"
+  },
+  {
+    "id": 4785,
+    "name": "AreaOffer2",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4785.cs"
+  },
+  {
+    "id": 4786,
+    "name": "AreaOffer3",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4786.cs"
+  },
+  {
+    "id": 4787,
+    "name": "BattlePass.<>c__DisplayClass31_0.<<ShowWeeklyMissionsInfo>b__0>d",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4787.cs"
+  },
+  {
+    "id": 4788,
+    "name": "BattlePass.<>c__DisplayClass31_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4788.cs"
+  },
+  {
+    "id": 4789,
+    "name": "BattlePass.<ShowWeeklyMissionsInfo>d__31",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4789.cs"
+  },
+  {
+    "id": 4790,
+    "name": "BattlePass",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4790.cs"
+  },
+  {
+    "id": 4791,
+    "name": "ChooseOne",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4791.cs"
+  },
+  {
+    "id": 4792,
+    "name": "CoinRush",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4792.cs"
+  },
+  {
+    "id": 4793,
+    "name": "CollectItems.<>c__DisplayClass10_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4793.cs"
+  },
+  {
+    "id": 4794,
+    "name": "CollectItems.<ApplyCollectItemJumpMotion>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4794.cs"
+  },
+  {
+    "id": 4795,
+    "name": "CollectItems.<ApplyCollectItemMotions>d__9",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4795.cs"
+  },
+  {
+    "id": 4796,
+    "name": "CollectItems.<ApplyCollectTextMotion>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4796.cs"
+  },
+  {
+    "id": 4797,
+    "name": "CollectItems.<ApplyHomeAction>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4797.cs"
+  },
+  {
+    "id": 4798,
+    "name": "CollectItems",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4798.cs"
+  },
+  {
+    "id": 4799,
+    "name": "CollectionBar",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4799.cs"
+  },
+  {
+    "id": 4800,
+    "name": "CoreStreak.<>c__DisplayClass23_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4800.cs"
+  },
+  {
+    "id": 4801,
+    "name": "CoreStreak.<ApplyHomeAction>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4801.cs"
+  },
+  {
+    "id": 4802,
+    "name": "CoreStreak.<UpdateBarView>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4802.cs"
+  },
+  {
+    "id": 4803,
+    "name": "CoreStreak",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4803.cs"
+  },
+  {
+    "id": 4804,
+    "name": "CoreStreakHomeActionMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4804.cs"
+  },
+  {
+    "id": 4805,
+    "name": "CreatePlayerProfileOffer.<ApplyHomeAction>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4805.cs"
+  },
+  {
+    "id": 4806,
+    "name": "CreatePlayerProfileOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4806.cs"
+  },
+  {
+    "id": 4807,
+    "name": "DailyChallenge.PlaySession",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4807.cs"
+  },
+  {
+    "id": 4808,
+    "name": "DailyChallenge.<Play>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4808.cs"
+  },
+  {
+    "id": 4809,
+    "name": "DailyChallenge",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4809.cs"
+  },
+  {
+    "id": 4810,
+    "name": "DailyGoldGift.<>c__DisplayClass5_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4810.cs"
+  },
+  {
+    "id": 4811,
+    "name": "DailyGoldGift",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4811.cs"
+  },
+  {
+    "id": 4812,
+    "name": "DailyRewards",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4812.cs"
+  },
+  {
+    "id": 4813,
+    "name": "GarageSale",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4813.cs"
+  },
+  {
+    "id": 4814,
+    "name": "GiftsReward.<>c__DisplayClass6_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4814.cs"
+  },
+  {
+    "id": 4815,
+    "name": "GiftsReward.<ApplyHomeAction>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4815.cs"
+  },
+  {
+    "id": 4816,
+    "name": "GiftsReward.<ClaimAndGrant>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4816.cs"
+  },
+  {
+    "id": 4817,
+    "name": "GiftsReward",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4817.cs"
+  },
+  {
+    "id": 4818,
+    "name": "HomeReturnOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4818.cs"
+  },
+  {
+    "id": 4819,
+    "name": "LavaQuest.<>c__DisplayClass43_0.<<ShowWeeklyMissionsInfo>b__0>d",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4819.cs"
+  },
+  {
+    "id": 4820,
+    "name": "LavaQuest.<>c__DisplayClass43_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4820.cs"
+  },
+  {
+    "id": 4821,
+    "name": "LavaQuest.<ApplyHomeAction>d__30",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4821.cs"
+  },
+  {
+    "id": 4822,
+    "name": "LavaQuest.<ShowWeeklyMissionsInfo>d__43",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4822.cs"
+  },
+  {
+    "id": 4823,
+    "name": "LavaQuest",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4823.cs"
+  },
+  {
+    "id": 4824,
+    "name": "LavaQuestGame.EStatus",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4824.cs"
+  },
+  {
+    "id": 4825,
+    "name": "LavaQuestGame",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4825.cs"
+  },
+  {
+    "id": 4826,
+    "name": "LavaQuestJoinOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4826.cs"
+  },
+  {
+    "id": 4827,
+    "name": "Leaderboard.<CreateLeaderboard>d__29",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4827.cs"
+  },
+  {
+    "id": 4828,
+    "name": "Leaderboard.<EndTournament>d__34",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4828.cs"
+  },
+  {
+    "id": 4829,
+    "name": "Leaderboard.<FetchLeaderboard>d__30",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4829.cs"
+  },
+  {
+    "id": 4830,
+    "name": "Leaderboard.<FetchTournament>d__33",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4830.cs"
+  },
+  {
+    "id": 4831,
+    "name": "Leaderboard.<SubmitLeaderboardData>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4831.cs"
+  },
+  {
+    "id": 4832,
+    "name": "Leaderboard.<SubmitLeaderboardEntries>d__31",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4832.cs"
+  },
+  {
+    "id": 4833,
+    "name": "Leaderboard.<SubmitTournamentData>d__36",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4833.cs"
+  },
+  {
+    "id": 4834,
+    "name": "Leaderboard.<SubmitTournamentEntry>d__35",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4834.cs"
+  },
+  {
+    "id": 4835,
+    "name": "Leaderboard",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4835.cs"
+  },
+  {
+    "id": 4836,
+    "name": "TournamentEndOutcome",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4836.cs"
+  },
+  {
+    "id": 4837,
+    "name": "LeaderboardSnapshot",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4837.cs"
+  },
+  {
+    "id": 4838,
+    "name": "LiveOpsBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4838.cs"
+  },
+  {
+    "id": 4839,
+    "name": "INotificationPopup",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4839.cs"
+  },
+  {
+    "id": 4840,
+    "name": "LiveOpsDeepLink.<ApplyHomeAction>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4840.cs"
+  },
+  {
+    "id": 4841,
+    "name": "LiveOpsDeepLink",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4841.cs"
+  },
+  {
+    "id": 4842,
+    "name": "LiveOpsDevFilter",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4842.cs"
+  },
+  {
+    "id": 4843,
+    "name": "LiveOpsInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4843.cs"
+  },
+  {
+    "id": 4844,
+    "name": "LondonTrip",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4844.cs"
+  },
+  {
+    "id": 4845,
+    "name": "NoAdsOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4845.cs"
+  },
+  {
+    "id": 4846,
+    "name": "NonPayerOffer.<ApplyHomeAction>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4846.cs"
+  },
+  {
+    "id": 4847,
+    "name": "NonPayerOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4847.cs"
+  },
+  {
+    "id": 4848,
+    "name": "NotificationReward.<>c__DisplayClass3_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4848.cs"
+  },
+  {
+    "id": 4849,
+    "name": "NotificationReward",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4849.cs"
+  },
+  {
+    "id": 4850,
+    "name": "ParisOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4850.cs"
+  },
+  {
+    "id": 4851,
+    "name": "PiggyBank",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4851.cs"
+  },
+  {
+    "id": 4852,
+    "name": "StarterBundleOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4852.cs"
+  },
+  {
+    "id": 4853,
+    "name": "StreakTournament.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4853.cs"
+  },
+  {
+    "id": 4854,
+    "name": "StreakTournament.<ApplyHomeAction>d__43",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4854.cs"
+  },
+  {
+    "id": 4855,
+    "name": "StreakTournament",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4855.cs"
+  },
+  {
+    "id": 4856,
+    "name": "StreakTournamentSave",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4856.cs"
+  },
+  {
+    "id": 4857,
+    "name": "StreakTournamentPlayer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4857.cs"
+  },
+  {
+    "id": 4858,
+    "name": "StreakTournamentLeaderboard",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4858.cs"
+  },
+  {
+    "id": 4859,
+    "name": "StreakTournamentPersonal",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4859.cs"
+  },
+  {
+    "id": 4860,
+    "name": "StreakTournamentDifficulty",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4860.cs"
+  },
+  {
+    "id": 4861,
+    "name": "StreakTournamentStatus",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4861.cs"
+  },
+  {
+    "id": 4862,
+    "name": "StreakTower.<ApplyHomeAction>d__18",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4862.cs"
+  },
+  {
+    "id": 4863,
+    "name": "StreakTower.<HandleClaimableStage>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4863.cs"
+  },
+  {
+    "id": 4864,
+    "name": "StreakTower",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4864.cs"
+  },
+  {
+    "id": 4865,
+    "name": "StreakTowerSave",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4865.cs"
+  },
+  {
+    "id": 4866,
+    "name": "VideoRewards",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4866.cs"
+  },
+  {
+    "id": 4867,
+    "name": "WeeklyMissions",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4867.cs"
+  },
+  {
+    "id": 4868,
+    "name": "WeeklyMissionsProgress",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4868.cs"
+  },
+  {
+    "id": 4869,
+    "name": "WelcomeBackOffer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4869.cs"
+  },
+  {
+    "id": 4870,
+    "name": "Localization.<>c__DisplayClass6_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4870.cs"
+  },
+  {
+    "id": 4871,
+    "name": "Localization",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4871.cs"
+  },
+  {
+    "id": 4872,
+    "name": "Phrase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4872.cs"
+  },
+  {
+    "id": 4873,
+    "name": "AntiCheatModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4873.cs"
+  },
+  {
+    "id": 4874,
+    "name": "AssetModule.<WaitLoad>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4874.cs"
+  },
+  {
+    "id": 4875,
+    "name": "AssetModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4875.cs"
+  },
+  {
+    "id": 4876,
+    "name": "AssetLoadStartMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4876.cs"
+  },
+  {
+    "id": 4877,
+    "name": "AssetLoadCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4877.cs"
+  },
+  {
+    "id": 4878,
+    "name": "AudioModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4878.cs"
+  },
+  {
+    "id": 4879,
+    "name": "AudioPlayer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4879.cs"
+  },
+  {
+    "id": 4880,
+    "name": "ConnectivityModule.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4880.cs"
+  },
+  {
+    "id": 4881,
+    "name": "ConnectivityModule.<ProbeAsync>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4881.cs"
+  },
+  {
+    "id": 4882,
+    "name": "ConnectivityModule.<ReachesAsync>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4882.cs"
+  },
+  {
+    "id": 4883,
+    "name": "ConnectivityModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4883.cs"
+  },
+  {
+    "id": 4884,
+    "name": "DeepLinkModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4884.cs"
+  },
+  {
+    "id": 4885,
+    "name": "DeepLinkActivatedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4885.cs"
+  },
+  {
+    "id": 4886,
+    "name": "DeepLinkInfo",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4886.cs"
+  },
+  {
+    "id": 4887,
+    "name": "DeepLinkType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4887.cs"
+  },
+  {
+    "id": 4888,
+    "name": "EconomyModule.Transaction",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4888.cs"
+  },
+  {
+    "id": 4889,
+    "name": "EconomyModule.<PublishEconomyUpdate>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4889.cs"
+  },
+  {
+    "id": 4890,
+    "name": "EconomyModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4890.cs"
+  },
+  {
+    "id": 4891,
+    "name": "Item",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4891.cs"
+  },
+  {
+    "id": 4892,
+    "name": "ItemType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4892.cs"
+  },
+  {
+    "id": 4893,
+    "name": "TransactionType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4893.cs"
+  },
+  {
+    "id": 4894,
+    "name": "EconomyAddMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4894.cs"
+  },
+  {
+    "id": 4895,
+    "name": "EconomyConsumeMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4895.cs"
+  },
+  {
+    "id": 4896,
+    "name": "EconomyUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4896.cs"
+  },
+  {
+    "id": 4897,
+    "name": "EconomyConsumeFailMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4897.cs"
+  },
+  {
+    "id": 4898,
+    "name": "RewardInfo",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4898.cs"
+  },
+  {
+    "id": 4899,
+    "name": "EditorHelperModule.<StepOneFrame>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4899.cs"
+  },
+  {
+    "id": 4900,
+    "name": "EditorHelperModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4900.cs"
+  },
+  {
+    "id": 4901,
+    "name": "HapticModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4901.cs"
+  },
+  {
+    "id": 4902,
+    "name": "IHapticProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4902.cs"
+  },
+  {
+    "id": 4903,
+    "name": "HapticType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4903.cs"
+  },
+  {
+    "id": 4904,
+    "name": "InteractionModule.<OnInteractAsync>d__17",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4904.cs"
+  },
+  {
+    "id": 4905,
+    "name": "InteractionModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4905.cs"
+  },
+  {
+    "id": 4906,
+    "name": "IInteractable",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4906.cs"
+  },
+  {
+    "id": 4907,
+    "name": "ITouchInteractable",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4907.cs"
+  },
+  {
+    "id": 4908,
+    "name": "IDragInteractable",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4908.cs"
+  },
+  {
+    "id": 4909,
+    "name": "ITouchInterceptor",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4909.cs"
+  },
+  {
+    "id": 4910,
+    "name": "ModuleBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4910.cs"
+  },
+  {
+    "id": 4911,
+    "name": "ModuleInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4911.cs"
+  },
+  {
+    "id": 4912,
+    "name": "PerformanceModule.<>c__DisplayClass0_0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4912.cs"
+  },
+  {
+    "id": 4913,
+    "name": "PerformanceModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4913.cs"
+  },
+  {
+    "id": 4914,
+    "name": "PlaySessionModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4914.cs"
+  },
+  {
+    "id": 4915,
+    "name": "PrefabModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4915.cs"
+  },
+  {
+    "id": 4916,
+    "name": "PrefabModuleCallbackHelper",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4916.cs"
+  },
+  {
+    "id": 4917,
+    "name": "PrefabModuleExtensions",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4917.cs"
+  },
+  {
+    "id": 4918,
+    "name": "SceneModule.<Load>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4918.cs"
+  },
+  {
+    "id": 4919,
+    "name": "SceneModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4919.cs"
+  },
+  {
+    "id": 4920,
+    "name": "ScenePreLoadMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4920.cs"
+  },
+  {
+    "id": 4921,
+    "name": "ScenePostLoadMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4921.cs"
+  },
+  {
+    "id": 4922,
+    "name": "SettingsModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4922.cs"
+  },
+  {
+    "id": 4923,
+    "name": "ColorBlindUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4923.cs"
+  },
+  {
+    "id": 4924,
+    "name": "SkinModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4924.cs"
+  },
+  {
+    "id": 4925,
+    "name": "TimeModule.<AdjustTimeScale>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4925.cs"
+  },
+  {
+    "id": 4926,
+    "name": "TimeModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4926.cs"
+  },
+  {
+    "id": 4927,
+    "name": "TutorialModule.<TryPlay>d__5<TTutorial>",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4927.cs"
+  },
+  {
+    "id": 4928,
+    "name": "TutorialModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4928.cs"
+  },
+  {
+    "id": 4929,
+    "name": "AccountModule.<IsLinked>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4929.cs"
+  },
+  {
+    "id": 4930,
+    "name": "AccountModule.<Link>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4930.cs"
+  },
+  {
+    "id": 4931,
+    "name": "AccountModule.<MergeAccounts>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4931.cs"
+  },
+  {
+    "id": 4932,
+    "name": "AccountModule.<Unlink>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4932.cs"
+  },
+  {
+    "id": 4933,
+    "name": "AccountModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4933.cs"
+  },
+  {
+    "id": 4934,
+    "name": "IAccountProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4934.cs"
+  },
+  {
+    "id": 4935,
+    "name": "AuthType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4935.cs"
+  },
+  {
+    "id": 4936,
+    "name": "AccountLinkResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4936.cs"
+  },
+  {
+    "id": 4937,
+    "name": "AccountMergeResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4937.cs"
+  },
+  {
+    "id": 4938,
+    "name": "AccountMergeResolution",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4938.cs"
+  },
+  {
+    "id": 4939,
+    "name": "AccountMergeMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4939.cs"
+  },
+  {
+    "id": 4940,
+    "name": "AdsModule.<>c__DisplayClass11_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4940.cs"
+  },
+  {
+    "id": 4941,
+    "name": "AdsModule.<>c__DisplayClass13_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4941.cs"
+  },
+  {
+    "id": 4942,
+    "name": "AdsModule.<HandleInterstitialCompleted>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4942.cs"
+  },
+  {
+    "id": 4943,
+    "name": "AdsModule.<WatchInterstitialAsync>d__13",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4943.cs"
+  },
+  {
+    "id": 4944,
+    "name": "AdsModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4944.cs"
+  },
+  {
+    "id": 4945,
+    "name": "IAdsProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4945.cs"
+  },
+  {
+    "id": 4946,
+    "name": "InterstitialPreShowMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4946.cs"
+  },
+  {
+    "id": 4947,
+    "name": "RewardedVideoPostShowMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4947.cs"
+  },
+  {
+    "id": 4948,
+    "name": "AnalyticsModule.<>c__DisplayClass28_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4948.cs"
+  },
+  {
+    "id": 4949,
+    "name": "AnalyticsModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4949.cs"
+  },
+  {
+    "id": 4950,
+    "name": "IAnalyticsProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4950.cs"
+  },
+  {
+    "id": 4951,
+    "name": "AnalyticsPurchaseEvent",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4951.cs"
+  },
+  {
+    "id": 4952,
+    "name": "AnalyticsCustomEvent",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4952.cs"
+  },
+  {
+    "id": 4953,
+    "name": "AnalyticsLiveOpsEvent",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4953.cs"
+  },
+  {
+    "id": 4954,
+    "name": "LiveOpsMilestoneArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4954.cs"
+  },
+  {
+    "id": 4955,
+    "name": "LiveOpsEventCompletedArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4955.cs"
+  },
+  {
+    "id": 4956,
+    "name": "LiveOpsItemTransactionArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4956.cs"
+  },
+  {
+    "id": 4957,
+    "name": "AnalyticsEgpArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4957.cs"
+  },
+  {
+    "id": 4958,
+    "name": "AnalyticsUserInfo",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4958.cs"
+  },
+  {
+    "id": 4959,
+    "name": "FulfillModule.SuppressionScope",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4959.cs"
+  },
+  {
+    "id": 4960,
+    "name": "FulfillModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4960.cs"
+  },
+  {
+    "id": 4961,
+    "name": "GiftsModule.<FetchPendingGifts>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4961.cs"
+  },
+  {
+    "id": 4962,
+    "name": "GiftsModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4962.cs"
+  },
+  {
+    "id": 4963,
+    "name": "Gift",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4963.cs"
+  },
+  {
+    "id": 4964,
+    "name": "IGiftsProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4964.cs"
+  },
+  {
+    "id": 4965,
+    "name": "LeaderboardModule.<FetchEntry>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4965.cs"
+  },
+  {
+    "id": 4966,
+    "name": "LeaderboardModule.<FetchPage>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4966.cs"
+  },
+  {
+    "id": 4967,
+    "name": "LeaderboardModule.<Submit>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4967.cs"
+  },
+  {
+    "id": 4968,
+    "name": "LeaderboardModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4968.cs"
+  },
+  {
+    "id": 4969,
+    "name": "ILeaderboardProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4969.cs"
+  },
+  {
+    "id": 4970,
+    "name": "LeaderboardEntry",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4970.cs"
+  },
+  {
+    "id": 4971,
+    "name": "LeaderboardPage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4971.cs"
+  },
+  {
+    "id": 4972,
+    "name": "LifeModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4972.cs"
+  },
+  {
+    "id": 4973,
+    "name": "OutOfLivesMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4973.cs"
+  },
+  {
+    "id": 4974,
+    "name": "LiveOpsModule.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4974.cs"
+  },
+  {
+    "id": 4975,
+    "name": "LiveOpsModule.<ApplyHomeActions>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4975.cs"
+  },
+  {
+    "id": 4976,
+    "name": "LiveOpsModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4976.cs"
+  },
+  {
+    "id": 4977,
+    "name": "LiveOps",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4977.cs"
+  },
+  {
+    "id": 4978,
+    "name": "LiveOpsImpressionTrigger",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4978.cs"
+  },
+  {
+    "id": 4979,
+    "name": "LiveOpsStatus",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4979.cs"
+  },
+  {
+    "id": 4980,
+    "name": "LiveOpsJoinedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4980.cs"
+  },
+  {
+    "id": 4981,
+    "name": "LiveOpsMilestoneCompletedMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4981.cs"
+  },
+  {
+    "id": 4982,
+    "name": "Placements",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4982.cs"
+  },
+  {
+    "id": 4983,
+    "name": "Products",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4983.cs"
+  },
+  {
+    "id": 4984,
+    "name": "ProductType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4984.cs"
+  },
+  {
+    "id": 4985,
+    "name": "PurchaseButton",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4985.cs"
+  },
+  {
+    "id": 4986,
+    "name": "PurchasingModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4986.cs"
+  },
+  {
+    "id": 4987,
+    "name": "IPurchasingProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/4987.cs"
+  },
+  {
+    "id": 4988,
+    "name": "PurchasingStatus",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4988.cs"
+  },
+  {
+    "id": 4989,
+    "name": "PurchaseRequest",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4989.cs"
+  },
+  {
+    "id": 4990,
+    "name": "FulfillPayout",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4990.cs"
+  },
+  {
+    "id": 4991,
+    "name": "FulfillSummary",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4991.cs"
+  },
+  {
+    "id": 4992,
+    "name": "ProductMetadata",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4992.cs"
+  },
+  {
+    "id": 4993,
+    "name": "PurchaseResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/4993.cs"
+  },
+  {
+    "id": 4994,
+    "name": "PurchaseStartMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4994.cs"
+  },
+  {
+    "id": 4995,
+    "name": "PurchaseCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4995.cs"
+  },
+  {
+    "id": 4996,
+    "name": "RestorePurchasesStartMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4996.cs"
+  },
+  {
+    "id": 4997,
+    "name": "RestorePurchasesCompleteMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4997.cs"
+  },
+  {
+    "id": 4998,
+    "name": "FulfillPurchaseMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/4998.cs"
+  },
+  {
+    "id": 4999,
+    "name": "RewardedVideoButton",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/4999.cs"
+  },
+  {
+    "id": 5000,
+    "name": "TournamentModule.<End>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5000.cs"
+  },
+  {
+    "id": 5001,
+    "name": "TournamentModule.<GetInstance>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5001.cs"
+  },
+  {
+    "id": 5002,
+    "name": "TournamentModule.<Submit>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5002.cs"
+  },
+  {
+    "id": 5003,
+    "name": "TournamentModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5003.cs"
+  },
+  {
+    "id": 5004,
+    "name": "ITournamentProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5004.cs"
+  },
+  {
+    "id": 5005,
+    "name": "TournamentInstance",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5005.cs"
+  },
+  {
+    "id": 5006,
+    "name": "TournamentState",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5006.cs"
+  },
+  {
+    "id": 5007,
+    "name": "TournamentOperationResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5007.cs"
+  },
+  {
+    "id": 5008,
+    "name": "NotificationInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5008.cs"
+  },
+  {
+    "id": 5009,
+    "name": "NotificationModule.RespondRewardArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5009.cs"
+  },
+  {
+    "id": 5010,
+    "name": "NotificationModule.<InitializeSdk>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5010.cs"
+  },
+  {
+    "id": 5011,
+    "name": "NotificationModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5011.cs"
+  },
+  {
+    "id": 5012,
+    "name": "Notifications",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5012.cs"
+  },
+  {
+    "id": 5013,
+    "name": "HighlightModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5013.cs"
+  },
+  {
+    "id": 5014,
+    "name": "HighlightEntity",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5014.cs"
+  },
+  {
+    "id": 5015,
+    "name": "OutlineModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5015.cs"
+  },
+  {
+    "id": 5016,
+    "name": "OutlineEntity",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5016.cs"
+  },
+  {
+    "id": 5017,
+    "name": "OutlineLayer",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5017.cs"
+  },
+  {
+    "id": 5018,
+    "name": "OutlineRenderMode",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5018.cs"
+  },
+  {
+    "id": 5019,
+    "name": "OutlineRenderer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5019.cs"
+  },
+  {
+    "id": 5020,
+    "name": "NicknameGenerator",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5020.cs"
+  },
+  {
+    "id": 5021,
+    "name": "NicknameInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5021.cs"
+  },
+  {
+    "id": 5022,
+    "name": "PlayerModule.<GetLocalPlayer>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5022.cs"
+  },
+  {
+    "id": 5023,
+    "name": "PlayerModule.<GetPlayers>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5023.cs"
+  },
+  {
+    "id": 5024,
+    "name": "PlayerModule.<UpdatePlayerProfile>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5024.cs"
+  },
+  {
+    "id": 5025,
+    "name": "PlayerModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5025.cs"
+  },
+  {
+    "id": 5026,
+    "name": "IPlayerProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5026.cs"
+  },
+  {
+    "id": 5027,
+    "name": "PlayerInfo",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5027.cs"
+  },
+  {
+    "id": 5028,
+    "name": "UpdatePlayerProfileResponse",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5028.cs"
+  },
+  {
+    "id": 5029,
+    "name": "UpdatePlayerProfileResult",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5029.cs"
+  },
+  {
+    "id": 5030,
+    "name": "PlayerProfile",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5030.cs"
+  },
+  {
+    "id": 5031,
+    "name": "LayerRefs",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5031.cs"
+  },
+  {
+    "id": 5032,
+    "name": "SceneIndexRefs",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5032.cs"
+  },
+  {
+    "id": 5033,
+    "name": "SceneNameRefs",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5033.cs"
+  },
+  {
+    "id": 5034,
+    "name": "AreaOffersConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5034.cs"
+  },
+  {
+    "id": 5035,
+    "name": "BlockGroupConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5035.cs"
+  },
+  {
+    "id": 5036,
+    "name": "BlockTransferConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5036.cs"
+  },
+  {
+    "id": 5037,
+    "name": "BlockViewConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5037.cs"
+  },
+  {
+    "id": 5038,
+    "name": "CapacityConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5038.cs"
+  },
+  {
+    "id": 5039,
+    "name": "CoinConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5039.cs"
+  },
+  {
+    "id": 5040,
+    "name": "CollectionBarConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5040.cs"
+  },
+  {
+    "id": 5041,
+    "name": "ColorConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5041.cs"
+  },
+  {
+    "id": 5042,
+    "name": "ConnectivityConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5042.cs"
+  },
+  {
+    "id": 5043,
+    "name": "ConveyorSystemConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5043.cs"
+  },
+  {
+    "id": 5044,
+    "name": "ConveyorViewConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5044.cs"
+  },
+  {
+    "id": 5045,
+    "name": "CoreStreakConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5045.cs"
+  },
+  {
+    "id": 5046,
+    "name": "CreatePlayerProfileConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5046.cs"
+  },
+  {
+    "id": 5047,
+    "name": "DailyChallengeConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5047.cs"
+  },
+  {
+    "id": 5048,
+    "name": "DailyRewardsConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5048.cs"
+  },
+  {
+    "id": 5049,
+    "name": "DataContainerConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5049.cs"
+  },
+  {
+    "id": 5050,
+    "name": "EGPConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5050.cs"
+  },
+  {
+    "id": 5051,
+    "name": "GameMaintenanceConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5051.cs"
+  },
+  {
+    "id": 5052,
+    "name": "GameUpdateConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5052.cs"
+  },
+  {
+    "id": 5053,
+    "name": "GameUpdateRequirement",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5053.cs"
+  },
+  {
+    "id": 5054,
+    "name": "GiveUpConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5054.cs"
+  },
+  {
+    "id": 5055,
+    "name": "HomeActionsConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5055.cs"
+  },
+  {
+    "id": 5056,
+    "name": "HomeAnimationConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5056.cs"
+  },
+  {
+    "id": 5057,
+    "name": "IceBreakConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5057.cs"
+  },
+  {
+    "id": 5058,
+    "name": "InterstitialAdsConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5058.cs"
+  },
+  {
+    "id": 5059,
+    "name": "LavaQuestConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5059.cs"
+  },
+  {
+    "id": 5060,
+    "name": "LevelAnimationConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5060.cs"
+  },
+  {
+    "id": 5061,
+    "name": "LevelFunnelConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5061.cs"
+  },
+  {
+    "id": 5062,
+    "name": "LoseConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5062.cs"
+  },
+  {
+    "id": 5063,
+    "name": "MainMenuOffsetConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5063.cs"
+  },
+  {
+    "id": 5064,
+    "name": "NakamaConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5064.cs"
+  },
+  {
+    "id": 5065,
+    "name": "NonPayerConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5065.cs"
+  },
+  {
+    "id": 5066,
+    "name": "PaceConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5066.cs"
+  },
+  {
+    "id": 5067,
+    "name": "RankingConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5067.cs"
+  },
+  {
+    "id": 5068,
+    "name": "RefillLivesConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5068.cs"
+  },
+  {
+    "id": 5069,
+    "name": "RemoteConfigModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5069.cs"
+  },
+  {
+    "id": 5070,
+    "name": "IRemoteConfigProvider",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5070.cs"
+  },
+  {
+    "id": 5071,
+    "name": "RewardedAdsConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5071.cs"
+  },
+  {
+    "id": 5072,
+    "name": "RvMaxConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5072.cs"
+  },
+  {
+    "id": 5073,
+    "name": "SheetConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5073.cs"
+  },
+  {
+    "id": 5074,
+    "name": "SkinConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5074.cs"
+  },
+  {
+    "id": 5075,
+    "name": "SoundConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5075.cs"
+  },
+  {
+    "id": 5076,
+    "name": "StreakTournamentConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5076.cs"
+  },
+  {
+    "id": 5077,
+    "name": "StreakTowerConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5077.cs"
+  },
+  {
+    "id": 5078,
+    "name": "TagCarrierConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5078.cs"
+  },
+  {
+    "id": 5079,
+    "name": "VideoRewardsConfig",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5079.cs"
+  },
+  {
+    "id": 5080,
+    "name": "MapLoader",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5080.cs"
+  },
+  {
+    "id": 5081,
+    "name": "SceneRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5081.cs"
+  },
+  {
+    "id": 5082,
+    "name": "IBehaviourSet",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5082.cs"
+  },
+  {
+    "id": 5083,
+    "name": "BehaviourSet<T>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5083.cs"
+  },
+  {
+    "id": 5084,
+    "name": "SceneScope.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5084.cs"
+  },
+  {
+    "id": 5085,
+    "name": "SceneScope",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5085.cs"
+  },
+  {
+    "id": 5086,
+    "name": "Level",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5086.cs"
+  },
+  {
+    "id": 5087,
+    "name": "LevelTransitionData",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5087.cs"
+  },
+  {
+    "id": 5088,
+    "name": "SystemBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5088.cs"
+  },
+  {
+    "id": 5089,
+    "name": "AdjustEventSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5089.cs"
+  },
+  {
+    "id": 5090,
+    "name": "AdjustEventSheet.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5090.cs"
+  },
+  {
+    "id": 5091,
+    "name": "AdjustEventSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5091.cs"
+  },
+  {
+    "id": 5092,
+    "name": "AreaSheet.Row.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5092.cs"
+  },
+  {
+    "id": 5093,
+    "name": "AreaSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5093.cs"
+  },
+  {
+    "id": 5094,
+    "name": "AreaSheet.Elem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5094.cs"
+  },
+  {
+    "id": 5095,
+    "name": "AreaSheet.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5095.cs"
+  },
+  {
+    "id": 5096,
+    "name": "AreaSheet.<>c__DisplayClass9_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5096.cs"
+  },
+  {
+    "id": 5097,
+    "name": "AreaSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5097.cs"
+  },
+  {
+    "id": 5098,
+    "name": "AreaType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5098.cs"
+  },
+  {
+    "id": 5099,
+    "name": "BattlePassConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5099.cs"
+  },
+  {
+    "id": 5100,
+    "name": "BattlePassConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5100.cs"
+  },
+  {
+    "id": 5101,
+    "name": "BattlePassSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5101.cs"
+  },
+  {
+    "id": 5102,
+    "name": "BattlePassSheet.RewardArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5102.cs"
+  },
+  {
+    "id": 5103,
+    "name": "BattlePassSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5103.cs"
+  },
+  {
+    "id": 5104,
+    "name": "BoosterSheet.Booster",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5104.cs"
+  },
+  {
+    "id": 5105,
+    "name": "BoosterSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5105.cs"
+  },
+  {
+    "id": 5106,
+    "name": "CarrierSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5106.cs"
+  },
+  {
+    "id": 5107,
+    "name": "CarrierSheet.CarrierType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5107.cs"
+  },
+  {
+    "id": 5108,
+    "name": "CarrierSheet.CarrierFeatureArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5108.cs"
+  },
+  {
+    "id": 5109,
+    "name": "CarrierSheet.CarrierColorArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5109.cs"
+  },
+  {
+    "id": 5110,
+    "name": "CarrierSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5110.cs"
+  },
+  {
+    "id": 5111,
+    "name": "CoinRushSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5111.cs"
+  },
+  {
+    "id": 5112,
+    "name": "CoinRushSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5112.cs"
+  },
+  {
+    "id": 5113,
+    "name": "CollectionBarConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5113.cs"
+  },
+  {
+    "id": 5114,
+    "name": "CollectionBarConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5114.cs"
+  },
+  {
+    "id": 5115,
+    "name": "CollectionBarSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5115.cs"
+  },
+  {
+    "id": 5116,
+    "name": "CollectionBarSheet.RewardArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5116.cs"
+  },
+  {
+    "id": 5117,
+    "name": "CollectionBarSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5117.cs"
+  },
+  {
+    "id": 5118,
+    "name": "ConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5118.cs"
+  },
+  {
+    "id": 5119,
+    "name": "ConstantSheetBase<TRow>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5119.cs"
+  },
+  {
+    "id": 5120,
+    "name": "ConstantSheetRow",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5120.cs"
+  },
+  {
+    "id": 5121,
+    "name": "GameConstant",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5121.cs"
+  },
+  {
+    "id": 5122,
+    "name": "CustomFileSystem.<GetFiles>d__4",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5122.cs"
+  },
+  {
+    "id": 5123,
+    "name": "CustomFileSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5123.cs"
+  },
+  {
+    "id": 5124,
+    "name": "DailyChallengeRewardSheet.Day",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5124.cs"
+  },
+  {
+    "id": 5125,
+    "name": "DailyChallengeRewardSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5125.cs"
+  },
+  {
+    "id": 5126,
+    "name": "DailyChallengeSheetContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5126.cs"
+  },
+  {
+    "id": 5127,
+    "name": "DailyChallengeSheetModule.<BakeAsync>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5127.cs"
+  },
+  {
+    "id": 5128,
+    "name": "DailyChallengeSheetModule",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5128.cs"
+  },
+  {
+    "id": 5129,
+    "name": "DailyRewardSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5129.cs"
+  },
+  {
+    "id": 5130,
+    "name": "DailyRewardSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5130.cs"
+  },
+  {
+    "id": 5131,
+    "name": "EconomyConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5131.cs"
+  },
+  {
+    "id": 5132,
+    "name": "EconomyConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5132.cs"
+  },
+  {
+    "id": 5133,
+    "name": "FeatureSheet.Feature",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5133.cs"
+  },
+  {
+    "id": 5134,
+    "name": "FeatureSheet.Progress",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5134.cs"
+  },
+  {
+    "id": 5135,
+    "name": "FeatureSheet.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5135.cs"
+  },
+  {
+    "id": 5136,
+    "name": "FeatureSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5136.cs"
+  },
+  {
+    "id": 5137,
+    "name": "GarageSaleSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5137.cs"
+  },
+  {
+    "id": 5138,
+    "name": "GarageSaleSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5138.cs"
+  },
+  {
+    "id": 5139,
+    "name": "GridSheet.Layouts",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5139.cs"
+  },
+  {
+    "id": 5140,
+    "name": "GridSheet.Layout",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5140.cs"
+  },
+  {
+    "id": 5141,
+    "name": "GridSheet.Cell",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5141.cs"
+  },
+  {
+    "id": 5142,
+    "name": "GridSheet.LayoutType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5142.cs"
+  },
+  {
+    "id": 5143,
+    "name": "GridSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5143.cs"
+  },
+  {
+    "id": 5144,
+    "name": "HomeLiveOpsSheet.Slot",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5144.cs"
+  },
+  {
+    "id": 5145,
+    "name": "HomeLiveOpsSheet.Position",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5145.cs"
+  },
+  {
+    "id": 5146,
+    "name": "HomeLiveOpsSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5146.cs"
+  },
+  {
+    "id": 5147,
+    "name": "HomePopupSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5147.cs"
+  },
+  {
+    "id": 5148,
+    "name": "HomePopupSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5148.cs"
+  },
+  {
+    "id": 5149,
+    "name": "LavaQuestBotSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5149.cs"
+  },
+  {
+    "id": 5150,
+    "name": "LavaQuestBotSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5150.cs"
+  },
+  {
+    "id": 5151,
+    "name": "LavaQuestConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5151.cs"
+  },
+  {
+    "id": 5152,
+    "name": "LavaQuestConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5152.cs"
+  },
+  {
+    "id": 5153,
+    "name": "LeaderboardTournamentRewardSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5153.cs"
+  },
+  {
+    "id": 5154,
+    "name": "LeaderboardTournamentRewardSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5154.cs"
+  },
+  {
+    "id": 5155,
+    "name": "LevelConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5155.cs"
+  },
+  {
+    "id": 5156,
+    "name": "LevelConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5156.cs"
+  },
+  {
+    "id": 5157,
+    "name": "LevelFunnel.Items",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5157.cs"
+  },
+  {
+    "id": 5158,
+    "name": "LevelFunnel",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5158.cs"
+  },
+  {
+    "id": 5159,
+    "name": "LevelSheet.Level",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5159.cs"
+  },
+  {
+    "id": 5160,
+    "name": "LevelSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5160.cs"
+  },
+  {
+    "id": 5161,
+    "name": "LiveOpsSheet.Row.WeeklyMoment",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5161.cs"
+  },
+  {
+    "id": 5162,
+    "name": "LiveOpsSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5162.cs"
+  },
+  {
+    "id": 5163,
+    "name": "LiveOpsSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5163.cs"
+  },
+  {
+    "id": 5164,
+    "name": "LocalizationSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5164.cs"
+  },
+  {
+    "id": 5165,
+    "name": "LocalizationSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5165.cs"
+  },
+  {
+    "id": 5166,
+    "name": "LondonTripSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5166.cs"
+  },
+  {
+    "id": 5167,
+    "name": "LondonTripSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5167.cs"
+  },
+  {
+    "id": 5168,
+    "name": "NicknameSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5168.cs"
+  },
+  {
+    "id": 5169,
+    "name": "NicknameSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5169.cs"
+  },
+  {
+    "id": 5170,
+    "name": "ResourcesFileSystem.<GetFiles>d__0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5170.cs"
+  },
+  {
+    "id": 5171,
+    "name": "ResourcesFileSystem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5171.cs"
+  },
+  {
+    "id": 5172,
+    "name": "ReviveSheet.Revive",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5172.cs"
+  },
+  {
+    "id": 5173,
+    "name": "ReviveSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5173.cs"
+  },
+  {
+    "id": 5174,
+    "name": "SheetContainer.<Reload>d__152",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5174.cs"
+  },
+  {
+    "id": 5175,
+    "name": "SheetContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5175.cs"
+  },
+  {
+    "id": 5176,
+    "name": "SheetGoogleConverter",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5176.cs"
+  },
+  {
+    "id": 5177,
+    "name": "SheetInstaller.<BakeContainer>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5177.cs"
+  },
+  {
+    "id": 5178,
+    "name": "SheetInstaller.<Initialize>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5178.cs"
+  },
+  {
+    "id": 5179,
+    "name": "SheetInstaller.<LoadGoogleSheetConverters>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5179.cs"
+  },
+  {
+    "id": 5180,
+    "name": "SheetInstaller.<ValidateSheetGroupName>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5180.cs"
+  },
+  {
+    "id": 5181,
+    "name": "SheetInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5181.cs"
+  },
+  {
+    "id": 5182,
+    "name": "Spreadsheets",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5182.cs"
+  },
+  {
+    "id": 5183,
+    "name": "SheetGroup",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5183.cs"
+  },
+  {
+    "id": 5184,
+    "name": "SheetLocalizationProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5184.cs"
+  },
+  {
+    "id": 5185,
+    "name": "SheetVector2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5185.cs"
+  },
+  {
+    "id": 5186,
+    "name": "SplineSheet.Layout",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5186.cs"
+  },
+  {
+    "id": 5187,
+    "name": "SplineSheet.Grid",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5187.cs"
+  },
+  {
+    "id": 5188,
+    "name": "SplineSheet.Cell",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5188.cs"
+  },
+  {
+    "id": 5189,
+    "name": "SplineSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5189.cs"
+  },
+  {
+    "id": 5190,
+    "name": "StreakTournamentBotSheet.Bot",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5190.cs"
+  },
+  {
+    "id": 5191,
+    "name": "StreakTournamentBotSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5191.cs"
+  },
+  {
+    "id": 5192,
+    "name": "StreakTournamentConstantSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5192.cs"
+  },
+  {
+    "id": 5193,
+    "name": "StreakTournamentConstantSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5193.cs"
+  },
+  {
+    "id": 5194,
+    "name": "StreakTournamentLeaderboardRewardSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5194.cs"
+  },
+  {
+    "id": 5195,
+    "name": "StreakTournamentLeaderboardRewardSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5195.cs"
+  },
+  {
+    "id": 5196,
+    "name": "StreakTournamentPersonalRewardSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5196.cs"
+  },
+  {
+    "id": 5197,
+    "name": "StreakTournamentPersonalRewardSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5197.cs"
+  },
+  {
+    "id": 5198,
+    "name": "StreakTowerSheet.Stage",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5198.cs"
+  },
+  {
+    "id": 5199,
+    "name": "StreakTowerSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5199.cs"
+  },
+  {
+    "id": 5200,
+    "name": "WeeklyMissionProgressSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5200.cs"
+  },
+  {
+    "id": 5201,
+    "name": "WeeklyMissionProgressSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5201.cs"
+  },
+  {
+    "id": 5202,
+    "name": "WeeklyMissionSheet.Row",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5202.cs"
+  },
+  {
+    "id": 5203,
+    "name": "WeeklyMissionSheet.Elem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5203.cs"
+  },
+  {
+    "id": 5204,
+    "name": "WeeklyMissionSheet.MissionArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5204.cs"
+  },
+  {
+    "id": 5205,
+    "name": "WeeklyMissionSheet.MissionType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5205.cs"
+  },
+  {
+    "id": 5206,
+    "name": "WeeklyMissionSheet",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5206.cs"
+  },
+  {
+    "id": 5207,
+    "name": "BoosterContainer.<>c__DisplayClass18_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5207.cs"
+  },
+  {
+    "id": 5208,
+    "name": "BoosterContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5208.cs"
+  },
+  {
+    "id": 5209,
+    "name": "ContainerBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5209.cs"
+  },
+  {
+    "id": 5210,
+    "name": "HeartContainer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5210.cs"
+  },
+  {
+    "id": 5211,
+    "name": "MonitorBase.<AddSubMonitor>d__37",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5211.cs"
+  },
+  {
+    "id": 5212,
+    "name": "MonitorBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5212.cs"
+  },
+  {
+    "id": 5213,
+    "name": "IMonitor",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5213.cs"
+  },
+  {
+    "id": 5214,
+    "name": "MonitorInstaller.<Initialize>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5214.cs"
+  },
+  {
+    "id": 5215,
+    "name": "MonitorInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5215.cs"
+  },
+  {
+    "id": 5216,
+    "name": "MonitorScope",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5216.cs"
+  },
+  {
+    "id": 5217,
+    "name": "Monitors.<Deactivate>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5217.cs"
+  },
+  {
+    "id": 5218,
+    "name": "Monitors",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5218.cs"
+  },
+  {
+    "id": 5219,
+    "name": "ITransition",
+    "kind": "interface",
+    "namespace": "",
+    "file": "Evidence/Classes/5219.cs"
+  },
+  {
+    "id": 5220,
+    "name": "NoTransition",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5220.cs"
+  },
+  {
+    "id": 5221,
+    "name": "FadeTransition",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5221.cs"
+  },
+  {
+    "id": 5222,
+    "name": "SlideTransition.<>c__DisplayClass3_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5222.cs"
+  },
+  {
+    "id": 5223,
+    "name": "SlideTransition",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5223.cs"
+  },
+  {
+    "id": 5224,
+    "name": "PopupTransition",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5224.cs"
+  },
+  {
+    "id": 5225,
+    "name": "PageMonitorBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5225.cs"
+  },
+  {
+    "id": 5226,
+    "name": "AreaOffers.Offer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5226.cs"
+  },
+  {
+    "id": 5227,
+    "name": "AreaOffers",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5227.cs"
+  },
+  {
+    "id": 5228,
+    "name": "Areas",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5228.cs"
+  },
+  {
+    "id": 5229,
+    "name": "Avatars.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5229.cs"
+  },
+  {
+    "id": 5230,
+    "name": "Avatars",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5230.cs"
+  },
+  {
+    "id": 5231,
+    "name": "LiveOpsData.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5231.cs"
+  },
+  {
+    "id": 5232,
+    "name": "LiveOpsData",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5232.cs"
+  },
+  {
+    "id": 5233,
+    "name": "Payouts",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5233.cs"
+  },
+  {
+    "id": 5234,
+    "name": "Shop.Bundle.Flags",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5234.cs"
+  },
+  {
+    "id": 5235,
+    "name": "Shop.Bundle.BadgeType",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5235.cs"
+  },
+  {
+    "id": 5236,
+    "name": "Shop.Bundle",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5236.cs"
+  },
+  {
+    "id": 5237,
+    "name": "Shop.Product",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5237.cs"
+  },
+  {
+    "id": 5238,
+    "name": "Shop",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5238.cs"
+  },
+  {
+    "id": 5239,
+    "name": "WeeklyMissionsData",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5239.cs"
+  },
+  {
+    "id": 5240,
+    "name": "ArrowEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5240.cs"
+  },
+  {
+    "id": 5241,
+    "name": "BobEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5241.cs"
+  },
+  {
+    "id": 5242,
+    "name": "ButtonClickEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5242.cs"
+  },
+  {
+    "id": 5243,
+    "name": "CameraScalerEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5243.cs"
+  },
+  {
+    "id": 5244,
+    "name": "DriftEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5244.cs"
+  },
+  {
+    "id": 5245,
+    "name": "EffectBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5245.cs"
+  },
+  {
+    "id": 5246,
+    "name": "FlickerEffect.FlickerMode",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5246.cs"
+  },
+  {
+    "id": 5247,
+    "name": "FlickerEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5247.cs"
+  },
+  {
+    "id": 5248,
+    "name": "FlyByEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5248.cs"
+  },
+  {
+    "id": 5249,
+    "name": "HeadlightBlinkEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5249.cs"
+  },
+  {
+    "id": 5250,
+    "name": "HopEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5250.cs"
+  },
+  {
+    "id": 5251,
+    "name": "LoadingEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5251.cs"
+  },
+  {
+    "id": 5252,
+    "name": "LookAtCameraEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5252.cs"
+  },
+  {
+    "id": 5253,
+    "name": "MagnifyingGlassEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5253.cs"
+  },
+  {
+    "id": 5254,
+    "name": "ParallaxIntroEffect.Layer",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5254.cs"
+  },
+  {
+    "id": 5255,
+    "name": "ParallaxIntroEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5255.cs"
+  },
+  {
+    "id": 5256,
+    "name": "RisingMotesEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5256.cs"
+  },
+  {
+    "id": 5257,
+    "name": "RotateEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5257.cs"
+  },
+  {
+    "id": 5258,
+    "name": "ScaleEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5258.cs"
+  },
+  {
+    "id": 5259,
+    "name": "SpeechTextEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5259.cs"
+  },
+  {
+    "id": 5260,
+    "name": "SpriteAnimationEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5260.cs"
+  },
+  {
+    "id": 5261,
+    "name": "SwayEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5261.cs"
+  },
+  {
+    "id": 5262,
+    "name": "SweepEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5262.cs"
+  },
+  {
+    "id": 5263,
+    "name": "TitlePopInEffect.<Play>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5263.cs"
+  },
+  {
+    "id": 5264,
+    "name": "TitlePopInEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5264.cs"
+  },
+  {
+    "id": 5265,
+    "name": "TwinkleEffect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5265.cs"
+  },
+  {
+    "id": 5266,
+    "name": "UIMotionExtensions.<ApplyOrderedOpen>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5266.cs"
+  },
+  {
+    "id": 5267,
+    "name": "UIMotionExtensions",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5267.cs"
+  },
+  {
+    "id": 5268,
+    "name": "AreasScrollRect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5268.cs"
+  },
+  {
+    "id": 5269,
+    "name": "CanvasAlphaTransitionElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5269.cs"
+  },
+  {
+    "id": 5270,
+    "name": "CloseElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5270.cs"
+  },
+  {
+    "id": 5271,
+    "name": "CollectionBarHomeElement.<>c__DisplayClass34_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5271.cs"
+  },
+  {
+    "id": 5272,
+    "name": "CollectionBarHomeElement.<>c__DisplayClass34_1",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5272.cs"
+  },
+  {
+    "id": 5273,
+    "name": "CollectionBarHomeElement.<>c__DisplayClass34_2",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5273.cs"
+  },
+  {
+    "id": 5274,
+    "name": "CollectionBarHomeElement.<>c__DisplayClass34_3",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5274.cs"
+  },
+  {
+    "id": 5275,
+    "name": "CollectionBarHomeElement.<ApplyClaimMotions>d__34",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5275.cs"
+  },
+  {
+    "id": 5276,
+    "name": "CollectionBarHomeElement.<HandleFlow>d__33",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5276.cs"
+  },
+  {
+    "id": 5277,
+    "name": "CollectionBarHomeElement.<OnCollectionBarUpdate>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5277.cs"
+  },
+  {
+    "id": 5278,
+    "name": "CollectionBarHomeElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5278.cs"
+  },
+  {
+    "id": 5279,
+    "name": "CollectionBarUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5279.cs"
+  },
+  {
+    "id": 5280,
+    "name": "CoreStreakHomeElement.<OnHomeAction>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5280.cs"
+  },
+  {
+    "id": 5281,
+    "name": "CoreStreakHomeElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5281.cs"
+  },
+  {
+    "id": 5282,
+    "name": "CoreStreakPlayingElement.<ApplyItemMotion>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5282.cs"
+  },
+  {
+    "id": 5283,
+    "name": "CoreStreakPlayingElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5283.cs"
+  },
+  {
+    "id": 5284,
+    "name": "ElementBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5284.cs"
+  },
+  {
+    "id": 5285,
+    "name": "GiftBoxElement.Item",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5285.cs"
+  },
+  {
+    "id": 5286,
+    "name": "GiftBoxElement.<>c__DisplayClass5_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5286.cs"
+  },
+  {
+    "id": 5287,
+    "name": "GiftBoxElement.<ApplyCustomMotion>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5287.cs"
+  },
+  {
+    "id": 5288,
+    "name": "GiftBoxElement.<ApplyProgressMotion>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5288.cs"
+  },
+  {
+    "id": 5289,
+    "name": "GiftBoxElement.<ApplyUnlockMotion>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5289.cs"
+  },
+  {
+    "id": 5290,
+    "name": "GiftBoxElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5290.cs"
+  },
+  {
+    "id": 5291,
+    "name": "ImageAspectSizeFitterElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5291.cs"
+  },
+  {
+    "id": 5292,
+    "name": "MirroredImage",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5292.cs"
+  },
+  {
+    "id": 5293,
+    "name": "PointerHoldElement.<HandleListeners>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5293.cs"
+  },
+  {
+    "id": 5294,
+    "name": "PointerHoldElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5294.cs"
+  },
+  {
+    "id": 5295,
+    "name": "RaycastBlockerImage",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5295.cs"
+  },
+  {
+    "id": 5296,
+    "name": "RectTransformMatchHeightElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5296.cs"
+  },
+  {
+    "id": 5297,
+    "name": "RectTransformResizerElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5297.cs"
+  },
+  {
+    "id": 5298,
+    "name": "RectTransformSafeAreaElement.<Refresh>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5298.cs"
+  },
+  {
+    "id": 5299,
+    "name": "RectTransformSafeAreaElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5299.cs"
+  },
+  {
+    "id": 5300,
+    "name": "ReviveOfferElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5300.cs"
+  },
+  {
+    "id": 5301,
+    "name": "ToggleElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5301.cs"
+  },
+  {
+    "id": 5302,
+    "name": "HomeSceneAsset",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5302.cs"
+  },
+  {
+    "id": 5303,
+    "name": "HomeSceneGrade",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5303.cs"
+  },
+  {
+    "id": 5304,
+    "name": "HomeSceneLayerKind",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5304.cs"
+  },
+  {
+    "id": 5305,
+    "name": "HomeSceneLayer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5305.cs"
+  },
+  {
+    "id": 5306,
+    "name": "HomeSceneSprite",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5306.cs"
+  },
+  {
+    "id": 5307,
+    "name": "HomeScenePathKey",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5307.cs"
+  },
+  {
+    "id": 5308,
+    "name": "HomeSceneSpawner",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5308.cs"
+  },
+  {
+    "id": 5309,
+    "name": "HomeScenePoolItem",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5309.cs"
+  },
+  {
+    "id": 5310,
+    "name": "HomeSceneFx",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5310.cs"
+  },
+  {
+    "id": 5311,
+    "name": "HomeSceneStar",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5311.cs"
+  },
+  {
+    "id": 5312,
+    "name": "HomeSceneCar",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5312.cs"
+  },
+  {
+    "id": 5313,
+    "name": "HomeSceneDisc",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5313.cs"
+  },
+  {
+    "id": 5314,
+    "name": "HomeSceneFxRunner.Glow",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5314.cs"
+  },
+  {
+    "id": 5315,
+    "name": "HomeSceneFxRunner.Rays",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5315.cs"
+  },
+  {
+    "id": 5316,
+    "name": "HomeSceneFxRunner.Flash",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5316.cs"
+  },
+  {
+    "id": 5317,
+    "name": "HomeSceneFxRunner.Stars",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5317.cs"
+  },
+  {
+    "id": 5318,
+    "name": "HomeSceneFxRunner.CloudShadow",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5318.cs"
+  },
+  {
+    "id": 5319,
+    "name": "HomeSceneFxRunner.Rings",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5319.cs"
+  },
+  {
+    "id": 5320,
+    "name": "HomeSceneFxRunner.Motes",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5320.cs"
+  },
+  {
+    "id": 5321,
+    "name": "HomeSceneFxRunner.Steam",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5321.cs"
+  },
+  {
+    "id": 5322,
+    "name": "HomeSceneFxRunner.Line",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5322.cs"
+  },
+  {
+    "id": 5323,
+    "name": "HomeSceneFxRunner.Clock",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5323.cs"
+  },
+  {
+    "id": 5324,
+    "name": "HomeSceneFxRunner.Cabins",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5324.cs"
+  },
+  {
+    "id": 5325,
+    "name": "HomeSceneFxRunner",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5325.cs"
+  },
+  {
+    "id": 5326,
+    "name": "HomeSceneMover",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5326.cs"
+  },
+  {
+    "id": 5327,
+    "name": "HomeSceneMoverPart",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5327.cs"
+  },
+  {
+    "id": 5328,
+    "name": "HomeSceneSplash",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5328.cs"
+  },
+  {
+    "id": 5329,
+    "name": "HomeSceneBlade",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5329.cs"
+  },
+  {
+    "id": 5330,
+    "name": "HomeSceneShapes.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5330.cs"
+  },
+  {
+    "id": 5331,
+    "name": "HomeSceneShapes.<>c__DisplayClass14_0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5331.cs"
+  },
+  {
+    "id": 5332,
+    "name": "HomeSceneShapes",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5332.cs"
+  },
+  {
+    "id": 5333,
+    "name": "HomeSceneFadeX",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5333.cs"
+  },
+  {
+    "id": 5334,
+    "name": "HomeSceneRays",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5334.cs"
+  },
+  {
+    "id": 5335,
+    "name": "HomeSceneQuad",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5335.cs"
+  },
+  {
+    "id": 5336,
+    "name": "HomeSceneSpawnerRunner.Actor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5336.cs"
+  },
+  {
+    "id": 5337,
+    "name": "HomeSceneSpawnerRunner.DirState",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5337.cs"
+  },
+  {
+    "id": 5338,
+    "name": "HomeSceneSpawnerRunner",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5338.cs"
+  },
+  {
+    "id": 5339,
+    "name": "HomeSceneView.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5339.cs"
+  },
+  {
+    "id": 5340,
+    "name": "HomeSceneView",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5340.cs"
+  },
+  {
+    "id": 5341,
+    "name": "HomeSceneShimmer.<>c__DisplayClass8_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5341.cs"
+  },
+  {
+    "id": 5342,
+    "name": "HomeSceneShimmer",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5342.cs"
+  },
+  {
+    "id": 5343,
+    "name": "HomeSceneRipple",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5343.cs"
+  },
+  {
+    "id": 5344,
+    "name": "HomeSceneFog.<>c__DisplayClass6_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5344.cs"
+  },
+  {
+    "id": 5345,
+    "name": "HomeSceneFog",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5345.cs"
+  },
+  {
+    "id": 5346,
+    "name": "HomeSceneRain",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5346.cs"
+  },
+  {
+    "id": 5347,
+    "name": "HomeSceneSnow",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5347.cs"
+  },
+  {
+    "id": 5348,
+    "name": "HomeSceneVeil",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5348.cs"
+  },
+  {
+    "id": 5349,
+    "name": "AccountMergeMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5349.cs"
+  },
+  {
+    "id": 5350,
+    "name": "AdBreakMonitor.<OnInterstitialPreShow>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5350.cs"
+  },
+  {
+    "id": 5351,
+    "name": "AdBreakMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5351.cs"
+  },
+  {
+    "id": 5352,
+    "name": "AreaCompletedMonitor.<Complete>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5352.cs"
+  },
+  {
+    "id": 5353,
+    "name": "AreaCompletedMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5353.cs"
+  },
+  {
+    "id": 5354,
+    "name": "AreasMonitor.AreaView",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5354.cs"
+  },
+  {
+    "id": 5355,
+    "name": "AreasMonitor.<>c__DisplayClass50_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5355.cs"
+  },
+  {
+    "id": 5356,
+    "name": "AreasMonitor.<>c__DisplayClass66_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5356.cs"
+  },
+  {
+    "id": 5357,
+    "name": "AreasMonitor.<PlayPop>d__64",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5357.cs"
+  },
+  {
+    "id": 5358,
+    "name": "AreasMonitor.<PlayProgress>d__66",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5358.cs"
+  },
+  {
+    "id": 5359,
+    "name": "AreasMonitor.<PlayUnlock>d__65",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5359.cs"
+  },
+  {
+    "id": 5360,
+    "name": "AreasMonitor.<ShowTopBottom>d__46",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5360.cs"
+  },
+  {
+    "id": 5361,
+    "name": "AreasMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5361.cs"
+  },
+  {
+    "id": 5362,
+    "name": "AssetLoadingMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5362.cs"
+  },
+  {
+    "id": 5363,
+    "name": "BoosterBuyMonitor.ShowPopupArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5363.cs"
+  },
+  {
+    "id": 5364,
+    "name": "BoosterBuyMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5364.cs"
+  },
+  {
+    "id": 5365,
+    "name": "BootstrapMonitor.<ApplyLoadingMotion>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5365.cs"
+  },
+  {
+    "id": 5366,
+    "name": "BootstrapMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5366.cs"
+  },
+  {
+    "id": 5367,
+    "name": "DailyChallengeLoseMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5367.cs"
+  },
+  {
+    "id": 5368,
+    "name": "DailyChallengeWinMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5368.cs"
+  },
+  {
+    "id": 5369,
+    "name": "DataConflictMonitor.SaveElementArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5369.cs"
+  },
+  {
+    "id": 5370,
+    "name": "DataConflictMonitor.<>c__DisplayClass6_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5370.cs"
+  },
+  {
+    "id": 5371,
+    "name": "DataConflictMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5371.cs"
+  },
+  {
+    "id": 5372,
+    "name": "EconomyMonitor.<>c__DisplayClass10_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5372.cs"
+  },
+  {
+    "id": 5373,
+    "name": "EconomyMonitor.<>c__DisplayClass17_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5373.cs"
+  },
+  {
+    "id": 5374,
+    "name": "EconomyMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5374.cs"
+  },
+  {
+    "id": 5375,
+    "name": "EmailCodeMonitor.<Show>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5375.cs"
+  },
+  {
+    "id": 5376,
+    "name": "EmailCodeMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5376.cs"
+  },
+  {
+    "id": 5377,
+    "name": "FakeAdMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5377.cs"
+  },
+  {
+    "id": 5378,
+    "name": "FulfillItemsMonitor.<PlayBurst>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5378.cs"
+  },
+  {
+    "id": 5379,
+    "name": "FulfillItemsMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5379.cs"
+  },
+  {
+    "id": 5380,
+    "name": "FulfillRewardMonitor.<>c__DisplayClass24_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5380.cs"
+  },
+  {
+    "id": 5381,
+    "name": "FulfillRewardMonitor.<>c__DisplayClass30_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5381.cs"
+  },
+  {
+    "id": 5382,
+    "name": "FulfillRewardMonitor.<AwaitFulfillCompletion>d__22",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5382.cs"
+  },
+  {
+    "id": 5383,
+    "name": "FulfillRewardMonitor.<CreateItemElement>d__26",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5383.cs"
+  },
+  {
+    "id": 5384,
+    "name": "FulfillRewardMonitor.<HandleClaim>d__28",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5384.cs"
+  },
+  {
+    "id": 5385,
+    "name": "FulfillRewardMonitor.<StartFulfillAsync>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5385.cs"
+  },
+  {
+    "id": 5386,
+    "name": "FulfillRewardMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5386.cs"
+  },
+  {
+    "id": 5387,
+    "name": "GameMaintenanceMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5387.cs"
+  },
+  {
+    "id": 5388,
+    "name": "GameUpdateMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5388.cs"
+  },
+  {
+    "id": 5389,
+    "name": "HandMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5389.cs"
+  },
+  {
+    "id": 5390,
+    "name": "HighlightMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5390.cs"
+  },
+  {
+    "id": 5391,
+    "name": "HomeMonitor.<>c__DisplayClass58_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5391.cs"
+  },
+  {
+    "id": 5392,
+    "name": "HomeMonitor.<>c__DisplayClass63_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5392.cs"
+  },
+  {
+    "id": 5393,
+    "name": "HomeMonitor.<ApplyAreaStartAnimation>d__75",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5393.cs"
+  },
+  {
+    "id": 5394,
+    "name": "HomeMonitor.<LoadHomeScene>d__71",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5394.cs"
+  },
+  {
+    "id": 5395,
+    "name": "HomeMonitor.<StartGame>d__50",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5395.cs"
+  },
+  {
+    "id": 5396,
+    "name": "HomeMonitor.<UpdateView>d__48",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5396.cs"
+  },
+  {
+    "id": 5397,
+    "name": "HomeMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5397.cs"
+  },
+  {
+    "id": 5398,
+    "name": "HomeLiveOpsSlot",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5398.cs"
+  },
+  {
+    "id": 5399,
+    "name": "HomeNavigationMonitor.<>c__DisplayClass19_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5399.cs"
+  },
+  {
+    "id": 5400,
+    "name": "HomeNavigationMonitor.<TransitionToDefault>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5400.cs"
+  },
+  {
+    "id": 5401,
+    "name": "HomeNavigationMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5401.cs"
+  },
+  {
+    "id": 5402,
+    "name": "SwipeablePageLayout",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5402.cs"
+  },
+  {
+    "id": 5403,
+    "name": "LevelExitMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5403.cs"
+  },
+  {
+    "id": 5404,
+    "name": "LiveOpsMonitor.<Show>d__8",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5404.cs"
+  },
+  {
+    "id": 5405,
+    "name": "LiveOpsMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5405.cs"
+  },
+  {
+    "id": 5406,
+    "name": "LiveOpsUnavailableMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5406.cs"
+  },
+  {
+    "id": 5407,
+    "name": "LoadingMonitor.LoadingScope",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5407.cs"
+  },
+  {
+    "id": 5408,
+    "name": "LoadingMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5408.cs"
+  },
+  {
+    "id": 5409,
+    "name": "LoseMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5409.cs"
+  },
+  {
+    "id": 5410,
+    "name": "MockAccountLinkMonitor.<Show>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5410.cs"
+  },
+  {
+    "id": 5411,
+    "name": "MockAccountLinkMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5411.cs"
+  },
+  {
+    "id": 5412,
+    "name": "NoInternetMonitor.<TryAgain>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5412.cs"
+  },
+  {
+    "id": 5413,
+    "name": "NoInternetMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5413.cs"
+  },
+  {
+    "id": 5414,
+    "name": "PlayingMonitor.<>c__DisplayClass55_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5414.cs"
+  },
+  {
+    "id": 5415,
+    "name": "PlayingMonitor.<ApplyLevelPreviewMotion>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5415.cs"
+  },
+  {
+    "id": 5416,
+    "name": "PlayingMonitor.<ApplyThemeMotion>d__49",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5416.cs"
+  },
+  {
+    "id": 5417,
+    "name": "PlayingMonitor.<HandleTheme>d__48",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5417.cs"
+  },
+  {
+    "id": 5418,
+    "name": "PlayingMonitor.<ReloadSheetContainer>d__71",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5418.cs"
+  },
+  {
+    "id": 5419,
+    "name": "PlayingMonitor.<StartGiveUpFlow>d__50",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5419.cs"
+  },
+  {
+    "id": 5420,
+    "name": "PlayingMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5420.cs"
+  },
+  {
+    "id": 5421,
+    "name": "ToggleDebuggerModeMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5421.cs"
+  },
+  {
+    "id": 5422,
+    "name": "ProfileEditMonitor.<>c__DisplayClass23_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5422.cs"
+  },
+  {
+    "id": 5423,
+    "name": "ProfileEditMonitor.<SaveProfile>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5423.cs"
+  },
+  {
+    "id": 5424,
+    "name": "ProfileEditMonitor.<SaveProfileAsync>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5424.cs"
+  },
+  {
+    "id": 5425,
+    "name": "ProfileEditMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5425.cs"
+  },
+  {
+    "id": 5426,
+    "name": "PlayerProfileUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5426.cs"
+  },
+  {
+    "id": 5427,
+    "name": "ProfileMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5427.cs"
+  },
+  {
+    "id": 5428,
+    "name": "PurchaseProcessMonitor.Args",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5428.cs"
+  },
+  {
+    "id": 5429,
+    "name": "PurchaseProcessMonitor.Result",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5429.cs"
+  },
+  {
+    "id": 5430,
+    "name": "PurchaseProcessMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5430.cs"
+  },
+  {
+    "id": 5431,
+    "name": "RankingMonitor.<>c__DisplayClass34_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5431.cs"
+  },
+  {
+    "id": 5432,
+    "name": "RankingMonitor.<HandleClaim>d__61",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5432.cs"
+  },
+  {
+    "id": 5433,
+    "name": "RankingMonitor.<PopulateLeaderboard>d__31",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5433.cs"
+  },
+  {
+    "id": 5434,
+    "name": "RankingMonitor.<ShowPlayerProfile>d__35",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5434.cs"
+  },
+  {
+    "id": 5435,
+    "name": "RankingMonitor.<ShowTopBottom>d__45",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5435.cs"
+  },
+  {
+    "id": 5436,
+    "name": "RankingMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5436.cs"
+  },
+  {
+    "id": 5437,
+    "name": "RateUsMonitor.<>c__DisplayClass16_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5437.cs"
+  },
+  {
+    "id": 5438,
+    "name": "RateUsMonitor.<Post>d__24",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5438.cs"
+  },
+  {
+    "id": 5439,
+    "name": "RateUsMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5439.cs"
+  },
+  {
+    "id": 5440,
+    "name": "RaycastBlockerMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5440.cs"
+  },
+  {
+    "id": 5441,
+    "name": "RefillLivesMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5441.cs"
+  },
+  {
+    "id": 5442,
+    "name": "ReviveMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5442.cs"
+  },
+  {
+    "id": 5443,
+    "name": "ReviveMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5443.cs"
+  },
+  {
+    "id": 5444,
+    "name": "ReviveContinueResultUpdateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5444.cs"
+  },
+  {
+    "id": 5445,
+    "name": "RewardClaimMonitor.ItemArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5445.cs"
+  },
+  {
+    "id": 5446,
+    "name": "RewardClaimMonitor.ShowArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5446.cs"
+  },
+  {
+    "id": 5447,
+    "name": "RewardClaimMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5447.cs"
+  },
+  {
+    "id": 5448,
+    "name": "SettingsPageMonitor.<RefreshAuthElements>d__21",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5448.cs"
+  },
+  {
+    "id": 5449,
+    "name": "SettingsPageMonitor.<SignIn>d__22",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5449.cs"
+  },
+  {
+    "id": 5450,
+    "name": "SettingsPageMonitor.<SignOut>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5450.cs"
+  },
+  {
+    "id": 5451,
+    "name": "SettingsPageMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5451.cs"
+  },
+  {
+    "id": 5452,
+    "name": "SettingsPopupMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5452.cs"
+  },
+  {
+    "id": 5453,
+    "name": "ShopMonitor.<>c__DisplayClass24_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5453.cs"
+  },
+  {
+    "id": 5454,
+    "name": "ShopMonitor.<>c__DisplayClass28_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5454.cs"
+  },
+  {
+    "id": 5455,
+    "name": "ShopMonitor.<HandleFulfill>d__38",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5455.cs"
+  },
+  {
+    "id": 5456,
+    "name": "ShopMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5456.cs"
+  },
+  {
+    "id": 5457,
+    "name": "SlidingTextMonitor.<>c__DisplayClass0_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5457.cs"
+  },
+  {
+    "id": 5458,
+    "name": "SlidingTextMonitor.<ShowText>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5458.cs"
+  },
+  {
+    "id": 5459,
+    "name": "SlidingTextMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5459.cs"
+  },
+  {
+    "id": 5460,
+    "name": "SpeedBoostBuyMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5460.cs"
+  },
+  {
+    "id": 5461,
+    "name": "SupportMonitor.<Post>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5461.cs"
+  },
+  {
+    "id": 5462,
+    "name": "SupportMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5462.cs"
+  },
+  {
+    "id": 5463,
+    "name": "TeamsMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5463.cs"
+  },
+  {
+    "id": 5464,
+    "name": "TransitionMonitor.<Close>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5464.cs"
+  },
+  {
+    "id": 5465,
+    "name": "TransitionMonitor.<Open>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5465.cs"
+  },
+  {
+    "id": 5466,
+    "name": "TransitionMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5466.cs"
+  },
+  {
+    "id": 5467,
+    "name": "TutorialMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5467.cs"
+  },
+  {
+    "id": 5468,
+    "name": "WinMonitor.ResultArgs",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5468.cs"
+  },
+  {
+    "id": 5469,
+    "name": "WinMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5469.cs"
+  },
+  {
+    "id": 5470,
+    "name": "VideoRewardsScene.<GiftLoop>d__34",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5470.cs"
+  },
+  {
+    "id": 5471,
+    "name": "VideoRewardsScene.<HopGift>d__36",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5471.cs"
+  },
+  {
+    "id": 5472,
+    "name": "VideoRewardsScene.<PeekLid>d__35",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5472.cs"
+  },
+  {
+    "id": 5473,
+    "name": "VideoRewardsScene.<PlayReward>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5473.cs"
+  },
+  {
+    "id": 5474,
+    "name": "VideoRewardsScene",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5474.cs"
+  },
+  {
+    "id": 5475,
+    "name": "AreaOfferSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5475.cs"
+  },
+  {
+    "id": 5476,
+    "name": "BattlePassSubMonitor.<>c__DisplayClass22_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5476.cs"
+  },
+  {
+    "id": 5477,
+    "name": "BattlePassSubMonitor.<>c__DisplayClass23_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5477.cs"
+  },
+  {
+    "id": 5478,
+    "name": "BattlePassSubMonitor.<ApplyTutorial>d__34",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5478.cs"
+  },
+  {
+    "id": 5479,
+    "name": "BattlePassSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5479.cs"
+  },
+  {
+    "id": 5480,
+    "name": "ChooseOneSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5480.cs"
+  },
+  {
+    "id": 5481,
+    "name": "CoinRushSubMonitor.<>c__DisplayClass12_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5481.cs"
+  },
+  {
+    "id": 5482,
+    "name": "CoinRushSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5482.cs"
+  },
+  {
+    "id": 5483,
+    "name": "CollectionBarSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5483.cs"
+  },
+  {
+    "id": 5484,
+    "name": "CoreStreakSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5484.cs"
+  },
+  {
+    "id": 5485,
+    "name": "DailyChallengeSubMonitor.<ApplyProgress>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5485.cs"
+  },
+  {
+    "id": 5486,
+    "name": "DailyChallengeSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5486.cs"
+  },
+  {
+    "id": 5487,
+    "name": "DailyRewardsSubMonitor.<>c__DisplayClass10_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5487.cs"
+  },
+  {
+    "id": 5488,
+    "name": "DailyRewardsSubMonitor.<ApplyRevealMotion>d__21",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5488.cs"
+  },
+  {
+    "id": 5489,
+    "name": "DailyRewardsSubMonitor.<HandleMotions>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5489.cs"
+  },
+  {
+    "id": 5490,
+    "name": "DailyRewardsSubMonitor.<RevealView>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5490.cs"
+  },
+  {
+    "id": 5491,
+    "name": "DailyRewardsSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5491.cs"
+  },
+  {
+    "id": 5492,
+    "name": "GarageSaleSubMonitor.<>c__DisplayClass12_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5492.cs"
+  },
+  {
+    "id": 5493,
+    "name": "GarageSaleSubMonitor.<>c__DisplayClass15_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5493.cs"
+  },
+  {
+    "id": 5494,
+    "name": "GarageSaleSubMonitor.<HandleBuyNextProgress>d__14",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5494.cs"
+  },
+  {
+    "id": 5495,
+    "name": "GarageSaleSubMonitor.<UpdateProgressView>d__15",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5495.cs"
+  },
+  {
+    "id": 5496,
+    "name": "GarageSaleSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5496.cs"
+  },
+  {
+    "id": 5497,
+    "name": "LavaQuestSubMonitor.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5497.cs"
+  },
+  {
+    "id": 5498,
+    "name": "LavaQuestSubMonitor.<>c__DisplayClass22_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5498.cs"
+  },
+  {
+    "id": 5499,
+    "name": "LavaQuestSubMonitor.<>c__DisplayClass28_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5499.cs"
+  },
+  {
+    "id": 5500,
+    "name": "LavaQuestSubMonitor.<>c__DisplayClass32_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5500.cs"
+  },
+  {
+    "id": 5501,
+    "name": "LavaQuestSubMonitor.<ApplyJumpMotion>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5501.cs"
+  },
+  {
+    "id": 5502,
+    "name": "LavaQuestSubMonitor.<ShowProgress>d__28",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5502.cs"
+  },
+  {
+    "id": 5503,
+    "name": "LavaQuestSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5503.cs"
+  },
+  {
+    "id": 5504,
+    "name": "LondonTripSubMonitor.<>c__DisplayClass15_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5504.cs"
+  },
+  {
+    "id": 5505,
+    "name": "LondonTripSubMonitor.<>c__DisplayClass19_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5505.cs"
+  },
+  {
+    "id": 5506,
+    "name": "LondonTripSubMonitor.<HandleBuyNextProgress>d__18",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5506.cs"
+  },
+  {
+    "id": 5507,
+    "name": "LondonTripSubMonitor.<UpdateProgressView>d__19",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5507.cs"
+  },
+  {
+    "id": 5508,
+    "name": "LondonTripSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5508.cs"
+  },
+  {
+    "id": 5509,
+    "name": "NoAdsOfferSubMonitor.<HandleClose>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5509.cs"
+  },
+  {
+    "id": 5510,
+    "name": "NoAdsOfferSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5510.cs"
+  },
+  {
+    "id": 5511,
+    "name": "PiggyBankSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5511.cs"
+  },
+  {
+    "id": 5512,
+    "name": "SingleProductOfferSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5512.cs"
+  },
+  {
+    "id": 5513,
+    "name": "StreakTournamentSubMonitor.<>c__DisplayClass38_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5513.cs"
+  },
+  {
+    "id": 5514,
+    "name": "StreakTournamentSubMonitor.<StartPersonalBarClaimMotion>d__38",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5514.cs"
+  },
+  {
+    "id": 5515,
+    "name": "StreakTournamentSubMonitor.<UpdatePersonalBarView>d__37",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5515.cs"
+  },
+  {
+    "id": 5516,
+    "name": "StreakTournamentSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5516.cs"
+  },
+  {
+    "id": 5517,
+    "name": "StreakTournamentLeaderboardElement.<>c__DisplayClass16_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5517.cs"
+  },
+  {
+    "id": 5518,
+    "name": "StreakTournamentLeaderboardElement.<UpdateMainPlayerElementDelay>d__11",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5518.cs"
+  },
+  {
+    "id": 5519,
+    "name": "StreakTournamentLeaderboardElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5519.cs"
+  },
+  {
+    "id": 5520,
+    "name": "StreakTournamentPersonalRewardsElement.<>c__DisplayClass10_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5520.cs"
+  },
+  {
+    "id": 5521,
+    "name": "StreakTournamentPersonalRewardsElement",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5521.cs"
+  },
+  {
+    "id": 5522,
+    "name": "StreakTowerSubMonitor.<>c__DisplayClass19_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5522.cs"
+  },
+  {
+    "id": 5523,
+    "name": "StreakTowerSubMonitor.<ApplyChestClaimMotion>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5523.cs"
+  },
+  {
+    "id": 5524,
+    "name": "StreakTowerSubMonitor.<ApplyMoveMotion>d__22",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5524.cs"
+  },
+  {
+    "id": 5525,
+    "name": "StreakTowerSubMonitor.<UpdatePlayer>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5525.cs"
+  },
+  {
+    "id": 5526,
+    "name": "StreakTowerSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5526.cs"
+  },
+  {
+    "id": 5527,
+    "name": "SubMonitorBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5527.cs"
+  },
+  {
+    "id": 5528,
+    "name": "VideoRewardsSubMonitor.<>c__DisplayClass15_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5528.cs"
+  },
+  {
+    "id": 5529,
+    "name": "VideoRewardsSubMonitor.<PlayReward>d__16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5529.cs"
+  },
+  {
+    "id": 5530,
+    "name": "VideoRewardsSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5530.cs"
+  },
+  {
+    "id": 5531,
+    "name": "WeeklyMissionsSubMonitor.<>c__DisplayClass21_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5531.cs"
+  },
+  {
+    "id": 5532,
+    "name": "WeeklyMissionsSubMonitor.<>c__DisplayClass25_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5532.cs"
+  },
+  {
+    "id": 5533,
+    "name": "WeeklyMissionsSubMonitor.<>c__DisplayClass29_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5533.cs"
+  },
+  {
+    "id": 5534,
+    "name": "WeeklyMissionsSubMonitor.<>c__DisplayClass34_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5534.cs"
+  },
+  {
+    "id": 5535,
+    "name": "WeeklyMissionsSubMonitor.<ApplyGiftBoxMoveMotion>d__34",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5535.cs"
+  },
+  {
+    "id": 5536,
+    "name": "WeeklyMissionsSubMonitor.<HandleGiftBox>d__33",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5536.cs"
+  },
+  {
+    "id": 5537,
+    "name": "WeeklyMissionsSubMonitor",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5537.cs"
+  },
+  {
+    "id": 5538,
+    "name": "WeeklyMissionsMilestoneCreateMessage",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5538.cs"
+  },
+  {
+    "id": 5539,
+    "name": "BoosterTutorial.<Play>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5539.cs"
+  },
+  {
+    "id": 5540,
+    "name": "BoosterTutorial",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5540.cs"
+  },
+  {
+    "id": 5541,
+    "name": "FeatureTutorial.<Play>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5541.cs"
+  },
+  {
+    "id": 5542,
+    "name": "FeatureTutorial",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5542.cs"
+  },
+  {
+    "id": 5543,
+    "name": "TutorialBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5543.cs"
+  },
+  {
+    "id": 5544,
+    "name": "LoseLifeVariant.<ApplyActivateMotion>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5544.cs"
+  },
+  {
+    "id": 5545,
+    "name": "LoseLifeVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5545.cs"
+  },
+  {
+    "id": 5546,
+    "name": "LosePopupVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5546.cs"
+  },
+  {
+    "id": 5547,
+    "name": "MonitorVariantBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5547.cs"
+  },
+  {
+    "id": 5548,
+    "name": "ReviveMultiplePageVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5548.cs"
+  },
+  {
+    "id": 5549,
+    "name": "ReviveSinglePageVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5549.cs"
+  },
+  {
+    "id": 5550,
+    "name": "WinFireworkVariant.<HandleMotion>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5550.cs"
+  },
+  {
+    "id": 5551,
+    "name": "WinFireworkVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5551.cs"
+  },
+  {
+    "id": 5552,
+    "name": "WinStandartVariant.<>c__DisplayClass29_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5552.cs"
+  },
+  {
+    "id": 5553,
+    "name": "WinStandartVariant.<ApplyWordArtMotion>d__26",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5553.cs"
+  },
+  {
+    "id": 5554,
+    "name": "WinStandartVariant.<HandleContinueClickAsync>d__29",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5554.cs"
+  },
+  {
+    "id": 5555,
+    "name": "WinStandartVariant.<OnActivatedAsync>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5555.cs"
+  },
+  {
+    "id": 5556,
+    "name": "WinStandartVariant",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5556.cs"
+  },
+  {
+    "id": 5557,
+    "name": "WorldCanvasBase",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5557.cs"
+  },
+  {
+    "id": 5558,
+    "name": "AnimationCompletionHandler",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5558.cs"
+  },
+  {
+    "id": 5559,
+    "name": "AutoQualitySetting",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5559.cs"
+  },
+  {
+    "id": 5560,
+    "name": "AutoQualitySetter.GpuTierData",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5560.cs"
+  },
+  {
+    "id": 5561,
+    "name": "AutoQualitySetter.GpuTierListWrapper",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5561.cs"
+  },
+  {
+    "id": 5562,
+    "name": "AutoQualitySetter.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5562.cs"
+  },
+  {
+    "id": 5563,
+    "name": "AutoQualitySetter.<>c__DisplayClass13_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5563.cs"
+  },
+  {
+    "id": 5564,
+    "name": "AutoQualitySetter.<>c__DisplayClass14_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5564.cs"
+  },
+  {
+    "id": 5565,
+    "name": "AutoQualitySetter",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5565.cs"
+  },
+  {
+    "id": 5566,
+    "name": "Direction",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5566.cs"
+  },
+  {
+    "id": 5567,
+    "name": "GameObjectThemeRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5567.cs"
+  },
+  {
+    "id": 5568,
+    "name": "GpuDetect.Raw",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5568.cs"
+  },
+  {
+    "id": 5569,
+    "name": "GpuDetect.Normalized",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5569.cs"
+  },
+  {
+    "id": 5570,
+    "name": "GpuDetect",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5570.cs"
+  },
+  {
+    "id": 5571,
+    "name": "ImageThemeRegistry.Data",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5571.cs"
+  },
+  {
+    "id": 5572,
+    "name": "ImageThemeRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5572.cs"
+  },
+  {
+    "id": 5573,
+    "name": "LoadNextScene",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5573.cs"
+  },
+  {
+    "id": 5574,
+    "name": "ParticleImagePlayAnimation",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5574.cs"
+  },
+  {
+    "id": 5575,
+    "name": "PersistentObject",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5575.cs"
+  },
+  {
+    "id": 5576,
+    "name": "PrefabReturnerOnDisable.<ReturnPrefabAfterDelay>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5576.cs"
+  },
+  {
+    "id": 5577,
+    "name": "PrefabReturnerOnDisable",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5577.cs"
+  },
+  {
+    "id": 5578,
+    "name": "ReleaseBuildVisibility.VisibilityState",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5578.cs"
+  },
+  {
+    "id": 5579,
+    "name": "ReleaseBuildVisibility",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5579.cs"
+  },
+  {
+    "id": 5580,
+    "name": "RendererPropertyRegistry.PropertyDefinition",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5580.cs"
+  },
+  {
+    "id": 5581,
+    "name": "RendererPropertyRegistry.ShaderPropertyTarget",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5581.cs"
+  },
+  {
+    "id": 5582,
+    "name": "RendererPropertyRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5582.cs"
+  },
+  {
+    "id": 5583,
+    "name": "RendererThemeRegistry",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5583.cs"
+  },
+  {
+    "id": 5584,
+    "name": "SlicedFilledImage.SetPropertyUtility",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5584.cs"
+  },
+  {
+    "id": 5585,
+    "name": "SlicedFilledImage.FillDirection",
+    "kind": "enum",
+    "namespace": "",
+    "file": "Evidence/Classes/5585.cs"
+  },
+  {
+    "id": 5586,
+    "name": "SlicedFilledImage",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5586.cs"
+  },
+  {
+    "id": 5587,
+    "name": "SplineMeshAutoCount.Element",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5587.cs"
+  },
+  {
+    "id": 5588,
+    "name": "SplineMeshAutoCount",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5588.cs"
+  },
+  {
+    "id": 5589,
+    "name": "TMPSetTextAnimation",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5589.cs"
+  },
+  {
+    "id": 5590,
+    "name": "TMP_CurvedText",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5590.cs"
+  },
+  {
+    "id": 5591,
+    "name": "TimeTracker",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5591.cs"
+  },
+  {
+    "id": 5592,
+    "name": "iOSATTHandler",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5592.cs"
+  },
+  {
+    "id": 5593,
+    "name": "UnitySourceGeneratedAssemblyMonoScriptTypes_v1.MonoScriptData",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5593.cs"
+  },
+  {
+    "id": 5594,
+    "name": "UnitySourceGeneratedAssemblyMonoScriptTypes_v1",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5594.cs"
+  },
+  {
+    "id": 5595,
+    "name": "BeardyGridLayoutGroup",
+    "kind": "class",
+    "namespace": "Beardy",
+    "file": "Evidence/Classes/5595.cs"
+  },
+  {
+    "id": 5596,
+    "name": "<PrivateImplementationDetails>.__StaticArrayInitTypeSize=12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5596.cs"
+  },
+  {
+    "id": 5597,
+    "name": "<PrivateImplementationDetails>.__StaticArrayInitTypeSize=16",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5597.cs"
+  },
+  {
+    "id": 5598,
+    "name": "<PrivateImplementationDetails>.__StaticArrayInitTypeSize=20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5598.cs"
+  },
+  {
+    "id": 5599,
+    "name": "<PrivateImplementationDetails>.__StaticArrayInitTypeSize=19111",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5599.cs"
+  },
+  {
+    "id": 5600,
+    "name": "<PrivateImplementationDetails>.__StaticArrayInitTypeSize=35162",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/5600.cs"
+  },
+  {
+    "id": 5601,
+    "name": "<PrivateImplementationDetails>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5601.cs"
+  },
+  {
+    "id": 5602,
+    "name": "__JobReflectionRegistrationOutput__6647833159765251707",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/5602.cs"
+  },
+  {
+    "id": 14935,
+    "name": "<Module>",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14935.cs"
+  },
+  {
+    "id": 14936,
+    "name": "LoopSortAccountMergeHandler.<MergeAccounts>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14936.cs"
+  },
+  {
+    "id": 14937,
+    "name": "LoopSortAccountMergeHandler",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14937.cs"
+  },
+  {
+    "id": 14938,
+    "name": "LoopSortAutoAccountMergeHandler",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14938.cs"
+  },
+  {
+    "id": 14939,
+    "name": "Extensions",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14939.cs"
+  },
+  {
+    "id": 14940,
+    "name": "LoopSortConflictResolver.<HandleResolve>d__13",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14940.cs"
+  },
+  {
+    "id": 14941,
+    "name": "LoopSortConflictResolver.<Resolve>d__12",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14941.cs"
+  },
+  {
+    "id": 14942,
+    "name": "LoopSortConflictResolver",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14942.cs"
+  },
+  {
+    "id": 14943,
+    "name": "LoopSortEmailCodeVerifier.<>c__DisplayClass2_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14943.cs"
+  },
+  {
+    "id": 14944,
+    "name": "LoopSortEmailCodeVerifier.<GetVerificationCodeAsync>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14944.cs"
+  },
+  {
+    "id": 14945,
+    "name": "LoopSortEmailCodeVerifier",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14945.cs"
+  },
+  {
+    "id": 14946,
+    "name": "LoopSortSave",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14946.cs"
+  },
+  {
+    "id": 14947,
+    "name": "LoopSortSaveStore",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14947.cs"
+  },
+  {
+    "id": 14948,
+    "name": "LoopSortUpdateCheckResolver",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14948.cs"
+  },
+  {
+    "id": 14949,
+    "name": "GameDebugger.<>c__DisplayClass8_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14949.cs"
+  },
+  {
+    "id": 14950,
+    "name": "GameDebugger",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14950.cs"
+  },
+  {
+    "id": 14951,
+    "name": "EditorProvider.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14951.cs"
+  },
+  {
+    "id": 14952,
+    "name": "EditorProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14952.cs"
+  },
+  {
+    "id": 14953,
+    "name": "FallbackPurchasingProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14953.cs"
+  },
+  {
+    "id": 14954,
+    "name": "LofeltHapticProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14954.cs"
+  },
+  {
+    "id": 14955,
+    "name": "MockLeaderboardProvider.<>c",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14955.cs"
+  },
+  {
+    "id": 14956,
+    "name": "MockLeaderboardProvider.<FetchPage>d__10",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14956.cs"
+  },
+  {
+    "id": 14957,
+    "name": "MockLeaderboardProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14957.cs"
+  },
+  {
+    "id": 14958,
+    "name": "NakamaAccountProvider.<IsLinked>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14958.cs"
+  },
+  {
+    "id": 14959,
+    "name": "NakamaAccountProvider.<Link>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14959.cs"
+  },
+  {
+    "id": 14960,
+    "name": "NakamaAccountProvider.<LinkEmail>d__4",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14960.cs"
+  },
+  {
+    "id": 14961,
+    "name": "NakamaAccountProvider.<MergeAccounts>d__7",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14961.cs"
+  },
+  {
+    "id": 14962,
+    "name": "NakamaAccountProvider.<Unlink>d__5",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14962.cs"
+  },
+  {
+    "id": 14963,
+    "name": "NakamaAccountProvider.<UnlinkEmail>d__6",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14963.cs"
+  },
+  {
+    "id": 14964,
+    "name": "NakamaAccountProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14964.cs"
+  },
+  {
+    "id": 14965,
+    "name": "NakamaBootstrapper.<FinalizeNakamaInit>d__22",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14965.cs"
+  },
+  {
+    "id": 14966,
+    "name": "NakamaBootstrapper.<InitializeApiService>d__20",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14966.cs"
+  },
+  {
+    "id": 14967,
+    "name": "NakamaBootstrapper.<TryAutoLinkAccountAsync>d__23",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14967.cs"
+  },
+  {
+    "id": 14968,
+    "name": "NakamaBootstrapper.<TryAutoMergeAccountsAsync>d__24",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14968.cs"
+  },
+  {
+    "id": 14969,
+    "name": "NakamaBootstrapper",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14969.cs"
+  },
+  {
+    "id": 14970,
+    "name": "NakamaCloudSaveProvider.<DeleteAll>d__29",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14970.cs"
+  },
+  {
+    "id": 14971,
+    "name": "NakamaCloudSaveProvider.<EnsureAuthenticated>d__24",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14971.cs"
+  },
+  {
+    "id": 14972,
+    "name": "NakamaCloudSaveProvider.<FlushDirty>d__27",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14972.cs"
+  },
+  {
+    "id": 14973,
+    "name": "NakamaCloudSaveProvider.<LoadSave>d__30",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14973.cs"
+  },
+  {
+    "id": 14974,
+    "name": "NakamaCloudSaveProvider.<ReloadAsync>d__32",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14974.cs"
+  },
+  {
+    "id": 14975,
+    "name": "NakamaCloudSaveProvider.<TryInitialize>d__25",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14975.cs"
+  },
+  {
+    "id": 14976,
+    "name": "NakamaCloudSaveProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14976.cs"
+  },
+  {
+    "id": 14977,
+    "name": "NakamaGiftsProvider.GrantHandler",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14977.cs"
+  },
+  {
+    "id": 14978,
+    "name": "NakamaGiftsProvider.<ClaimGifts>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14978.cs"
+  },
+  {
+    "id": 14979,
+    "name": "NakamaGiftsProvider.<FetchPendingGifts>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14979.cs"
+  },
+  {
+    "id": 14980,
+    "name": "NakamaGiftsProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14980.cs"
+  },
+  {
+    "id": 14981,
+    "name": "NakamaLeaderboardProvider.<FetchEntry>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14981.cs"
+  },
+  {
+    "id": 14982,
+    "name": "NakamaLeaderboardProvider.<FetchPage>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14982.cs"
+  },
+  {
+    "id": 14983,
+    "name": "NakamaLeaderboardProvider.<Submit>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14983.cs"
+  },
+  {
+    "id": 14984,
+    "name": "NakamaLeaderboardProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14984.cs"
+  },
+  {
+    "id": 14985,
+    "name": "NakamaPeriodicLeaderboardProvider.<CreateTournamentInstance>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14985.cs"
+  },
+  {
+    "id": 14986,
+    "name": "NakamaPeriodicLeaderboardProvider.<End>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14986.cs"
+  },
+  {
+    "id": 14987,
+    "name": "NakamaPeriodicLeaderboardProvider.<GetInstance>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14987.cs"
+  },
+  {
+    "id": 14988,
+    "name": "NakamaPeriodicLeaderboardProvider.<Submit>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14988.cs"
+  },
+  {
+    "id": 14989,
+    "name": "NakamaPeriodicLeaderboardProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14989.cs"
+  },
+  {
+    "id": 14990,
+    "name": "NakamaPlayerProvider.<GetLocalPlayer>d__2",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14990.cs"
+  },
+  {
+    "id": 14991,
+    "name": "NakamaPlayerProvider.<GetPlayers>d__3",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14991.cs"
+  },
+  {
+    "id": 14992,
+    "name": "NakamaPlayerProvider.<UpdatePlayerProfile>d__1",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14992.cs"
+  },
+  {
+    "id": 14993,
+    "name": "NakamaPlayerProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14993.cs"
+  },
+  {
+    "id": 14994,
+    "name": "NakamaServices",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14994.cs"
+  },
+  {
+    "id": 14995,
+    "name": "NakamaUpdateProvider.<GetRequirementAsync>d__0",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/14995.cs"
+  },
+  {
+    "id": 14996,
+    "name": "NakamaUpdateProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14996.cs"
+  },
+  {
+    "id": 14997,
+    "name": "SdkInstaller",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14997.cs"
+  },
+  {
+    "id": 14998,
+    "name": "ProductMasters",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14998.cs"
+  },
+  {
+    "id": 14999,
+    "name": "VoodooAdjustProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/14999.cs"
+  },
+  {
+    "id": 15000,
+    "name": "VoodooMetaProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15000.cs"
+  },
+  {
+    "id": 15001,
+    "name": "VoodooPurchasingProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15001.cs"
+  },
+  {
+    "id": 15002,
+    "name": "VoodooSauceBootstrapper",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15002.cs"
+  },
+  {
+    "id": 15003,
+    "name": "VoodooSauceProvider.<>c__DisplayClass45_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15003.cs"
+  },
+  {
+    "id": 15004,
+    "name": "VoodooSauceProvider.<>c__DisplayClass46_0",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15004.cs"
+  },
+  {
+    "id": 15005,
+    "name": "VoodooSauceProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15005.cs"
+  },
+  {
+    "id": 15006,
+    "name": "VoodooTuneProvider",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15006.cs"
+  },
+  {
+    "id": 15007,
+    "name": "UnitySourceGeneratedAssemblyMonoScriptTypes_v1.MonoScriptData",
+    "kind": "struct",
+    "namespace": "",
+    "file": "Evidence/Classes/15007.cs"
+  },
+  {
+    "id": 15008,
+    "name": "UnitySourceGeneratedAssemblyMonoScriptTypes_v1",
+    "kind": "class",
+    "namespace": "",
+    "file": "Evidence/Classes/15008.cs"
+  }
+]

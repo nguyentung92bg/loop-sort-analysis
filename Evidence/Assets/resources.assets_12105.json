@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1518
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": 1502599955,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 13346
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 70940219,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11876
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_areas",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 13010
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_top",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 13009
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_bottom",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12904
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": -1126420587,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 10422
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": -1966746889,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3169
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 35391489,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 2046
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 332801758,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 2479
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -667199050,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3863
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

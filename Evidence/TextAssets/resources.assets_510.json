@@ -1,0 +1,327 @@
+[
+  {
+    "AndroidToken": "35r2hn",
+    "iOSToken": "fiqixo",
+    "Id": "1_level_reached"
+  },
+  {
+    "AndroidToken": "dp4h93",
+    "iOSToken": "7wron9",
+    "Id": "5_level_reached"
+  },
+  {
+    "AndroidToken": "24e4h7",
+    "iOSToken": "j61eg9",
+    "Id": "10_level_reached"
+  },
+  {
+    "AndroidToken": "mn15q1",
+    "iOSToken": "yjzcry",
+    "Id": "15_level_reached"
+  },
+  {
+    "AndroidToken": "lm8vve",
+    "iOSToken": "jzxu99",
+    "Id": "20_level_reached"
+  },
+  {
+    "AndroidToken": "8jjrw0",
+    "iOSToken": "tlsls2",
+    "Id": "25_level_reached"
+  },
+  {
+    "AndroidToken": "flobwe",
+    "iOSToken": "uqnne8",
+    "Id": "30_level_reached"
+  },
+  {
+    "AndroidToken": "dnfakm",
+    "iOSToken": "itsqfy",
+    "Id": "35_level_reached"
+  },
+  {
+    "AndroidToken": "k1zhm5",
+    "iOSToken": "532gat",
+    "Id": "40_level_reached"
+  },
+  {
+    "AndroidToken": "yt5kx6",
+    "iOSToken": "u0sjoo",
+    "Id": "45_level_reached"
+  },
+  {
+    "AndroidToken": "4qp1e7",
+    "iOSToken": "qqyqgk",
+    "Id": "50_level_reached"
+  },
+  {
+    "AndroidToken": "57iide",
+    "iOSToken": "f2jg9g",
+    "Id": "60_level_reached"
+  },
+  {
+    "AndroidToken": "108qr4",
+    "iOSToken": "ugfg4v",
+    "Id": "75_level_reached"
+  },
+  {
+    "AndroidToken": "anm4wq",
+    "iOSToken": "gse05k",
+    "Id": "90_level_reached"
+  },
+  {
+    "AndroidToken": "wumeiq",
+    "iOSToken": "37ipml",
+    "Id": "100_level_reached"
+  },
+  {
+    "AndroidToken": "qpnmjy",
+    "iOSToken": "luj4ve",
+    "Id": "125_level_reached"
+  },
+  {
+    "AndroidToken": "ke2zfa",
+    "iOSToken": "jnapdo",
+    "Id": "150_level_reached"
+  },
+  {
+    "AndroidToken": "c1vpic",
+    "iOSToken": "74aw3k",
+    "Id": "175_level_reached"
+  },
+  {
+    "AndroidToken": "edlsgs",
+    "iOSToken": "fjfp6f",
+    "Id": "200_level_reached"
+  },
+  {
+    "AndroidToken": "k2huyn",
+    "iOSToken": "vssfib",
+    "Id": "230_level_reached"
+  },
+  {
+    "AndroidToken": "ji76lh",
+    "iOSToken": "9fet46",
+    "Id": "275_level_reached"
+  },
+  {
+    "AndroidToken": "mcz85n",
+    "iOSToken": "224uj0",
+    "Id": "300_level_reached"
+  },
+  {
+    "AndroidToken": "r97itq",
+    "iOSToken": "q7zdm2",
+    "Id": "400_level_reached"
+  },
+  {
+    "AndroidToken": "h18kii",
+    "iOSToken": "p0mm92",
+    "Id": "500_level_reached"
+  },
+  {
+    "AndroidToken": "wa7lyo",
+    "iOSToken": "7l1cxi",
+    "Id": "fifth_purchase_consumable"
+  },
+  {
+    "AndroidToken": "8a5zpn",
+    "iOSToken": "7p83sd",
+    "Id": "first_purchase_consumable"
+  },
+  {
+    "AndroidToken": "uoyuic",
+    "iOSToken": "5yipvu",
+    "Id": "fourth_purchase_consumable"
+  },
+  {
+    "AndroidToken": "srs99n",
+    "iOSToken": "w35wih",
+    "Id": "second_purchase_consumable"
+  },
+  {
+    "AndroidToken": "cgxt3i",
+    "iOSToken": "3kn685",
+    "Id": "third_purchase_consumable"
+  },
+  {
+    "AndroidToken": "t13nmm",
+    "iOSToken": "eylf52",
+    "Id": "600_level_reached"
+  },
+  {
+    "AndroidToken": "ojhb1i",
+    "iOSToken": "v7lpka",
+    "Id": "700_level_reached"
+  },
+  {
+    "AndroidToken": "cwzrat",
+    "iOSToken": "y8e2zt",
+    "Id": "800_level_reached"
+  },
+  {
+    "AndroidToken": "h8pywy",
+    "iOSToken": "5j0tbc",
+    "Id": "900_level_reached"
+  },
+  {
+    "AndroidToken": "ystlkl",
+    "iOSToken": "lyq3n9",
+    "Id": "1000_level_reached"
+  },
+  {
+    "AndroidToken": "2ray21",
+    "iOSToken": "ww2j5r",
+    "Id": "1500_level_reached"
+  },
+  {
+    "AndroidToken": "9wbw8b",
+    "iOSToken": "8kmbe7",
+    "Id": "2000_level_reached"
+  },
+  {
+    "AndroidToken": "moqaqj",
+    "iOSToken": "r06vxi",
+    "Id": "3000_level_reached"
+  },
+  {
+    "AndroidToken": "le6jxr",
+    "iOSToken": "r3d1ai",
+    "Id": "13500_coins_spent"
+  },
+  {
+    "AndroidToken": "z3z8im",
+    "iOSToken": "oo52k7",
+    "Id": "18000_coins_spent"
+  },
+  {
+    "AndroidToken": "3guwrn",
+    "iOSToken": "p681xk",
+    "Id": "250_levels_won_capped_50_day"
+  },
+  {
+    "AndroidToken": "qu5inq",
+    "iOSToken": "ug7o79",
+    "Id": "iap_count_3"
+  },
+  {
+    "AndroidToken": "nea7wc",
+    "iOSToken": "f5g0ai",
+    "Id": "40_boosters_used"
+  },
+  {
+    "AndroidToken": "fupv5f",
+    "iOSToken": "blxs1n",
+    "Id": "10_shop_opens"
+  },
+  {
+    "AndroidToken": "99t7c9",
+    "iOSToken": "7ijwjv",
+    "Id": "60_levels_won_capped_20_day"
+  },
+  {
+    "AndroidToken": "fpnyyn",
+    "iOSToken": "c7zz84",
+    "Id": "4500_coins_spent"
+  },
+  {
+    "AndroidToken": "3kdafw",
+    "iOSToken": "ep2i5j",
+    "Id": "6000_coins_spent"
+  },
+  {
+    "AndroidToken": "gix1lt",
+    "iOSToken": "91bl1x",
+    "Id": "9000_coins_spent"
+  },
+  {
+    "AndroidToken": "19nxzm",
+    "iOSToken": "kenwbk",
+    "Id": "rv_watched"
+  },
+  {
+    "AndroidToken": "cfwhrt",
+    "iOSToken": "4p44i5",
+    "Id": "level_reached"
+  },
+  {
+    "AndroidToken": "tqz3fm",
+    "iOSToken": "4pffb7",
+    "Id": "seventh_purchase_consumable"
+  },
+  {
+    "AndroidToken": "62npu1",
+    "iOSToken": "nouqe0",
+    "Id": "tenth_purchase_consumable"
+  },
+  {
+    "AndroidToken": "4i2pe7",
+    "iOSToken": "rg5rfe",
+    "Id": "twentieth_purchase_consumable"
+  },
+  {
+    "AndroidToken": "4iv65c",
+    "iOSToken": "eygm2u",
+    "Id": "purchase_1.99"
+  },
+  {
+    "AndroidToken": "cztkst",
+    "iOSToken": "89uuf1",
+    "Id": "purchase_4.99"
+  },
+  {
+    "AndroidToken": "pyphz2",
+    "iOSToken": "dtve2s",
+    "Id": "purchase_5.99"
+  },
+  {
+    "AndroidToken": "p09utu",
+    "iOSToken": "h8ne1t",
+    "Id": "purchase_7.99"
+  },
+  {
+    "AndroidToken": "vhibqg",
+    "iOSToken": "y6qzju",
+    "Id": "purchase_9.99"
+  },
+  {
+    "AndroidToken": "d8p38r",
+    "iOSToken": "92yhdy",
+    "Id": "purchase_12.99"
+  },
+  {
+    "AndroidToken": "5lv5nq",
+    "iOSToken": "1dfpi5",
+    "Id": "purchase_26.99"
+  },
+  {
+    "AndroidToken": "nkcu4x",
+    "iOSToken": "qmxyvr",
+    "Id": "purchase_49.99"
+  },
+  {
+    "AndroidToken": "nmr1xk",
+    "iOSToken": "3jmfdo",
+    "Id": "iap_cumulative_5"
+  },
+  {
+    "AndroidToken": "jz1aya",
+    "iOSToken": "npd6pc",
+    "Id": "iap_cumulative_10"
+  },
+  {
+    "AndroidToken": "k6teaa",
+    "iOSToken": "3pf1a8",
+    "Id": "iap_cumulative_20"
+  },
+  {
+    "AndroidToken": "84ohtj",
+    "iOSToken": "5veais",
+    "Id": "iap_cumulative_50"
+  },
+  {
+    "AndroidToken": "tud5zf",
+    "iOSToken": "ofbz5d",
+    "Id": "iap_cumulative_100"
+  }
+]

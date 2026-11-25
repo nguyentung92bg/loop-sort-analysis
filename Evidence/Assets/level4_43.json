@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "BootstrapMonitor_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 36
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 4699698,
+      "Identificator": "BootstrapMonitor_TextVersion_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 33
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 1931211062,
+      "Identificator": "BootstrapMonitor_TextBuildNo_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 34
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 633915614,
+      "Identificator": "BootstrapMonitor_TextSceneNo_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 35
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -2047301169,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 41
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

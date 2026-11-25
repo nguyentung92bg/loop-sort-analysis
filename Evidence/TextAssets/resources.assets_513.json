@@ -1,0 +1,120 @@
+{
+  "skeleton": {
+    "hash": "eND64uLlQbc",
+    "spine": "4.2.43",
+    "x": -353.5,
+    "y": -353.5,
+    "width": 707,
+    "height": 707,
+    "images": "./images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "Circle",
+      "parent": "root"
+    },
+    {
+      "name": "Cube",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "BG",
+      "bone": "root",
+      "attachment": "purchaseprocess/BG"
+    },
+    {
+      "name": "Circle",
+      "bone": "Circle",
+      "attachment": "purchaseprocess/Circle"
+    },
+    {
+      "name": "Cube",
+      "bone": "Cube",
+      "attachment": "purchaseprocess/Cube"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "BG": {
+          "purchaseprocess/BG": {
+            "width": 707,
+            "height": 707
+          }
+        },
+        "Circle": {
+          "purchaseprocess/Circle": {
+            "x": -156.99,
+            "y": 159.6,
+            "width": 343,
+            "height": 342
+          }
+        },
+        "Cube": {
+          "purchaseprocess/Cube": {
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "width": 702,
+            "height": 711
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "bones": {
+        "Circle": {
+          "rotate": [
+            {},
+            {
+              "time": 1.3333,
+              "value": -360
+            }
+          ]
+        },
+        "Cube": {
+          "scale": [
+            {
+              "curve": [
+                0.222,
+                1,
+                0.444,
+                0.9,
+                0.222,
+                1,
+                0.444,
+                0.9
+              ]
+            },
+            {
+              "time": 0.6667,
+              "x": 0.9,
+              "y": 0.9,
+              "curve": [
+                0.889,
+                0.9,
+                1.111,
+                1,
+                0.889,
+                0.9,
+                1.111,
+                1
+              ]
+            },
+            {
+              "time": 1.3333
+            }
+          ]
+        }
+      }
+    }
+  }
+}

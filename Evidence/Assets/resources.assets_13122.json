@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2543
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 44409290752
+  },
+  "m_Name": "",
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 12979
+  },
+  "_buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 13433
+  },
+  "_inputField": {
+    "m_FileID": 0,
+    "m_PathID": 11647
+  },
+  "_inputFieldPlaceholderText": {
+    "m_FileID": 0,
+    "m_PathID": 12628
+  }
+}

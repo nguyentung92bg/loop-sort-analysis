@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 41
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 26474446848
+  },
+  "m_Name": "",
+  "_headerText": {
+    "m_FileID": 0,
+    "m_PathID": 958
+  },
+  "_introText": {
+    "m_FileID": 0,
+    "m_PathID": 1273
+  },
+  "_advertisingText": {
+    "m_FileID": 0,
+    "m_PathID": 1261
+  },
+  "_advertisingContent": {
+    "m_FileID": 0,
+    "m_PathID": 614
+  },
+  "_analyticsText": {
+    "m_FileID": 0,
+    "m_PathID": 1398
+  },
+  "_analyticsContent": {
+    "m_FileID": 0,
+    "m_PathID": 623
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 972
+  },
+  "_backButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1387
+  },
+  "_backButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 965
+  },
+  "_scrollbarHandle": {
+    "m_FileID": 0,
+    "m_PathID": 1287
+  },
+  "_privacyPolicyElementPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1077
+  }
+}

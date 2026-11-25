@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3263
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 75413585920
+  },
+  "m_Name": "",
+  "PositionMode": 0,
+  "RotationMode": 1,
+  "UpdateMethod": 2,
+  "Targets": [],
+  "m_LegacyTargets": []
+}

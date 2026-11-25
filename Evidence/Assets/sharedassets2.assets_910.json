@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 10
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 69994545152
+  },
+  "m_Name": "",
+  "_bodyMsg": {
+    "m_FileID": 0,
+    "m_PathID": 1226
+  },
+  "_purchaseBtnMsg": {
+    "m_FileID": 0,
+    "m_PathID": 1331
+  },
+  "_cancelBtnMsg": {
+    "m_FileID": 0,
+    "m_PathID": 1038
+  },
+  "_purchaseBtn": {
+    "m_FileID": 0,
+    "m_PathID": 1293
+  },
+  "_cancelBtn": {
+    "m_FileID": 0,
+    "m_PathID": 1219
+  }
+}

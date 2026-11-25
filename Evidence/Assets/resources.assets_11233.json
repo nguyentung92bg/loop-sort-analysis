@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1249
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 19042140160
+  },
+  "m_Name": "",
+  "menuIconImage": {
+    "m_FileID": 0,
+    "m_PathID": 13237
+  },
+  "menuNameText": {
+    "m_FileID": 0,
+    "m_PathID": 13104
+  },
+  "badge": {
+    "m_FileID": 0,
+    "m_PathID": 9967
+  }
+}

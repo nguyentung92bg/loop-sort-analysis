@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 49811554304
+  },
+  "m_Name": "TextAnimatorSettings",
+  "behaviors": {
+    "defaultDatabase": {
+      "m_FileID": 0,
+      "m_PathID": 9778
+    },
+    "enabled": 1,
+    "openingSymbol": 60,
+    "closingSymbol": 62
+  },
+  "appearances": {
+    "defaultDatabase": {
+      "m_FileID": 0,
+      "m_PathID": 9769
+    },
+    "enabled": 1,
+    "openingSymbol": 123,
+    "closingSymbol": 125
+  },
+  "actions": {
+    "defaultDatabase": {
+      "m_FileID": 0,
+      "m_PathID": 9765
+    },
+    "enabled": 1,
+    "openingSymbol": 60,
+    "closingSymbol": 62
+  },
+  "defaultStyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 9792
+  },
+  "controlTags": {
+    "disableTypewriter": "notype"
+  }
+}

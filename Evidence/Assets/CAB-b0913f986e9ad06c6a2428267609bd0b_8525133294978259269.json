@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7837186093774657861
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2321979425469316431
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -1502618499400476347
+  },
+  "Reskin": "",
+  "ItemPoints": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2356291890387625659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1283358709308204731
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4003114444642854587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5456445211402885445
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5583508725888722619
+    }
+  ],
+  "ProgressSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7967504174212951086
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1160487133205581296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3158910214116819537
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2991970999458405347
+    }
+  ],
+  "ColorStateByProgressSprite": {
+    "list": [
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": 7967504174212951086
+        },
+        "Value": -136944284
+      },
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": -1160487133205581296
+        },
+        "Value": -1273337485
+      },
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": -3158910214116819537
+        },
+        "Value": -1899490322
+      },
+      {
+        "Key": {
+          "m_FileID": 0,
+          "m_PathID": 2991970999458405347
+        },
+        "Value": -951500415
+      }
+    ],
+    "keyCollision": 0
+  }
+}

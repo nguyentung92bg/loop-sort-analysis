@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3182
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 7851737088
+  },
+  "m_Name": "",
+  "<ModelParent>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 3581
+  },
+  "<BlockParent>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4354
+  },
+  "<FrontPoint>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4192
+  },
+  "<HeadRenderer>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4687
+  },
+  "<BackTopRenderer>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5042
+  },
+  "<BackRearRenderer>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 5039
+  },
+  "<View>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 13176
+  },
+  "<Highlight>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4046
+  },
+  "<LeftTire>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4394
+  },
+  "<RightTire>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4652
+  },
+  "<TransferProjectPoint>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4577
+  },
+  "<Pivot>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4628
+  },
+  "<Collider>k__BackingField": {
+    "m_FileID": 0,
+    "m_PathID": 4988
+  },
+  "<GroupBlocks>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4744
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4684
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4791
+    }
+  ],
+  "<GroupBlockFilters>k__BackingField": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4843
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4890
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4866
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4903
+    }
+  ]
+}

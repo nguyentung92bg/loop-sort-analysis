@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2048572686421765972
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [],
+  "Animators": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Animator": {
+        "m_FileID": 0,
+        "m_PathID": 6904769854513196884
+      }
+    }
+  ],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -1122781107,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 6247191800102760276
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

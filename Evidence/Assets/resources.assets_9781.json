@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 69004689408
+  },
+  "m_Name": "FadeBehavior",
+  "tagID": "fade",
+  "baseSpeed": 0.5,
+  "baseDelay": 1.0
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 175
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 15435038720
+  },
+  "m_Name": "",
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 906
+  },
+  "background": {
+    "m_FileID": 0,
+    "m_PathID": 1199
+  },
+  "logo": {
+    "m_FileID": 0,
+    "m_PathID": 766
+  }
+}

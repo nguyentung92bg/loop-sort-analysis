@@ -1,0 +1,25 @@
+{
+  "game": "Loop Sort",
+  "version": "4.12.0",
+  "entry": "index.html",
+  "language": "vi",
+  "pages": 13,
+  "offline": true,
+  "scope": "Static package analysis; remote/store runtime not captured",
+  "qa": "Data/report-qa.json",
+  "viewer3D": {
+    "meshSource": "Original Carriers v2, group blocks and conveyor cross-section",
+    "prefabs": 9,
+    "meshes": 57,
+    "materials": 43,
+    "projection": "orthographic",
+    "pitchDegrees": 70,
+    "portraitAspect": "9:19.5",
+    "runtimeShader": "WebGL material conversion; not Unity shader",
+    "qa": "Data/3d-qa.json",
+    "textures": 13,
+    "groupPrefabs": 6,
+    "itemAudit": "Data/item-audit.json",
+    "itemRenderChecks": 17
+  }
+}

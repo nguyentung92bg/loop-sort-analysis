@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4458385994592564072
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8624401043936749513
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Target": {
+    "m_FileID": 0,
+    "m_PathID": -6434413117697700712
+  },
+  "Duration": 2.200000047683716,
+  "Interval": {
+    "x": 0.4000000059604645,
+    "y": 1.2000000476837158
+  },
+  "Vertical": 1
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3074
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 83886080
+  },
+  "m_Name": "",
+  "fillImage": {
+    "m_FileID": 0,
+    "m_PathID": 12162
+  },
+  "countdownText": {
+    "m_FileID": 0,
+    "m_PathID": 12163
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1436
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 56757321728
+  },
+  "m_Name": "",
+  "HoleRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 4803
+  },
+  "Platform": {
+    "m_FileID": 0,
+    "m_PathID": 4592
+  },
+  "View": {
+    "m_FileID": 0,
+    "m_PathID": 11471
+  },
+  "SwapDepth": 20.0,
+  "SwapScale": 0.8999999761581421,
+  "CompleteDelay": 0.30000001192092896,
+  "LowerDuration": 1.0,
+  "RiseDuration": 1.0,
+  "VanishDuration": 0.15000000596046448,
+  "EmptyDelay": 0.30000001192092896,
+  "ArrivePunch": 0.02500000037252903,
+  "ArrivePunchDuration": 0.10000000149011612
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 5486149632
+  },
+  "m_Name": "DefaultLandscapePadding",
+  "landscapePadding": {
+    "m_Left": 250,
+    "m_Right": 250,
+    "m_Top": 80,
+    "m_Bottom": 400
+  }
+}

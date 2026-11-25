@@ -1,0 +1,192 @@
+[
+  {
+    "Type": "NewYork",
+    "Arr": [
+      {
+        "Level": 1,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 1
+  },
+  {
+    "Type": "Paris",
+    "Arr": [
+      {
+        "Level": 51,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 2
+  },
+  {
+    "Type": "London",
+    "Arr": [
+      {
+        "Level": 76,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 3
+  },
+  {
+    "Type": "Rome",
+    "Arr": [
+      {
+        "Level": 131,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 4
+  },
+  {
+    "Type": "Amsterdam",
+    "Arr": [
+      {
+        "Level": 186,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 5
+  },
+  {
+    "Type": "Tokyo",
+    "Arr": [
+      {
+        "Level": 241,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 6
+  },
+  {
+    "Type": "Istanbul",
+    "Arr": [
+      {
+        "Level": 296,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 7
+  },
+  {
+    "Type": "Dubai",
+    "Arr": [
+      {
+        "Level": 351,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 8
+  },
+  {
+    "Type": "Barcelona",
+    "Arr": [
+      {
+        "Level": 406,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 9
+  },
+  {
+    "Type": "SanFrancisco",
+    "Arr": [
+      {
+        "Level": 461,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 10
+  },
+  {
+    "Type": "HongKong",
+    "Arr": [
+      {
+        "Level": 516,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 11
+  },
+  {
+    "Type": "Prague",
+    "Arr": [
+      {
+        "Level": 571,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 12
+  },
+  {
+    "Type": "Seoul",
+    "Arr": [
+      {
+        "Level": 626,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 13
+  },
+  {
+    "Type": "Singapore",
+    "Arr": [
+      {
+        "Level": 681,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 14
+  },
+  {
+    "Type": "Milano",
+    "Arr": [
+      {
+        "Level": 736,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 15
+  },
+  {
+    "Type": "Madrid",
+    "Arr": [
+      {
+        "Level": 791,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 16
+  },
+  {
+    "Type": "Athens",
+    "Arr": [
+      {
+        "Level": 846,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 17
+  },
+  {
+    "Type": "Sydney",
+    "Arr": [
+      {
+        "Level": 901,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 18
+  },
+  {
+    "Type": "Bangkok",
+    "Arr": [
+      {
+        "Level": 1001,
+        "Rewards": "-"
+      }
+    ],
+    "Id": 19
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1594
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 74759274496
+  },
+  "m_Name": "",
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": 12511
+  },
+  "message": {
+    "m_FileID": 0,
+    "m_PathID": 13261
+  },
+  "idfvSectionDebugger": {
+    "m_FileID": 0,
+    "m_PathID": 12203
+  },
+  "idfaSectionDebugger": {
+    "m_FileID": 0,
+    "m_PathID": 12750
+  },
+  "cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 11392
+  },
+  "confirmButton": {
+    "m_FileID": 0,
+    "m_PathID": 12529
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "Map": 0,
+    "Carriers": 20,
+    "Spline": 20,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 1
+  },
+  {
+    "Map": 0,
+    "Carriers": 21,
+    "Spline": 21,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 2
+  },
+  {
+    "Map": 0,
+    "Carriers": 22,
+    "Spline": 22,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 3
+  },
+  {
+    "Map": 0,
+    "Carriers": 23,
+    "Spline": 23,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 4
+  },
+  {
+    "Map": 0,
+    "Carriers": 24,
+    "Spline": 24,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 5
+  },
+  {
+    "Map": 0,
+    "Carriers": 25,
+    "Spline": 25,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 6
+  },
+  {
+    "Map": 0,
+    "Carriers": 26,
+    "Spline": 26,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 7
+  },
+  {
+    "Map": 0,
+    "Carriers": 27,
+    "Spline": 27,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 8
+  },
+  {
+    "Map": 0,
+    "Carriers": 28,
+    "Spline": 28,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 9
+  },
+  {
+    "Map": 0,
+    "Carriers": 29,
+    "Spline": 29,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 10
+  },
+  {
+    "Map": 0,
+    "Carriers": 30,
+    "Spline": 30,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 11
+  },
+  {
+    "Map": 0,
+    "Carriers": 31,
+    "Spline": 31,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 12
+  },
+  {
+    "Map": 0,
+    "Carriers": 32,
+    "Spline": 32,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 13
+  },
+  {
+    "Map": 0,
+    "Carriers": 33,
+    "Spline": 33,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 14
+  },
+  {
+    "Map": 0,
+    "Carriers": 34,
+    "Spline": 34,
+    "Theme": "Default",
+    "SlotCount": 10,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 15
+  },
+  {
+    "Map": 0,
+    "Carriers": 35,
+    "Spline": 35,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 16
+  },
+  {
+    "Map": 0,
+    "Carriers": 36,
+    "Spline": 36,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 17
+  },
+  {
+    "Map": 0,
+    "Carriers": 37,
+    "Spline": 37,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 18
+  },
+  {
+    "Map": 0,
+    "Carriers": 38,
+    "Spline": 38,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 19
+  },
+  {
+    "Map": 0,
+    "Carriers": 39,
+    "Spline": 39,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 20
+  },
+  {
+    "Map": 0,
+    "Carriers": 40,
+    "Spline": 40,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 21
+  },
+  {
+    "Map": 0,
+    "Carriers": 41,
+    "Spline": 41,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 22
+  },
+  {
+    "Map": 0,
+    "Carriers": 42,
+    "Spline": 42,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 23
+  },
+  {
+    "Map": 0,
+    "Carriers": 43,
+    "Spline": 43,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 24
+  },
+  {
+    "Map": 0,
+    "Carriers": 44,
+    "Spline": 44,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 25
+  },
+  {
+    "Map": 0,
+    "Carriers": 45,
+    "Spline": 45,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 26
+  },
+  {
+    "Map": 0,
+    "Carriers": 46,
+    "Spline": 46,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 27
+  },
+  {
+    "Map": 0,
+    "Carriers": 47,
+    "Spline": 47,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 28
+  },
+  {
+    "Map": 0,
+    "Carriers": 48,
+    "Spline": 48,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 29
+  },
+  {
+    "Map": 0,
+    "Carriers": 49,
+    "Spline": 49,
+    "Theme": "Default",
+    "SlotCount": 16,
+    "CameraRotation": 0.0,
+    "ColorMix": 0,
+    "Id": 30
+  }
+]

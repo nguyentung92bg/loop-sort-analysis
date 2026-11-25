@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3332
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 1593835520
+  },
+  "m_Name": "",
+  "Model": {
+    "m_FileID": 0,
+    "m_PathID": 4479
+  },
+  "Left": {
+    "m_FileID": 0,
+    "m_PathID": 4563
+  },
+  "Right": {
+    "m_FileID": 0,
+    "m_PathID": 4545
+  },
+  "WidthOffset": 1.399999976158142,
+  "TileModel": {
+    "m_FileID": 0,
+    "m_PathID": 4804
+  }
+}

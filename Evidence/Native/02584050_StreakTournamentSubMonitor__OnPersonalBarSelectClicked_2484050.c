@@ -1,0 +1,94 @@
+/* IL2CPP: StreakTournamentSubMonitor$$OnPersonalBarSelectClicked
+void StreakTournamentSubMonitor__OnPersonalBarSelectClicked (StreakTournamentSubMonitor_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: StreakTournamentSubMonitor$$OnPersonalBarSelectClicked
+   void StreakTournamentSubMonitor__OnPersonalBarSelectClicked (StreakTournamentSubMonitor_o*
+   __this, const MethodInfo* method); */
+
+void StreakTournamentSubMonitor__OnPersonalBarSelectClicked_2484050(long param_1)
+
+{
+  int iVar1;
+  int iVar2;
+  undefined *puVar3;
+  undefined *puVar4;
+  int iVar5;
+  uint uVar6;
+  long lVar7;
+  long lVar8;
+  undefined8 uVar9;
+  undefined8 *puVar10;
+  long lStack_38;
+  
+  StatefulUISupport_Scripts_Components_StatefulView__SetState_3351944(param_1,0x21d9d25e,0);
+  lVar7 = *(long *)(param_1 + 0x100);
+  if (lVar7 == 0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_021f06a0();
+  }
+  uVar9 = *(undefined8 *)(param_1 + 0xe8);
+  if ((bRam0000000004f4ba2e & 1) == 0) {
+    FUN_021f03f8(PTR_DAT_049c5b50);
+    FUN_021f03f8(PTR_DAT_049c4b40);
+    FUN_021f03f8(PTR_DAT_049c5b70);
+    FUN_021f03f8(PTR_DAT_049c3a68);
+    FUN_021f03f8(PTR_DAT_049c3a70);
+    bRam0000000004f4ba2e = 1;
+  }
+  puVar10 = (undefined8 *)(lVar7 + 0x28);
+  *puVar10 = uVar9;
+  thunk_FUN_021f190c(puVar10,uVar9);
+  *(long *)(lVar7 + 0x30) = param_1;
+  thunk_FUN_021f190c((long *)(lVar7 + 0x30),param_1);
+  if ((*(long *)(lVar7 + 0x18) != 0) &&
+     (lVar8 = *(long *)(*(long *)(lVar7 + 0x18) + 0x120), lVar8 != 0)) {
+    iVar5 = System_Collections_ObjectModel_Collection___Il2CppFullySharedGenericType___get_Count_2807450
+                      (lVar8,*(undefined8 *)PTR_DAT_049c5b50);
+    lVar8 = StatefulUISupport_Scripts_Components_StatefulComponentExtensions__GetObject_3350f84
+                      (*puVar10,0x21c0801,0);
+    if ((lVar8 != 0) && (*(long *)(lVar8 + 0x20) != 0)) {
+      UnityEngine_GameObject__GetComponent___Il2CppFullySharedGenericType__261a804
+                (*(long *)(lVar8 + 0x20),&lStack_38,*(undefined8 *)PTR_DAT_049c4b40);
+      if (lStack_38 != 0) {
+        *(long *)(lStack_38 + 0x20) = lVar7;
+        thunk_FUN_021f190c((long *)(lStack_38 + 0x20),lVar7);
+        *(long *)(lStack_38 + 400) = lVar7;
+        thunk_FUN_021f190c(lStack_38 + 400,lVar7);
+        *(int *)(lStack_38 + 0x28) = iVar5;
+        puVar4 = PTR_DAT_049c5b70;
+        puVar3 = PTR_DAT_049c3a68;
+        if (*(long *)(lStack_38 + 0xc0) != 0) {
+          UnityEngine_Events_UnityEventBase__RemoveAllListeners_3c3287c
+                    (*(long *)(lStack_38 + 0xc0),0);
+          lVar8 = *(long *)(lStack_38 + 0xc0);
+          uVar9 = thunk_FUN_0222ca34(*(undefined8 *)puVar3);
+          UnityEngine_Events_UnityAction___Il2CppFullySharedGenericType____ctor_29e4370
+                    (uVar9,lVar7,*(undefined8 *)puVar4,0);
+          if (lVar8 != 0) {
+            UnityEngine_Events_UnityEvent___Il2CppFullySharedGenericType___AddListener_29e5738
+                      (lVar8,uVar9,*(undefined8 *)PTR_DAT_049c3a70);
+            if (*(long *)(lVar7 + 0x10) != 0) {
+              uVar6 = StreakTournament__get_Personal_2524224(*(long *)(lVar7 + 0x10),0);
+              iVar2 = iVar5 + ~uVar6 + -2;
+              iVar1 = iVar2;
+              if (iVar5 + -1 <= iVar2) {
+                iVar1 = iVar5 + -1;
+              }
+              iVar5 = 0;
+              if (-1 < iVar2) {
+                iVar5 = iVar1;
+              }
+              UnityEngine_UI_LoopScrollRectBase__RefillCells_2ebe22c(0,lStack_38,iVar5,0);
+              return;
+            }
+          }
+        }
+      }
+    }
+  }
+                    /* WARNING: Subroutine does not return */
+  FUN_021f06a0();
+}
+

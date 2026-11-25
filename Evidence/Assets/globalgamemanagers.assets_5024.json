@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 41305505792
+  },
+  "m_Name": "UIEffectProjectSettings",
+  "m_RuntimePresets": [],
+  "m_RuntimePresetsV2": [],
+  "m_UseHDRColorPicker": 1,
+  "m_ShaderVariantCollection": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_ShaderVariantRegistry": {
+    "m_OptionalShaders": [
+      {
+        "key": "Hidden/UI/Default (SoftMaskable)",
+        "value": "Hidden/UI/Default (UIEffect)"
+      }
+    ],
+    "m_Asset": {
+      "m_FileID": 0,
+      "m_PathID": 5013
+    }
+  }
+}

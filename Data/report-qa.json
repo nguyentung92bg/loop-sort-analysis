@@ -1,0 +1,110 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "file": "Analytics.html",
+      "images": 4,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Boosters.html",
+      "images": 8,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Daily.html",
+      "images": 20,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "EconomyAds.html",
+      "images": 7,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Events.html",
+      "images": 282,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Evidence.html",
+      "images": 4,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "IAP.html",
+      "images": 145,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "index.html",
+      "images": 8,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Items.html",
+      "images": 22,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Leaderboard.html",
+      "images": 53,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Levels.html",
+      "images": 4,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Progression.html",
+      "images": 4,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "file": "Settings.html",
+      "images": 4,
+      "broken": [],
+      "overflow": false
+    },
+    {
+      "level": 310,
+      "meta": "Normal · Bình thường\nMàn chính · Theme dữ liệu: Default\nLevel 310 / local\nIndex lưu: 309Index nguồn: 309ID nguồn: 310Lượt loop: 1Theme: DefaultSlots: 9Token màu: 36Carrier ref: 310Spline ref: 310"
+    },
+    {
+      "level": 1300,
+      "meta": "Normal · Bình thường\nMàn chính · Theme dữ liệu: Default\nLevel 1300 / local\nIndex lưu: 1299Index nguồn: 800ID nguồn: 801Lượt loop: 2Theme: DefaultSlots: 8Token màu: 44Carrier ref: 1036Spline ref: 1036"
+    },
+    {
+      "level": 1799,
+      "meta": "Normal · Bình thường\nMàn chính · Theme dữ liệu: Default\nLevel 1799 / local\nIndex lưu: 1798Index nguồn: 800ID nguồn: 801Lượt loop: 3Theme: DefaultSlots: 8Token màu: 44Carrier ref: 1036Spline ref: 1036"
+    },
+    {
+      "daily": "Normal · Bình thường\nDaily Challenge · Theme dữ liệu: Default\nLevel 30 / daily\nIndex lưu: 29Index nguồn: 29ID nguồn: 30Lượt loop: 1Theme: DefaultSlots: 16Token màu: 48Carrier ref: 49Spline ref: 49"
+    },
+    {
+      "mobile": "index.html",
+      "overflow": false
+    },
+    {
+      "mobile": "IAP.html",
+      "overflow": false
+    },
+    {
+      "mobile": "Levels.html",
+      "overflow": false
+    }
+  ]
+}

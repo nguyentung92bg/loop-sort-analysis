@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1943
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 1342177280
+  },
+  "m_Name": "",
+  "Lock": {
+    "m_FileID": 0,
+    "m_PathID": 4414
+  },
+  "UnlockPoint": {
+    "m_FileID": 0,
+    "m_PathID": 4493
+  },
+  "ForwardOffset": 2.4000000953674316,
+  "FrontDoor": {
+    "m_FileID": 0,
+    "m_PathID": 5050
+  },
+  "TopDoor": {
+    "m_FileID": 0,
+    "m_PathID": 5048
+  },
+  "Left": {
+    "m_FileID": 0,
+    "m_PathID": 4272
+  },
+  "Right": {
+    "m_FileID": 0,
+    "m_PathID": 4502
+  },
+  "Center": {
+    "m_FileID": 0,
+    "m_PathID": 4232
+  },
+  "CenterScaleOffset": 1.3250000476837158,
+  "Door": {
+    "m_FileID": 0,
+    "m_PathID": 4297
+  },
+  "DoorScaleOffset": 2.2249999046325684
+}

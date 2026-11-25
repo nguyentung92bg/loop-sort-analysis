@@ -1,0 +1,95 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1721
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": -1725436517,
+      "Identificator": "Collect_Text_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 11161
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -676523153,
+      "Identificator": "Collect_Text1_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12573
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": -676523153,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 1445
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1126420587,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 1889
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -2113617040,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3255
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

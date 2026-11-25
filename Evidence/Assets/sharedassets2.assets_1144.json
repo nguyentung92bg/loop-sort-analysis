@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 245
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 25216155648
+  },
+  "m_Name": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 1152
+  },
+  "_introText": {
+    "m_FileID": 0,
+    "m_PathID": 1401
+  },
+  "_advertisingCheckbox": {
+    "m_FileID": 0,
+    "m_PathID": 1240
+  },
+  "_advertisingText": {
+    "m_FileID": 0,
+    "m_PathID": 1032
+  },
+  "_advertisingContent": {
+    "m_FileID": 0,
+    "m_PathID": 866
+  },
+  "_analyticsCheckbox": {
+    "m_FileID": 0,
+    "m_PathID": 1065
+  },
+  "_analyticsText": {
+    "m_FileID": 0,
+    "m_PathID": 1057
+  },
+  "_analyticsContent": {
+    "m_FileID": 0,
+    "m_PathID": 864
+  },
+  "_privacyPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": 1282
+  },
+  "_privacyPolicyButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1050
+  },
+  "_accessDataButton": {
+    "m_FileID": 0,
+    "m_PathID": 1002
+  },
+  "_accessDataButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1260
+  },
+  "_deleteDataButton": {
+    "m_FileID": 0,
+    "m_PathID": 954
+  },
+  "_deleteDataButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1062
+  },
+  "_saveButton": {
+    "m_FileID": 0,
+    "m_PathID": 1346
+  },
+  "_saveButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1245
+  },
+  "_saveButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1344
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1341
+  },
+  "_closeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1320
+  },
+  "_scrollbarHandles": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1170
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 952
+    }
+  ],
+  "_privacyPolicyElementPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1077
+  }
+}

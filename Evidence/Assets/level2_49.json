@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 61270392832
+  },
+  "m_Name": "",
+  "_appRaterPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 916
+  },
+  "_privacyCanvasPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 1232
+  },
+  "_bannerBackgroundPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 1120
+  },
+  "fakeAdsPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 202
+  },
+  "_accessButton": {
+    "m_FileID": 4,
+    "m_PathID": 177
+  },
+  "_performanceDisplayPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 1075
+  },
+  "_audioAdsPopupTriggerPrefab": {
+    "m_FileID": 4,
+    "m_PathID": 1319
+  },
+  "_canvasAdLoading": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  }
+}

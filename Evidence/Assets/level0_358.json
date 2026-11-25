@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 66773319680
+  },
+  "m_Name": "",
+  "m_debugPackets": [
+    {
+      "Active": 1,
+      "Id": 1,
+      "ExecuteOnce": 1,
+      "InitSleepTime": 2.0,
+      "ExecuteSleepTime": 2.0,
+      "ConditionEvaluation": 0,
+      "DebugConditions": [
+        {
+          "Variable": 0,
+          "Comparer": 0,
+          "Value": 0.0
+        }
+      ],
+      "MessageType": 0,
+      "Message": "",
+      "TakeScreenshot": 0,
+      "ScreenshotFileName": "",
+      "DebugBreak": 0,
+      "UnityEvents": {
+        "m_PersistentCalls": {
+          "m_Calls": []
+        }
+      }
+    }
+  ]
+}

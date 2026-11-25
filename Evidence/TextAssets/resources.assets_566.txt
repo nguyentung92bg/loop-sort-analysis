@@ -1,0 +1,27 @@
+
+ParisOfferIcon.png
+size: 504, 254
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bulb2
+  rotate: false
+  xy: 386, 126
+  size: 7, 8
+  orig: 11, 11
+  offset: 2, 1
+  index: -1
+Light3
+  rotate: false
+  xy: 386, 136
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+eifell
+  rotate: true
+  xy: 2, 2
+  size: 250, 382
+  orig: 252, 384
+  offset: 1, 1
+  index: -1

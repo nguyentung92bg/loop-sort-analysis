@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 31658606592
+  },
+  "m_Name": "SizeAppearance",
+  "tagID": "size",
+  "baseDuration": 0.5,
+  "baseAmplitude": 2.0
+}

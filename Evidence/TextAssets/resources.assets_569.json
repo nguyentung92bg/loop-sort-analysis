@@ -1,0 +1,58 @@
+[
+  {
+    "Value": "500",
+    "Id": "MaxLevelOffset"
+  },
+  {
+    "Value": "20",
+    "Id": "ThemeFrequency"
+  },
+  {
+    "Value": "5",
+    "Id": "MainMenuOffset"
+  },
+  {
+    "Value": "10",
+    "Id": "WinReward"
+  },
+  {
+    "Value": "30",
+    "Id": "HardLevelReward"
+  },
+  {
+    "Value": "50",
+    "Id": "SuperHardLevelReward"
+  },
+  {
+    "Value": "900",
+    "Id": "RefillLives"
+  },
+  {
+    "Value": "1.5",
+    "Id": "PiggyBankMultiplier"
+  },
+  {
+    "Value": "1500",
+    "Id": "PiggyBankTargetGold"
+  },
+  {
+    "Value": "32",
+    "Id": "PiggyBankPopupInterval"
+  },
+  {
+    "Value": "50",
+    "Id": "DailyReward"
+  },
+  {
+    "Value": "300",
+    "Id": "MinimumProductCost"
+  },
+  {
+    "Value": "50",
+    "Id": "ShopFreeCoins"
+  },
+  {
+    "Value": "",
+    "Id": "LevelSheets"
+  }
+]

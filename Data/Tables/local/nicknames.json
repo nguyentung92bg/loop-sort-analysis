@@ -1,0 +1,138 @@
+[
+  {
+    "Values": "Swift,Neon,Lucky,Brave,Wild,Shadow,Frost,Turbo,Mighty,Crimson,Silent,Golden,Rapid,Cosmic,Iron,Lunar,Solar,Epic,Mystic,Royal,Blazing,Storm,Nova,Vivid,Arctic,Rogue,Sly,Quick,Jade,Prime,Dark,Pixel,Cyber,Steel,Atomic,Savage,Hyper,Feral,Toxic,Plasma,Velvet,Wicked,Brisk,Noble,Stealth,Radiant,Fierce,Crystal,Phantom,Electric",
+    "Id": "Adjectives"
+  },
+  {
+    "Values": "Fox,Wolf,Tiger,Eagle,Shark,Dragon,Falcon,Panther,Hawk,Lion,Raven,Cobra,Phoenix,Bear,Viper,Lynx,Otter,Bison,Orca,Puma,Wasp,Stag,Comet,Blade,Ghost,Titan,Ace,Pilot,Ranger,Knight,Wizard,Ninja,Samurai,Reaper,Hornet,Jaguar,Rhino,Mamba,Griffin,Kraken,Sniper,Hunter,Warden,Nomad,Specter,Bolt,Talon,Fang,Saber,Drake",
+    "Id": "Nouns"
+  },
+  {
+    "Values": "Pro,Its,Real,Lil,Big,King,Mr,Sir,The,Mega,Super,Iron,Ace,Mvp,Lord,Captain",
+    "Id": "Prefixes"
+  },
+  {
+    "Values": "YT,TV,HD,Pro,X,TTV,Gaming,Plays,Live,Official,Gamer,Bro,Boss,OG,Plus,Prime",
+    "Id": "Suffixes"
+  },
+  {
+    "Values": "James,John,Robert,Michael,William,David,Richard,Joseph,Thomas,Charles,Daniel,Matthew,Anthony,Mark,Donald,Steven,Paul,Andrew,Joshua,Kenneth,Kevin,Brian,George,Edward,Ronald,Timothy,Jason,Jeffrey,Ryan,Jacob,Gary,Nicholas,Eric,Jonathan,Stephen,Justin,Scott,Brandon,Benjamin,Samuel,Gregory,Alexander,Patrick,Jack,Tyler,Aaron,Henry,Adam,Nathan,Zachary,Kyle,Noah,Liam,Oliver,Elijah,Mason,Logan,Lucas,Leo,Max,Oscar,Theo,Mary,Patricia,Jennifer,Linda,Elizabeth,Barbara,Susan,Jessica,Sarah,Karen,Nancy,Lisa,Margaret,Betty,Sandra,Ashley,Kimberly,Emily,Donna,Michelle,Carol,Amanda,Melissa,Deborah,Stephanie,Rebecca,Laura,Sharon,Cynthia,Amy,Angela,Anna,Brenda,Emma,Olivia,Ava,Sophia,Isabella,Mia,Charlotte,Amelia,Harper,Evelyn,Abigail,Ella,Grace,Chloe,Victoria,Lily,Zoe,Hannah,Lucy,Ruby",
+    "Id": "FirstNames.en"
+  },
+  {
+    "Values": "Smith,Johnson,Williams,Brown,Jones,Miller,Davis,Garcia,Wilson,Anderson,Taylor,Thomas,Moore,Martin,Jackson,Thompson,White,Harris,Clark,Lewis,Robinson,Walker,Young,Allen,King,Wright,Scott,Green,Baker,Adams,Nelson,Hill,Campbell,Mitchell,Roberts,Carter,Phillips,Evans,Turner,Parker,Collins,Edwards,Stewart,Morris,Murphy,Cook,Rogers,Morgan,Bell,Cooper",
+    "Id": "LastNames.en"
+  },
+  {
+    "Values": "Antonio,Jose,Manuel,Francisco,David,Juan,Javier,Daniel,Carlos,Jesus,Alejandro,Miguel,Pablo,Sergio,Alberto,Pedro,Fernando,Luis,Diego,Mario,Maria,Carmen,Ana,Isabel,Laura,Cristina,Marta,Lucia,Sara,Paula,Elena,Sofia,Andrea,Marina,Pilar,Rosa,Raquel,Beatriz,Alba,Julia,Clara,Nuria,Rocio,Valentina",
+    "Id": "FirstNames.es"
+  },
+  {
+    "Values": "Garcia,Rodriguez,Gonzalez,Fernandez,Lopez,Martinez,Sanchez,Perez,Gomez,Martin,Jimenez,Ruiz,Hernandez,Diaz,Moreno,Alvarez,Romero,Alonso,Gutierrez,Navarro,Torres,Dominguez,Vazquez,Ramos,Gil,Ramirez,Serrano,Blanco,Molina,Morales,Suarez,Ortega,Delgado,Castro,Ortiz,Rubio,Marin,Sanz,Nunez,Medina",
+    "Id": "LastNames.es"
+  },
+  {
+    "Values": "Jean,Pierre,Michel,Andre,Philippe,Louis,Nicolas,Jacques,Daniel,Bernard,Alain,Hugo,Lucas,Gabriel,Arthur,Jules,Leo,Antoine,Mathis,Marie,Nathalie,Isabelle,Sylvie,Catherine,Sophie,Camille,Manon,Emma,Chloe,Lea,Sarah,Julie,Laura,Celine,Aurelie,Amelie,Juliette,Margaux,Margot,Noemie",
+    "Id": "FirstNames.fr"
+  },
+  {
+    "Values": "Martin,Bernard,Dubois,Thomas,Robert,Richard,Petit,Durand,Leroy,Moreau,Simon,Laurent,Lefebvre,Michel,Garcia,David,Bertrand,Roux,Vincent,Fournier,Morel,Girard,Andre,Lefevre,Mercier,Dupont,Lambert,Bonnet,Francois,Martinez,Legrand,Garnier,Faure,Rousseau,Blanc,Guerin,Henry,Roussel,Nicolas,Gauthier",
+    "Id": "LastNames.fr"
+  },
+  {
+    "Values": "Hans,Peter,Wolfgang,Michael,Werner,Klaus,Thomas,Andreas,Stefan,Karl,Lukas,Jonas,Leon,Finn,Felix,Maximilian,Paul,Ben,Elias,Noah,Anna,Maria,Ursula,Monika,Petra,Sabine,Greta,Lena,Mia,Emma,Hannah,Lea,Sophie,Marie,Laura,Julia,Lisa,Freya,Ingrid,Astrid",
+    "Id": "FirstNames.de"
+  },
+  {
+    "Values": "Muller,Schmidt,Schneider,Fischer,Weber,Meyer,Wagner,Becker,Schulz,Hoffmann,Schafer,Koch,Bauer,Richter,Klein,Wolf,Schroder,Neumann,Schwarz,Zimmermann,Braun,Kruger,Hofmann,Hartmann,Lange,Schmitt,Werner,Krause,Meier,Lehmann",
+    "Id": "LastNames.de"
+  },
+  {
+    "Values": "Giuseppe,Giovanni,Antonio,Mario,Luigi,Francesco,Angelo,Vincenzo,Pietro,Salvatore,Carlo,Franco,Domenico,Bruno,Paolo,Marco,Luca,Matteo,Lorenzo,Alessandro,Andrea,Davide,Simone,Stefano,Maria,Anna,Giulia,Rosa,Angela,Teresa,Lucia,Caterina,Francesca,Chiara,Sara,Martina,Elena,Sofia,Aurora,Alice",
+    "Id": "FirstNames.it"
+  },
+  {
+    "Values": "Rossi,Russo,Ferrari,Esposito,Bianchi,Romano,Colombo,Ricci,Marino,Greco,Bruno,Gallo,Conti,Costa,Giordano,Mancini,Rizzo,Lombardi,Moretti,Barbieri,Fontana,Santoro,Mariani,Rinaldi,Caruso,Ferrara,Galli,Martini,Leone,Longo",
+    "Id": "LastNames.it"
+  },
+  {
+    "Values": "Mehmet,Mustafa,Ahmet,Ali,Huseyin,Hasan,Ibrahim,Ismail,Osman,Yusuf,Murat,Omer,Suleyman,Emre,Kaan,Cem,Mert,Burak,Baris,Fatma,Ayse,Emine,Hatice,Zeynep,Elif,Meryem,Aylin,Selin,Ece,Derya,Defne,Ceyda,Sila,Nehir,Deniz,Yagmur,Buse,Arda,Ege,Kerem",
+    "Id": "FirstNames.tr"
+  },
+  {
+    "Values": "Yilmaz,Kaya,Demir,Sahin,Celik,Yildiz,Yildirim,Ozturk,Aydin,Ozdemir,Arslan,Dogan,Kilic,Aslan,Cetin,Kara,Koc,Kurt,Ozkan,Sen,Polat,Erdogan,Korkmaz,Kaplan,Ozer,Simsek,Acar,Bulut,Guler,Yalcin",
+    "Id": "LastNames.tr"
+  },
+  {
+    "Values": "Mohammed,Ahmed,Ali,Omar,Khaled,Hassan,Hussein,Ibrahim,Yusuf,Abdullah,Tariq,Karim,Samir,Bilal,Adel,Sami,Jamal,Mahmoud,Rami,Hadi,Fatima,Aisha,Layla,Nour,Zara,Yara,Rania,Nadia,Leila,Salma,Dalia,Mariam,Huda,Amira,Lina,Hana,Maya,Sara,Noor,Reem",
+    "Id": "FirstNames.ar"
+  },
+  {
+    "Values": "Hassan,Ibrahim,Mahmoud,Saleh,Mansour,Nasser,Haddad,Khalil,Aziz,Rashid,Saad,Younis,Habib,Said,Farouk,Najjar,Mustafa,Karam,Salem,Hamdan,Ahmad,Khan,Hussein,Sharif,Nasr,Qasim,Hamza,Othman,Farah,Jaber",
+    "Id": "LastNames.ar"
+  },
+  {
+    "Values": "Aarav,Vivaan,Aditya,Vihaan,Arjun,Reyansh,Krishna,Ishaan,Rohan,Kabir,Ravi,Vikram,Kiran,Deepak,Sanjay,Nikhil,Sahil,Karan,Anil,Rahul,Aanya,Saanvi,Aadhya,Diya,Priya,Neha,Anjali,Meera,Pooja,Isha,Tara,Divya,Sneha,Asha,Riya,Kavya,Ananya,Ishita,Sara,Aisha",
+    "Id": "FirstNames.in"
+  },
+  {
+    "Values": "Sharma,Patel,Singh,Kumar,Gupta,Reddy,Nair,Rao,Mehta,Verma,Iyer,Chopra,Malhotra,Kapoor,Joshi,Pillai,Menon,Bhatt,Desai,Agarwal,Das,Bose,Banerjee,Mukherjee,Chauhan,Gill,Khanna,Mishra,Pandey,Sinha",
+    "Id": "LastNames.in"
+  },
+  {
+    "Values": "Haruto,Yuto,Sota,Yuki,Hayato,Haruki,Ren,Sora,Riku,Kaito,Yamato,Kenji,Akira,Daiki,Taro,Hiro,Kei,Aoi,Yui,Hina,Sakura,Yua,Rin,Mei,Nao,Emi,Mio,Saki,Honoka,Ai,Misaki,Yuna,Akari,Riko,Hana,Aiko",
+    "Id": "FirstNames.ja"
+  },
+  {
+    "Values": "Sato,Suzuki,Takahashi,Tanaka,Watanabe,Ito,Yamamoto,Nakamura,Kobayashi,Kato,Yoshida,Yamada,Sasaki,Yamaguchi,Matsumoto,Inoue,Kimura,Hayashi,Shimizu,Saito,Mori,Abe,Ikeda,Hashimoto,Ono,Ishikawa,Yamazaki,Maeda,Fujita,Ogawa",
+    "Id": "LastNames.ja"
+  },
+  {
+    "Values": "Aleksandr,Sergei,Dmitri,Andrei,Alexei,Ivan,Mikhail,Nikolai,Vladimir,Pavel,Anton,Boris,Yuri,Igor,Vlad,Milos,Tomas,Marek,Lukasz,Pyotr,Olga,Natasha,Katya,Irina,Anya,Dasha,Svetlana,Tatiana,Anna,Maria,Elena,Mila,Petra,Nina,Vera,Sasha,Lena,Yana,Nikola,Dimitri",
+    "Id": "FirstNames.sl"
+  },
+  {
+    "Values": "Ivanov,Petrov,Smirnov,Volkov,Sokolov,Popov,Novak,Kowalski,Nowak,Horvat,Kovac,Dvorak,Morozov,Pavlov,Romanov,Lebedev,Novikov,Wisniewski,Zielinski,Jankovic,Sidorov,Kuznetsov,Vasiliev,Mikhailov,Fedorov,Wojcik,Kaminski,Lewandowski,Zajac,Kovacs",
+    "Id": "LastNames.sl"
+  },
+  {
+    "Values": "Minho,Jun,Jin,Hyun,Seo,Bin,Jisoo,Hana,Soo,Eun,Jihu,Seojun,Doyun,Siwoo,Hajun,Jiho,Eunwoo,Yuna,Seoyeon,Jiwoo,Jia,Soeun,Dahyun",
+    "Id": "FirstNames.ko"
+  },
+  {
+    "Values": "Kim,Lee,Park,Choi,Jung,Kang,Cho,Yoon,Jang,Lim,Han,Shin,Oh,Seo,Kwon,Hwang,Ahn,Song,Yu,Hong",
+    "Id": "LastNames.ko"
+  },
+  {
+    "Values": "Wei,Bo,Feng,Tao,Ming,Chen,Kai,Jun,Mei,Lin,Hui,Yan,Ling,Xia,Yue,Hao,Lei,Jing,Yong,Hua,Fang,Min,Na,Ping,Qiang,Xin,Yu,Zhen,Juan",
+    "Id": "FirstNames.zh"
+  },
+  {
+    "Values": "Wang,Li,Zhang,Liu,Chen,Yang,Huang,Zhao,Wu,Zhou,Xu,Sun,Ma,Zhu,Hu,Guo,Lin,He,Gao,Luo",
+    "Id": "LastNames.zh"
+  },
+  {
+    "Values": "Georgios,Ioannis,Konstantinos,Dimitrios,Nikolaos,Panagiotis,Vasilios,Christos,Michail,Nikos,Yannis,Spiros,Petros,Alexis,Thanos,Stavros,Maria,Eleni,Sofia,Angeliki,Dimitra,Dora,Georgia,Anna,Christina,Ioanna",
+    "Id": "FirstNames.gr"
+  },
+  {
+    "Values": "Papadopoulos,Vlachos,Pappas,Nikolaou,Georgiou,Christou,Antoniou,Makris,Dimou,Stavrou,Manos,Oikonomou,Angelopoulos,Vasileiou,Ioannou,Konstantinou,Dimitriou,Nikolaidis,Georgiadis,Karagiannis",
+    "Id": "LastNames.gr"
+  },
+  {
+    "Values": "Joao,Pedro,Tiago,Rafael,Rui,Diogo,Miguel,Tomas,Goncalo,Andre,Mariana,Beatriz,Ines,Catarina,Ana,Maria,Sofia,Leonor,Matilde,Carolina,Rita,Joana,Sara,Margarida,Diana",
+    "Id": "FirstNames.pt"
+  },
+  {
+    "Values": "Silva,Santos,Ferreira,Pereira,Oliveira,Costa,Rodrigues,Martins,Jesus,Sousa,Fernandes,Goncalves,Gomes,Lopes,Marques,Almeida,Carvalho,Ribeiro,Pinto,Teixeira",
+    "Id": "LastNames.pt"
+  },
+  {
+    "Values": "Kwame,Kofi,Kojo,Yaw,Kwesi,Chidi,Emeka,Femi,Ayo,Tunde,Thabo,Sipho,Bandile,Jabari,Amara,Ama,Nia,Zola,Zuri,Imani,Ayana,Folake,Nneka,Aisha,Zainab,Amaka,Eshe,Makena",
+    "Id": "FirstNames.af"
+  },
+  {
+    "Values": "Okafor,Mensah,Banda,Diallo,Mwangi,Nkosi,Adeyemi,Osei,Dube,Okoro,Balogun,Adebayo,Achebe,Mahlangu,Eze,Mutua,Ndlovu,Abebe,Owusu,Boateng",
+    "Id": "LastNames.af"
+  }
+]

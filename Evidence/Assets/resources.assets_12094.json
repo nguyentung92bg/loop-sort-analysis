@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2710
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 40802189312
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 994
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Logs - Options",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "enableDebugLogsToggle": {
+    "m_FileID": 0,
+    "m_PathID": 10294
+  },
+  "restartLogsView": {
+    "m_FileID": 0,
+    "m_PathID": 3168
+  },
+  "logFilterContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8819
+  },
+  "logFilterParent": {
+    "m_FileID": 0,
+    "m_PathID": 3223
+  },
+  "logFilterPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 12920
+  },
+  "logHeaderTextPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11839
+  }
+}

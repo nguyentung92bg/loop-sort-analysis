@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 49845108736
+  },
+  "m_Name": "Actions Database",
+  "data": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9766
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9767
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9768
+    }
+  ]
+}

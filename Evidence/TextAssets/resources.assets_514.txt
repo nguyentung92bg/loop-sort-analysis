@@ -1,0 +1,111 @@
+
+CharHead2.png
+size: 1415, 324
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+EyeBall
+  rotate: true
+  xy: 1295, 56
+  size: 91, 95
+  orig: 94, 99
+  offset: 2, 1
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 738, 2
+  size: 84, 41
+  orig: 88, 45
+  offset: 2, 2
+  index: -1
+EyeLight
+  rotate: false
+  xy: 901, 61
+  size: 25, 25
+  orig: 37, 36
+  offset: 6, 5
+  index: -1
+EyePupil
+  rotate: true
+  xy: 883, 88
+  size: 59, 61
+  orig: 61, 63
+  offset: 1, 1
+  index: -1
+EyelidFull
+  rotate: false
+  xy: 1056, 15
+  size: 118, 132
+  orig: 124, 137
+  offset: 5, 5
+  index: -1
+EyelidFull_L
+  rotate: true
+  xy: 1176, 25
+  size: 122, 117
+  orig: 124, 118
+  offset: 0, 0
+  index: -1
+EyelidUP_L
+  rotate: false
+  xy: 781, 13
+  size: 118, 73
+  orig: 121, 76
+  offset: 1, 1
+  index: -1
+EyelidUp
+  rotate: true
+  xy: 1325, 207
+  size: 115, 88
+  orig: 121, 88
+  offset: 5, 0
+  index: -1
+MouthLips
+  rotate: true
+  xy: 738, 88
+  size: 234, 143
+  orig: 236, 148
+  offset: 0, 1
+  index: -1
+MouthShape
+  rotate: true
+  xy: 946, 4
+  size: 143, 58
+  orig: 145, 60
+  offset: 1, 1
+  index: -1
+Tongue
+  rotate: false
+  xy: 1295, 10
+  size: 89, 44
+  orig: 91, 46
+  offset: 1, 1
+  index: -1
+UpperTooth
+  rotate: true
+  xy: 1006, 14
+  size: 133, 48
+  orig: 136, 50
+  offset: 1, 1
+  index: -1
+baseBody
+  rotate: false
+  xy: 883, 149
+  size: 440, 173
+  orig: 441, 173
+  offset: 1, 0
+  index: -1
+head
+  rotate: true
+  xy: 373, 11
+  size: 311, 363
+  orig: 318, 371
+  offset: 3, 4
+  index: -1
+headMasked
+  rotate: true
+  xy: 2, 6
+  size: 316, 369
+  orig: 316, 369
+  offset: 0, 0
+  index: -1

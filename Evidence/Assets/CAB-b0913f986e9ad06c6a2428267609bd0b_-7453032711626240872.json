@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7575814275263443816
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9135760189442999530
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Glows": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5435778211073477784
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6951992088509861016
+    }
+  ],
+  "Flares": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1195723560694959256
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6896283796593783656
+    }
+  ],
+  "IdleAlpha": 0.3499999940395355,
+  "FlashScale": 1.350000023841858,
+  "FlashDuration": 0.14000000059604645,
+  "Gap": 0.10000000149011612,
+  "Interval": {
+    "x": 2.0,
+    "y": 3.5
+  }
+}

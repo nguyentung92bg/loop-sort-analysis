@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 46690992128
+  },
+  "m_Name": "Sounds",
+  "Click": {
+    "m_FileID": 0,
+    "m_PathID": 638
+  },
+  "Lose": {
+    "m_FileID": 0,
+    "m_PathID": 644
+  },
+  "Win": {
+    "m_FileID": 0,
+    "m_PathID": 636
+  },
+  "WinText": {
+    "m_FileID": 0,
+    "m_PathID": 639
+  },
+  "WinReward": {
+    "m_FileID": 0,
+    "m_PathID": 641
+  },
+  "Confetti": {
+    "m_FileID": 0,
+    "m_PathID": 628
+  },
+  "Coin": {
+    "m_FileID": 0,
+    "m_PathID": 635
+  },
+  "GiftUnlock": {
+    "m_FileID": 0,
+    "m_PathID": 650
+  },
+  "BoosterSelect": {
+    "m_FileID": 0,
+    "m_PathID": 625
+  },
+  "MainMenuMusic": {
+    "m_FileID": 0,
+    "m_PathID": 648
+  },
+  "PlayingMusic": {
+    "m_FileID": 0,
+    "m_PathID": 634
+  },
+  "HardLevelMusic": {
+    "m_FileID": 0,
+    "m_PathID": 631
+  },
+  "Fabulous": {
+    "m_FileID": 0,
+    "m_PathID": 624
+  },
+  "Perfect": {
+    "m_FileID": 0,
+    "m_PathID": 645
+  },
+  "Great": {
+    "m_FileID": 0,
+    "m_PathID": 643
+  },
+  "Good": {
+    "m_FileID": 0,
+    "m_PathID": 646
+  },
+  "AddBlock": {
+    "m_FileID": 0,
+    "m_PathID": 630
+  },
+  "CarrierTransfer": {
+    "m_FileID": 0,
+    "m_PathID": 649
+  },
+  "CarrierComplete": {
+    "m_FileID": 0,
+    "m_PathID": 627
+  },
+  "CarrierTransferAb": {
+    "m_FileID": 0,
+    "m_PathID": 629
+  },
+  "CarrierCompleteAb": {
+    "m_FileID": 0,
+    "m_PathID": 633
+  },
+  "RocketFire": {
+    "m_FileID": 0,
+    "m_PathID": 647
+  },
+  "RocketExplosion": {
+    "m_FileID": 0,
+    "m_PathID": 623
+  },
+  "VaultOpen": {
+    "m_FileID": 0,
+    "m_PathID": 640
+  }
+}

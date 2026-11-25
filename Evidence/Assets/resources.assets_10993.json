@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1887
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23655874560
+  },
+  "m_Name": "",
+  "buttonShowHide": {
+    "m_FileID": 0,
+    "m_PathID": 10748
+  },
+  "showHideImage": {
+    "m_FileID": 0,
+    "m_PathID": 11026
+  },
+  "collapseSprite": {
+    "m_FileID": 0,
+    "m_PathID": 782
+  },
+  "expandSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1061
+  }
+}

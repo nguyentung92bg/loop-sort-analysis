@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3612
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 29527900160
+  },
+  "m_Name": "",
+  "multithreaded": 0,
+  "updateMode": 1,
+  "triggerGroups": [],
+  "_spline": {
+    "points": [],
+    "type": 1,
+    "linearAverageDirection": 1,
+    "customValueInterpolation": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "customNormalInterpolation": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "sampleRate": 8,
+    "closed": 0,
+    "_knotParametrization": 0.0
+  },
+  "_originalSamplePercents": [],
+  "_is2D": 0,
+  "hasSamples": 1,
+  "_optimizeAngleThreshold": 0.5,
+  "_space": 1,
+  "_sampleMode": 0,
+  "_subscribers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 10448
+    }
+  ],
+  "_rawSamples": [],
+  "_nodes": []
+}

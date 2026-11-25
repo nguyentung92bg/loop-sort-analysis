@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 115
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 59978547200
+  },
+  "m_Name": "",
+  "_headerText": {
+    "m_FileID": 0,
+    "m_PathID": 921
+  },
+  "_bodyScrollbarHandle": {
+    "m_FileID": 0,
+    "m_PathID": 1247
+  },
+  "_introText": {
+    "m_FileID": 0,
+    "m_PathID": 1016
+  },
+  "_gameText": {
+    "m_FileID": 0,
+    "m_PathID": 1015
+  },
+  "_gameImage": {
+    "m_FileID": 0,
+    "m_PathID": 1089
+  },
+  "_adsText": {
+    "m_FileID": 0,
+    "m_PathID": 1222
+  },
+  "_adsImage": {
+    "m_FileID": 0,
+    "m_PathID": 1092
+  },
+  "_bugText": {
+    "m_FileID": 0,
+    "m_PathID": 1165
+  },
+  "_bugImage": {
+    "m_FileID": 0,
+    "m_PathID": 1088
+  },
+  "_outroText": {
+    "m_FileID": 0,
+    "m_PathID": 1004
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 1098
+  },
+  "_backButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1145
+  },
+  "_backButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1084
+  }
+}

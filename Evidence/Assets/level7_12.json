@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 81956700160
+  },
+  "m_Name": "",
+  "Priority": {
+    "Enabled": 0,
+    "m_Value": 0
+  },
+  "OutputChannel": 1,
+  "StandbyUpdate": 2,
+  "m_StreamingVersion": 20241001,
+  "m_LegacyPriority": 0,
+  "Target": {
+    "TrackingTarget": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "LookAtTarget": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "CustomLookAtTarget": 0
+  },
+  "Lens": {
+    "FieldOfView": 30.0,
+    "OrthographicSize": 20.0,
+    "NearClipPlane": 0.009999999776482582,
+    "FarClipPlane": 1000.0,
+    "Dutch": 0.0,
+    "ModeOverride": 1,
+    "PhysicalProperties": {
+      "GateFit": 2,
+      "SensorSize": {
+        "x": 21.945999145507812,
+        "y": 16.00200080871582
+      },
+      "LensShift": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "FocusDistance": 10.0,
+      "Iso": 200,
+      "ShutterSpeed": 0.004999999888241291,
+      "Aperture": 16.0,
+      "BladeCount": 5,
+      "Curvature": {
+        "x": 2.0,
+        "y": 11.0
+      },
+      "BarrelClipping": 0.25,
+      "Anamorphism": 0.0
+    }
+  },
+  "BlendHint": 0
+}

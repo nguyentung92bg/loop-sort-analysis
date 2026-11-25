@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2848
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 74021076992
+  },
+  "m_Name": "",
+  "configId": {
+    "m_FileID": 0,
+    "m_PathID": 13240
+  },
+  "configTitle": {
+    "m_FileID": 0,
+    "m_PathID": 10221
+  },
+  "configurationDescriptionText": {
+    "m_FileID": 0,
+    "m_PathID": 10583
+  },
+  "appliedConfigurationColor": {
+    "r": 0.615686297416687,
+    "g": 0.8352941870689392,
+    "b": 0.8117647767066956,
+    "a": 1.0
+  },
+  "draftConfigurationColor": {
+    "r": 0.9960784912109375,
+    "g": 0.8627451658248901,
+    "b": 0.5529412031173706,
+    "a": 1.0
+  },
+  "warningRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2013
+  },
+  "currentConfigurationButtonsRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3878
+  },
+  "hasHiddenButton": 0,
+  "detailsButton": {
+    "m_FileID": 0,
+    "m_PathID": 12719
+  },
+  "resetButton": {
+    "m_FileID": 0,
+    "m_PathID": 10304
+  },
+  "detailsScreen": {
+    "m_FileID": 0,
+    "m_PathID": 12739
+  }
+}

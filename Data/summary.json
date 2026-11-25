@@ -1,0 +1,20 @@
+{
+  "run": "D:\\APK Decompiler\\IL2CPP Workbench\\Results\\Run-20261123-162851-39ff5e",
+  "gameClasses": 1265,
+  "gameNativeMethods": 6191,
+  "gameNativeOK": 6191,
+  "nativeTotal": 159516,
+  "unity": "6000.0.77f1",
+  "version": "4.12.0",
+  "package": "com.Garawell.LoopSort",
+  "assetRecords": 6500,
+  "textAssets": 111,
+  "images": 291,
+  "sheets": 51,
+  "localLevels": 1299,
+  "dailyLevels": 30,
+  "products": 44,
+  "shopProducts": 12,
+  "remoteConfigClasses": 47,
+  "nativeMethods": 6191
+}

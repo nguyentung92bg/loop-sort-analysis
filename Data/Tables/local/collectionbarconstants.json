@@ -1,0 +1,14 @@
+[
+  {
+    "Value": "4",
+    "Id": "CollectionBarTokenPayout"
+  },
+  {
+    "Value": "8",
+    "Id": "CollectionBarTokenHardPayout"
+  },
+  {
+    "Value": "12",
+    "Id": "CollectionBarTokenSuperHardPayout"
+  }
+]

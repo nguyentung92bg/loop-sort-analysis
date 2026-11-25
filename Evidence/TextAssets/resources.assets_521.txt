@@ -1,0 +1,69 @@
+
+MainCar.png
+size: 1474, 722
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+CarBody
+  rotate: false
+  xy: 70, 6
+  size: 948, 481
+  orig: 1099, 481
+  offset: 151, 0
+  index: -1
+arkaTeker
+  rotate: true
+  xy: 1020, 2
+  size: 164, 230
+  orig: 164, 230
+  offset: 0, 0
+  index: -1
+arkaicteker
+  rotate: true
+  xy: 1322, 373
+  size: 164, 148
+  orig: 164, 148
+  offset: 0, 0
+  index: -1
+carTopCubes
+  rotate: true
+  xy: 2, 94
+  size: 626, 66
+  orig: 626, 71
+  offset: 0, 0
+  index: -1
+carshadow
+  rotate: false
+  xy: 70, 489
+  size: 1250, 231
+  orig: 1293, 246
+  offset: 0, 0
+  index: -1
+onSagTekerBase
+  rotate: true
+  xy: 1020, 292
+  size: 195, 256
+  orig: 198, 257
+  offset: 0, 1
+  index: -1
+onSagTekerCant
+  rotate: true
+  xy: 1020, 168
+  size: 122, 249
+  orig: 122, 249
+  offset: 0, 0
+  index: -1
+onSolTeker
+  rotate: false
+  xy: 1278, 120
+  size: 194, 251
+  orig: 198, 257
+  offset: 0, 2
+  index: -1
+onicteker
+  rotate: true
+  xy: 1322, 539
+  size: 181, 148
+  orig: 181, 148
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,318 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5766295023521690427
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1985798706,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 8596159638617846587
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": -3316520087670623429
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": -151838028,
+      "Identificator": "AreaOfferSubMonitor_Text_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 1021330801505596219
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -889815702,
+      "Identificator": "AreaOfferSubMonitor_Text_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 3358733052435755835
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1899489981,
+      "Identificator": "AreaOfferSubMonitor_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 220162104106939195
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1502853784,
+      "Identificator": "AreaOfferSubMonitor_Text_03",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -3081242618535283909
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -837447268,
+      "Identificator": "AreaOfferSubMonitor_Text_04",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -6008141690519293125
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1946897475,
+      "Identificator": "AreaOfferSubMonitor_Text_05",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -579683615971740869
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -804536759,
+      "Identificator": "AreaOfferSubMonitor_Text_07",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -4997303708072217797
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle6_08",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 5927013277236130619
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle5_09",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 8459010836430975803
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle4_10",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -9110009838429736133
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle3_11",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -6288013162923232453
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle2_12",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 7456319954889143099
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1859700480,
+      "Identificator": "AreaOfferSubMonitor_TextTitle1_13",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 5270860811548750651
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": 332801758,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": -5004399327130029253
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 997664879,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 889390096,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 7687303274237457211
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1502853784,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": -645640238569557189
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1899489981,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 8312466704735990587
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -889815702,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 1090863965743412027
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -804536759,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 9206438677848978235
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -837447268,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": -558158074801360069
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

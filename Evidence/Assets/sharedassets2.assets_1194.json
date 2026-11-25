@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 176
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 36876320768
+  },
+  "m_Name": "",
+  "forceUpsideDown": 0,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 907
+  },
+  "parentRT": {
+    "m_FileID": 0,
+    "m_PathID": 763
+  },
+  "myRect": {
+    "m_FileID": 0,
+    "m_PathID": 765
+  },
+  "hideArea": {
+    "m_FileID": 0,
+    "m_PathID": 767
+  }
+}

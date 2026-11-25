@@ -1,0 +1,14 @@
+[
+  {
+    "Rewards": "gold:1000",
+    "Id": 1
+  },
+  {
+    "Rewards": "gold:500",
+    "Id": 2
+  },
+  {
+    "Rewards": "gold:250",
+    "Id": 3
+  }
+]

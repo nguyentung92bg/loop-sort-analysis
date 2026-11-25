@@ -1,0 +1,69 @@
+/* IL2CPP: GameStateBase$$OnEnter
+void GameStateBase__OnEnter (GameStateBase_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: GameStateBase$$OnEnter
+   void GameStateBase__OnEnter (GameStateBase_o* __this, const MethodInfo* method); */
+
+void GameStateBase__OnEnter_24fc200(long param_1)
+
+{
+  undefined *puVar1;
+  long lVar2;
+  undefined8 *puVar3;
+  long lVar4;
+  ulong uVar5;
+  int *piVar6;
+  long *plVar7;
+  long lStack_28;
+  
+  puVar1 = PTR_DAT_049c8a48;
+  if ((bRam0000000004f4bd74 & 1) == 0) {
+    FUN_021f03f8(PTR_DAT_049c8a50);
+    FUN_021f03f8(PTR_DAT_049c8a48);
+    bRam0000000004f4bd74 = 1;
+  }
+                    /* try { // try from 025fc248 to 026fc38f has its CatchHandler @ 025fc248
+                       catch() { ... } // from try @ 025fc248 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc49c with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc510 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc700 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc7a0 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc840 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fc9e4 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fca9c with catch @ 025fc248
+                       catch() { ... } // from try @ 025fcae8 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fcb1c with catch @ 025fc248
+                       catch() { ... } // from try @ 025fcb48 with catch @ 025fc248
+                       catch() { ... } // from try @ 025fcb94 with catch @ 025fc248 */
+  lStack_28 = 0;
+  UnityHFSM_State___Il2CppFullySharedGenericType____Il2CppFullySharedGenericType___OnEnter_29af9bc
+            (param_1,*(undefined8 *)puVar1);
+  plVar7 = *(long **)(param_1 + 0x60);
+  lStack_28 = param_1;
+  thunk_FUN_021f190c(&lStack_28,param_1);
+  lVar2 = lStack_28;
+  if (plVar7 == (long *)0x0) {
+                    /* WARNING: Subroutine does not return */
+    FUN_021f06a0();
+  }
+  lVar4 = *plVar7;
+  uVar5 = (ulong)*(ushort *)(lVar4 + 0x12e);
+  if (uVar5 != 0) {
+    piVar6 = (int *)(*(long *)(lVar4 + 0xb0) + 8);
+    do {
+      if (*(long *)(piVar6 + -2) == *(long *)PTR_DAT_049c8a50) {
+        puVar3 = (undefined8 *)(lVar4 + (long)*piVar6 * 0x10 + 0x138);
+        goto LAB_025fc2c4;
+      }
+      uVar5 = uVar5 - 1;
+      piVar6 = piVar6 + 4;
+    } while (uVar5 != 0);
+  }
+  puVar3 = (undefined8 *)FUN_02229a4c(plVar7,*(long *)PTR_DAT_049c8a50,0);
+LAB_025fc2c4:
+  (*(code *)*puVar3)(plVar7,lVar2,puVar3[1]);
+  return;
+}
+

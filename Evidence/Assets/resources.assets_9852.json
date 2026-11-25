@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 17448304640
+  },
+  "m_Name": "CameraConfig",
+  "CenterOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "FramingSize": 0.9900000095367432,
+  "TopOffset": 3.0,
+  "BottomOffset": 3.0,
+  "LeftOffset": 0.0,
+  "RightOffset": 0.0
+}

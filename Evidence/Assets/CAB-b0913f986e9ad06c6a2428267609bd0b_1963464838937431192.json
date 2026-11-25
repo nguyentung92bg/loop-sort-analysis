@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5571715565932786536
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6198925039424545916
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Target": {
+    "m_FileID": 0,
+    "m_PathID": -706239461481526120
+  },
+  "Interval": {
+    "x": 3.0,
+    "y": 6.0
+  },
+  "Duration": 0.699999988079071,
+  "Height": 85.0,
+  "Distance": {
+    "x": 80.0,
+    "y": 140.0
+  },
+  "Drop": 135.0,
+  "RandomDirection": 1,
+  "Spin": 360.0,
+  "HoldDuration": 3.5,
+  "FadeDuration": 0.6000000238418579
+}

@@ -1,0 +1,1724 @@
+[
+  {
+    "name": "BlockConfig",
+    "fields": [
+      {
+        "name": "ConveyorForce",
+        "type": "float",
+        "offset": "0x60",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "Mass",
+        "type": "float",
+        "offset": "0x64",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "Drag",
+        "type": "float",
+        "offset": "0x68",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "AngularDrag",
+        "type": "float",
+        "offset": "0x6C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "InitialImpulseForce",
+        "type": "float",
+        "offset": "0x70",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "MaxLinearVelocity",
+        "type": "float",
+        "offset": "0x74",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ForceDirectionOffset",
+        "type": "float",
+        "offset": "0x78",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "BakeSampleCount",
+        "type": "int",
+        "offset": "0x7C",
+        "value": 0,
+        "status": "binary default"
+      },
+      {
+        "name": "CellSize",
+        "type": "float",
+        "offset": "0x80",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "MaxSearchRadius",
+        "type": "int",
+        "offset": "0x84",
+        "value": 0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025b670c_BlockConfig___ctor_24b670c.c",
+    "schema": "Evidence/Classes/4568.cs"
+  },
+  {
+    "name": "CameraConfig",
+    "fields": [
+      {
+        "name": "FramingSize",
+        "type": "float",
+        "offset": "0x20",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "TopOffset",
+        "type": "float",
+        "offset": "0x24",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "BottomOffset",
+        "type": "float",
+        "offset": "0x28",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "LeftOffset",
+        "type": "float",
+        "offset": "0x2C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "RightOffset",
+        "type": "float",
+        "offset": "0x30",
+        "value": 0.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025b6790_CameraConfig___ctor_24b6790.c",
+    "schema": "Evidence/Classes/4571.cs"
+  },
+  {
+    "name": "CarrierConfig",
+    "fields": [
+      {
+        "name": "RejectedColorSeconds",
+        "type": "float",
+        "offset": "0x18",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ScaleMultiplier",
+        "type": "float",
+        "offset": "0x34",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SingleColorMultiplier",
+        "type": "int",
+        "offset": "0x38",
+        "value": 0,
+        "status": "binary default"
+      },
+      {
+        "name": "SplineLengthBlockMultiplier",
+        "type": "float",
+        "offset": "0x3C",
+        "value": 0.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025b6798_CarrierConfig___ctor_24b6798.c",
+    "schema": "Evidence/Classes/4572.cs"
+  },
+  {
+    "name": "ConveyorConfig",
+    "fields": [
+      {
+        "name": "Speed",
+        "type": "float",
+        "offset": "0x18",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ConveyorHeight",
+        "type": "float",
+        "offset": "0x1C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ArrowPerDistance",
+        "type": "float",
+        "offset": "0x48",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SlotElementOffset",
+        "type": "float",
+        "offset": "0x58",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SlotCollisionDistance",
+        "type": "float",
+        "offset": "0x5C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "CarrierTriggerOffset",
+        "type": "float",
+        "offset": "0x60",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "CarrierTriggerSize",
+        "type": "float",
+        "offset": "0x64",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "RedRatio",
+        "type": "float",
+        "offset": "0x78",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ColorPingPongModifier",
+        "type": "float",
+        "offset": "0x7C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ColorLerpModifier",
+        "type": "float",
+        "offset": "0x80",
+        "value": 0.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025b68cc_ConveyorConfig___ctor_24b68cc.c",
+    "schema": "Evidence/Classes/4575.cs"
+  },
+  {
+    "name": "RocketConfig",
+    "fields": [
+      {
+        "name": "SpawnCornerOffset",
+        "type": "float",
+        "offset": "0x28",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SpawnDepth",
+        "type": "float",
+        "offset": "0x2C",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SpawnScale",
+        "type": "float",
+        "offset": "0x30",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "FlightSpeed",
+        "type": "float",
+        "offset": "0x34",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ApexDepthRatio",
+        "type": "float",
+        "offset": "0x38",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ExplosionShakeForce",
+        "type": "float",
+        "offset": "0x50",
+        "value": 0.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025b68d4_RocketConfig___ctor_24b68d4.c",
+    "schema": "Evidence/Classes/4576.cs"
+  },
+  {
+    "name": "SandConfig",
+    "fields": [
+      {
+        "name": "ReferenceSpacing",
+        "type": "float",
+        "offset": "0x28",
+        "value": 1.2000000476837158,
+        "status": "binary default"
+      },
+      {
+        "name": "GrainCountMultiplier",
+        "type": "float",
+        "offset": "0x2C",
+        "value": 0.25,
+        "status": "binary default"
+      },
+      {
+        "name": "GrainRadius",
+        "type": "float",
+        "offset": "0x30",
+        "value": null,
+        "status": "not resolved / null reference"
+      },
+      {
+        "name": "GrainBrightness",
+        "type": "float",
+        "offset": "0x34",
+        "value": null,
+        "status": "not resolved / null reference"
+      },
+      {
+        "name": "GrainShade",
+        "type": "float",
+        "offset": "0x38",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "GrainToneContrast",
+        "type": "float",
+        "offset": "0x3C",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "GrainDriftLimit",
+        "type": "float",
+        "offset": "0x40",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "GrainShear",
+        "type": "float",
+        "offset": "0x44",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "PileHeightScale",
+        "type": "float",
+        "offset": "0x48",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "PileSettleSpeed",
+        "type": "float",
+        "offset": "0x4C",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "PileMaxHeight",
+        "type": "float",
+        "offset": "0x50",
+        "value": 0.5,
+        "status": "binary default"
+      },
+      {
+        "name": "ReposeSlope",
+        "type": "float",
+        "offset": "0x54",
+        "value": 0.10000000149011612,
+        "status": "binary default"
+      },
+      {
+        "name": "ReposeTransfer",
+        "type": "float",
+        "offset": "0x58",
+        "value": 0.125,
+        "status": "binary default"
+      },
+      {
+        "name": "ReposeIterations",
+        "type": "int",
+        "offset": "0x5C",
+        "value": 4,
+        "status": "binary default"
+      },
+      {
+        "name": "AlongFlow",
+        "type": "float",
+        "offset": "0x60",
+        "value": 1.2000000476837158,
+        "status": "binary default"
+      },
+      {
+        "name": "AlongFlowLimit",
+        "type": "float",
+        "offset": "0x64",
+        "value": 0.25,
+        "status": "binary default"
+      },
+      {
+        "name": "AcrossFlow",
+        "type": "float",
+        "offset": "0x68",
+        "value": 0.15000000596046448,
+        "status": "binary default"
+      },
+      {
+        "name": "SwingAmount",
+        "type": "float",
+        "offset": "0x6C",
+        "value": 0.75,
+        "status": "binary default"
+      },
+      {
+        "name": "SwingLength",
+        "type": "float",
+        "offset": "0x70",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "SwingOvershoot",
+        "type": "float",
+        "offset": "0x74",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "CornerEvenness",
+        "type": "float",
+        "offset": "0x78",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "CornerSmoothing",
+        "type": "float",
+        "offset": "0x7C",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "CornerReach",
+        "type": "float",
+        "offset": "0x80",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "BeltHalfWidth",
+        "type": "float",
+        "offset": "0x84",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "FlowSpeed",
+        "type": "float",
+        "offset": "0x88",
+        "value": 1.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ConveyorSpeedScale",
+        "type": "float",
+        "offset": "0x8C",
+        "value": 1.0,
+        "status": "binary default"
+      },
+      {
+        "name": "OverlayLift",
+        "type": "float",
+        "offset": "0x90",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "ArrangeSpeed",
+        "type": "float",
+        "offset": "0x94",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "PourJumpScale",
+        "type": "float",
+        "offset": "0x98",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "PourDelayScale",
+        "type": "float",
+        "offset": "0x9C",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformJumpScale",
+        "type": "float",
+        "offset": "0xA0",
+        "value": 0.5,
+        "status": "binary default"
+      },
+      {
+        "name": "PourSpeedJitter",
+        "type": "float",
+        "offset": "0xA4",
+        "value": 0.10000000149011612,
+        "status": "binary default"
+      },
+      {
+        "name": "PourArc",
+        "type": "float",
+        "offset": "0xA8",
+        "value": 0.15000000596046448,
+        "status": "binary default"
+      },
+      {
+        "name": "PourSquash",
+        "type": "float",
+        "offset": "0xAC",
+        "value": 0.75,
+        "status": "binary default"
+      },
+      {
+        "name": "PourBounce",
+        "type": "float",
+        "offset": "0xB0",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "PourSlide",
+        "type": "float",
+        "offset": "0xB4",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "PourScatter",
+        "type": "float",
+        "offset": "0xB8",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformSpread",
+        "type": "float",
+        "offset": "0xBC",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformSpeedJitter",
+        "type": "float",
+        "offset": "0xC0",
+        "value": 1.2000000476837158,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformArc",
+        "type": "float",
+        "offset": "0xC4",
+        "value": 0.25,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformEaseIn",
+        "type": "float",
+        "offset": "0xC8",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformScatter",
+        "type": "float",
+        "offset": "0xCC",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformLead",
+        "type": "float",
+        "offset": "0xD0",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformCurve",
+        "type": "float",
+        "offset": "0xD4",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "UndoArc",
+        "type": "float",
+        "offset": "0xD8",
+        "value": 3.0,
+        "status": "binary default"
+      },
+      {
+        "name": "PickupLead",
+        "type": "float",
+        "offset": "0xDC",
+        "value": 0.0,
+        "status": "binary default"
+      },
+      {
+        "name": "PourVolume",
+        "type": "float",
+        "offset": "0xF0",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "ReformVolume",
+        "type": "float",
+        "offset": "0xF4",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "SoundFade",
+        "type": "float",
+        "offset": "0xF8",
+        "value": 0.11999999731779099,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidResolution",
+        "type": "float",
+        "offset": "0x110",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidMaskResolution",
+        "type": "float",
+        "offset": "0x114",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidTexelsPerRadius",
+        "type": "float",
+        "offset": "0x118",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidBlobScale",
+        "type": "float",
+        "offset": "0x11C",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidThreshold",
+        "type": "float",
+        "offset": "0x120",
+        "value": 0.5,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidThickness",
+        "type": "float",
+        "offset": "0x124",
+        "value": 0.10000000149011612,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidNormalStrength",
+        "type": "float",
+        "offset": "0x128",
+        "value": 0.15000000596046448,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidGloss",
+        "type": "float",
+        "offset": "0x12C",
+        "value": 0.75,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidSpecular",
+        "type": "float",
+        "offset": "0x130",
+        "value": 1.2000000476837158,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidJellySize",
+        "type": "float",
+        "offset": "0x134",
+        "value": 0.25,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidGlow",
+        "type": "float",
+        "offset": "0x138",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidEdgeDarken",
+        "type": "float",
+        "offset": "0x13C",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidGlowWidth",
+        "type": "float",
+        "offset": "0x140",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidSaturation",
+        "type": "float",
+        "offset": "0x144",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidValue",
+        "type": "float",
+        "offset": "0x148",
+        "value": 1.0,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidHiddenReveal",
+        "type": "float",
+        "offset": "0x164",
+        "value": 0.5,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidColorBlend",
+        "type": "float",
+        "offset": "0x168",
+        "value": 0.10000000149011612,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierBevel",
+        "type": "float",
+        "offset": "0x16C",
+        "value": 0.15000000596046448,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierSide",
+        "type": "float",
+        "offset": "0x170",
+        "value": 0.75,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierGloss",
+        "type": "float",
+        "offset": "0x174",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierSpecular",
+        "type": "float",
+        "offset": "0x178",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierRim",
+        "type": "float",
+        "offset": "0x17C",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierWobble",
+        "type": "float",
+        "offset": "0x180",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierNeck",
+        "type": "float",
+        "offset": "0x184",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidCarrierNeckReach",
+        "type": "float",
+        "offset": "0x188",
+        "value": 0.44999998807907104,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidAirHeight",
+        "type": "float",
+        "offset": "0x18C",
+        "value": 0.3499999940395355,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidBeltEdge",
+        "type": "float",
+        "offset": "0x190",
+        "value": 0.30000001192092896,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidAirBlend",
+        "type": "float",
+        "offset": "0x194",
+        "value": 8.0,
+        "status": "binary default"
+      },
+      {
+        "name": "LiquidAirSize",
+        "type": "float",
+        "offset": "0x198",
+        "value": 1.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/025bbc84_SandConfig___ctor_24bbc84.c",
+    "schema": "Evidence/Classes/4587.cs"
+  },
+  {
+    "name": "GridConfig",
+    "fields": [
+      {
+        "name": "OuterRadius",
+        "type": "float",
+        "offset": "0x30",
+        "value": 0.0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026065e8_GridConfig___ctor_25065e8.c",
+    "schema": "Evidence/Classes/4763.cs"
+  },
+  {
+    "name": "AreaOffersConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653370_AreaOffersConfig___ctor_2553370.c",
+    "schema": "Evidence/Classes/5034.cs"
+  },
+  {
+    "name": "BlockGroupConfig",
+    "fields": [
+      {
+        "name": "Combine",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653378_BlockGroupConfig___ctor_2553378.c",
+    "schema": "Evidence/Classes/5035.cs"
+  },
+  {
+    "name": "BlockTransferConfig",
+    "fields": [
+      {
+        "name": "FirstAvailable",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653380_BlockTransferConfig___ctor_2553380.c",
+    "schema": "Evidence/Classes/5036.cs"
+  },
+  {
+    "name": "BlockViewConfig",
+    "fields": [
+      {
+        "name": "Sand",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "Liquid",
+        "type": "bool",
+        "offset": "0x11",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653388_BlockViewConfig___ctor_2553388.c",
+    "schema": "Evidence/Classes/5037.cs"
+  },
+  {
+    "name": "CapacityConfig",
+    "fields": [
+      {
+        "name": "ShowInGame",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653390_CapacityConfig___ctor_2553390.c",
+    "schema": "Evidence/Classes/5038.cs"
+  },
+  {
+    "name": "CoinConfig",
+    "fields": [
+      {
+        "name": "ShowInGame",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533a0_CoinConfig___ctor_25533a0.c",
+    "schema": "Evidence/Classes/5039.cs"
+  },
+  {
+    "name": "CollectionBarConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533a8_CollectionBarConfig___ctor_25533a8.c",
+    "schema": "Evidence/Classes/5040.cs"
+  },
+  {
+    "name": "ColorConfig",
+    "fields": [
+      {
+        "name": "NoColorRandomization",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533b8_ColorConfig___ctor_25533b8.c",
+    "schema": "Evidence/Classes/5041.cs"
+  },
+  {
+    "name": "ConnectivityConfig",
+    "fields": [
+      {
+        "name": "RequireOnline",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "RequireOnlineStartLevel",
+        "type": "int",
+        "offset": "0x14",
+        "value": 5,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533c0_ConnectivityConfig___ctor_25533c0.c",
+    "schema": "Evidence/Classes/5042.cs"
+  },
+  {
+    "name": "ConveyorSystemConfig",
+    "fields": [
+      {
+        "name": "AdaptiveSize",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533d0_ConveyorSystemConfig___ctor_25533d0.c",
+    "schema": "Evidence/Classes/5043.cs"
+  },
+  {
+    "name": "ConveyorViewConfig",
+    "fields": [
+      {
+        "name": "RoundUpCapacity",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026533e0_ConveyorViewConfig___ctor_25533e0.c",
+    "schema": "Evidence/Classes/5044.cs"
+  },
+  {
+    "name": "CoreStreakConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      },
+      {
+        "name": "ItemCount",
+        "type": "int[]",
+        "offset": "0x18",
+        "value": null,
+        "status": "not resolved / null reference"
+      }
+    ],
+    "source": "Evidence/Native/026533f0_CoreStreakConfig___ctor_25533f0.c",
+    "schema": "Evidence/Classes/5045.cs"
+  },
+  {
+    "name": "CreatePlayerProfileConfig",
+    "fields": [
+      {
+        "name": "OfferLevel",
+        "type": "int",
+        "offset": "0x10",
+        "value": 30,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265347c_CreatePlayerProfileConfig___ctor_255347c.c",
+    "schema": "Evidence/Classes/5046.cs"
+  },
+  {
+    "name": "DailyChallengeConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "UnlockLevel",
+        "type": "int",
+        "offset": "0x14",
+        "value": 35,
+        "status": "binary default"
+      },
+      {
+        "name": "Liquid",
+        "type": "bool",
+        "offset": "0x18",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265348c_DailyChallengeConfig___ctor_255348c.c",
+    "schema": "Evidence/Classes/5047.cs"
+  },
+  {
+    "name": "DailyRewardsConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534a4_DailyRewardsConfig___ctor_25534a4.c",
+    "schema": "Evidence/Classes/5048.cs"
+  },
+  {
+    "name": "EGPConfig",
+    "fields": [
+      {
+        "name": "FreeEgpCount",
+        "type": "int",
+        "offset": "0x10",
+        "value": 3,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534bc_EGPConfig___ctor_25534bc.c",
+    "schema": "Evidence/Classes/5050.cs"
+  },
+  {
+    "name": "GameMaintenanceConfig",
+    "fields": [
+      {
+        "name": "Maintenance",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534cc_GameMaintenanceConfig___ctor_25534cc.c",
+    "schema": "Evidence/Classes/5051.cs"
+  },
+  {
+    "name": "GiveUpConfig",
+    "fields": [
+      {
+        "name": "ShowInLose",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534dc_GiveUpConfig___ctor_25534dc.c",
+    "schema": "Evidence/Classes/5054.cs"
+  },
+  {
+    "name": "HomeActionsConfig",
+    "fields": [
+      {
+        "name": "PlayDuringAnimations",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534ec_HomeActionsConfig___ctor_25534ec.c",
+    "schema": "Evidence/Classes/5055.cs"
+  },
+  {
+    "name": "HomeAnimationConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026534fc_HomeAnimationConfig___ctor_25534fc.c",
+    "schema": "Evidence/Classes/5056.cs"
+  },
+  {
+    "name": "IceBreakConfig",
+    "fields": [
+      {
+        "name": "BreakFail",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265350c_IceBreakConfig___ctor_255350c.c",
+    "schema": "Evidence/Classes/5057.cs"
+  },
+  {
+    "name": "InterstitialAdsConfig",
+    "fields": [
+      {
+        "name": "ShowOnLevelWinContinue",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      },
+      {
+        "name": "ShowOnLevelLoseContinue",
+        "type": "bool",
+        "offset": "0x11",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "ShowForPayerUser",
+        "type": "bool",
+        "offset": "0x12",
+        "value": true,
+        "status": "binary default"
+      },
+      {
+        "name": "StartLevelToShowAds",
+        "type": "int",
+        "offset": "0x14",
+        "value": 19,
+        "status": "binary default"
+      },
+      {
+        "name": "AdStartDelaySinceInstall",
+        "type": "float",
+        "offset": "0x18",
+        "value": 21600.0,
+        "status": "binary default"
+      },
+      {
+        "name": "NoAdsOfferAfterInterstitialCounts",
+        "type": "int[]",
+        "offset": "0x20",
+        "value": null,
+        "status": "not resolved / null reference"
+      },
+      {
+        "name": "WinContinueDayBreak1",
+        "type": "int",
+        "offset": "0x28",
+        "value": 3,
+        "status": "binary default"
+      },
+      {
+        "name": "WinContinueDayBreak2",
+        "type": "int",
+        "offset": "0x2C",
+        "value": 7,
+        "status": "binary default"
+      },
+      {
+        "name": "WinContinueAdIntervalDayBreak1",
+        "type": "int",
+        "offset": "0x30",
+        "value": 1,
+        "status": "binary default"
+      },
+      {
+        "name": "WinContinueAdIntervalDayBreak2",
+        "type": "int",
+        "offset": "0x34",
+        "value": 1,
+        "status": "binary default"
+      },
+      {
+        "name": "WinContinueAdIntervalDayBreak3",
+        "type": "int",
+        "offset": "0x38",
+        "value": 1,
+        "status": "binary default"
+      },
+      {
+        "name": "LoseContinueAdInterval",
+        "type": "int",
+        "offset": "0x3C",
+        "value": 1,
+        "status": "binary default"
+      },
+      {
+        "name": "MaxLevelLosesForLoseAd",
+        "type": "int",
+        "offset": "0x40",
+        "value": 1,
+        "status": "binary default"
+      },
+      {
+        "name": "StartLevelToShowLoseContinue",
+        "type": "int",
+        "offset": "0x44",
+        "value": 0,
+        "status": "binary default"
+      },
+      {
+        "name": "ShowAdBreak",
+        "type": "bool",
+        "offset": "0x48",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653514_InterstitialAdsConfig___ctor_2553514.c",
+    "schema": "Evidence/Classes/5058.cs"
+  },
+  {
+    "name": "LavaQuestConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026535d8_LavaQuestConfig___ctor_25535d8.c",
+    "schema": "Evidence/Classes/5059.cs"
+  },
+  {
+    "name": "LevelAnimationConfig",
+    "fields": [
+      {
+        "name": "Enter",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "Exit",
+        "type": "bool",
+        "offset": "0x11",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026535e8_LevelAnimationConfig___ctor_25535e8.c",
+    "schema": "Evidence/Classes/5060.cs"
+  },
+  {
+    "name": "LevelFunnelConfig",
+    "fields": [
+      {
+        "name": "Name",
+        "type": "string",
+        "offset": "0x10",
+        "value": null,
+        "status": "not resolved / null reference"
+      },
+      {
+        "name": "Bundle",
+        "type": "string",
+        "offset": "0x18",
+        "value": null,
+        "status": "not resolved / null reference"
+      }
+    ],
+    "source": "Evidence/Native/026535f0_LevelFunnelConfig___ctor_25535f0.c",
+    "schema": "Evidence/Classes/5061.cs"
+  },
+  {
+    "name": "LoseConfig",
+    "fields": [
+      {
+        "name": "FailOnFull",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "LoopFailThreshold",
+        "type": "int",
+        "offset": "0x14",
+        "value": 0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653674_LoseConfig___ctor_2553674.c",
+    "schema": "Evidence/Classes/5062.cs"
+  },
+  {
+    "name": "MainMenuOffsetConfig",
+    "fields": [
+      {
+        "name": "MainMenuOffset",
+        "type": "int",
+        "offset": "0x10",
+        "value": 0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265367c_MainMenuOffsetConfig___ctor_255367c.c",
+    "schema": "Evidence/Classes/5063.cs"
+  },
+  {
+    "name": "NakamaConfig",
+    "fields": [
+      {
+        "name": "LinkAccount",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653684_NakamaConfig___ctor_2553684.c",
+    "schema": "Evidence/Classes/5064.cs"
+  },
+  {
+    "name": "NonPayerConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "UnlockLevel",
+        "type": "int",
+        "offset": "0x14",
+        "value": 128,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653694_NonPayerConfig___ctor_2553694.c",
+    "schema": "Evidence/Classes/5065.cs"
+  },
+  {
+    "name": "PaceConfig",
+    "fields": [
+      {
+        "name": "ConveyorSpeedMultiplier",
+        "type": "float",
+        "offset": "0x10",
+        "value": 1.100000023841858,
+        "status": "binary default"
+      },
+      {
+        "name": "BlockAnimationDurationMultiplier",
+        "type": "float",
+        "offset": "0x14",
+        "value": 0.5,
+        "status": "binary default"
+      },
+      {
+        "name": "HoldSpeedMultiplier",
+        "type": "float",
+        "offset": "0x18",
+        "value": 1.0,
+        "status": "binary default"
+      },
+      {
+        "name": "FasterWhenConveyorFull",
+        "type": "bool",
+        "offset": "0x1C",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "SlowerWhenConveyorEmpty",
+        "type": "bool",
+        "offset": "0x1D",
+        "value": true,
+        "status": "binary default"
+      },
+      {
+        "name": "HoldToSpeed",
+        "type": "bool",
+        "offset": "0x1E",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "SlowerWhenGiveUp",
+        "type": "bool",
+        "offset": "0x1F",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026536a4_PaceConfig___ctor_25536a4.c",
+    "schema": "Evidence/Classes/5066.cs"
+  },
+  {
+    "name": "RankingConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": true,
+        "status": "binary default"
+      },
+      {
+        "name": "UnlockLevel",
+        "type": "int",
+        "offset": "0x14",
+        "value": 45,
+        "status": "binary default"
+      },
+      {
+        "name": "TournamentActive",
+        "type": "bool",
+        "offset": "0x18",
+        "value": true,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026536c8_RankingConfig___ctor_25536c8.c",
+    "schema": "Evidence/Classes/5067.cs"
+  },
+  {
+    "name": "RefillLivesConfig",
+    "fields": [
+      {
+        "name": "FirstRefillFree",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/026536e4_RefillLivesConfig___ctor_25536e4.c",
+    "schema": "Evidence/Classes/5068.cs"
+  },
+  {
+    "name": "RewardedAdsConfig",
+    "fields": [
+      {
+        "name": "Revive",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "Booster",
+        "type": "bool",
+        "offset": "0x11",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "ReviveStartLevel",
+        "type": "int",
+        "offset": "0x14",
+        "value": 0,
+        "status": "binary default"
+      },
+      {
+        "name": "BoosterStartLevel",
+        "type": "int",
+        "offset": "0x18",
+        "value": 0,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653838_RewardedAdsConfig___ctor_2553838.c",
+    "schema": "Evidence/Classes/5071.cs"
+  },
+  {
+    "name": "RvMaxConfig",
+    "fields": [
+      {
+        "name": "EgpCoinTruck",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "WinMultiplier",
+        "type": "int",
+        "offset": "0x14",
+        "value": 2,
+        "status": "binary default"
+      },
+      {
+        "name": "WinMultiplierStartLevel",
+        "type": "int",
+        "offset": "0x18",
+        "value": 10,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostMultiplier",
+        "type": "float",
+        "offset": "0x1C",
+        "value": 1.0,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostDisplayMultiplier",
+        "type": "int",
+        "offset": "0x20",
+        "value": 2,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostFreeSeconds",
+        "type": "int",
+        "offset": "0x24",
+        "value": 1200,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostRvSeconds",
+        "type": "int",
+        "offset": "0x28",
+        "value": 300,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostCoinSeconds",
+        "type": "int",
+        "offset": "0x2C",
+        "value": 1800,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostCoinCost",
+        "type": "int",
+        "offset": "0x30",
+        "value": 1600,
+        "status": "binary default"
+      },
+      {
+        "name": "SpeedBoostStartLevel",
+        "type": "int",
+        "offset": "0x34",
+        "value": 10,
+        "status": "binary default"
+      },
+      {
+        "name": "DailyBonusRv",
+        "type": "bool",
+        "offset": "0x38",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653840_RvMaxConfig___ctor_2553840.c",
+    "schema": "Evidence/Classes/5072.cs"
+  },
+  {
+    "name": "SheetConfig",
+    "fields": [
+      {
+        "name": "CustomSheetName",
+        "type": "string",
+        "offset": "0x10",
+        "value": null,
+        "status": "not resolved / null reference"
+      }
+    ],
+    "source": "Evidence/Native/02653874_SheetConfig___ctor_2553874.c",
+    "schema": "Evidence/Classes/5073.cs"
+  },
+  {
+    "name": "SkinConfig",
+    "fields": [
+      {
+        "name": "Skin",
+        "type": "string",
+        "offset": "0x10",
+        "value": null,
+        "status": "not resolved / null reference"
+      }
+    ],
+    "source": "Evidence/Native/0265387c_SkinConfig___ctor_255387c.c",
+    "schema": "Evidence/Classes/5074.cs"
+  },
+  {
+    "name": "StreakTournamentConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265388c_StreakTournamentConfig___ctor_255388c.c",
+    "schema": "Evidence/Classes/5076.cs"
+  },
+  {
+    "name": "StreakTowerConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/02653894_StreakTowerConfig___ctor_2553894.c",
+    "schema": "Evidence/Classes/5077.cs"
+  },
+  {
+    "name": "TagCarrierConfig",
+    "fields": [
+      {
+        "name": "HasFlagModel",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      }
+    ],
+    "source": "Evidence/Native/0265389c_TagCarrierConfig___ctor_255389c.c",
+    "schema": "Evidence/Classes/5078.cs"
+  },
+  {
+    "name": "VideoRewardsConfig",
+    "fields": [
+      {
+        "name": "Active",
+        "type": "bool",
+        "offset": "0x10",
+        "value": false,
+        "status": "binary default"
+      },
+      {
+        "name": "Rewards",
+        "type": "int[]",
+        "offset": "0x18",
+        "value": null,
+        "status": "not resolved / null reference"
+      }
+    ],
+    "source": "Evidence/Native/026538a4_VideoRewardsConfig___ctor_25538a4.c",
+    "schema": "Evidence/Classes/5079.cs"
+  }
+]

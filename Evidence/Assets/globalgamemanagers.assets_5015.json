@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 27262976000
+  },
+  "m_Name": "",
+  "_compression": 1,
+  "_autoSyncOnAuth": 0,
+  "_enableObjectCache": 1,
+  "_enableAutomaticBacking": 0,
+  "_enableFlushBatching": 1,
+  "_conflictResolverClass": "LoopSortConflictResolver, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "_enableFlushMetrics": 0,
+  "_captureRate": 50,
+  "_maxFlushRetries": 3,
+  "_retryBaseDelayMs": 250,
+  "_retryMaxDelayMs": 5000,
+  "_maxSyncRetries": 2,
+  "_syncRetryBaseDelayMs": 250,
+  "_syncRetryMaxDelayMs": 2000,
+  "_maxSyncWaitRetries": 3
+}

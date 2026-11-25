@@ -1,0 +1,126 @@
+{
+  "skeleton": {
+    "hash": "6UZa3/0oJ3U",
+    "spine": "4.2.43",
+    "x": -34.63,
+    "y": -35.9,
+    "width": 68.22,
+    "height": 84,
+    "images": "./images/",
+    "audio": "./audio"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "TimerGreenPart",
+      "parent": "root",
+      "x": -0.12,
+      "y": 0.03
+    }
+  ],
+  "slots": [
+    {
+      "name": "Timer",
+      "bone": "root",
+      "attachment": "time/Timer"
+    },
+    {
+      "name": "TimerGreenPart",
+      "bone": "TimerGreenPart",
+      "attachment": "time/TimerGreenPart"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Timer": {
+          "time/Timer": {
+            "x": -0.41,
+            "y": 6.1,
+            "width": 68,
+            "height": 84
+          }
+        },
+        "TimerGreenPart": {
+          "time/TimerGreenPart": {
+            "x": -0.5,
+            "y": -3.9,
+            "width": 68,
+            "height": 64
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "time": {
+      "bones": {
+        "TimerGreenPart": {
+          "rotate": [
+            {
+              "time": 0.9333,
+              "curve": [
+                0.956,
+                0,
+                0.978,
+                -90
+              ]
+            },
+            {
+              "time": 1,
+              "value": -90,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.9333,
+              "value": -90,
+              "curve": [
+                1.956,
+                -90,
+                1.978,
+                -180
+              ]
+            },
+            {
+              "time": 2,
+              "value": -180,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.9333,
+              "value": -180,
+              "curve": [
+                2.956,
+                -180,
+                2.978,
+                -270
+              ]
+            },
+            {
+              "time": 3,
+              "value": -270,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.9333,
+              "value": -270,
+              "curve": [
+                3.956,
+                -270,
+                3.978,
+                -330
+              ]
+            },
+            {
+              "time": 4,
+              "value": -360
+            }
+          ]
+        }
+      }
+    }
+  }
+}

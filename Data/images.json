@@ -1,0 +1,1748 @@
+[
+  {
+    "name": "StreakTopBrownPart",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-8987673809182390842.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -8987673809182390842
+  },
+  {
+    "name": "ChestPremiumPurple",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-8521589290227496455.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -8521589290227496455
+  },
+  {
+    "name": "LoopPassBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-8201170715045980466.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -8201170715045980466
+  },
+  {
+    "name": "Venice_PO1_Icon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-8168549581189874661.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -8168549581189874661
+  },
+  {
+    "name": "Booster Conveyor Capacity",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7815386274159337074.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7815386274159337074
+  },
+  {
+    "name": "BoosterMini3d",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7739379011927626206.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7739379011927626206
+  },
+  {
+    "name": "WinStreakIcon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7689336673159378222.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7689336673159378222
+  },
+  {
+    "name": "Gift Box",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7626281376852544542.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7626281376852544542
+  },
+  {
+    "name": "CoinRushicon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7593980163462137748.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7593980163462137748
+  },
+  {
+    "name": "gift-big-body",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7556823705001328613.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7556823705001328613
+  },
+  {
+    "name": "StarterVisual",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7328262994867625809.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7328262994867625809
+  },
+  {
+    "name": "StarterTextBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7295076128766818111.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7295076128766818111
+  },
+  {
+    "name": "gift-small",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7047723384216487751.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -7047723384216487751
+  },
+  {
+    "name": "MiniBoosterUndo",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -6994468684935181165
+  },
+  {
+    "name": "DailyBonusBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6815520662155439573.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -6815520662155439573
+  },
+  {
+    "name": "LStreakTopFlag",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6226881464254604761.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -6226881464254604761
+  },
+  {
+    "name": "CoinRushRow",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6218023245773063825.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -6218023245773063825
+  },
+  {
+    "name": "CoinRushFill",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6012815983283942968.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -6012815983283942968
+  },
+  {
+    "name": "Silvermedal",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5711847215975130040.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -5711847215975130040
+  },
+  {
+    "name": "Silver Chest",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5509584930519867408.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -5509584930519867408
+  },
+  {
+    "name": "MiniBoosters",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5111258784164956549.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -5111258784164956549
+  },
+  {
+    "name": "MiniBoosterShuffle",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -5071816112349158952
+  },
+  {
+    "name": "gift-big-lid",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5034803617127139924.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -5034803617127139924
+  },
+  {
+    "name": "Ticket",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-4374084590709310872.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -4374084590709310872
+  },
+  {
+    "name": "ChooseOneAlternativeOfferArea",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-4118217658611091432.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -4118217658611091432
+  },
+  {
+    "name": "StreakHorizental",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-3867739567324797899.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -3867739567324797899
+  },
+  {
+    "name": "OfferInsidePart",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-3688422288824271575.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -3688422288824271575
+  },
+  {
+    "name": "Booster Return",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-3252413276914728695.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -3252413276914728695
+  },
+  {
+    "name": "Giftbox_Blue_Outlined",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-3158910214116819537.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -3158910214116819537
+  },
+  {
+    "name": "StreakFillBar",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2971900888301588117.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2971900888301588117
+  },
+  {
+    "name": "StreakArrow",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2722220368690477144.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2722220368690477144
+  },
+  {
+    "name": "9Sliced-Bottom",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2698315801757847810.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2698315801757847810
+  },
+  {
+    "name": "9sliceTop",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2641574178362073856.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2641574178362073856
+  },
+  {
+    "name": "Venice_PO3",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2620809391737457933.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2620809391737457933
+  },
+  {
+    "name": "Loop Pass TopVisual V1",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-2598540727368534052.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -2598540727368534052
+  },
+  {
+    "name": "Booster Shuffle",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1609900883706003373.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1609900883706003373
+  },
+  {
+    "name": "FinalChest",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1394639390449794348.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1394639390449794348
+  },
+  {
+    "name": "FinalChestOpen",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1347081596475012606.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1347081596475012606
+  },
+  {
+    "name": "ParisOfferV3",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1287999721952670197.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1287999721952670197
+  },
+  {
+    "name": "ChestPremiumBlue",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1224451414639351220.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1224451414639351220
+  },
+  {
+    "name": "Giftbox_Red_Outlined",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1160487133205581296.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1160487133205581296
+  },
+  {
+    "name": "Venice_PO3_Icon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1130355482408110264.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -1130355482408110264
+  },
+  {
+    "name": "Gift Box Cyan",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-842314743216170622.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -842314743216170622
+  },
+  {
+    "name": "OrangeStreakArrow",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-827785297686057564.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -827785297686057564
+  },
+  {
+    "name": "CoinRushFillGreen",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-742750153998496671.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -742750153998496671
+  },
+  {
+    "name": "Heart",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-709292005735214157.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -709292005735214157
+  },
+  {
+    "name": "infoVisualwinstreak",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-592486678659480069.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -592486678659480069
+  },
+  {
+    "name": "Gift Box Blue",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-425388640859476724.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -425388640859476724
+  },
+  {
+    "name": "LoopPassYellowBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-388520953481821239.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -388520953481821239
+  },
+  {
+    "name": "videorewards-card",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-312432698413341128.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -312432698413341128
+  },
+  {
+    "name": "FailStreakBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-206391111823216673.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -206391111823216673
+  },
+  {
+    "name": "ChestPremiumgreen",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-154357061856672133.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -154357061856672133
+  },
+  {
+    "name": "4Star",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-147039931122284280.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": -147039931122284280
+  },
+  {
+    "name": "OfferButtonOnly",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_63382057870518292.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 63382057870518292
+  },
+  {
+    "name": "day-base-selected",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_207815804175218853.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 207815804175218853
+  },
+  {
+    "name": "CoinRushV3",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_330156618593240883.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 330156618593240883
+  },
+  {
+    "name": "CoinRushRewardBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_498639367101577480.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 498639367101577480
+  },
+  {
+    "name": "ChestFree",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_536959737136456852.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 536959737136456852
+  },
+  {
+    "name": "Booster Select",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_539437395716410856.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 539437395716410856
+  },
+  {
+    "name": "Rewards Background",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_572747960029568482.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 572747960029568482
+  },
+  {
+    "name": "Booster Capacity",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_975313518586197880.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 975313518586197880
+  },
+  {
+    "name": "MissionPercentage",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_985171063908130824.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 985171063908130824
+  },
+  {
+    "name": "9SliceBeigeMidPart",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1307762748172861389.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1307762748172861389
+  },
+  {
+    "name": "videorewards-bar",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1319329092381870149.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1319329092381870149
+  },
+  {
+    "name": "MiniBoosterConveyorCapacity",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1374404114091871336
+  },
+  {
+    "name": "Venice_PO1",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1443349727828588056.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1443349727828588056
+  },
+  {
+    "name": "PriceOff",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1523397814888513173.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1523397814888513173
+  },
+  {
+    "name": "rewardbox",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1529733863061260412.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1529733863061260412
+  },
+  {
+    "name": "Bronze Chest",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1723710538016662531.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1723710538016662531
+  },
+  {
+    "name": "BronzMedal",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1943760073755196318.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 1943760073755196318
+  },
+  {
+    "name": "CoinRushSeperator",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2197721972751906506.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2197721972751906506
+  },
+  {
+    "name": "videorewards-panel",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2204737687789200286.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2204737687789200286
+  },
+  {
+    "name": "Streak Tournament Home",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2596111276074266665.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2596111276074266665
+  },
+  {
+    "name": "Heart Infinity",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2780066323315819407
+  },
+  {
+    "name": "ChestClosePurple",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2826165480615492331.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2826165480615492331
+  },
+  {
+    "name": "OfferArea",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2934456504581520241.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2934456504581520241
+  },
+  {
+    "name": "CyanGiftBox_Outlined",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2991970999458405347.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 2991970999458405347
+  },
+  {
+    "name": "HorizenentalBlock",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_3114503273543497098.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 3114503273543497098
+  },
+  {
+    "name": "Gold Chest",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_3432703073611347473.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 3432703073611347473
+  },
+  {
+    "name": "Venice_PO2",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_3509113318570079865.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 3509113318570079865
+  },
+  {
+    "name": "MiniBoosterCapacity",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4246259576754341040
+  },
+  {
+    "name": "videorewards-fill",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4284083240526078473.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4284083240526078473
+  },
+  {
+    "name": "Venice_PO2_Icon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4428462675949747458.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4428462675949747458
+  },
+  {
+    "name": "9SlicePurpleFrame",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4487579818479709151.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4487579818479709151
+  },
+  {
+    "name": "Gift Box Red",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4539173951348399445.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4539173951348399445
+  },
+  {
+    "name": "9-Sliced",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4660529620855085878.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4660529620855085878
+  },
+  {
+    "name": "StarterGoldBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4661199638293088944.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4661199638293088944
+  },
+  {
+    "name": "ParisOfferIcon",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4907211378016362294.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 4907211378016362294
+  },
+  {
+    "name": "YellowGem",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_5441718469459537097.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 5441718469459537097
+  },
+  {
+    "name": "videorewards",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_5454679342023465418.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 5454679342023465418
+  },
+  {
+    "name": "ChestOpenPurple",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_6084107995191461982.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 6084107995191461982
+  },
+  {
+    "name": "ProgressionStartPoint",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_6465510426896071888.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 6465510426896071888
+  },
+  {
+    "name": "LavaRewards",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_6810751269695331180.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 6810751269695331180
+  },
+  {
+    "name": "GreenGem",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7025502444675105164.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7025502444675105164
+  },
+  {
+    "name": "Goldmedal",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7406925424590043230.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7406925424590043230
+  },
+  {
+    "name": "LavaChar2",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7533033915252633087.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7533033915252633087
+  },
+  {
+    "name": "videorewards-timer",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7533563658133935611.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7533563658133935611
+  },
+  {
+    "name": "RewardsBig",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7574125451043424589.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7574125451043424589
+  },
+  {
+    "name": "RockMid",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7591134832055907690.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7591134832055907690
+  },
+  {
+    "name": "RewardInner",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7635467401047775405.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7635467401047775405
+  },
+  {
+    "name": "RockSmall",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7768709729249420663.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7768709729249420663
+  },
+  {
+    "name": "StreakBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7796008077541744385.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7796008077541744385
+  },
+  {
+    "name": "FreePassBG",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7958375718142995682.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7958375718142995682
+  },
+  {
+    "name": "Giftbox_Purple_Outlined",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_7967504174212951086.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 7967504174212951086
+  },
+  {
+    "name": "9SliceBlueFrame",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_8634047691052609269.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 8634047691052609269
+  },
+  {
+    "name": "StreakTopPurple",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_8754686730067138188.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 8754686730067138188
+  },
+  {
+    "name": "LStreak_TopVisualV6",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_8991818145860252685.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 8991818145860252685
+  },
+  {
+    "name": "OfferArea",
+    "file": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_9026450352757040876.png",
+    "asset": "CAB-b0913f986e9ad06c6a2428267609bd0b",
+    "path_id": 9026450352757040876
+  },
+  {
+    "name": "star_m_b",
+    "file": "Images/UI/CAB-0a9bbe2db1f0c7b837fbb1a05165567a_-8443222451007308723.png",
+    "asset": "CAB-0a9bbe2db1f0c7b837fbb1a05165567a",
+    "path_id": -8443222451007308723
+  },
+  {
+    "name": "star_m_b",
+    "file": "Images/UI/CAB-69450c4da83cdea2a63760f6d62efc71_2990396931913776250.png",
+    "asset": "CAB-69450c4da83cdea2a63760f6d62efc71",
+    "path_id": 2990396931913776250
+  },
+  {
+    "name": "star_m_w",
+    "file": "Images/UI/CAB-296bdbaeadbdadf75aa51fb665670233_1414875159649638055.png",
+    "asset": "CAB-296bdbaeadbdadf75aa51fb665670233",
+    "path_id": 1414875159649638055
+  },
+  {
+    "name": "star_m_w",
+    "file": "Images/UI/CAB-d550f0cb850689cbddbb18dcb6675ef5_1086063176452745468.png",
+    "asset": "CAB-d550f0cb850689cbddbb18dcb6675ef5",
+    "path_id": 1086063176452745468
+  },
+  {
+    "name": "star_s_b",
+    "file": "Images/UI/CAB-5d024a0a564af2ce7fbb93a3431ed8e0_1468394565671826104.png",
+    "asset": "CAB-5d024a0a564af2ce7fbb93a3431ed8e0",
+    "path_id": 1468394565671826104
+  },
+  {
+    "name": "star_s_b",
+    "file": "Images/UI/CAB-b594d5ab23fe4dcecfc3ba115efd8b5f_-4569491061897381780.png",
+    "asset": "CAB-b594d5ab23fe4dcecfc3ba115efd8b5f",
+    "path_id": -4569491061897381780
+  },
+  {
+    "name": "star_s_w",
+    "file": "Images/UI/CAB-8d4f146480867cbdead5a9407bf5ebb4_7906133740414735538.png",
+    "asset": "CAB-8d4f146480867cbdead5a9407bf5ebb4",
+    "path_id": 7906133740414735538
+  },
+  {
+    "name": "star_s_w",
+    "file": "Images/UI/CAB-d2942a8d051ff7392b911c99e480982f_5850928275309452865.png",
+    "asset": "CAB-d2942a8d051ff7392b911c99e480982f",
+    "path_id": 5850928275309452865
+  },
+  {
+    "name": "star_x",
+    "file": "Images/UI/CAB-198becf5c5ea0f9ec2e02c9047288acd_-7400887333551832525.png",
+    "asset": "CAB-198becf5c5ea0f9ec2e02c9047288acd",
+    "path_id": -7400887333551832525
+  },
+  {
+    "name": "star_x",
+    "file": "Images/UI/CAB-499dfb0b68511356298014c4073d8c65_-3225801230596992074.png",
+    "asset": "CAB-499dfb0b68511356298014c4073d8c65",
+    "path_id": -3225801230596992074
+  },
+  {
+    "name": "SlicedBackground",
+    "file": "Images/UI/sharedassets0.assets_38.png",
+    "asset": "sharedassets0.assets",
+    "path_id": 38
+  },
+  {
+    "name": "SlicedBackground2",
+    "file": "Images/UI/sharedassets0.assets_44.png",
+    "asset": "sharedassets0.assets",
+    "path_id": 44
+  },
+  {
+    "name": "SlicedBackground3",
+    "file": "Images/UI/sharedassets0.assets_48.png",
+    "asset": "sharedassets0.assets",
+    "path_id": 48
+  },
+  {
+    "name": "9-Sliced",
+    "file": "Images/UI/resources.assets_673.png",
+    "asset": "resources.assets",
+    "path_id": 673
+  },
+  {
+    "name": "9-Sliced",
+    "file": "Images/UI/resources.assets_674.png",
+    "asset": "resources.assets",
+    "path_id": 674
+  },
+  {
+    "name": "Booster Select",
+    "file": "Images/UI/resources.assets_686.png",
+    "asset": "resources.assets",
+    "path_id": 686
+  },
+  {
+    "name": "Booster Return",
+    "file": "Images/UI/resources.assets_691.png",
+    "asset": "resources.assets",
+    "path_id": 691
+  },
+  {
+    "name": "FailStreakFG",
+    "file": "Images/UI/resources.assets_694.png",
+    "asset": "resources.assets",
+    "path_id": 694
+  },
+  {
+    "name": "videorewards",
+    "file": "Images/UI/resources.assets_696.png",
+    "asset": "resources.assets",
+    "path_id": 696
+  },
+  {
+    "name": "CoinBunleBG",
+    "file": "Images/UI/resources.assets_698.png",
+    "asset": "resources.assets",
+    "path_id": 698
+  },
+  {
+    "name": "Gift Box Blue",
+    "file": "Images/UI/resources.assets_706.png",
+    "asset": "resources.assets",
+    "path_id": 706
+  },
+  {
+    "name": "FailStreakBG",
+    "file": "Images/UI/resources.assets_707.png",
+    "asset": "resources.assets",
+    "path_id": 707
+  },
+  {
+    "name": "TicketButtonExtention",
+    "file": "Images/UI/resources.assets_712.png",
+    "asset": "resources.assets",
+    "path_id": 712
+  },
+  {
+    "name": "Streak Tournament Home",
+    "file": "Images/UI/resources.assets_713.png",
+    "asset": "resources.assets",
+    "path_id": 713
+  },
+  {
+    "name": "ChestFree",
+    "file": "Images/UI/resources.assets_719.png",
+    "asset": "resources.assets",
+    "path_id": 719
+  },
+  {
+    "name": "Gift Box Cyan",
+    "file": "Images/UI/resources.assets_720.png",
+    "asset": "resources.assets",
+    "path_id": 720
+  },
+  {
+    "name": "TagFeature",
+    "file": "Images/UI/resources.assets_738.png",
+    "asset": "resources.assets",
+    "path_id": 738
+  },
+  {
+    "name": "Venice",
+    "file": "Images/UI/resources.assets_761.png",
+    "asset": "resources.assets",
+    "path_id": 761
+  },
+  {
+    "name": "Ticket Blue",
+    "file": "Images/UI/resources.assets_764.png",
+    "asset": "resources.assets",
+    "path_id": 764
+  },
+  {
+    "name": "GiftBoxesPart1",
+    "file": "Images/UI/resources.assets_777.png",
+    "asset": "resources.assets",
+    "path_id": 777
+  },
+  {
+    "name": "SpecialOfferBG",
+    "file": "Images/UI/resources.assets_787.png",
+    "asset": "resources.assets",
+    "path_id": 787
+  },
+  {
+    "name": "MiniBoosterUndo",
+    "file": "Images/UI/resources.assets_796.png",
+    "asset": "resources.assets",
+    "path_id": 796
+  },
+  {
+    "name": "LoopPassYellowBG",
+    "file": "Images/UI/resources.assets_810.png",
+    "asset": "resources.assets",
+    "path_id": 810
+  },
+  {
+    "name": "iceticket",
+    "file": "Images/UI/resources.assets_812.png",
+    "asset": "resources.assets",
+    "path_id": 812
+  },
+  {
+    "name": "CoinRushicon",
+    "file": "Images/UI/resources.assets_815.png",
+    "asset": "resources.assets",
+    "path_id": 815
+  },
+  {
+    "name": "mobile-leaderboard-banner",
+    "file": "Images/UI/resources.assets_817.png",
+    "asset": "resources.assets",
+    "path_id": 817
+  },
+  {
+    "name": "Blocker-Carpet-v2",
+    "file": "Images/UI/resources.assets_824.png",
+    "asset": "resources.assets",
+    "path_id": 824
+  },
+  {
+    "name": "MetalBlock",
+    "file": "Images/UI/resources.assets_826.png",
+    "asset": "resources.assets",
+    "path_id": 826
+  },
+  {
+    "name": "Heart",
+    "file": "Images/UI/resources.assets_827.png",
+    "asset": "resources.assets",
+    "path_id": 827
+  },
+  {
+    "name": "Ticket Green",
+    "file": "Images/UI/resources.assets_828.png",
+    "asset": "resources.assets",
+    "path_id": 828
+  },
+  {
+    "name": "BoosterMini3d",
+    "file": "Images/UI/resources.assets_830.png",
+    "asset": "resources.assets",
+    "path_id": 830
+  },
+  {
+    "name": "BoosterBG",
+    "file": "Images/UI/resources.assets_831.png",
+    "asset": "resources.assets",
+    "path_id": 831
+  },
+  {
+    "name": "HeartBG",
+    "file": "Images/UI/resources.assets_838.png",
+    "asset": "resources.assets",
+    "path_id": 838
+  },
+  {
+    "name": "BoosterNumberBG",
+    "file": "Images/UI/resources.assets_841.png",
+    "asset": "resources.assets",
+    "path_id": 841
+  },
+  {
+    "name": "MiniBoosters",
+    "file": "Images/UI/resources.assets_847.png",
+    "asset": "resources.assets",
+    "path_id": 847
+  },
+  {
+    "name": "StarterBundleSegment",
+    "file": "Images/UI/resources.assets_856.png",
+    "asset": "resources.assets",
+    "path_id": 856
+  },
+  {
+    "name": "Star",
+    "file": "Images/UI/resources.assets_864.png",
+    "asset": "resources.assets",
+    "path_id": 864
+  },
+  {
+    "name": "FailOfferBG",
+    "file": "Images/UI/resources.assets_870.png",
+    "asset": "resources.assets",
+    "path_id": 870
+  },
+  {
+    "name": "Screw-blocker-icon",
+    "file": "Images/UI/resources.assets_873.png",
+    "asset": "resources.assets",
+    "path_id": 873
+  },
+  {
+    "name": "Gift Box",
+    "file": "Images/UI/resources.assets_874.png",
+    "asset": "resources.assets",
+    "path_id": 874
+  },
+  {
+    "name": "StarterBundleBG",
+    "file": "Images/UI/resources.assets_877.png",
+    "asset": "resources.assets",
+    "path_id": 877
+  },
+  {
+    "name": "FreeCoinBG",
+    "file": "Images/UI/resources.assets_887.png",
+    "asset": "resources.assets",
+    "path_id": 887
+  },
+  {
+    "name": "JourneyReward",
+    "file": "Images/UI/resources.assets_891.png",
+    "asset": "resources.assets",
+    "path_id": 891
+  },
+  {
+    "name": "4Star",
+    "file": "Images/UI/resources.assets_892.png",
+    "asset": "resources.assets",
+    "path_id": 892
+  },
+  {
+    "name": "CoinRushFill",
+    "file": "Images/UI/resources.assets_899.png",
+    "asset": "resources.assets",
+    "path_id": 899
+  },
+  {
+    "name": "Silvermedal",
+    "file": "Images/UI/resources.assets_923.png",
+    "asset": "resources.assets",
+    "path_id": 923
+  },
+  {
+    "name": "SurpriseBlock",
+    "file": "Images/UI/resources.assets_927.png",
+    "asset": "resources.assets",
+    "path_id": 927
+  },
+  {
+    "name": "FailOfferBundleSegment",
+    "file": "Images/UI/resources.assets_942.png",
+    "asset": "resources.assets",
+    "path_id": 942
+  },
+  {
+    "name": "OfferPurple",
+    "file": "Images/UI/resources.assets_948.png",
+    "asset": "resources.assets",
+    "path_id": 948
+  },
+  {
+    "name": "9SliceBeigeMidPart",
+    "file": "Images/UI/resources.assets_953.png",
+    "asset": "resources.assets",
+    "path_id": 953
+  },
+  {
+    "name": "CapacityBG",
+    "file": "Images/UI/resources.assets_958.png",
+    "asset": "resources.assets",
+    "path_id": 958
+  },
+  {
+    "name": "Booster Shuffle",
+    "file": "Images/UI/resources.assets_961.png",
+    "asset": "resources.assets",
+    "path_id": 961
+  },
+  {
+    "name": "MiniBoosterConveyorCapacity",
+    "file": "Images/UI/resources.assets_963.png",
+    "asset": "resources.assets",
+    "path_id": 963
+  },
+  {
+    "name": "9SliceBlueFrame",
+    "file": "Images/UI/resources.assets_965.png",
+    "asset": "resources.assets",
+    "path_id": 965
+  },
+  {
+    "name": "HeartBroken",
+    "file": "Images/UI/resources.assets_967.png",
+    "asset": "resources.assets",
+    "path_id": 967
+  },
+  {
+    "name": "RewardConveyorCapacityBoosterV5",
+    "file": "Images/UI/resources.assets_970.png",
+    "asset": "resources.assets",
+    "path_id": 970
+  },
+  {
+    "name": "GlassCarrier",
+    "file": "Images/UI/resources.assets_975.png",
+    "asset": "resources.assets",
+    "path_id": 975
+  },
+  {
+    "name": "9sliceBeige",
+    "file": "Images/UI/resources.assets_988.png",
+    "asset": "resources.assets",
+    "path_id": 988
+  },
+  {
+    "name": "OfferPurpleV2",
+    "file": "Images/UI/resources.assets_991.png",
+    "asset": "resources.assets",
+    "path_id": 991
+  },
+  {
+    "name": "RewardCapacityBoosterV5",
+    "file": "Images/UI/resources.assets_999.png",
+    "asset": "resources.assets",
+    "path_id": 999
+  },
+  {
+    "name": "WinStreakIcon",
+    "file": "Images/UI/resources.assets_1013.png",
+    "asset": "resources.assets",
+    "path_id": 1013
+  },
+  {
+    "name": "MiniBoosterShuffle",
+    "file": "Images/UI/resources.assets_1021.png",
+    "asset": "resources.assets",
+    "path_id": 1021
+  },
+  {
+    "name": "OfferMiniPigGoldBG",
+    "file": "Images/UI/resources.assets_1037.png",
+    "asset": "resources.assets",
+    "path_id": 1037
+  },
+  {
+    "name": "Star",
+    "file": "Images/UI/resources.assets_1038.png",
+    "asset": "resources.assets",
+    "path_id": 1038
+  },
+  {
+    "name": "Heart Infinity",
+    "file": "Images/UI/resources.assets_1044.png",
+    "asset": "resources.assets",
+    "path_id": 1044
+  },
+  {
+    "name": "SuperHardCapacity",
+    "file": "Images/UI/resources.assets_1050.png",
+    "asset": "resources.assets",
+    "path_id": 1050
+  },
+  {
+    "name": "OfferBGV6",
+    "file": "Images/UI/resources.assets_1051.png",
+    "asset": "resources.assets",
+    "path_id": 1051
+  },
+  {
+    "name": "BoosterBGGrey",
+    "file": "Images/UI/resources.assets_1057.png",
+    "asset": "resources.assets",
+    "path_id": 1057
+  },
+  {
+    "name": "CarrierIce-V2",
+    "file": "Images/UI/resources.assets_1059.png",
+    "asset": "resources.assets",
+    "path_id": 1059
+  },
+  {
+    "name": "HardCapacity",
+    "file": "Images/UI/resources.assets_1060.png",
+    "asset": "resources.assets",
+    "path_id": 1060
+  },
+  {
+    "name": "TicketButtonExtention NoHole",
+    "file": "Images/UI/resources.assets_1073.png",
+    "asset": "resources.assets",
+    "path_id": 1073
+  },
+  {
+    "name": "GiftBoxesPart2",
+    "file": "Images/UI/resources.assets_1074.png",
+    "asset": "resources.assets",
+    "path_id": 1074
+  },
+  {
+    "name": "Booster Capacity",
+    "file": "Images/UI/resources.assets_1076.png",
+    "asset": "resources.assets",
+    "path_id": 1076
+  },
+  {
+    "name": "LavaChar1",
+    "file": "Images/UI/resources.assets_1077.png",
+    "asset": "resources.assets",
+    "path_id": 1077
+  },
+  {
+    "name": "ticket",
+    "file": "Images/UI/resources.assets_1086.png",
+    "asset": "resources.assets",
+    "path_id": 1086
+  },
+  {
+    "name": "Booster Speed",
+    "file": "Images/UI/resources.assets_1091.png",
+    "asset": "resources.assets",
+    "path_id": 1091
+  },
+  {
+    "name": "ParisOfferIcon",
+    "file": "Images/UI/resources.assets_1092.png",
+    "asset": "resources.assets",
+    "path_id": 1092
+  },
+  {
+    "name": "CoinsOfferBG",
+    "file": "Images/UI/resources.assets_1099.png",
+    "asset": "resources.assets",
+    "path_id": 1099
+  },
+  {
+    "name": "BundlePacksBG",
+    "file": "Images/UI/resources.assets_1106.png",
+    "asset": "resources.assets",
+    "path_id": 1106
+  },
+  {
+    "name": "9-Sliced Shadow",
+    "file": "Images/UI/resources.assets_1111.png",
+    "asset": "resources.assets",
+    "path_id": 1111
+  },
+  {
+    "name": "MiniBoosterCapacity",
+    "file": "Images/UI/resources.assets_1112.png",
+    "asset": "resources.assets",
+    "path_id": 1112
+  },
+  {
+    "name": "heart",
+    "file": "Images/UI/resources.assets_1139.png",
+    "asset": "resources.assets",
+    "path_id": 1139
+  },
+  {
+    "name": "Gold2",
+    "file": "Images/UI/resources.assets_684.png",
+    "asset": "resources.assets",
+    "path_id": 684
+  },
+  {
+    "name": "Booster Select",
+    "file": "Images/UI/resources.assets_686.png",
+    "asset": "resources.assets",
+    "path_id": 686
+  },
+  {
+    "name": "CarIcon",
+    "file": "Images/UI/resources.assets_690.png",
+    "asset": "resources.assets",
+    "path_id": 690
+  },
+  {
+    "name": "Booster Return",
+    "file": "Images/UI/resources.assets_691.png",
+    "asset": "resources.assets",
+    "path_id": 691
+  },
+  {
+    "name": "crown",
+    "file": "Images/UI/resources.assets_693.png",
+    "asset": "resources.assets",
+    "path_id": 693
+  },
+  {
+    "name": "videorewards",
+    "file": "Images/UI/resources.assets_696.png",
+    "asset": "resources.assets",
+    "path_id": 696
+  },
+  {
+    "name": "Paw",
+    "file": "Images/UI/resources.assets_701.png",
+    "asset": "resources.assets",
+    "path_id": 701
+  },
+  {
+    "name": "Streak Tournament Home",
+    "file": "Images/UI/resources.assets_713.png",
+    "asset": "resources.assets",
+    "path_id": 713
+  },
+  {
+    "name": "Gold5",
+    "file": "Images/UI/resources.assets_718.png",
+    "asset": "resources.assets",
+    "path_id": 718
+  },
+  {
+    "name": "TagFeature",
+    "file": "Images/UI/resources.assets_738.png",
+    "asset": "resources.assets",
+    "path_id": 738
+  },
+  {
+    "name": "Gold1",
+    "file": "Images/UI/resources.assets_743.png",
+    "asset": "resources.assets",
+    "path_id": 743
+  },
+  {
+    "name": "tire 1",
+    "file": "Images/UI/resources.assets_745.png",
+    "asset": "resources.assets",
+    "path_id": 745
+  },
+  {
+    "name": "bundle3",
+    "file": "Images/UI/resources.assets_749.png",
+    "asset": "resources.assets",
+    "path_id": 749
+  },
+  {
+    "name": "Drop",
+    "file": "Images/UI/resources.assets_751.png",
+    "asset": "resources.assets",
+    "path_id": 751
+  },
+  {
+    "name": "bundle4",
+    "file": "Images/UI/resources.assets_755.png",
+    "asset": "resources.assets",
+    "path_id": 755
+  },
+  {
+    "name": "SpawnerFeature",
+    "file": "Images/UI/resources.assets_760.png",
+    "asset": "resources.assets",
+    "path_id": 760
+  },
+  {
+    "name": "tennisgirl",
+    "file": "Images/UI/resources.assets_770.png",
+    "asset": "resources.assets",
+    "path_id": 770
+  },
+  {
+    "name": "blonde",
+    "file": "Images/UI/resources.assets_773.png",
+    "asset": "resources.assets",
+    "path_id": 773
+  },
+  {
+    "name": "blackhairwoman",
+    "file": "Images/UI/resources.assets_774.png",
+    "asset": "resources.assets",
+    "path_id": 774
+  },
+  {
+    "name": "worker",
+    "file": "Images/UI/resources.assets_783.png",
+    "asset": "resources.assets",
+    "path_id": 783
+  },
+  {
+    "name": "bundle2",
+    "file": "Images/UI/resources.assets_784.png",
+    "asset": "resources.assets",
+    "path_id": 784
+  },
+  {
+    "name": "sun",
+    "file": "Images/UI/resources.assets_791.png",
+    "asset": "resources.assets",
+    "path_id": 791
+  },
+  {
+    "name": "blackcurlyman",
+    "file": "Images/UI/resources.assets_795.png",
+    "asset": "resources.assets",
+    "path_id": 795
+  },
+  {
+    "name": "MiniBoosterUndo",
+    "file": "Images/UI/resources.assets_796.png",
+    "asset": "resources.assets",
+    "path_id": 796
+  },
+  {
+    "name": "scooter",
+    "file": "Images/UI/resources.assets_799.png",
+    "asset": "resources.assets",
+    "path_id": 799
+  },
+  {
+    "name": "diamond",
+    "file": "Images/UI/resources.assets_806.png",
+    "asset": "resources.assets",
+    "path_id": 806
+  },
+  {
+    "name": "bundle1",
+    "file": "Images/UI/resources.assets_809.png",
+    "asset": "resources.assets",
+    "path_id": 809
+  },
+  {
+    "name": "CoinRushicon",
+    "file": "Images/UI/resources.assets_815.png",
+    "asset": "resources.assets",
+    "path_id": 815
+  },
+  {
+    "name": "LongTruck",
+    "file": "Images/UI/resources.assets_820.png",
+    "asset": "resources.assets",
+    "path_id": 820
+  },
+  {
+    "name": "bonustrip-icon",
+    "file": "Images/UI/resources.assets_822.png",
+    "asset": "resources.assets",
+    "path_id": 822
+  },
+  {
+    "name": "Blocker-Carpet-v2",
+    "file": "Images/UI/resources.assets_824.png",
+    "asset": "resources.assets",
+    "path_id": 824
+  },
+  {
+    "name": "MetalBlock",
+    "file": "Images/UI/resources.assets_826.png",
+    "asset": "resources.assets",
+    "path_id": 826
+  },
+  {
+    "name": "BoosterBG",
+    "file": "Images/UI/resources.assets_831.png",
+    "asset": "resources.assets",
+    "path_id": 831
+  },
+  {
+    "name": "beachgirl",
+    "file": "Images/UI/resources.assets_837.png",
+    "asset": "resources.assets",
+    "path_id": 837
+  },
+  {
+    "name": "MiniBoosters",
+    "file": "Images/UI/resources.assets_847.png",
+    "asset": "resources.assets",
+    "path_id": 847
+  },
+  {
+    "name": "RopeV2",
+    "file": "Images/UI/resources.assets_854.png",
+    "asset": "resources.assets",
+    "path_id": 854
+  },
+  {
+    "name": "StarterBundleSegment",
+    "file": "Images/UI/resources.assets_856.png",
+    "asset": "resources.assets",
+    "path_id": 856
+  },
+  {
+    "name": "sandwatch",
+    "file": "Images/UI/resources.assets_863.png",
+    "asset": "resources.assets",
+    "path_id": 863
+  },
+  {
+    "name": "Screw-blocker-icon",
+    "file": "Images/UI/resources.assets_873.png",
+    "asset": "resources.assets",
+    "path_id": 873
+  },
+  {
+    "name": "snowflake",
+    "file": "Images/UI/resources.assets_875.png",
+    "asset": "resources.assets",
+    "path_id": 875
+  },
+  {
+    "name": "StarterBundleBG",
+    "file": "Images/UI/resources.assets_877.png",
+    "asset": "resources.assets",
+    "path_id": 877
+  },
+  {
+    "name": "Gold2",
+    "file": "Images/UI/resources.assets_883.png",
+    "asset": "resources.assets",
+    "path_id": 883
+  },
+  {
+    "name": "minus",
+    "file": "Images/UI/resources.assets_886.png",
+    "asset": "resources.assets",
+    "path_id": 886
+  },
+  {
+    "name": "Flame",
+    "file": "Images/UI/resources.assets_901.png",
+    "asset": "resources.assets",
+    "path_id": 901
+  },
+  {
+    "name": "TresureIconNew",
+    "file": "Images/UI/resources.assets_902.png",
+    "asset": "resources.assets",
+    "path_id": 902
+  },
+  {
+    "name": "london",
+    "file": "Images/UI/resources.assets_906.png",
+    "asset": "resources.assets",
+    "path_id": 906
+  },
+  {
+    "name": "tree",
+    "file": "Images/UI/resources.assets_911.png",
+    "asset": "resources.assets",
+    "path_id": 911
+  },
+  {
+    "name": "Barrier-V2",
+    "file": "Images/UI/resources.assets_921.png",
+    "asset": "resources.assets",
+    "path_id": 921
+  },
+  {
+    "name": "Gold4",
+    "file": "Images/UI/resources.assets_922.png",
+    "asset": "resources.assets",
+    "path_id": 922
+  },
+  {
+    "name": "TaskIcon",
+    "file": "Images/UI/resources.assets_925.png",
+    "asset": "resources.assets",
+    "path_id": 925
+  },
+  {
+    "name": "SurpriseBlock",
+    "file": "Images/UI/resources.assets_927.png",
+    "asset": "resources.assets",
+    "path_id": 927
+  },
+  {
+    "name": "GlassLock",
+    "file": "Images/UI/resources.assets_944.png",
+    "asset": "resources.assets",
+    "path_id": 944
+  },
+  {
+    "name": "Leaf",
+    "file": "Images/UI/resources.assets_955.png",
+    "asset": "resources.assets",
+    "path_id": 955
+  },
+  {
+    "name": "Booster Shuffle",
+    "file": "Images/UI/resources.assets_961.png",
+    "asset": "resources.assets",
+    "path_id": 961
+  },
+  {
+    "name": "MiniBoosterConveyorCapacity",
+    "file": "Images/UI/resources.assets_963.png",
+    "asset": "resources.assets",
+    "path_id": 963
+  },
+  {
+    "name": "Calendar Home",
+    "file": "Images/UI/resources.assets_973.png",
+    "asset": "resources.assets",
+    "path_id": 973
+  },
+  {
+    "name": "cloth",
+    "file": "Images/UI/resources.assets_974.png",
+    "asset": "resources.assets",
+    "path_id": 974
+  },
+  {
+    "name": "GlassCarrier",
+    "file": "Images/UI/resources.assets_975.png",
+    "asset": "resources.assets",
+    "path_id": 975
+  },
+  {
+    "name": "Gold6",
+    "file": "Images/UI/resources.assets_976.png",
+    "asset": "resources.assets",
+    "path_id": 976
+  },
+  {
+    "name": "Underwater-icon-basic",
+    "file": "Images/UI/resources.assets_980.png",
+    "asset": "resources.assets",
+    "path_id": 980
+  },
+  {
+    "name": "flower",
+    "file": "Images/UI/resources.assets_998.png",
+    "asset": "resources.assets",
+    "path_id": 998
+  },
+  {
+    "name": "Key",
+    "file": "Images/UI/resources.assets_1002.png",
+    "asset": "resources.assets",
+    "path_id": 1002
+  },
+  {
+    "name": "CloseHat",
+    "file": "Images/UI/resources.assets_1005.png",
+    "asset": "resources.assets",
+    "path_id": 1005
+  },
+  {
+    "name": "brownhairman",
+    "file": "Images/UI/resources.assets_1010.png",
+    "asset": "resources.assets",
+    "path_id": 1010
+  },
+  {
+    "name": "Gold3",
+    "file": "Images/UI/resources.assets_1017.png",
+    "asset": "resources.assets",
+    "path_id": 1017
+  },
+  {
+    "name": "MiniBoosterShuffle",
+    "file": "Images/UI/resources.assets_1021.png",
+    "asset": "resources.assets",
+    "path_id": 1021
+  },
+  {
+    "name": "lightning",
+    "file": "Images/UI/resources.assets_1027.png",
+    "asset": "resources.assets",
+    "path_id": 1027
+  },
+  {
+    "name": "cruise",
+    "file": "Images/UI/resources.assets_1034.png",
+    "asset": "resources.assets",
+    "path_id": 1034
+  },
+  {
+    "name": "Star",
+    "file": "Images/UI/resources.assets_1038.png",
+    "asset": "resources.assets",
+    "path_id": 1038
+  },
+  {
+    "name": "plus",
+    "file": "Images/UI/resources.assets_1040.png",
+    "asset": "resources.assets",
+    "path_id": 1040
+  },
+  {
+    "name": "Heart Infinity",
+    "file": "Images/UI/resources.assets_1044.png",
+    "asset": "resources.assets",
+    "path_id": 1044
+  },
+  {
+    "name": "default",
+    "file": "Images/UI/resources.assets_1053.png",
+    "asset": "resources.assets",
+    "path_id": 1053
+  },
+  {
+    "name": "BoosterBGGrey",
+    "file": "Images/UI/resources.assets_1057.png",
+    "asset": "resources.assets",
+    "path_id": 1057
+  },
+  {
+    "name": "CarrierIce-V2",
+    "file": "Images/UI/resources.assets_1059.png",
+    "asset": "resources.assets",
+    "path_id": 1059
+  },
+  {
+    "name": "LockKey2",
+    "file": "Images/UI/resources.assets_1067.png",
+    "asset": "resources.assets",
+    "path_id": 1067
+  },
+  {
+    "name": "Gold3",
+    "file": "Images/UI/resources.assets_1070.png",
+    "asset": "resources.assets",
+    "path_id": 1070
+  },
+  {
+    "name": "clover",
+    "file": "Images/UI/resources.assets_1075.png",
+    "asset": "resources.assets",
+    "path_id": 1075
+  },
+  {
+    "name": "Booster Capacity",
+    "file": "Images/UI/resources.assets_1076.png",
+    "asset": "resources.assets",
+    "path_id": 1076
+  },
+  {
+    "name": "bundle5",
+    "file": "Images/UI/resources.assets_1085.png",
+    "asset": "resources.assets",
+    "path_id": 1085
+  },
+  {
+    "name": "ParisOfferIcon",
+    "file": "Images/UI/resources.assets_1092.png",
+    "asset": "resources.assets",
+    "path_id": 1092
+  },
+  {
+    "name": "butterfly",
+    "file": "Images/UI/resources.assets_1101.png",
+    "asset": "resources.assets",
+    "path_id": 1101
+  },
+  {
+    "name": "Elevator",
+    "file": "Images/UI/resources.assets_1105.png",
+    "asset": "resources.assets",
+    "path_id": 1105
+  },
+  {
+    "name": "MiniBoosterCapacity",
+    "file": "Images/UI/resources.assets_1112.png",
+    "asset": "resources.assets",
+    "path_id": 1112
+  },
+  {
+    "name": "HiddenCubes",
+    "file": "Images/UI/resources.assets_1119.png",
+    "asset": "resources.assets",
+    "path_id": 1119
+  },
+  {
+    "name": "portal",
+    "file": "Images/UI/resources.assets_1131.png",
+    "asset": "resources.assets",
+    "path_id": 1131
+  },
+  {
+    "name": "heart",
+    "file": "Images/UI/resources.assets_1139.png",
+    "asset": "resources.assets",
+    "path_id": 1139
+  },
+  {
+    "name": "ArrowIcon",
+    "file": "Images/UI/resources.assets_1147.png",
+    "asset": "resources.assets",
+    "path_id": 1147
+  },
+  {
+    "name": "blackhairtallguy",
+    "file": "Images/UI/resources.assets_1151.png",
+    "asset": "resources.assets",
+    "path_id": 1151
+  },
+  {
+    "name": "cloud",
+    "file": "Images/UI/resources.assets_1169.png",
+    "asset": "resources.assets",
+    "path_id": 1169
+  },
+  {
+    "name": "Booster Conveyor Capacity",
+    "file": "Images/UI/resources.assets_1170.png",
+    "asset": "resources.assets",
+    "path_id": 1170
+  },
+  {
+    "name": "NOads",
+    "file": "Images/UI/resources.assets_1172.png",
+    "asset": "resources.assets",
+    "path_id": 1172
+  }
+]

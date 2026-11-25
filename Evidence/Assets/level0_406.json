@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 84
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 30266097664
+  },
+  "m_Name": "",
+  "m_backgroundImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 456
+    }
+  ],
+  "m_graphicsDeviceVersionText": {
+    "m_FileID": 0,
+    "m_PathID": 382
+  },
+  "m_processorTypeText": {
+    "m_FileID": 0,
+    "m_PathID": 414
+  },
+  "m_operatingSystemText": {
+    "m_FileID": 0,
+    "m_PathID": 458
+  },
+  "m_systemMemoryText": {
+    "m_FileID": 0,
+    "m_PathID": 397
+  },
+  "m_graphicsDeviceNameText": {
+    "m_FileID": 0,
+    "m_PathID": 417
+  },
+  "m_graphicsMemorySizeText": {
+    "m_FileID": 0,
+    "m_PathID": 390
+  },
+  "m_screenResolutionText": {
+    "m_FileID": 0,
+    "m_PathID": 405
+  },
+  "m_gameWindowResolutionText": {
+    "m_FileID": 0,
+    "m_PathID": 376
+  },
+  "m_gameVRResolutionText": {
+    "m_FileID": 0,
+    "m_PathID": 507
+  },
+  "m_updateRate": 5.0
+}

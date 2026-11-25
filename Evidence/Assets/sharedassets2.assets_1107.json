@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 237
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 13488881664
+  },
+  "m_Name": "",
+  "_checkbox": {
+    "m_FileID": 0,
+    "m_PathID": 1327
+  },
+  "_text": {
+    "m_FileID": 0,
+    "m_PathID": 1362
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 1223
+  }
+}

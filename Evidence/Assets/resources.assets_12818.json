@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2363
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 70715965440
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 1081
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Event Error",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "errorCopyButton": {
+    "m_FileID": 0,
+    "m_PathID": 12641
+  },
+  "errorMessage": {
+    "m_FileID": 0,
+    "m_PathID": 12544
+  }
+}

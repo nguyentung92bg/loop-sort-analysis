@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 20568866816
+  },
+  "m_Name": "",
+  "_environment": 1,
+  "_devServer": {
+    "host": "https://grpc.loopsort.voodoo-gaming-dev.io:443",
+    "serverKey": "OGeRV4BftmjdlpVEfHxWEBen",
+    "cloudProjectNumber": 0
+  },
+  "_prodServer": {
+    "host": "https://grpc.loopsort.voodoo-gaming.io:443",
+    "serverKey": "zx3s1Fed9Ib2Ykql2RmV4Arh",
+    "cloudProjectNumber": 0
+  },
+  "_customEnvironments": [],
+  "_activeCustomEnvironmentName": "",
+  "_useStickyId": 1,
+  "_enableProfiler": 0,
+  "_enableTraceLogs": 0,
+  "_autoAuth": 0,
+  "_updateCheckResolverClass": "",
+  "_accountConflictResolverClass": "",
+  "_legacyDeviceMigratorClass": "",
+  "_updateCheckOncePerVersion": 1,
+  "_updateCheckCacheTtlMinutes": 60,
+  "_maxAuthRetries": 5,
+  "_authRetryBaseDelayMs": 2000,
+  "_authRetryMaxDelayMs": 30000,
+  "_initTimeoutMs": 60000,
+  "_playerProfileCacheCapacity": 50,
+  "_playerProfileCacheTtlSeconds": 300,
+  "_enableFcm": 0,
+  "_deferFcmUntilOptIn": 0,
+  "_enableAutoPresence": 0,
+  "_protobufStripEnabled": 0,
+  "_protobufStripDiagnosticToString": 1,
+  "_protobufStripJsonEntryPoints": 1,
+  "_protobufStripNullDescriptorGetters": 0
+}

@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1185749799140051684
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 199242597735809106
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 7952969650548244080
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 0,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": []
+    }
+  },
+  "skeletonDataAsset": {
+    "m_FileID": 0,
+    "m_PathID": 1052776995820118802
+  },
+  "additiveMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2525957128365749242
+  },
+  "multiplyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2664094846442450061
+  },
+  "screenMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 3366129248482861421
+  },
+  "m_SkeletonColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "initialSkinName": "purple",
+  "initialFlipX": 0,
+  "initialFlipY": 0,
+  "startingAnimation": "",
+  "startingLoop": 0,
+  "timeScale": 1.0,
+  "freeze": 0,
+  "layoutScaleMode": 3,
+  "referenceSize": {
+    "x": 462.69976806640625,
+    "y": 510.8742980957031
+  },
+  "pivotOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "referenceScale": 0.5677198767662048,
+  "layoutScale": 1.0570114850997925,
+  "updateWhenInvisible": 3,
+  "allowMultipleCanvasRenderers": 1,
+  "canvasRenderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7312538956945935076
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5975105216863455972
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8206392615484667164
+    }
+  ],
+  "separatorSlotNames": [],
+  "enableSeparatorSlots": 0,
+  "separatorParts": [],
+  "updateSeparatorPartLocation": 1,
+  "updateSeparatorPartScale": 0,
+  "disableMeshAssignmentOnOverride": 1,
+  "physicsPositionInheritanceFactor": {
+    "x": 1.0,
+    "y": 1.0
+  },
+  "physicsRotationInheritanceFactor": 1.0,
+  "physicsMovementRelativeTo": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "meshGenerator": {
+    "settings": {
+      "useClipping": 1,
+      "zSpacing": 0.0,
+      "tintBlack": 0,
+      "canvasGroupCompatible": 0,
+      "pmaVertexColors": 1,
+      "addNormals": 0,
+      "calculateTangents": 0,
+      "immutableTriangles": 0
+    }
+  },
+  "updateTiming": 1,
+  "unscaledTime": 1
+}

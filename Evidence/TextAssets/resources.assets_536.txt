@@ -1,0 +1,48 @@
+
+TelephoneBox.png
+size: 635, 261
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Door
+  rotate: false
+  xy: 424, 11
+  size: 120, 248
+  orig: 120, 248
+  offset: 0, 0
+  index: -1
+Particle1
+  rotate: false
+  xy: 568, 190
+  size: 65, 69
+  orig: 67, 72
+  offset: 1, 2
+  index: -1
+Particle2
+  rotate: false
+  xy: 568, 155
+  size: 30, 33
+  orig: 33, 36
+  offset: 2, 1
+  index: -1
+Particle3
+  rotate: false
+  xy: 568, 122
+  size: 26, 31
+  orig: 28, 34
+  offset: 1, 2
+  index: -1
+TelephoneBox
+  rotate: true
+  xy: 2, 2
+  size: 257, 420
+  orig: 395, 475
+  offset: 67, 14
+  index: -1
+doorSide
+  rotate: false
+  xy: 546, 14
+  size: 20, 245
+  orig: 20, 246
+  offset: 0, 0
+  index: -1

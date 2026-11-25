@@ -1,0 +1,67 @@
+[
+  {
+    "MilestoneCount": 1,
+    "Rewards": "-",
+    "Id": 1
+  },
+  {
+    "MilestoneCount": 2,
+    "Rewards": "gold:10",
+    "Id": 2
+  },
+  {
+    "MilestoneCount": 3,
+    "Rewards": "life:10",
+    "Id": 3
+  },
+  {
+    "MilestoneCount": 2,
+    "Rewards": "gold:20",
+    "Id": 4
+  },
+  {
+    "MilestoneCount": 3,
+    "Rewards": "undobooster:1",
+    "Id": 5
+  },
+  {
+    "MilestoneCount": 2,
+    "Rewards": "gold:30",
+    "Id": 6
+  },
+  {
+    "MilestoneCount": 4,
+    "Rewards": "life:20",
+    "Id": 7
+  },
+  {
+    "MilestoneCount": 3,
+    "Rewards": "gold:50",
+    "Id": 8
+  },
+  {
+    "MilestoneCount": 5,
+    "Rewards": "shufflebooster:1",
+    "Id": 9
+  },
+  {
+    "MilestoneCount": 3,
+    "Rewards": "gold:100",
+    "Id": 10
+  },
+  {
+    "MilestoneCount": 4,
+    "Rewards": "life:30",
+    "Id": 11
+  },
+  {
+    "MilestoneCount": 8,
+    "Rewards": "capacitybooster:1",
+    "Id": 12
+  },
+  {
+    "MilestoneCount": 0,
+    "Rewards": "gold:1000",
+    "Id": 13
+  }
+]

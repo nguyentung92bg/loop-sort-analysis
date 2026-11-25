@@ -1,0 +1,20 @@
+
+List.png
+size: 337, 289
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+_0000_ListItem
+  rotate: true
+  xy: 300, 128
+  size: 159, 35
+  orig: 159, 35
+  offset: 0, 0
+  index: -1
+_0001_List
+  rotate: true
+  xy: 2, 2
+  size: 285, 296
+  orig: 294, 297
+  offset: 4, 1
+  index: -1

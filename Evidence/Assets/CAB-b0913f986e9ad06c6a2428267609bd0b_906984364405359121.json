@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6110884071960019473
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4299838548117939815
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -227083259008384495
+  },
+  "Reskin": "",
+  "FreeChestSprite": {
+    "m_FileID": 0,
+    "m_PathID": 536959737136456852
+  },
+  "PaidChestSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1224451414639351220
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -154357061856672133
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8521589290227496455
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3507
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 58116276224
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 905
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Environment",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 9004
+  },
+  "_debugPopup": {
+    "m_FileID": 0,
+    "m_PathID": 10332
+  }
+}

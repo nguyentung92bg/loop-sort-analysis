@@ -1,0 +1,52 @@
+[
+  {
+    "Reward": "life:30",
+    "Percent": 100.0,
+    "Id": "1"
+  },
+  {
+    "Reward": "life:10",
+    "Percent": 120.0,
+    "Id": "2"
+  },
+  {
+    "Reward": "life:20",
+    "Percent": 120.0,
+    "Id": "3"
+  },
+  {
+    "Reward": "gold:50",
+    "Percent": 120.0,
+    "Id": "4"
+  },
+  {
+    "Reward": "gold:100",
+    "Percent": 120.0,
+    "Id": "5"
+  },
+  {
+    "Reward": "gold:200",
+    "Percent": 120.0,
+    "Id": "6"
+  },
+  {
+    "Reward": "undobooster:1",
+    "Percent": 100.0,
+    "Id": "7"
+  },
+  {
+    "Reward": "shufflebooster:1",
+    "Percent": 100.0,
+    "Id": "8"
+  },
+  {
+    "Reward": "capacitybooster:1",
+    "Percent": 100.0,
+    "Id": "9"
+  },
+  {
+    "Reward": "conveyorcapacitybooster:1",
+    "Percent": 100.0,
+    "Id": "10"
+  }
+]

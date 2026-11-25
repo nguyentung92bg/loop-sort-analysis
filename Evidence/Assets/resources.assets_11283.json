@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1865
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "StreakTower_TextFail_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 13174
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -256793598,
+      "Identificator": "StreakTower_TextStage_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10778
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 1963253784,
+      "Identificator": "StreakTower_TextStage_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12491
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Animator": {
+        "m_FileID": 0,
+        "m_PathID": 5011
+      }
+    }
+  ],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

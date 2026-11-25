@@ -1,0 +1,171 @@
+/* IL2CPP: GarageSale$$BuyNextProgress
+void GarageSale__BuyNextProgress (GarageSale_o* __this, const MethodInfo* method);
+Native pseudo-C; inferred types require review. */
+
+
+/* IL2CPP: GarageSale$$BuyNextProgress
+   void GarageSale__BuyNextProgress (GarageSale_o* __this, const MethodInfo* method); */
+
+void GarageSale__BuyNextProgress_2517e8c(long param_1)
+
+{
+  undefined4 uVar1;
+  ushort uVar2;
+  undefined *puVar3;
+  undefined *puVar4;
+  undefined *puVar5;
+  undefined *puVar6;
+  undefined *puVar7;
+  undefined *puVar8;
+  int iVar9;
+  long lVar10;
+  long lVar11;
+  ulong uVar12;
+  long lVar13;
+  undefined8 uVar14;
+  long lVar15;
+  long lVar16;
+  double dVar17;
+  ulong uStack_b8;
+  double dStack_b0;
+  undefined8 uStack_a8;
+  undefined8 uStack_a0;
+  undefined8 uStack_98;
+  undefined8 uStack_90;
+  undefined8 uStack_88;
+  ulong uStack_80;
+  double dStack_78;
+  undefined8 uStack_70;
+  
+  puVar4 = PTR_DAT_049b5388;
+  puVar3 = PTR_DAT_049b5380;
+                    /* try { // try from 02617e9c to 02717e9f has its CatchHandler @ 02617ea8 */
+                    /* catch() { ... } // from try @ 02617e9c with catch @ 02617ea8 */
+                    /* try { // try from 02617eb0 to 02717eb7 has its CatchHandler @ 02617f54 */
+                    /* try { // try from 02617eb8 to 02717ecb has its CatchHandler @ 02617a24 */
+  if ((bRam0000000004f4be2b & 1) == 0) {
+                    /* try { // try from 02617ecc to 02717ee3 has its CatchHandler @ 02617f44 */
+    FUN_021f03f8(PTR_DAT_049b6330);
+    FUN_021f03f8(PTR_DAT_049b6348);
+                    /* try { // try from 02617ee4 to 02717f33 has its CatchHandler @ 02617a24 */
+    FUN_021f03f8(PTR_DAT_049b6350);
+    FUN_021f03f8(PTR_DAT_049b5390);
+    FUN_021f03f8(PTR_DAT_049b6370);
+    FUN_021f03f8(PTR_DAT_049b5388);
+    FUN_021f03f8(PTR_DAT_049b5380);
+    FUN_021f03f8(PTR_DAT_049c9420);
+                    /* try { // try from 02617f34 to 02717f43 has its CatchHandler @ 02617f44 */
+    FUN_021f03f8(PTR_DAT_049c9160);
+    FUN_021f03f8(PTR_DAT_049c59c8);
+                    /* catch() { ... } // from try @ 02617ecc with catch @ 02617f44
+                       catch() { ... } // from try @ 02617f34 with catch @ 02617f44 */
+                    /* try { // try from 02617f48 to 02717f4b has its CatchHandler @ 02617f54 */
+                    /* try { // try from 02617f4c to 02717f57 has its CatchHandler @ 02617a24 */
+    FUN_021f03f8(PTR_DAT_049c57b8);
+                    /* catch() { ... } // from try @ 02617eb0 with catch @ 02617f54
+                       catch() { ... } // from try @ 02617f48 with catch @ 02617f54 */
+    FUN_021f03f8(PTR_DAT_049b61d0);
+    bRam0000000004f4be2b = 1;
+  }
+                    /* try { // try from 02617f64 to 0271801f has its CatchHandler @ 02617f64
+                       catch() { ... } // from try @ 02617f64 with catch @ 02617f64
+                       catch() { ... } // from try @ 0261846c with catch @ 02617f64
+                       catch() { ... } // from try @ 02618594 with catch @ 02617f64
+                       catch() { ... } // from try @ 02618614 with catch @ 02617f64
+                       catch() { ... } // from try @ 02618650 with catch @ 02617f64
+                       catch() { ... } // from try @ 026186b8 with catch @ 02617f64 */
+  uStack_80 = 0;
+  dStack_78 = 0.0;
+  uStack_70 = 0;
+  lVar10 = thunk_FUN_0222ca34(*(undefined8 *)puVar3);
+  System_Collections_Generic_List___Il2CppFullySharedGenericType____ctor_28cd10c
+            (lVar10,*(undefined8 *)puVar4);
+  if (*(long *)(param_1 + 0x10) != 0) {
+    uStack_98 = *(undefined8 *)(param_1 + 0x38);
+    uStack_a0 = *(undefined8 *)(param_1 + 0x30);
+    uStack_88 = *(undefined8 *)(param_1 + 0x48);
+    uStack_90 = *(undefined8 *)(param_1 + 0x40);
+    lVar15 = *(long *)(*(long *)(param_1 + 0x10) + 0xc0);
+    iVar9 = CloudPrefsInt__op_Implicit_24ea0a0(&uStack_a0,0);
+    if (lVar15 != 0) {
+      uStack_b8 = CONCAT44(uStack_b8._4_4_,iVar9 + 1);
+      lVar15 = Cathei_BakingSheet_Sheet___Il2CppFullySharedGenericType__object___Find_29867f0
+                         (lVar15,&uStack_b8,*(undefined8 *)PTR_DAT_049c57b8);
+      if ((lVar15 != 0) &&
+         (lVar11 = GarageSaleSheet_Row__GetPayouts_2560104(lVar15,0), puVar8 = PTR_DAT_049c59c8,
+         puVar7 = PTR_DAT_049b6350, puVar6 = PTR_DAT_049b6348, puVar5 = PTR_DAT_049b6330,
+         puVar4 = PTR_DAT_049b61d0, puVar3 = PTR_DAT_049b5390, lVar11 != 0)) {
+        System_Collections_Generic_List___Il2CppFullySharedGenericType___GetEnumerator_28cf1f8
+                  (lVar11,&uStack_b8,*(undefined8 *)PTR_DAT_049b6370);
+                    /* try { // try from 02618020 to 02718023 has its CatchHandler @ 026185a8 */
+                    /* try { // try from 02618024 to 0271803b has its CatchHandler @ 026185bc */
+        uStack_70 = uStack_a8;
+        dStack_78 = dStack_b0;
+        uStack_80 = uStack_b8;
+                    /* try { // try from 02618040 to 0271804b has its CatchHandler @ 026185b8 */
+        while (uVar12 = System_Collections_Generic_List_Enumerator___Il2CppFullySharedGenericType___MoveNext_2845534
+                                  (&uStack_80,*(undefined8 *)puVar6), (uVar12 & 1) != 0) {
+          lVar16 = *(long *)puVar7;
+          lVar13 = *(long *)(lVar16 + 0x20);
+          uVar2 = *(ushort *)(lVar13 + 0x135);
+          lVar11 = lVar13;
+          if ((uVar2 & 1) == 0) {
+            lVar11 = FUN_02229718();
+                    /* try { // try from 02618060 to 02718113 has its CatchHandler @ 026185cc */
+            lVar13 = *(long *)(lVar16 + 0x20);
+            uVar2 = *(ushort *)(lVar13 + 0x135);
+          }
+          uVar1 = *(undefined4 *)(*(long *)(*(long *)(lVar11 + 0xc0) + 0x10) + 0xfc);
+          if ((uVar2 & 1) == 0) {
+            lVar13 = FUN_02229718();
+          }
+          uVar14 = thunk_FUN_0224e54c(&uStack_80,
+                                      *(long *)(*(long *)(*(long *)(lVar13 + 0xc0) + 8) + 0x80) +
+                                      0x60);
+          func_0x04608620(&uStack_b8,uVar14,uVar1);
+          if (lVar10 == 0) {
+                    /* WARNING: Subroutine does not return */
+            FUN_021f06a0();
+          }
+          uVar12 = uStack_b8 & 0xffffffff;
+          dVar17 = (double)(int)(uStack_b8 >> 0x20);
+          uStack_b8 = uVar12;
+          dStack_b0 = dVar17;
+          FUN_02333498(lVar10,&uStack_b8,*(undefined8 *)puVar3);
+          if (*(int *)(lVar15 + 0x20) < 1) {
+            if (*(long *)(param_1 + 0x20) == 0) {
+                    /* WARNING: Subroutine does not return */
+              FUN_021f06a0();
+            }
+            FulfillModule__FulfillFreePayout_254358c
+                      (*(long *)(param_1 + 0x20),uVar12,dVar17,*(undefined8 *)puVar4,0);
+          }
+        }
+        System_Collections_Generic_List_Enumerator___Il2CppFullySharedGenericType___Dispose_2845530
+                  (&uStack_80,*(undefined8 *)puVar5);
+        iVar9 = CloudPrefsInt__get_Value_24e99c0(param_1 + 0x30,0);
+                    /* try { // try from 02618120 to 027181a7 has its CatchHandler @ 0261861c */
+        CloudPrefsInt__set_Value_24e9a2c(param_1 + 0x30,iVar9 + 1,0);
+        if (*(long *)(param_1 + 0x28) != 0) {
+          uVar12 = Monitors__IsActive_object__2688ab4
+                             (*(long *)(param_1 + 0x28),*(undefined8 *)puVar8);
+          if ((uVar12 & 1) != 0) {
+            if (((*(long *)(param_1 + 0x28) == 0) ||
+                (lVar15 = Monitors__Get_object__26889d0
+                                    (*(long *)(param_1 + 0x28),*(undefined8 *)PTR_DAT_049c9160),
+                lVar15 == 0)) ||
+               (lVar15 = MonitorBase__GetSubMonitor_object__2688828
+                                   (lVar15,*(undefined8 *)PTR_DAT_049c9420), lVar15 == 0))
+            goto LAB_026181b0;
+            GarageSaleSubMonitor__HandleBuyNextProgress_2477b3c(lVar15,lVar10,0);
+          }
+          return;
+        }
+      }
+    }
+  }
+LAB_026181b0:
+                    /* WARNING: Subroutine does not return */
+  FUN_021f06a0();
+}
+

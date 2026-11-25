@@ -1,0 +1,176 @@
+[
+  {
+    "Payouts": "gold:25",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 1
+  },
+  {
+    "Payouts": "life:5",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 2
+  },
+  {
+    "Payouts": "gold:1500\nundobooster:1\nconveyorcapacitybooster:1",
+    "Price": 2,
+    "Gifts": "-",
+    "Id": 3
+  },
+  {
+    "Payouts": "shufflebooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 4
+  },
+  {
+    "Payouts": "life:10",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 5
+  },
+  {
+    "Payouts": "gold:3000\nundobooster:1\nlife:5",
+    "Price": 4,
+    "Gifts": "-",
+    "Id": 6
+  },
+  {
+    "Payouts": "capacitybooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 7
+  },
+  {
+    "Payouts": "life:15",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 8
+  },
+  {
+    "Payouts": "gold:5000\nundobooster:1\nshufflebooster:1",
+    "Price": 6,
+    "Gifts": "-",
+    "Id": 9
+  },
+  {
+    "Payouts": "conveyorcapacitybooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 10
+  },
+  {
+    "Payouts": "life:20",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 11
+  },
+  {
+    "Payouts": "gold:7500\ncapacitybooster:1\nlife:15",
+    "Price": 8,
+    "Gifts": "-",
+    "Id": 12
+  },
+  {
+    "Payouts": "undobooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 13
+  },
+  {
+    "Payouts": "life:25",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 14
+  },
+  {
+    "Payouts": "gold:10000\nshufflebooster:1\nconveyorcapacitybooster:1",
+    "Price": 10,
+    "Gifts": "-",
+    "Id": 15
+  },
+  {
+    "Payouts": "shufflebooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 16
+  },
+  {
+    "Payouts": "life:30",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 17
+  },
+  {
+    "Payouts": "gold:15000\nundobooster:1\nconveyorcapacitybooster:1\nlife:25",
+    "Price": 15,
+    "Gifts": "-",
+    "Id": 18
+  },
+  {
+    "Payouts": "capacitybooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 19
+  },
+  {
+    "Payouts": "life:40",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 20
+  },
+  {
+    "Payouts": "gold:20000\nundobooster:1",
+    "Price": 20,
+    "Gifts": "-",
+    "Id": 21
+  },
+  {
+    "Payouts": "conveyorcapacitybooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 22
+  },
+  {
+    "Payouts": "life:45",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 23
+  },
+  {
+    "Payouts": "gold:30000\ncapacitybooster:1\nlife:40",
+    "Price": 23,
+    "Gifts": "-",
+    "Id": 24
+  },
+  {
+    "Payouts": "undobooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 25
+  },
+  {
+    "Payouts": "life:50",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 26
+  },
+  {
+    "Payouts": "gold:50000\nconveyorcapacitybooster:1\nlife:45",
+    "Price": 30,
+    "Gifts": "-",
+    "Id": 27
+  },
+  {
+    "Payouts": "shufflebooster:1",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 28
+  },
+  {
+    "Payouts": "life:60",
+    "Price": 0,
+    "Gifts": "-",
+    "Id": 29
+  }
+]

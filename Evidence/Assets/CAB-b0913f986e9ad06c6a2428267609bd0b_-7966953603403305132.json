@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2586999250673029292
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6129872149209399743
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 8867999721421647700
+  },
+  "Reskin": "",
+  "Stages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6041259201425068204
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2176717492285165740
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6275030023729270956
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5991783987125399380
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6840949629008129876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7433560794238136148
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5018064795499188396
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2182803396319596716
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8473308118557479084
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8727070950302306476
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7874071347353833644
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "846787565148",
+    "firebase_url": "https://loop-sort-b3e35-default-rtdb.firebaseio.com",
+    "project_id": "loop-sort-b3e35",
+    "storage_bucket": "loop-sort-b3e35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846787565148:android:55006c73f120eefa47f899",
+        "android_client_info": {
+          "package_name": "com.Garawell.LoopSort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHf9959mpIVm3oCFD-mA9-IkGB-RqH5As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

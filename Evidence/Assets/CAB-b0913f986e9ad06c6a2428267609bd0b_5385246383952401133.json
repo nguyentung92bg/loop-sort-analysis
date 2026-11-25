@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3487078079891598611
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6928993355019060402
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 3411021052018135789
+  },
+  "Reskin": "",
+  "StoreProductId": "com.garawell.loopsort.bonustripoffer",
+  "AnalyticsPlacement": "bonustripoffer",
+  "LiveOps": 23
+}

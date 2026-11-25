@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3125
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 53955526656
+  },
+  "m_Name": "",
+  "Button": {
+    "m_FileID": 0,
+    "m_PathID": 10795
+  },
+  "MotionTarget": {
+    "m_FileID": 0,
+    "m_PathID": 8387
+  },
+  "Image": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "Background": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "StatusText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DisabledItem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ActiveSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PassiveSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ActiveBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "PassiveBackgroundSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ActivePosition": {
+    "x": 78.0,
+    "y": 0.0
+  },
+  "PassivePosition": {
+    "x": -78.0,
+    "y": 0.0
+  },
+  "Ease": 2,
+  "Duration": 0.30000001192092896
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1200
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23018340352
+  },
+  "m_Name": "",
+  "eventNameText": {
+    "m_FileID": 0,
+    "m_PathID": 13247
+  },
+  "details": {
+    "m_FileID": 0,
+    "m_PathID": 12858
+  },
+  "timestamp": {
+    "m_FileID": 0,
+    "m_PathID": 11600
+  },
+  "sendingStatus": {
+    "m_FileID": 0,
+    "m_PathID": 3755
+  },
+  "sentStatus": {
+    "m_FileID": 0,
+    "m_PathID": 3873
+  },
+  "errorStatus": {
+    "m_FileID": 0,
+    "m_PathID": 2206
+  },
+  "infoButton": {
+    "m_FileID": 0,
+    "m_PathID": 13377
+  }
+}

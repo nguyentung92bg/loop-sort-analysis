@@ -1,0 +1,127 @@
+{
+  "source": "Evidence/Assets/resources.assets_9858.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 50851741696
+    },
+    "m_Name": "SandConfig",
+    "Shader": {
+      "m_FileID": 0,
+      "m_PathID": 496
+    },
+    "Compute": {
+      "m_FileID": 0,
+      "m_PathID": 606
+    },
+    "ReferenceSpacing": 0.4000000059604645,
+    "GrainCountMultiplier": 1.0,
+    "GrainRadius": 0.03999999910593033,
+    "GrainBrightness": 1.0,
+    "GrainShade": 1.0,
+    "GrainToneContrast": 0.20000000298023224,
+    "GrainDriftLimit": 0.30000001192092896,
+    "GrainShear": 0.3499999940395355,
+    "PileHeightScale": 0.800000011920929,
+    "PileSettleSpeed": 1.0,
+    "PileMaxHeight": 0.800000011920929,
+    "ReposeSlope": 2.0,
+    "ReposeTransfer": 0.25,
+    "ReposeIterations": 1,
+    "AlongFlow": 0.30000001192092896,
+    "AlongFlowLimit": 0.30000001192092896,
+    "AcrossFlow": 0.4000000059604645,
+    "SwingAmount": 0.10000000149011612,
+    "SwingLength": 1.0,
+    "SwingOvershoot": 0.0,
+    "CornerEvenness": 0.5,
+    "CornerSmoothing": 10.0,
+    "CornerReach": 1.0,
+    "BeltHalfWidth": 0.5699999928474426,
+    "FlowSpeed": 1.0,
+    "ConveyorSpeedScale": 1.0,
+    "OverlayLift": 0.5,
+    "ArrangeSpeed": 1.0,
+    "PourJumpScale": 1.7999999523162842,
+    "PourDelayScale": 1.0,
+    "ReformJumpScale": 3.0,
+    "PourSpeedJitter": 0.25,
+    "PourArc": 0.30000001192092896,
+    "PourSquash": 0.5,
+    "PourBounce": 5.0,
+    "PourSlide": 1.0,
+    "PourScatter": 0.25,
+    "ReformSpread": 0.6000000238418579,
+    "ReformSpeedJitter": 0.30000001192092896,
+    "ReformArc": 0.5,
+    "ReformEaseIn": 2.0,
+    "ReformScatter": 0.5,
+    "ReformLead": 0.5,
+    "ReformCurve": 0.75,
+    "UndoArc": 3.0,
+    "PickupLead": 2.0,
+    "PourSound": {
+      "m_FileID": 0,
+      "m_PathID": 626
+    },
+    "ReformSound": {
+      "m_FileID": 0,
+      "m_PathID": 626
+    },
+    "PourVolume": 0.25,
+    "ReformVolume": 0.20000000298023224,
+    "SoundFade": 0.11999999731779099,
+    "LiquidShader": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "LiquidJellyShader": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "LiquidResolution": 0.5,
+    "LiquidMaskResolution": 1.0,
+    "LiquidTexelsPerRadius": 5.0,
+    "LiquidBlobScale": 2.200000047683716,
+    "LiquidThreshold": 0.5,
+    "LiquidThickness": 2.0,
+    "LiquidNormalStrength": 1.5,
+    "LiquidGloss": 120.0,
+    "LiquidSpecular": 1.2000000476837158,
+    "LiquidJellySize": 0.25,
+    "LiquidGlow": 0.30000001192092896,
+    "LiquidEdgeDarken": 0.3499999940395355,
+    "LiquidGlowWidth": 2.0,
+    "LiquidSaturation": 1.149999976158142,
+    "LiquidValue": 1.0,
+    "LiquidCarrierFill": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LiquidCarrierOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "LiquidHiddenReveal": 0.5,
+    "LiquidColorBlend": 0.10000000149011612,
+    "LiquidCarrierBevel": 0.15000000596046448,
+    "LiquidCarrierSide": 0.75,
+    "LiquidCarrierGloss": 120.0,
+    "LiquidCarrierSpecular": 0.6000000238418579,
+    "LiquidCarrierRim": 0.25,
+    "LiquidCarrierWobble": 0.07999999821186066,
+    "LiquidCarrierNeck": 0.3499999940395355,
+    "LiquidCarrierNeckReach": 0.44999998807907104,
+    "LiquidAirHeight": 0.3499999940395355,
+    "LiquidBeltEdge": 0.30000001192092896,
+    "LiquidAirBlend": 8.0,
+    "LiquidAirSize": 1.0
+  }
+}

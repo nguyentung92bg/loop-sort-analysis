@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1518
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 66790096896
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 12105
+  },
+  "<AlwaysActivated>k__BackingField": 0,
+  "_journeyItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2460
+  }
+}

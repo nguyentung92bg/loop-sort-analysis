@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 5318377472
+  },
+  "m_Name": "Appearances Database",
+  "data": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9770
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9771
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9774
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9775
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9776
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9777
+    }
+  ]
+}

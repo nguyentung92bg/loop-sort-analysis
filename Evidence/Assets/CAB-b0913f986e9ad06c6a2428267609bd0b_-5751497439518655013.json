@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3814013822368023077
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -79196627910932136
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 6792949260601916891
+  },
+  "Reskin": "",
+  "<FirstRewardSprite>k__BackingField": {
+    "Sprite": {
+      "m_FileID": 0,
+      "m_PathID": 3432703073611347473
+    },
+    "ScaleMultiplier": 1.100000023841858,
+    "Offset": {
+      "x": -1.0,
+      "y": -10.0
+    }
+  },
+  "<SecondRewardSprite>k__BackingField": {
+    "Sprite": {
+      "m_FileID": 0,
+      "m_PathID": -5509584930519867408
+    },
+    "ScaleMultiplier": 1.100000023841858,
+    "Offset": {
+      "x": -1.0,
+      "y": -10.0
+    }
+  },
+  "<ThirdRewardSprite>k__BackingField": {
+    "Sprite": {
+      "m_FileID": 0,
+      "m_PathID": 1723710538016662531
+    },
+    "ScaleMultiplier": 1.100000023841858,
+    "Offset": {
+      "x": -1.0,
+      "y": -10.0
+    }
+  },
+  "<ChestSprite>k__BackingField": {
+    "Sprite": {
+      "m_FileID": 0,
+      "m_PathID": 536959737136456852
+    },
+    "ScaleMultiplier": 1.0,
+    "Offset": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  }
+}

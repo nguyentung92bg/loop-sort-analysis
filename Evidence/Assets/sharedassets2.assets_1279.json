@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 71403831296
+  },
+  "m_Name": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 1389
+  },
+  "_introText": {
+    "m_FileID": 0,
+    "m_PathID": 1129
+  },
+  "_idfaTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1201
+  },
+  "_idfa": {
+    "m_FileID": 0,
+    "m_PathID": 913
+  },
+  "_emailTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1135
+  },
+  "_email": {
+    "m_FileID": 0,
+    "m_PathID": 1008
+  },
+  "_idfvTitle": {
+    "m_FileID": 0,
+    "m_PathID": 1272
+  },
+  "_idfv": {
+    "m_FileID": 0,
+    "m_PathID": 1109
+  },
+  "_sendRequestButton": {
+    "m_FileID": 0,
+    "m_PathID": 1386
+  },
+  "_sendRequestButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1056
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1376
+  },
+  "_closeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1116
+  },
+  "_debuggerButton0": {
+    "m_FileID": 0,
+    "m_PathID": 1169
+  },
+  "_debuggerButton1": {
+    "m_FileID": 0,
+    "m_PathID": 1003
+  },
+  "_debuggerButton2": {
+    "m_FileID": 0,
+    "m_PathID": 989
+  }
+}

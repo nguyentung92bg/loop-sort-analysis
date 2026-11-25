@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2869
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 37832622080
+  },
+  "m_Name": "",
+  "ShowDebugText": 0,
+  "ShowCameraFrustum": 1,
+  "IgnoreTimeScale": 1,
+  "WorldUpOverride": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ChannelMask": -1,
+  "UpdateMethod": 2,
+  "BlendUpdateMethod": 1,
+  "LensModeOverride": {
+    "Enabled": 1,
+    "DefaultMode": 2
+  },
+  "DefaultBlend": {
+    "Style": 0,
+    "Time": 1.0,
+    "CustomCurve": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "CustomBlends": {
+    "m_FileID": 0,
+    "m_PathID": 9837
+  }
+}

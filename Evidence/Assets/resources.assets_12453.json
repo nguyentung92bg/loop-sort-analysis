@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1653
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 9932111872
+  },
+  "m_Name": "",
+  "tapThreshold": 0.20000000298023224,
+  "swipeThreshold": 10.0,
+  "referenceDpi": 200,
+  "guiLayers": {
+    "m_Bits": 32
+  },
+  "useTouch": 1,
+  "useHover": 0,
+  "useMouse": 1,
+  "useSimulator": 0,
+  "disableMouseEmulation": 0,
+  "recordFingers": 0,
+  "recordThreshold": 5.0,
+  "recordLimit": 10.0
+}

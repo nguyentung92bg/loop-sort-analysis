@@ -1,0 +1,65 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "level": 1,
+      "mode": "Normal"
+    },
+    {
+      "level": 14,
+      "mode": "Hard"
+    },
+    {
+      "level": 29,
+      "mode": "Super Hard"
+    }
+  ],
+  "level7Counts": [
+    {
+      "code": "B",
+      "n": 3
+    },
+    {
+      "code": "B_H",
+      "n": 1
+    },
+    {
+      "code": "G",
+      "n": 3
+    },
+    {
+      "code": "G_H",
+      "n": 1
+    },
+    {
+      "code": "O",
+      "n": 2
+    },
+    {
+      "code": "O_H",
+      "n": 2
+    },
+    {
+      "code": "P",
+      "n": 4
+    },
+    {
+      "code": "R",
+      "n": 2
+    },
+    {
+      "code": "R_H",
+      "n": 2
+    },
+    {
+      "code": "Y",
+      "n": 4
+    }
+  ],
+  "colors": {
+    "PNK": "#d513d6",
+    "GR": "#78787e",
+    "BR": "#8b6142",
+    "labels": 39
+  }
+}

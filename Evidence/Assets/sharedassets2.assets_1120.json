@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 140
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 53586427904
+  },
+  "m_Name": "",
+  "background": {
+    "m_FileID": 0,
+    "m_PathID": 992
+  },
+  "purchasePopup": {
+    "m_FileID": 0,
+    "m_PathID": 82
+  },
+  "leftCloseButton": {
+    "m_FileID": 0,
+    "m_PathID": 1205
+  },
+  "rightCloseButton": {
+    "m_FileID": 0,
+    "m_PathID": 1206
+  },
+  "purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": 931
+  },
+  "cancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 1059
+  },
+  "bodyText": {
+    "m_FileID": 0,
+    "m_PathID": 1397
+  },
+  "purchaseButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1218
+  },
+  "cancelButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1291
+  },
+  "canvasScaler": {
+    "m_FileID": 0,
+    "m_PathID": 990
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5741429158430952600
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -86970114274269244
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Sprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6118707171507362565
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6183212771063965439
+    }
+  ],
+  "Speed": 0.14000000059604645
+}

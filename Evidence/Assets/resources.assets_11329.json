@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3383
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 70212648960
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 794
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Logs",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 9382
+  },
+  "issueListItemParent": {
+    "m_FileID": 0,
+    "m_PathID": 9382
+  },
+  "issueListItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 10694
+  },
+  "logMessagePopup": {
+    "m_FileID": 0,
+    "m_PathID": 11449
+  },
+  "clearAllButton": {
+    "m_FileID": 0,
+    "m_PathID": 13394
+  },
+  "optionButton": {
+    "m_FileID": 0,
+    "m_PathID": 12955
+  },
+  "optionScreen": {
+    "m_FileID": 0,
+    "m_PathID": 12094
+  },
+  "issuesScrollRect": {
+    "m_FileID": 0,
+    "m_PathID": 13145
+  },
+  "scrollDownButton": {
+    "m_FileID": 0,
+    "m_PathID": 13006
+  },
+  "searchInputField": {
+    "m_FileID": 0,
+    "m_PathID": 12449
+  },
+  "searchCountText": {
+    "m_FileID": 0,
+    "m_PathID": 13043
+  },
+  "exceptionFields": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 11455
+    },
+    "color": {
+      "r": 0.9058824181556702,
+      "g": 0.2039215862751007,
+      "b": 0.20784315466880798,
+      "a": 1.0
+    },
+    "titleText": {
+      "m_FileID": 0,
+      "m_PathID": 10183
+    }
+  },
+  "errorFields": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 11456
+    },
+    "color": {
+      "r": 0.9215686917304993,
+      "g": 0.6627451181411743,
+      "b": 0.22352942824363708,
+      "a": 1.0
+    },
+    "titleText": {
+      "m_FileID": 0,
+      "m_PathID": 13046
+    }
+  },
+  "warningFields": {
+    "toggle": {
+      "m_FileID": 0,
+      "m_PathID": 12754
+    },
+    "color": {
+      "r": 0.9529412388801575,
+      "g": 0.8431373238563538,
+      "b": 0.16078431904315948,
+      "a": 1.0
+    },
+    "titleText": {
+      "m_FileID": 0,
+      "m_PathID": 10010
+    }
+  }
+}

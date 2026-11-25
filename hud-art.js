@@ -1,0 +1,1 @@
+window.LOOP_HUD={"Booster Return": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-3252413276914728695.png", "Booster Shuffle": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-1609900883706003373.png", "Booster Capacity": "Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_975313518586197880.png"};

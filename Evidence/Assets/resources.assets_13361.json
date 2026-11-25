@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3138
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 25417482240
+  },
+  "m_Name": "",
+  "_toggle": {
+    "m_FileID": 0,
+    "m_PathID": 10443
+  },
+  "_label": {
+    "m_FileID": 0,
+    "m_PathID": 13324
+  },
+  "_image": {
+    "m_FileID": 0,
+    "m_PathID": 11595
+  },
+  "_toggleOn": {
+    "m_FileID": 0,
+    "m_PathID": 1039
+  },
+  "_toggleOff": {
+    "m_FileID": 0,
+    "m_PathID": 1048
+  }
+}

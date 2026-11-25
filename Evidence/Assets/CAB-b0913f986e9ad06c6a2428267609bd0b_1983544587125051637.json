@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4917662232518471435
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2832744749892480997
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -1469925036587167499
+  },
+  "Reskin": "",
+  "Containers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -184852287407402763
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -747258473529618187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4250855113592418059
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5965491750706467061
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5338178838067663093
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8314915797178503413
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5863987359919976203
+    }
+  ]
+}

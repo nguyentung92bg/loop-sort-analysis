@@ -1,0 +1,2153 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "dataset": "local",
+      "level": 7,
+      "states": [
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "O_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "O_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 20,
+      "states": [
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 21,
+              "args": "Y"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 21,
+              "args": "B"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 21,
+              "args": "B"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 41,
+      "states": [
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "29",
+          "items": [
+            {
+              "type": 29,
+              "requiredCount": 2
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "29",
+          "items": [
+            {
+              "type": 29,
+              "requiredCount": 5
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "29",
+          "items": [
+            {
+              "type": 29,
+              "requiredCount": 6
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 60,
+      "states": [
+        {
+          "carrier": "A",
+          "prefab": "2",
+          "items": [
+            {
+              "type": 2,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "2",
+          "items": [
+            {
+              "type": 2,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 81,
+      "states": [
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 28,
+              "token": 1
+            },
+            {
+              "type": 28,
+              "token": 3
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 28,
+              "token": 2
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 28,
+              "token": 3
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 28,
+              "token": 3
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 101,
+      "states": [
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "4",
+          "items": [
+            {
+              "type": 4,
+              "requires": "A"
+            },
+            {
+              "type": 4,
+              "requires": "E"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 134,
+      "states": [
+        {
+          "carrier": "I",
+          "prefab": "4",
+          "items": [
+            {
+              "type": 4,
+              "requires": "D"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 28,
+              "token": 3
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "4",
+          "items": [
+            {
+              "type": 4,
+              "requires": "E"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "R_H\nSticky"
+            },
+            {
+              "type": 28,
+              "token": 2
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "P_H"
+            },
+            {
+              "type": 28,
+              "token": 2
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "R_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            },
+            {
+              "type": 28,
+              "token": 3
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 150,
+      "states": [
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 0,
+              "color": "G"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 0,
+              "color": "O"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "O_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "PNK_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "Y_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "O_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "M",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "O_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 5,
+          "members": [
+            "H",
+            "I",
+            "J"
+          ],
+          "color": "O",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 5,
+          "members": [
+            "K",
+            "L",
+            "M"
+          ],
+          "color": "G",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        }
+      ]
+    },
+    {
+      "dataset": "local",
+      "level": 153,
+      "states": [
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "LB_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "LB_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "O_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "B_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 1,
+              "color": "GR"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 0,
+              "color": "O"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 1,
+              "color": "Y"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "P_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "Y_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "Y_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "Y_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "GR_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "BR_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "P_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "Y_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "R_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 5,
+          "members": [
+            "H"
+          ],
+          "color": "O",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 5,
+          "members": [
+            "I"
+          ],
+          "color": "GR",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 5,
+          "members": [
+            "J",
+            "K"
+          ],
+          "color": "Y",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        }
+      ]
+    },
+    {
+      "dataset": "local",
+      "level": 201,
+      "states": [
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "M",
+          "prefab": "24",
+          "items": [
+            {
+              "type": 24,
+              "color": "B"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "24",
+          "items": [
+            {
+              "type": 24,
+              "color": "G"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 250,
+      "states": [
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "M",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "N",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "O",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 25,
+          "members": [
+            "J",
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "color": null,
+          "placement": "Scale node Model = span + WidthOffset; hai đầu neo tại xe biên",
+          "ropeAssembly": {
+            "widthOffset": 1.399999976158142,
+            "span": 9.280000000000001,
+            "width": 10.679999976158143,
+            "middleScale": 10.679999976158143,
+            "leftAnchor": -4.64,
+            "rightAnchor": 4.640000000000001,
+            "seamGapLeft": 0.00003090679639061733,
+            "seamGapRight": 0.000012288689585915336,
+            "textureRepeatY": 6
+          }
+        }
+      ]
+    },
+    {
+      "dataset": "local",
+      "level": 300,
+      "states": [
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 26,
+          "members": [
+            "A",
+            "B",
+            "C"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 26,
+          "members": [
+            "H",
+            "I",
+            "J"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        }
+      ]
+    },
+    {
+      "dataset": "local",
+      "level": 340,
+      "states": [
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "M",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "Y_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "W_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "2",
+          "items": [
+            {
+              "type": 2,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "2",
+          "items": [
+            {
+              "type": 2,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "BR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "P_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "W_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "W_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "PNK_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "O_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 26,
+          "members": [
+            "A"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 26,
+          "members": [
+            "F"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 26,
+          "members": [
+            "H",
+            "I",
+            "J"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 26,
+          "members": [
+            "K",
+            "L",
+            "M"
+          ],
+          "color": null,
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        }
+      ]
+    },
+    {
+      "dataset": "local",
+      "level": 350,
+      "states": [
+        {
+          "carrier": "M",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "27",
+          "items": [
+            {
+              "type": 27,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "27",
+          "items": [
+            {
+              "type": 27,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "27",
+          "items": [
+            {
+              "type": 27,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "27",
+          "items": [
+            {
+              "type": 27,
+              "args": ""
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "N",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "O",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "local",
+      "level": 391,
+      "states": [
+        {
+          "carrier": "H",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "GR_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "G_H"
+            },
+            {
+              "type": 21,
+              "args": "BR"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "G_H"
+            },
+            {
+              "type": 21,
+              "args": "BR"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "GR_h"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 21,
+              "args": "G"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 21,
+              "args": "P"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "1",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "P_H"
+            },
+            {
+              "type": 21,
+              "args": "BR"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "daily",
+      "level": 1,
+      "states": [
+        {
+          "carrier": "A",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 3,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 5,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        },
+        {
+          "carrier": "B",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 4,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 5,
+              "raw": "B_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        },
+        {
+          "carrier": "C",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 3,
+              "raw": "P_H"
+            },
+            {
+              "type": 22,
+              "token": 4,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 6,
+              "raw": "B_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        },
+        {
+          "carrier": "D",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 2,
+              "raw": "Y_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        },
+        {
+          "carrier": "E",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 3,
+              "raw": "P_H"
+            },
+            {
+              "type": 22,
+              "token": 8,
+              "raw": "B_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        },
+        {
+          "carrier": "F",
+          "prefab": "33",
+          "items": [
+            {
+              "type": 33,
+              "capacity": 12,
+              "targetColor": null
+            },
+            {
+              "type": 22,
+              "token": 3,
+              "raw": "R_H"
+            },
+            {
+              "type": 22,
+              "token": 5,
+              "raw": "Y_H"
+            },
+            {
+              "type": 22,
+              "token": 9,
+              "raw": "P_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 12
+        }
+      ],
+      "groups": []
+    },
+    {
+      "dataset": "v18",
+      "level": 150,
+      "states": [
+        {
+          "carrier": "B",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "C",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "A",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 0,
+              "color": "G"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "D",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "E",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 6,
+              "token": 0,
+              "color": "O"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "F",
+          "prefab": "0",
+          "items": [],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "H",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "O_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "I",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "B_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "G_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "J",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "PNK_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "K",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "PNK_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "Y_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "L",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "G_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "O_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        },
+        {
+          "carrier": "M",
+          "prefab": "0",
+          "items": [
+            {
+              "type": 22,
+              "token": 0,
+              "raw": "O_H"
+            },
+            {
+              "type": 22,
+              "token": 1,
+              "raw": "GR_H"
+            }
+          ],
+          "warnings": [],
+          "capacity": 4
+        }
+      ],
+      "groups": [
+        {
+          "type": 5,
+          "members": [
+            "H",
+            "I",
+            "J"
+          ],
+          "color": "O",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        },
+        {
+          "type": 5,
+          "members": [
+            "K",
+            "L",
+            "M"
+          ],
+          "color": "G",
+          "placement": "Mô phỏng module nhóm từ span xe",
+          "ropeAssembly": null
+        }
+      ]
+    }
+  ],
+  "manual": {
+    "tagColors": [
+      "G"
+    ],
+    "key": [
+      {
+        "type": 6,
+        "token": 0,
+        "color": "B"
+      }
+    ],
+    "multilineHidden": true,
+    "multilineSticky": true,
+    "glassAlpha": 0.239215686917305
+  }
+}

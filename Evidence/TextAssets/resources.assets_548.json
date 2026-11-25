@@ -1,0 +1,170 @@
+[
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "StarterBundleOffer"
+  },
+  {
+    "RefreshMinutes": 2880,
+    "IntervalMinutes": 7200,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Friday-11",
+    "Sync": false,
+    "Id": "ChooseOne"
+  },
+  {
+    "RefreshMinutes": 4320,
+    "IntervalMinutes": 0,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "ParisOffer"
+  },
+  {
+    "RefreshMinutes": 4320,
+    "IntervalMinutes": 5760,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Monday-11",
+    "Sync": false,
+    "Id": "GarageSale"
+  },
+  {
+    "RefreshMinutes": 5760,
+    "IntervalMinutes": 4320,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Thursday-11",
+    "Sync": false,
+    "Id": "LondonTrip"
+  },
+  {
+    "RefreshMinutes": 2880,
+    "IntervalMinutes": 0,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Wednesday-11\nSunday-11",
+    "Sync": false,
+    "Id": "CoinRush"
+  },
+  {
+    "RefreshMinutes": 5760,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "WeeklyMissions"
+  },
+  {
+    "RefreshMinutes": 20160,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": true,
+    "Id": "BattlePass"
+  },
+  {
+    "RefreshMinutes": 5760,
+    "IntervalMinutes": 4320,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "CollectionBar"
+  },
+  {
+    "RefreshMinutes": 1440,
+    "IntervalMinutes": 1440,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "LavaQuest"
+  },
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "DailyRewards"
+  },
+  {
+    "RefreshMinutes": 4320,
+    "IntervalMinutes": 5760,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "Friday-11",
+    "Sync": false,
+    "Id": "StreakTower"
+  },
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "NoAdsOffer"
+  },
+  {
+    "RefreshMinutes": 1440,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "Friday-11\nSaturday-11\nSunday-11",
+    "Sync": true,
+    "Id": "StreakTournament"
+  },
+  {
+    "RefreshMinutes": 4320,
+    "IntervalMinutes": 4320,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "NonPayerOffer"
+  },
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "CoreStreak"
+  },
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "DailyChallenge"
+  },
+  {
+    "RefreshMinutes": 0,
+    "IntervalMinutes": 0,
+    "Welcome": false,
+    "WeeklyScheduleUtc": "-",
+    "Sync": false,
+    "Id": "VideoRewards"
+  },
+  {
+    "RefreshMinutes": 1440,
+    "IntervalMinutes": 60,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Tuesday-11\nFriday-11\nSaturday-11\nSunday-11",
+    "Sync": false,
+    "Id": "AreaOffer1"
+  },
+  {
+    "RefreshMinutes": 1440,
+    "IntervalMinutes": 60,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Monday-11\nWednesday-11\nThursday-11\nSaturday-11",
+    "Sync": false,
+    "Id": "AreaOffer2"
+  },
+  {
+    "RefreshMinutes": 1440,
+    "IntervalMinutes": 60,
+    "Welcome": true,
+    "WeeklyScheduleUtc": "Monday-11\nThursday-11\nFriday-11\nSunday-11",
+    "Sync": false,
+    "Id": "AreaOffer3"
+  }
+]

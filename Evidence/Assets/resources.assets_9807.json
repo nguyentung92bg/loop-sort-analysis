@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 28538044416
+  },
+  "m_Name": "AppHarbrSettings",
+  "debugMode": 0,
+  "alwaysBlock": 0,
+  "alwaysReport": 0,
+  "iosAppKey": "46b51eb7-db09-4a65-a59a-2aeb9daf3993",
+  "androidAppKey": "846d0e97-7d8f-45d4-8985-00a5e5706b4b"
+}

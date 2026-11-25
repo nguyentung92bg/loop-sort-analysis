@@ -1,0 +1,216 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6110884071960019473
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1836357463,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": -536200349272112623
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": -1548601238908173807
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1502853922,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": -3182875982534671855
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 1837830969,
+      "Identificator": "BattlePassSubMonitor_TextProgress_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -8757145193783819759
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1126420587,
+      "Identificator": "BattlePassSubMonitor_TextItem_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 4353888263495877137
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "BattlePassSubMonitor_Text_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -3141638900987854319
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "liveops_battlepass_name",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 2426889526266495505
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": -837446999,
+      "Identificator": "BattlePassSubMonitor_TextTime_04",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 8339419806154949137
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": 1690472495,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 751342666345349649
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -555757312,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 2169407169804370449
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 49675370,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 80000845726548497
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 963907503,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -820075856856677871
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -2143373569,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 2674168763805991441
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": -1985798706,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2542208881356373487
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1502853922,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 7317027657924149777
+      }
+    }
+  ],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -2047301169,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": -2808500558192115183
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 35391489,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": -945478090302750191
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

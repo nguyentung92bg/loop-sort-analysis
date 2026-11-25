@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7832856150897986757
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8051236920603076654
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "RandomPosition": 1,
+  "Interval": {
+    "x": 0.5,
+    "y": 1.7999999523162842
+  },
+  "Duration": 1.5,
+  "MaxScale": 1.5,
+  "Spin": 120.0
+}

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3515
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 38738591744
+  },
+  "m_Name": "",
+  "_statusAvailable": {
+    "m_FileID": 0,
+    "m_PathID": 1757
+  },
+  "_statusMissing": {
+    "m_FileID": 0,
+    "m_PathID": 1307
+  },
+  "_statusBadID": {
+    "m_FileID": 0,
+    "m_PathID": 1357
+  },
+  "_statusOwned": {
+    "m_FileID": 0,
+    "m_PathID": 3666
+  },
+  "_statusOwnedMultiple": {
+    "m_FileID": 0,
+    "m_PathID": 4037
+  },
+  "_purchasedAmount": {
+    "m_FileID": 0,
+    "m_PathID": 13418
+  },
+  "_productId": {
+    "m_FileID": 0,
+    "m_PathID": 11066
+  },
+  "_details": {
+    "m_FileID": 0,
+    "m_PathID": 11068
+  },
+  "_copyButton": {
+    "m_FileID": 0,
+    "m_PathID": 11429
+  }
+}

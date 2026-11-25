@@ -1,0 +1,154 @@
+{
+  "CAB-18d97b379d96477629337f3655e32a6e": [],
+  "CAB-c4be44a8727229575db35ec2b1de341d": [],
+  "CAB-b0913f986e9ad06c6a2428267609bd0b": [
+    "archive:/CAB-18d97b379d96477629337f3655e32a6e/CAB-18d97b379d96477629337f3655e32a6e",
+    "archive:/CAB-c4be44a8727229575db35ec2b1de341d/CAB-c4be44a8727229575db35ec2b1de341d"
+  ],
+  "CAB-c400caa6ff2b31296996612a271f2e88": [],
+  "CAB-c7c5e98d21c2d62b3aa79c03885ad211": [],
+  "CAB-8c5697830c8795b12e7405d5ee66d957": [],
+  "CAB-f683474ca2c7f5fc53c5ecb3515e02c1": [],
+  "CAB-fdf65c628f9a4e56ecaad9637bec0ea0": [],
+  "CAB-5864c03d736a898b9067dbf6f76fbb48": [],
+  "CAB-6026a21920c186e7b062936cc7ffa4cf": [],
+  "CAB-fdd08b69bc3f03a79b5de95fc5581c6c": [],
+  "CAB-0209c3f727213463db58786d3c802f58": [],
+  "CAB-2a735ffd5291ea4264b600843cc9612c": [],
+  "CAB-09af8f89e5601b847a6b15da85424d4f": [],
+  "CAB-4779d0169a433150d71c3db0091322e6": [],
+  "CAB-107d31bd06d2dd0b29a7cbf2d32ead0a": [],
+  "CAB-d44218f327202e440d5500cf52ba12fe": [],
+  "CAB-b296ec25b6fe9ca61d44474e45cee081": [],
+  "CAB-778d4aadb3e01590b846847c2d8a80f9": [],
+  "CAB-d87c9179d7663a3395e21b0e4d64e47a": [],
+  "CAB-341c520db2b77987ade566d9e6d4bb15": [],
+  "CAB-d53c4ae62955e6cd49b98fb8c4329e40": [],
+  "CAB-45e70504f1bfd9dad788046373fc21f9": [],
+  "CAB-ef3222cbe8989dd3d7968291e15a3c71": [],
+  "CAB-b622fb49d3bbdd9b596a986b1f4a6117": [],
+  "CAB-86986b5ed9853322ad956573db7137dc": [],
+  "CAB-3683df0661cc8f8f43b041e2269f5380": [],
+  "CAB-2830dea3211354d89694cad683b3ec54": [],
+  "CAB-4ac74ecdaaa5ec3ef89222333b609964": [],
+  "CAB-868a0456c833196e32a5ad13dfd59d27": [],
+  "CAB-2fb57da263981dd82f87ca4f42c42f84": [],
+  "CAB-53376cd45c95558964b42d865be9b14a": [],
+  "CAB-f5949c756e8db22e88bc3680cf73dc4d": [],
+  "CAB-310c9e9fcb66bbefd22423ea69ef4923": [],
+  "CAB-3cd807f6274a2cfe44359262a54e25a7": [],
+  "CAB-9481c85642f1ad8ba54b91935be8d05a": [],
+  "CAB-1967166c68223508f8b27c436fb725cb": [],
+  "CAB-2b3ac58bb1704a15a9ea5e1c78b79729": [],
+  "CAB-cb4d50742e0a1bad441703c5b2652b8e": [],
+  "CAB-0a9bbe2db1f0c7b837fbb1a05165567a": [],
+  "CAB-69450c4da83cdea2a63760f6d62efc71": [],
+  "CAB-296bdbaeadbdadf75aa51fb665670233": [],
+  "CAB-d550f0cb850689cbddbb18dcb6675ef5": [],
+  "CAB-5d024a0a564af2ce7fbb93a3431ed8e0": [],
+  "CAB-b594d5ab23fe4dcecfc3ba115efd8b5f": [],
+  "CAB-8d4f146480867cbdead5a9407bf5ebb4": [],
+  "CAB-d2942a8d051ff7392b911c99e480982f": [],
+  "CAB-198becf5c5ea0f9ec2e02c9047288acd": [],
+  "CAB-499dfb0b68511356298014c4073d8c65": [],
+  "CAB-f8f51ad21991000b086592f46e6e9ea1": [],
+  "CAB-4fac567f1cdfb4422266b175d24c6c24": [],
+  "CAB-616221cbee130a521b24d092d552885f": [],
+  "CAB-b4e6e948ba5b39d54953aa19203f2bee": [],
+  "CAB-58b6b6eec2c95652a9862b61234c04b8": [],
+  "CAB-263b72dae9f9c4fed660d63fc0a40eac": [],
+  "globalgamemanagers": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "Resources/unity_builtin_extra",
+    "resources.assets",
+    "sharedassets0.assets"
+  ],
+  "unity_builtin_extra": [],
+  "globalgamemanagers.assets": [
+    "Library/unity default resources",
+    "Resources/unity_builtin_extra"
+  ],
+  "sharedassets0.assets": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources"
+  ],
+  "level0": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "sharedassets1.assets": [
+    "Library/unity default resources",
+    "globalgamemanagers.assets",
+    "sharedassets0.assets"
+  ],
+  "level1": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "sharedassets2.assets": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "resources.assets",
+    "sharedassets0.assets"
+  ],
+  "level2": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets",
+    "sharedassets2.assets",
+    "resources.assets"
+  ],
+  "sharedassets3.assets": [
+    "Library/unity default resources",
+    "globalgamemanagers.assets",
+    "sharedassets0.assets"
+  ],
+  "level3": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "sharedassets4.assets": [
+    "Library/unity default resources",
+    "globalgamemanagers.assets",
+    "sharedassets0.assets"
+  ],
+  "level4": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "sharedassets5.assets": [
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "level5": [
+    "Library/unity default resources",
+    "sharedassets0.assets"
+  ],
+  "sharedassets6.assets": [
+    "Library/unity default resources",
+    "globalgamemanagers.assets"
+  ],
+  "level6": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources"
+  ],
+  "sharedassets7.assets": [
+    "Library/unity default resources",
+    "globalgamemanagers.assets"
+  ],
+  "level7": [
+    "globalgamemanagers.assets",
+    "Library/unity default resources"
+  ],
+  "resources.assets": [
+    "globalgamemanagers.assets",
+    "sharedassets0.assets",
+    "Resources/unity_builtin_extra",
+    "Library/unity default resources"
+  ]
+}

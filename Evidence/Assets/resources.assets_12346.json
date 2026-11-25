@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1892
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 26541555712
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 1109
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "VoodooTune",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 7568
+  },
+  "loadingRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3622
+  },
+  "normalDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 1912
+  },
+  "errorDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 4104
+  },
+  "errorLabel": {
+    "m_FileID": 0,
+    "m_PathID": 12085
+  },
+  "retryButton": {
+    "m_FileID": 0,
+    "m_PathID": 12941
+  },
+  "homeRoot": {
+    "m_FileID": 0,
+    "m_PathID": 2327
+  },
+  "headerRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1460
+  },
+  "abTestScreen": {
+    "m_FileID": 0,
+    "m_PathID": 10006
+  },
+  "segmentsScreen": {
+    "m_FileID": 0,
+    "m_PathID": 11649
+  },
+  "sandboxScreen": {
+    "m_FileID": 0,
+    "m_PathID": 13331
+  }
+}

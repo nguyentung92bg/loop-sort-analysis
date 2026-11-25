@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8000332008922304187
+  },
+  "m_Name": "Gold1",
+  "m_Version": "1.1.0",
+  "m_FaceInfo": {
+    "m_FaceIndex": 0,
+    "m_FamilyName": "",
+    "m_StyleName": "",
+    "m_PointSize": 0.0,
+    "m_Scale": 0.0,
+    "m_UnitsPerEM": 0,
+    "m_LineHeight": 0.0,
+    "m_AscentLine": 0.0,
+    "m_CapLine": 0.0,
+    "m_MeanLine": 0.0,
+    "m_Baseline": 0.0,
+    "m_DescentLine": 0.0,
+    "m_SuperscriptOffset": 0.0,
+    "m_SuperscriptSize": 0.0,
+    "m_SubscriptOffset": 0.0,
+    "m_SubscriptSize": 0.0,
+    "m_UnderlineOffset": 0.0,
+    "m_UnderlineThickness": 0.0,
+    "m_StrikethroughOffset": 0.0,
+    "m_StrikethroughThickness": 0.0,
+    "m_TabWidth": 0.0
+  },
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 7608681006485590246
+  },
+  "spriteSheet": {
+    "m_FileID": 0,
+    "m_PathID": -3114945919792795310
+  },
+  "m_SpriteCharacterTable": [
+    {
+      "m_ElementType": 2,
+      "m_Unicode": 65534,
+      "m_GlyphIndex": 0,
+      "m_Scale": 1.0,
+      "m_Name": "gold"
+    }
+  ],
+  "m_GlyphTable": [
+    {
+      "m_Index": 0,
+      "m_Metrics": {
+        "m_Width": 512.0,
+        "m_Height": 512.0,
+        "m_HorizontalBearingX": 4.199999809265137,
+        "m_HorizontalBearingY": 382.6000061035156,
+        "m_HorizontalAdvance": 506.70001220703125
+      },
+      "m_GlyphRect": {
+        "m_X": 0,
+        "m_Y": 0,
+        "m_Width": 512,
+        "m_Height": 512
+      },
+      "m_Scale": 1.350000023841858,
+      "m_AtlasIndex": 0,
+      "m_ClassDefinitionType": 0,
+      "sprite": {
+        "m_FileID": 0,
+        "m_PathID": 3037728158460391762
+      }
+    }
+  ],
+  "spriteInfoList": [],
+  "fallbackSpriteAssets": []
+}

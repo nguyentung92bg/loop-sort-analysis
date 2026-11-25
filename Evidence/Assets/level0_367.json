@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 65565360128
+  },
+  "m_Name": "",
+  "m_graphyMode": 0,
+  "m_enableOnStartup": 0,
+  "m_keepAlive": 1,
+  "m_background": 1,
+  "m_backgroundColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.3333333432674408
+  },
+  "m_enableHotkeys": 1,
+  "m_toggleModeKeyCode": 103,
+  "m_toggleModeCtrl": 1,
+  "m_toggleModeAlt": 0,
+  "m_toggleActiveKeyCode": 104,
+  "m_toggleActiveCtrl": 1,
+  "m_toggleActiveAlt": 0,
+  "m_graphModulePosition": 0,
+  "m_graphModuleOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "m_fpsModuleState": 0,
+  "m_goodFpsColor": {
+    "r": 0.20825918018817902,
+    "g": 0.6792452931404114,
+    "b": 0.6219078302383423,
+    "a": 1.0
+  },
+  "m_goodFpsThreshold": 60,
+  "m_cautionFpsColor": {
+    "r": 0.9137254953384399,
+    "g": 0.7686274647712708,
+    "b": 0.4156862795352936,
+    "a": 1.0
+  },
+  "m_cautionFpsThreshold": 30,
+  "m_criticalFpsColor": {
+    "r": 0.9058823585510254,
+    "g": 0.43529412150382996,
+    "b": 0.3176470696926117,
+    "a": 1.0
+  },
+  "m_fpsGraphResolution": 150,
+  "m_fpsTextUpdateRate": 3,
+  "m_ramModuleState": 0,
+  "m_allocatedRamColor": {
+    "r": 0.9450980424880981,
+    "g": 0.35686275362968445,
+    "b": 0.7098039388656616,
+    "a": 1.0
+  },
+  "m_reservedRamColor": {
+    "r": 0.9960784316062927,
+    "g": 0.8941176533699036,
+    "b": 0.250980406999588,
+    "a": 1.0
+  },
+  "m_monoRamColor": {
+    "r": 0.0,
+    "g": 0.7333333492279053,
+    "b": 0.9764705896377563,
+    "a": 1.0
+  },
+  "m_ramGraphResolution": 150,
+  "m_ramTextUpdateRate": 3,
+  "m_audioModuleState": 0,
+  "m_findAudioListenerInCameraIfNull": 1,
+  "m_audioListener": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_audioGraphColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_audioGraphResolution": 81,
+  "m_audioTextUpdateRate": 3,
+  "m_FFTWindow": 4,
+  "m_spectrumSize": 512,
+  "m_advancedModulePosition": 3,
+  "m_advancedModuleOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "m_advancedModuleState": 0
+}

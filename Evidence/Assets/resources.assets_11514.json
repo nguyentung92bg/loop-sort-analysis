@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3575
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 17246978048
+  },
+  "m_Name": "",
+  "Renderers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4706
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5046
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5033
+    }
+  ],
+  "PropertyDefinitions": [
+    {
+      "PropertyKey": "Color",
+      "ShaderPropertyName": "",
+      "MaterialIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "archive": "assets/aa/Android/233b610ddaaecfa2d3965133e65536cf_monoscripts_bd211a642617803434572faa6eeaf73c.bundle",
+    "file": "233b610ddaaecfa2d3965133e65536cf_monoscripts_bd211a642617803434572faa6eeaf73c.bundle",
+    "size": 5201
+  },
+  {
+    "archive": "assets/aa/Android/233b610ddaaecfa2d3965133e65536cf_unitybuiltinassets_9996ff89bb7d26ebf12d8f0052ed6aaf.bundle",
+    "file": "233b610ddaaecfa2d3965133e65536cf_unitybuiltinassets_9996ff89bb7d26ebf12d8f0052ed6aaf.bundle",
+    "size": 11083
+  },
+  {
+    "archive": "assets/aa/Android/defaultlocalgroup_assets_all_4acb014042c1ed4e9baed1204d575052.bundle",
+    "file": "defaultlocalgroup_assets_all_4acb014042c1ed4e9baed1204d575052.bundle",
+    "size": 33901676
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_balloon1_fa4710e9a9a8da61c7fec5ebd5ed7ba0.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_balloon1_fa4710e9a9a8da61c7fec5ebd5ed7ba0.bundle",
+    "size": 14296
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_balloon2_a7b02bf1c3c5736793e8a826d90bd9dc.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_balloon2_a7b02bf1c3c5736793e8a826d90bd9dc.bundle",
+    "size": 14247
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_band_b1070adce59bbe108e9e1531e7fb063c.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_band_b1070adce59bbe108e9e1531e7fb063c.bundle",
+    "size": 147162
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_cirrus_18f51da4a021b35c79a906e91375c10c.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_cirrus_18f51da4a021b35c79a906e91375c10c.bundle",
+    "size": 233524
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_cotton_12ee2ae4962ff6f04490f8599ab75828.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_cotton_12ee2ae4962ff6f04490f8599ab75828.bundle",
+    "size": 147992
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_crescent_f68f80bb47e2de7ac5c219974931f41d.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_crescent_f68f80bb47e2de7ac5c219974931f41d.bundle",
+    "size": 27543
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_cumulus_big_0fb155c6ce870db1bb883a8f7c9016eb.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_cumulus_big_0fb155c6ce870db1bb883a8f7c9016eb.bundle",
+    "size": 240424
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_cumulus_wide_e5d424d93006ae8460451a603c384a51.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_cumulus_wide_e5d424d93006ae8460451a603c384a51.bundle",
+    "size": 225692
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_gull_flap_60e75ecf1eb141c391433da2e69dc52c.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_gull_flap_60e75ecf1eb141c391433da2e69dc52c.bundle",
+    "size": 26009
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze1_a3aa2d440b8c21c10184c56e56b6d0a9.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze1_a3aa2d440b8c21c10184c56e56b6d0a9.bundle",
+    "size": 13401
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze2_eef4fb510412eeec97093cbd133e6329.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze2_eef4fb510412eeec97093cbd133e6329.bundle",
+    "size": 10838
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze3_1384dbc3826b5f94bfaa5182cda7e740.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze3_1384dbc3826b5f94bfaa5182cda7e740.bundle",
+    "size": 12484
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze4_4e93b76f069aafbdf39edfa124ea0da5.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze4_4e93b76f069aafbdf39edfa124ea0da5.bundle",
+    "size": 14024
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze5_c038c756860973d087ab2e82b17d92b6.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze5_c038c756860973d087ab2e82b17d92b6.bundle",
+    "size": 11597
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze6_06704883a72560fbeaa6fadc13929d9c.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze6_06704883a72560fbeaa6fadc13929d9c.bundle",
+    "size": 14147
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze7_138f8c7e93865298928c74488aebd193.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze7_138f8c7e93865298928c74488aebd193.bundle",
+    "size": 14081
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_haze_aaf377e754907bfd7fa930fbd582dd08.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_haze_aaf377e754907bfd7fa930fbd582dd08.bundle",
+    "size": 10140
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_helicopter_f4887f892e0a3bd7451fa043aff48d51.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_helicopter_f4887f892e0a3bd7451fa043aff48d51.bundle",
+    "size": 8050
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_home_car_body_3b149b0bfabc853d4a4a122e84c59e51.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_home_car_body_3b149b0bfabc853d4a4a122e84c59e51.bundle",
+    "size": 416450
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_home_car_shadow_39c1312d3188716786c54052a85dcd4e.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_home_car_shadow_39c1312d3188716786c54052a85dcd4e.bundle",
+    "size": 74675
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_home_car_wheels_720f270e3b7a2e47c7cf39fd52296965.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_home_car_wheels_720f270e3b7a2e47c7cf39fd52296965.bundle",
+    "size": 149861
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_lenticular_73daa7198165e34014f313c9f77771c9.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_lenticular_73daa7198165e34014f313c9f77771c9.bundle",
+    "size": 184148
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_mackerel_b8320aee48e190d39e186f789b3d0c88.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_mackerel_b8320aee48e190d39e186f789b3d0c88.bundle",
+    "size": 228581
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_moon_e8b850fa41b00184b3a38ccf47a34662.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_moon_e8b850fa41b00184b3a38ccf47a34662.bundle",
+    "size": 30373
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_pigeon_fly_387cbc106f786e6ab2e6cdc0103cebfa.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_pigeon_fly_387cbc106f786e6ab2e6cdc0103cebfa.bundle",
+    "size": 16174
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_plane_banner_bf6dba1258e1c5a968f3e2c70710197b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_plane_banner_bf6dba1258e1c5a968f3e2c70710197b.bundle",
+    "size": 16574
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_puff_f3fd58293de54a5e9e0f7baa3c7eb255.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_puff_f3fd58293de54a5e9e0f7baa3c7eb255.bundle",
+    "size": 86454
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_rain_4d4ce888cbd2af08fafafd7c1860c375.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_rain_4d4ce888cbd2af08fafafd7c1860c375.bundle",
+    "size": 265157
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky1_5153157e4b179d2246b28303f5fce562.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky1_5153157e4b179d2246b28303f5fce562.bundle",
+    "size": 5509
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky2_26bac8629e8a960174f2e47d71408b5d.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky2_26bac8629e8a960174f2e47d71408b5d.bundle",
+    "size": 5921
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky3_c4b3fd49fd7571acd16015286e0e9bef.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky3_c4b3fd49fd7571acd16015286e0e9bef.bundle",
+    "size": 5717
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky4_62055e28d892ce256c1a72fe8f461249.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky4_62055e28d892ce256c1a72fe8f461249.bundle",
+    "size": 5657
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky5_d0407b483520a51124e10b5c14391202.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky5_d0407b483520a51124e10b5c14391202.bundle",
+    "size": 5700
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky6_18d69cfe69a0e34a9de830be4d3cc285.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky6_18d69cfe69a0e34a9de830be4d3cc285.bundle",
+    "size": 6078
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky7_fdb68d707ed2a9bd5b9125a686b7f9a6.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky7_fdb68d707ed2a9bd5b9125a686b7f9a6.bundle",
+    "size": 6044
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sky_18d6fccd037d3dc7cf8c4b6bb005c8d8.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sky_18d6fccd037d3dc7cf8c4b6bb005c8d8.bundle",
+    "size": 5334
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_m_b1_dc265068eec2812bc0b9d70f8d1fa0a5.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_m_b1_dc265068eec2812bc0b9d70f8d1fa0a5.bundle",
+    "size": 4326
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_m_b_4e0b3ed89f78a493642696aea61b3651.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_m_b_4e0b3ed89f78a493642696aea61b3651.bundle",
+    "size": 4321
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_m_w1_48331ab03066169a957e3966dad936db.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_m_w1_48331ab03066169a957e3966dad936db.bundle",
+    "size": 4302
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_m_w_1088eae1bb54fede02b1609b4144e5e0.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_m_w_1088eae1bb54fede02b1609b4144e5e0.bundle",
+    "size": 4308
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_s_b1_08ce54c634a94c047341324a0b6390c4.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_s_b1_08ce54c634a94c047341324a0b6390c4.bundle",
+    "size": 4204
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_s_b_73554bafe235ec07611517edc8f699bd.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_s_b_73554bafe235ec07611517edc8f699bd.bundle",
+    "size": 4209
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_s_w1_863f0219312405080ff0695cee671e72.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_s_w1_863f0219312405080ff0695cee671e72.bundle",
+    "size": 4209
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_s_w_42780ffaab1e4dfa3b207921c514ab52.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_s_w_42780ffaab1e4dfa3b207921c514ab52.bundle",
+    "size": 4206
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_x1_baa26b0725c6410dcf8f868760c97168.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_x1_baa26b0725c6410dcf8f868760c97168.bundle",
+    "size": 4573
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_star_x_5d3adb9acd034ad4a3eac16fb2dda16b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_star_x_5d3adb9acd034ad4a3eac16fb2dda16b.bundle",
+    "size": 4576
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sun1_93619a23af75a62cc946a03bf253c1db.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sun1_93619a23af75a62cc946a03bf253c1db.bundle",
+    "size": 18302
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sun2_d8defdd9fdc2fe9e61c79c8e39aee83b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sun2_d8defdd9fdc2fe9e61c79c8e39aee83b.bundle",
+    "size": 17756
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sun3_2063de2a710f3e4c9e682f52cb7c393b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sun3_2063de2a710f3e4c9e682f52cb7c393b.bundle",
+    "size": 18409
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_sun_0e28f525e0e0473e470b746a68d08ff6.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_sun_0e28f525e0e0473e470b746a68d08ff6.bundle",
+    "size": 18215
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_swallow_flap_822f892481d3f64ef7b050037bae6b2b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_swallow_flap_822f892481d3f64ef7b050037bae6b2b.bundle",
+    "size": 22621
+  },
+  {
+    "archive": "assets/aa/Android/homescenesshared_assets_homescenes_shared_twin_3267fb4315bf95260ece1f8814561f0b.bundle",
+    "file": "homescenesshared_assets_homescenes_shared_twin_3267fb4315bf95260ece1f8814561f0b.bundle",
+    "size": 197543
+  },
+  {
+    "archive": "assets/bin/Data/data.unity3d",
+    "file": "data.unity3d",
+    "size": 46299308
+  }
+]

@@ -1,0 +1,308 @@
+{
+  "sheets/daily challenge/carriers": {
+    "file": "Data/Tables/daily challenge/carriers.json",
+    "source": "Evidence/TextAssets/resources.assets_502.json",
+    "rows": 49,
+    "path_id": 502
+  },
+  "sheets/daily challenge/levels": {
+    "file": "Data/Tables/daily challenge/levels.json",
+    "source": "Evidence/TextAssets/resources.assets_601.json",
+    "rows": 30,
+    "path_id": 601
+  },
+  "sheets/daily challenge/splines": {
+    "file": "Data/Tables/daily challenge/splines.json",
+    "source": "Evidence/TextAssets/resources.assets_586.json",
+    "rows": 49,
+    "path_id": 586
+  },
+  "sheets/funnels/staticring/carriers": {
+    "file": "Data/Tables/funnels/staticring/carriers.json",
+    "source": "Evidence/TextAssets/resources.assets_523.json",
+    "rows": 1085,
+    "path_id": 523
+  },
+  "sheets/funnels/staticring/levelconstants": {
+    "file": "Data/Tables/funnels/staticring/levelconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_584.json",
+    "rows": 1,
+    "path_id": 584
+  },
+  "sheets/funnels/staticring/levels": {
+    "file": "Data/Tables/funnels/staticring/levels.json",
+    "source": "Evidence/TextAssets/resources.assets_556.json",
+    "rows": 1299,
+    "path_id": 556
+  },
+  "sheets/funnels/staticring/splines": {
+    "file": "Data/Tables/funnels/staticring/splines.json",
+    "source": "Evidence/TextAssets/resources.assets_599.json",
+    "rows": 834,
+    "path_id": 599
+  },
+  "sheets/funnels/statics/carriers": {
+    "file": "Data/Tables/funnels/statics/carriers.json",
+    "source": "Evidence/TextAssets/resources.assets_508.json",
+    "rows": 1085,
+    "path_id": 508
+  },
+  "sheets/funnels/statics/levelconstants": {
+    "file": "Data/Tables/funnels/statics/levelconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_516.json",
+    "rows": 1,
+    "path_id": 516
+  },
+  "sheets/funnels/statics/levels": {
+    "file": "Data/Tables/funnels/statics/levels.json",
+    "source": "Evidence/TextAssets/resources.assets_543.json",
+    "rows": 1299,
+    "path_id": 543
+  },
+  "sheets/funnels/statics/splines": {
+    "file": "Data/Tables/funnels/statics/splines.json",
+    "source": "Evidence/TextAssets/resources.assets_501.json",
+    "rows": 834,
+    "path_id": 501
+  },
+  "sheets/funnels/v18/carriers": {
+    "file": "Data/Tables/funnels/v18/carriers.json",
+    "source": "Evidence/TextAssets/resources.assets_503.json",
+    "rows": 834,
+    "path_id": 503
+  },
+  "sheets/funnels/v18/levelconstants": {
+    "file": "Data/Tables/funnels/v18/levelconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_533.json",
+    "rows": 1,
+    "path_id": 533
+  },
+  "sheets/funnels/v18/levels": {
+    "file": "Data/Tables/funnels/v18/levels.json",
+    "source": "Evidence/TextAssets/resources.assets_540.json",
+    "rows": 1299,
+    "path_id": 540
+  },
+  "sheets/funnels/v18/splines": {
+    "file": "Data/Tables/funnels/v18/splines.json",
+    "source": "Evidence/TextAssets/resources.assets_568.json",
+    "rows": 834,
+    "path_id": 568
+  },
+  "sheets/local/adjustevents": {
+    "file": "Data/Tables/local/adjustevents.json",
+    "source": "Evidence/TextAssets/resources.assets_510.json",
+    "rows": 65,
+    "path_id": 510
+  },
+  "sheets/local/areas": {
+    "file": "Data/Tables/local/areas.json",
+    "source": "Evidence/TextAssets/resources.assets_525.json",
+    "rows": 19,
+    "path_id": 525
+  },
+  "sheets/local/battlepass": {
+    "file": "Data/Tables/local/battlepass.json",
+    "source": "Evidence/TextAssets/resources.assets_592.json",
+    "rows": 36,
+    "path_id": 592
+  },
+  "sheets/local/battlepassconstants": {
+    "file": "Data/Tables/local/battlepassconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_549.json",
+    "rows": 3,
+    "path_id": 549
+  },
+  "sheets/local/boosters": {
+    "file": "Data/Tables/local/boosters.json",
+    "source": "Evidence/TextAssets/resources.assets_538.json",
+    "rows": 4,
+    "path_id": 538
+  },
+  "sheets/local/carriers": {
+    "file": "Data/Tables/local/carriers.json",
+    "source": "Evidence/TextAssets/resources.assets_591.json",
+    "rows": 1085,
+    "path_id": 591
+  },
+  "sheets/local/coinrush": {
+    "file": "Data/Tables/local/coinrush.json",
+    "source": "Evidence/TextAssets/resources.assets_578.json",
+    "rows": 10,
+    "path_id": 578
+  },
+  "sheets/local/collectionbar": {
+    "file": "Data/Tables/local/collectionbar.json",
+    "source": "Evidence/TextAssets/resources.assets_583.json",
+    "rows": 40,
+    "path_id": 583
+  },
+  "sheets/local/collectionbarconstants": {
+    "file": "Data/Tables/local/collectionbarconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_576.json",
+    "rows": 3,
+    "path_id": 576
+  },
+  "sheets/local/constants": {
+    "file": "Data/Tables/local/constants.json",
+    "source": "Evidence/TextAssets/resources.assets_569.json",
+    "rows": 14,
+    "path_id": 569
+  },
+  "sheets/local/dailychallengerewards": {
+    "file": "Data/Tables/local/dailychallengerewards.json",
+    "source": "Evidence/TextAssets/resources.assets_582.json",
+    "rows": 4,
+    "path_id": 582
+  },
+  "sheets/local/dailyrewards": {
+    "file": "Data/Tables/local/dailyrewards.json",
+    "source": "Evidence/TextAssets/resources.assets_550.json",
+    "rows": 10,
+    "path_id": 550
+  },
+  "sheets/local/economyconstants": {
+    "file": "Data/Tables/local/economyconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_560.json",
+    "rows": 1,
+    "path_id": 560
+  },
+  "sheets/local/features": {
+    "file": "Data/Tables/local/features.json",
+    "source": "Evidence/TextAssets/resources.assets_505.json",
+    "rows": 17,
+    "path_id": 505
+  },
+  "sheets/local/garagesale": {
+    "file": "Data/Tables/local/garagesale.json",
+    "source": "Evidence/TextAssets/resources.assets_587.json",
+    "rows": 26,
+    "path_id": 587
+  },
+  "sheets/local/grids": {
+    "file": "Data/Tables/local/grids.json",
+    "source": "Evidence/TextAssets/resources.assets_597.json",
+    "rows": 0,
+    "path_id": 597
+  },
+  "sheets/local/homeliveops": {
+    "file": "Data/Tables/local/homeliveops.json",
+    "source": "Evidence/TextAssets/resources.assets_555.json",
+    "rows": 20,
+    "path_id": 555
+  },
+  "sheets/local/homepopups": {
+    "file": "Data/Tables/local/homepopups.json",
+    "source": "Evidence/TextAssets/resources.assets_565.json",
+    "rows": 16,
+    "path_id": 565
+  },
+  "sheets/local/lavaquestbots": {
+    "file": "Data/Tables/local/lavaquestbots.json",
+    "source": "Evidence/TextAssets/resources.assets_588.json",
+    "rows": 10,
+    "path_id": 588
+  },
+  "sheets/local/lavaquestconstants": {
+    "file": "Data/Tables/local/lavaquestconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_581.json",
+    "rows": 2,
+    "path_id": 581
+  },
+  "sheets/local/leaderboardtournamentrewards": {
+    "file": "Data/Tables/local/leaderboardtournamentrewards.json",
+    "source": "Evidence/TextAssets/resources.assets_594.json",
+    "rows": 3,
+    "path_id": 594
+  },
+  "sheets/local/levelconstants": {
+    "file": "Data/Tables/local/levelconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_509.json",
+    "rows": 1,
+    "path_id": 509
+  },
+  "sheets/local/levels": {
+    "file": "Data/Tables/local/levels.json",
+    "source": "Evidence/TextAssets/resources.assets_573.json",
+    "rows": 1299,
+    "path_id": 573
+  },
+  "sheets/local/liveops": {
+    "file": "Data/Tables/local/liveops.json",
+    "source": "Evidence/TextAssets/resources.assets_548.json",
+    "rows": 21,
+    "path_id": 548
+  },
+  "sheets/local/localization": {
+    "file": "Data/Tables/local/localization.json",
+    "source": "Evidence/TextAssets/resources.assets_602.json",
+    "rows": 537,
+    "path_id": 602
+  },
+  "sheets/local/londontrip": {
+    "file": "Data/Tables/local/londontrip.json",
+    "source": "Evidence/TextAssets/resources.assets_534.json",
+    "rows": 29,
+    "path_id": 534
+  },
+  "sheets/local/nicknames": {
+    "file": "Data/Tables/local/nicknames.json",
+    "source": "Evidence/TextAssets/resources.assets_520.json",
+    "rows": 34,
+    "path_id": 520
+  },
+  "sheets/local/revives": {
+    "file": "Data/Tables/local/revives.json",
+    "source": "Evidence/TextAssets/resources.assets_546.json",
+    "rows": 4,
+    "path_id": 546
+  },
+  "sheets/local/splines": {
+    "file": "Data/Tables/local/splines.json",
+    "source": "Evidence/TextAssets/resources.assets_529.json",
+    "rows": 1085,
+    "path_id": 529
+  },
+  "sheets/local/streaktournamentbots": {
+    "file": "Data/Tables/local/streaktournamentbots.json",
+    "source": "Evidence/TextAssets/resources.assets_580.json",
+    "rows": 5,
+    "path_id": 580
+  },
+  "sheets/local/streaktournamentconstants": {
+    "file": "Data/Tables/local/streaktournamentconstants.json",
+    "source": "Evidence/TextAssets/resources.assets_557.json",
+    "rows": 4,
+    "path_id": 557
+  },
+  "sheets/local/streaktournamentleaderboardrewards": {
+    "file": "Data/Tables/local/streaktournamentleaderboardrewards.json",
+    "source": "Evidence/TextAssets/resources.assets_553.json",
+    "rows": 20,
+    "path_id": 553
+  },
+  "sheets/local/streaktournamentpersonalrewards": {
+    "file": "Data/Tables/local/streaktournamentpersonalrewards.json",
+    "source": "Evidence/TextAssets/resources.assets_545.json",
+    "rows": 12,
+    "path_id": 545
+  },
+  "sheets/local/streaktower": {
+    "file": "Data/Tables/local/streaktower.json",
+    "source": "Evidence/TextAssets/resources.assets_563.json",
+    "rows": 13,
+    "path_id": 563
+  },
+  "sheets/local/weeklymissionprogress": {
+    "file": "Data/Tables/local/weeklymissionprogress.json",
+    "source": "Evidence/TextAssets/resources.assets_605.json",
+    "rows": 4,
+    "path_id": 605
+  },
+  "sheets/local/weeklymissions": {
+    "file": "Data/Tables/local/weeklymissions.json",
+    "source": "Evidence/TextAssets/resources.assets_571.json",
+    "rows": 4,
+    "path_id": 571
+  }
+}

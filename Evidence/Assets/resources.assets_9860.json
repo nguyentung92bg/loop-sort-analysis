@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 77745618944
+  },
+  "m_Name": "GridConfig",
+  "Type": 0,
+  "GridPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "CellPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 13125
+  },
+  "OuterRadius": 0.25,
+  "MinSize": {
+    "x": 0,
+    "y": 3
+  },
+  "MaxSize": {
+    "x": 100,
+    "y": 4
+  }
+}

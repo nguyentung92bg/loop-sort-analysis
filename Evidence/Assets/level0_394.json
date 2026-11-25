@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 46003126272
+  },
+  "m_Name": "",
+  "m_audioGraphGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 76
+  },
+  "m_audioDbText": {
+    "m_FileID": 0,
+    "m_PathID": 462
+  },
+  "m_backgroundImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 454
+    }
+  ]
+}

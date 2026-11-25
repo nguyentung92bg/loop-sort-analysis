@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 54056189952
+  },
+  "m_Name": "BounceBehavior",
+  "tagID": "bounce",
+  "baseAmplitude": 13.1899995803833,
+  "baseFrequency": 1.0,
+  "baseWaveSize": 0.20000000298023224
+}

@@ -1,0 +1,78 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23823646720
+  },
+  "m_Name": "DebuggerCanvas",
+  "screenPrefabs": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9871
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10088
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9874
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9878
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12884
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11891
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 13290
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11177
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12990
+    }
+  ]
+}

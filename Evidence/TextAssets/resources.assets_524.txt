@@ -1,0 +1,11 @@
+skeleton.png
+size:114,72
+filter:Linear,Linear
+time/Timer
+bounds:2,2,68,83
+offsets:0,0,68,84
+rotate:90
+time/TimerGreenPart
+bounds:87,38,32,25
+offsets:11,37,68,64
+rotate:90

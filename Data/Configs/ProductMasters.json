@@ -1,0 +1,88 @@
+{
+  "source": "Evidence/Assets/resources.assets_9848.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 62713233408
+    },
+    "m_Name": "ProductMasters",
+    "Collection": {
+      "list": [
+        {
+          "Key": "com.garawell.loopsort.coin2",
+          "Value": "coin pack 1"
+        },
+        {
+          "Key": "com.garawell.loopsort.coin8",
+          "Value": "coin pack 2"
+        },
+        {
+          "Key": "com.garawell.loopsort.coin14",
+          "Value": "coin pack 3"
+        },
+        {
+          "Key": "com.garawell.loopsort.coin30",
+          "Value": "coin pack 4"
+        },
+        {
+          "Key": "com.garawell.loopsort.coin55",
+          "Value": "coin pack 5"
+        },
+        {
+          "Key": "com.garawell.loopsort.coin100",
+          "Value": "coin pack 6"
+        },
+        {
+          "Key": "com.garawell.loopsort.starterbundle",
+          "Value": "bundle starter"
+        },
+        {
+          "Key": "com.garawell.loopsort.smallbundle6",
+          "Value": "bundle small"
+        },
+        {
+          "Key": "com.garawell.loopsort.mediumbundle13",
+          "Value": "bundle medium"
+        },
+        {
+          "Key": "com.garawell.loopsort.bigbundle27",
+          "Value": "bundle large"
+        },
+        {
+          "Key": "com.garawell.loopsort.largebundle",
+          "Value": "bundle XL"
+        },
+        {
+          "Key": "com.garawell.loopsort.megabundle",
+          "Value": "bundle XXL"
+        },
+        {
+          "Key": "com.garawell.loopsort.noadsbundle9",
+          "Value": "bundle no ads"
+        },
+        {
+          "Key": "com.garawell.loopsort.failoffer",
+          "Value": "fail"
+        },
+        {
+          "Key": "com.garawell.loopsort.areaoffer1",
+          "Value": "po1"
+        },
+        {
+          "Key": "com.garawell.loopsort.areaoffer2",
+          "Value": "po2"
+        },
+        {
+          "Key": "com.garawell.loopsort.areaoffer3",
+          "Value": "po3"
+        }
+      ],
+      "keyCollision": 0
+    }
+  }
+}

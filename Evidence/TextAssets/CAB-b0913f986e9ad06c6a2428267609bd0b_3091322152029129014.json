@@ -1,0 +1,234 @@
+{
+  "skeleton": {
+    "hash": "S+dS6u7/0dQ",
+    "spine": "4.2.43",
+    "x": -29.92,
+    "y": -30.79,
+    "width": 60.15,
+    "height": 59.77
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "hand",
+      "parent": "root"
+    },
+    {
+      "name": "orange-hand",
+      "parent": "hand",
+      "skin": true
+    },
+    {
+      "name": "purple-hand",
+      "parent": "hand",
+      "skin": true
+    },
+    {
+      "name": "orange",
+      "parent": "root",
+      "skin": true
+    },
+    {
+      "name": "purple",
+      "parent": "root",
+      "skin": true
+    },
+    {
+      "name": "gold-hand",
+      "parent": "hand",
+      "skin": true
+    },
+    {
+      "name": "gold",
+      "parent": "root",
+      "skin": true
+    }
+  ],
+  "slots": [
+    {
+      "name": "purple",
+      "bone": "purple",
+      "attachment": "clock/clock2"
+    },
+    {
+      "name": "orange",
+      "bone": "orange",
+      "attachment": "clock/clock1"
+    },
+    {
+      "name": "purple-hand",
+      "bone": "purple-hand",
+      "attachment": "clock/clock2-hand"
+    },
+    {
+      "name": "orange-hand",
+      "bone": "orange-hand",
+      "attachment": "clock/clock1-hand"
+    },
+    {
+      "name": "clock3",
+      "bone": "gold",
+      "attachment": "clock/clock3"
+    },
+    {
+      "name": "clock3-hand",
+      "bone": "gold-hand",
+      "attachment": "clock/clock3-hand"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "clock3": {
+          "clock/clock3": {
+            "x": 0.15,
+            "y": -0.91,
+            "scaleX": 0.3856,
+            "scaleY": 0.3856,
+            "width": 156,
+            "height": 155
+          }
+        },
+        "clock3-hand": {
+          "clock/clock3-hand": {
+            "x": -0.3,
+            "y": 7.44,
+            "scaleX": 0.4043,
+            "scaleY": 0.4043,
+            "width": 26,
+            "height": 64
+          }
+        },
+        "orange": {
+          "clock/clock1": {
+            "x": -0.58,
+            "y": -1.25,
+            "scaleX": 1.175,
+            "scaleY": 1.175,
+            "width": 52,
+            "height": 52
+          }
+        },
+        "orange-hand": {
+          "clock/clock1-hand": {
+            "y": 12.21,
+            "scaleX": 1.1926,
+            "scaleY": 1.2189,
+            "width": 9,
+            "height": 17
+          }
+        },
+        "purple": {
+          "clock/clock2": {
+            "x": -0.56,
+            "y": -1.17,
+            "width": 61,
+            "height": 61
+          }
+        },
+        "purple-hand": {
+          "clock/clock2-hand": {
+            "x": -0.06,
+            "y": 12.11,
+            "scaleX": 1.0133,
+            "scaleY": 1.1126,
+            "width": 10,
+            "height": 19
+          }
+        }
+      }
+    },
+    {
+      "name": "gold",
+      "bones": [
+        "gold",
+        "gold-hand"
+      ]
+    },
+    {
+      "name": "orange",
+      "bones": [
+        "orange",
+        "orange-hand"
+      ]
+    },
+    {
+      "name": "purple",
+      "bones": [
+        "purple",
+        "purple-hand"
+      ]
+    }
+  ],
+  "animations": {
+    "loop": {
+      "bones": {
+        "hand": {
+          "rotate": [
+            {
+              "time": 0.9333,
+              "curve": [
+                0.956,
+                0,
+                0.978,
+                -90
+              ]
+            },
+            {
+              "time": 1,
+              "value": -90,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.9333,
+              "value": -90,
+              "curve": [
+                1.956,
+                -90,
+                1.978,
+                -180
+              ]
+            },
+            {
+              "time": 2,
+              "value": -180,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.9333,
+              "value": -180,
+              "curve": [
+                2.956,
+                -180,
+                2.978,
+                -270
+              ]
+            },
+            {
+              "time": 3,
+              "value": -270,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.9333,
+              "value": -270,
+              "curve": [
+                3.956,
+                -270,
+                3.978,
+                -330
+              ]
+            },
+            {
+              "time": 4,
+              "value": -360
+            }
+          ]
+        }
+      }
+    }
+  }
+}

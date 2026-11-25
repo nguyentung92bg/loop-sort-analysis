@@ -1,0 +1,150 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 67477962752
+  },
+  "m_Name": "WeeklyMissionsData",
+  "Sprites": {
+    "list": [
+      {
+        "Key": 0,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1107
+        }
+      },
+      {
+        "Key": 1,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 847
+        }
+      },
+      {
+        "Key": 2,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1112
+        }
+      },
+      {
+        "Key": 3,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1021
+        }
+      },
+      {
+        "Key": 4,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 796
+        }
+      },
+      {
+        "Key": 5,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1119
+        }
+      },
+      {
+        "Key": 6,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 780
+        }
+      },
+      {
+        "Key": 7,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 728
+        }
+      },
+      {
+        "Key": 8,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 943
+        }
+      },
+      {
+        "Key": 9,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1013
+        }
+      },
+      {
+        "Key": 10,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 762
+        }
+      },
+      {
+        "Key": 11,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 883
+        }
+      },
+      {
+        "Key": 12,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 883
+        }
+      },
+      {
+        "Key": 13,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 872
+        }
+      },
+      {
+        "Key": 14,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 872
+        }
+      },
+      {
+        "Key": 15,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1002
+        }
+      },
+      {
+        "Key": 16,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 902
+        }
+      },
+      {
+        "Key": 17,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 843
+        }
+      },
+      {
+        "Key": 18,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1002
+        }
+      }
+    ],
+    "keyCollision": 0
+  }
+}

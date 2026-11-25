@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 79607889920
+  },
+  "m_Name": "",
+  "m_imageGraph": {
+    "m_FileID": 0,
+    "m_PathID": 463
+  },
+  "m_imageGraphHighestValues": {
+    "m_FileID": 0,
+    "m_PathID": 416
+  },
+  "ShaderFull": {
+    "m_FileID": 3,
+    "m_PathID": 30
+  },
+  "ShaderLight": {
+    "m_FileID": 3,
+    "m_PathID": 29
+  },
+  "m_isInitialized": 0
+}

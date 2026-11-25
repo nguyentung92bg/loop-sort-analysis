@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1718
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 84037074944
+  },
+  "m_Name": "",
+  "promptText": {
+    "m_FileID": 0,
+    "m_PathID": 10575
+  },
+  "increaseVolumeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 10996
+  },
+  "stopAdButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 10966
+  },
+  "increaseVolumeButton": {
+    "m_FileID": 0,
+    "m_PathID": 10743
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 10842
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 61253615616
+  },
+  "m_Name": "",
+  "_versionCode": "541",
+  "_enableConnectivityService": 0,
+  "_useNetworkMonitorOnIos": 1,
+  "_useNetworkMonitorOnAndroid": 1,
+  "_pollingIntervalMs": 5000,
+  "_requestTimeoutSeconds": 3,
+  "_connectivityProbeUrl": "https://captive.apple.com/hotspot-detect.html",
+  "_connectivityProbeExpectedResponse": "<HTML><HEAD><TITLE>Success</TITLE></HEAD><BODY>Success</BODY></HTML>",
+  "_autoStartNetworkMonitor": 1,
+  "_enableConnectivityPollingInEditor": 0,
+  "_enablePersistenceShadowCopy": 0
+}

@@ -1,0 +1,136 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2117
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -736432874,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 10910
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 11787
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_exit",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12185
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_areyousure",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 12615
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": -1045094797,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 12241
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -837447268,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 11799
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1545174397,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 10080
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1794486730,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 12879
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1602836957,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 10861
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1189531485,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 11927
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

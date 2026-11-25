@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "com.garawell.loopsort.areaoffer1",
+    "activeShop": false,
+    "providerMaster": "po1",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 4000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 120.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.areaoffer2",
+    "activeShop": false,
+    "providerMaster": "po2",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 7000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "Life",
+        "quantity": 90.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.areaoffer3",
+    "activeShop": false,
+    "providerMaster": "po3",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 24000.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "Life",
+        "quantity": 180.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.bigbundle",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 19.99,
+    "catalogType": 0,
+    "catalogTitle": "Big Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 8000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 8.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 720.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 8000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 8.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 8.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 8.0
+      },
+      {
+        "type": "Life",
+        "quantity": 720.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.bigbundle27",
+    "activeShop": true,
+    "providerMaster": "bundle large",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 20000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "Life",
+        "quantity": 240.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.bonustripoffer",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 1200.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 60.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone1",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 3000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 2.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone11",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 5500.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 30.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone18",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 12000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "Life",
+        "quantity": 60.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone2",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 6500.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 4.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone3",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 12500.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 8.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 8.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 8.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseone6",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 2500.0
+      },
+      {
+        "type": "Life",
+        "quantity": 15.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseoneall",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 22000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 14.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 12.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 8.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.chooseoneall20",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 20000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 4.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "Life",
+        "quantity": 105.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin100",
+    "activeShop": true,
+    "providerMaster": "coin pack 6",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 100000.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin14",
+    "activeShop": true,
+    "providerMaster": "coin pack 3",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 10000.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin2",
+    "activeShop": true,
+    "providerMaster": "coin pack 1",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 1000.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin30",
+    "activeShop": true,
+    "providerMaster": "coin pack 4",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 25000.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin55",
+    "activeShop": true,
+    "providerMaster": "coin pack 5",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 50000.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coin8",
+    "activeShop": true,
+    "providerMaster": "coin pack 2",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 5000.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.coinrush",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 2.99,
+    "catalogType": 0,
+    "catalogTitle": "Coin Rush",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.failoffer",
+    "activeShop": false,
+    "providerMaster": "fail",
+    "catalogPrice": 2.99,
+    "catalogType": 0,
+    "catalogTitle": "Fail Offer",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 1200.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 1.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 2000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 60.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack1",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 1.99,
+    "catalogType": 0,
+    "catalogTitle": "1 000",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 1000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 1000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack2",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 7.99,
+    "catalogType": 0,
+    "catalogTitle": "5 000",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 5000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 5000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack3",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 14.99,
+    "catalogType": 0,
+    "catalogTitle": "10 000",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 10000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 10000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack4",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 29.99,
+    "catalogType": 0,
+    "catalogTitle": "25 000",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 25000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 25000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack5",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 54.99,
+    "catalogType": 0,
+    "catalogTitle": "50 000",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 50000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 50000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.goldpack6",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 99.99,
+    "catalogType": 0,
+    "catalogTitle": "100 000",
+    "catalogPayouts": [
+      {
+        "t": "Other",
+        "st": "gold",
+        "q": 100000.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 100000.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.largebundle",
+    "activeShop": true,
+    "providerMaster": "bundle XL",
+    "catalogPrice": 49.99,
+    "catalogType": 0,
+    "catalogTitle": "Large Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 20000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 18.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 2160.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 40000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 6.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 6.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 6.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 6.0
+      },
+      {
+        "type": "Life",
+        "quantity": 480.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.mediumbundle",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 9.99,
+    "catalogType": 0,
+    "catalogTitle": "Medium Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 4000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 3.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 360.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 4000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "Life",
+        "quantity": 360.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.mediumbundle13",
+    "activeShop": true,
+    "providerMaster": "bundle medium",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 7500.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      },
+      {
+        "type": "Life",
+        "quantity": 120.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.megabundle",
+    "activeShop": true,
+    "providerMaster": "bundle XXL",
+    "catalogPrice": 99.99,
+    "catalogType": 0,
+    "catalogTitle": "Mega Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 60000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 36.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 4320.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 90000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 12.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 12.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 12.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 12.0
+      },
+      {
+        "type": "Life",
+        "quantity": 1440.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.noad",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.noads",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 8.99,
+    "catalogType": 1,
+    "catalogTitle": "No Ads",
+    "catalogPayouts": [
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.noadsbundle9",
+    "activeShop": false,
+    "providerMaster": "bundle no ads",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 3000.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.pack1",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 0.99,
+    "catalogType": 0,
+    "catalogTitle": "Pack 1",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.pack2",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 1.99,
+    "catalogType": 0,
+    "catalogTitle": "Pack 2",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.pack3",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 2.99,
+    "catalogType": 0,
+    "catalogTitle": "Pack 3",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.pack4",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 3.99,
+    "catalogType": 0,
+    "catalogTitle": "Pack 4",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.parisoffer",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 6.99,
+    "catalogType": 0,
+    "catalogTitle": "Paris Offer",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 3000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 2.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 240.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 5000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 3.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 2.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 120.0
+      },
+      {
+        "type": "NoAds",
+        "quantity": 0.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.piggybank",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 1.99,
+    "catalogType": 0,
+    "catalogTitle": "Piggy Bank",
+    "catalogPayouts": [],
+    "providerPayouts": null,
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.smallbundle",
+    "activeShop": false,
+    "providerMaster": null,
+    "catalogPrice": 4.99,
+    "catalogType": 0,
+    "catalogTitle": "Small Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 2000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 1.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 180.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "noads",
+        "q": 0.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 2000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 180.0
+      }
+    ],
+    "catalogOnly": true
+  },
+  {
+    "id": "com.garawell.loopsort.smallbundle6",
+    "activeShop": true,
+    "providerMaster": "bundle small",
+    "catalogPrice": null,
+    "catalogType": null,
+    "catalogTitle": null,
+    "catalogPayouts": [],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 2500.0
+      },
+      {
+        "type": "Life",
+        "quantity": 30.0
+      }
+    ],
+    "catalogOnly": false
+  },
+  {
+    "id": "com.garawell.loopsort.starterbundle",
+    "activeShop": true,
+    "providerMaster": "bundle starter",
+    "catalogPrice": 0.99,
+    "catalogType": 0,
+    "catalogTitle": "Starter Bundle",
+    "catalogPayouts": [
+      {
+        "t": "Currency",
+        "st": "gold",
+        "q": 1000.0,
+        "d": ""
+      },
+      {
+        "t": "Resource",
+        "st": "boosters",
+        "q": 1.0,
+        "d": ""
+      },
+      {
+        "t": "Other",
+        "st": "life",
+        "q": 60.0,
+        "d": ""
+      }
+    ],
+    "providerPayouts": [
+      {
+        "type": "Gold",
+        "quantity": 3000.0
+      },
+      {
+        "type": "UndoBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ShuffleBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "CapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "ConveyorCapacityBooster",
+        "quantity": 1.0
+      },
+      {
+        "type": "Life",
+        "quantity": 60.0
+      }
+    ],
+    "catalogOnly": false
+  }
+]

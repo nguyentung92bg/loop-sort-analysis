@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 21558722560
+  },
+  "m_Name": "Avatars",
+  "Characters": {
+    "list": [
+      {
+        "Key": "default",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 1053
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 9745
+          }
+        }
+      },
+      {
+        "Key": "beachgirl",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 837
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "blackcurlyman",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 795
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "blackhairtallguy",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 1151
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "blackhairwoman",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 774
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "blonde",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 773
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "brownhairman",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 1010
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "tennisgirl",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 770
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      },
+      {
+        "Key": "worker",
+        "Value": {
+          "Sprite": {
+            "m_FileID": 0,
+            "m_PathID": 783
+          },
+          "Skeleton": {
+            "m_FileID": 0,
+            "m_PathID": 0
+          }
+        }
+      }
+    ],
+    "keyCollision": 0
+  }
+}

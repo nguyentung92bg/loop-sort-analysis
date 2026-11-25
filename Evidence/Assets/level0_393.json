@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 30
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 81268834304
+  },
+  "m_Name": "",
+  "m_fpsText": {
+    "m_FileID": 0,
+    "m_PathID": 357
+  },
+  "m_msText": {
+    "m_FileID": 0,
+    "m_PathID": 375
+  },
+  "m_avgFpsText": {
+    "m_FileID": 0,
+    "m_PathID": 374
+  },
+  "m_onePercentFpsText": {
+    "m_FileID": 0,
+    "m_PathID": 361
+  },
+  "m_zero1PercentFpsText": {
+    "m_FileID": 0,
+    "m_PathID": 364
+  }
+}

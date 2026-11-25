@@ -1,0 +1,30 @@
+[
+  {
+    "UnlockLevel": 1,
+    "Cost": 300,
+    "PurchaseUnits": 1,
+    "FreeAtStart": 2,
+    "Id": "Undo"
+  },
+  {
+    "UnlockLevel": 1,
+    "Cost": 300,
+    "PurchaseUnits": 1,
+    "FreeAtStart": 2,
+    "Id": "Shuffle"
+  },
+  {
+    "UnlockLevel": 1,
+    "Cost": 800,
+    "PurchaseUnits": 1,
+    "FreeAtStart": 2,
+    "Id": "ConveyorCapacity"
+  },
+  {
+    "UnlockLevel": 1,
+    "Cost": 900,
+    "PurchaseUnits": 1,
+    "FreeAtStart": 2,
+    "Id": "Capacity"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 34527510528
+  },
+  "m_Name": "",
+  "TargetRT": {
+    "m_FileID": 0,
+    "m_PathID": 7988
+  },
+  "Padding": {
+    "x": 200.0,
+    "y": 225.0
+  }
+}

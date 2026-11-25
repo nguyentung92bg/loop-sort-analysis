@@ -1,0 +1,400 @@
+[
+  {
+    "method": "VoodooAdjustProvider$$TrackEvent",
+    "strings": [
+      ", ",
+      "TrackCustomEvent: AnalyticsProviders: {0}; providers = {1}",
+      "VoodooAnalytics"
+    ],
+    "source": "Evidence/Native/023514a4_VoodooAdjustProvider__TrackEvent_22514a4.c"
+  },
+  {
+    "method": "VoodooAdjustProvider$$TrackEventIfNotTracked",
+    "strings": [
+      "_tracked",
+      "event_"
+    ],
+    "source": "Evidence/Native/0235153c_VoodooAdjustProvider__TrackEventIfNotTracked_225153c.c"
+  },
+  {
+    "method": "VoodooMetaProvider$$OnImpressionTracked",
+    "strings": [
+      "placement",
+      "network",
+      "_valueToSum",
+      "0.############",
+      "l6dylq",
+      "ad_unit",
+      "fb_currency"
+    ],
+    "source": "Evidence/Native/0235291c_VoodooMetaProvider__OnImpressionTracked_225291c.c"
+  },
+  {
+    "method": "VoodooSauceBootstrapper$$TrackNakamaEvent",
+    "strings": [
+      ", ",
+      "TrackCustomEvent: AnalyticsProviders: {0}; providers = {1}",
+      "VoodooAnalytics"
+    ],
+    "source": "Evidence/Native/02355258_VoodooSauceBootstrapper__TrackNakamaEvent_2255258.c"
+  },
+  {
+    "method": "VoodooSauceProvider$$StartGame",
+    "strings": [
+      "level_funnel",
+      "number_of_mechanics",
+      "core_streak_rockets",
+      "number_of_colors",
+      "mechanics",
+      "[]",
+      "number_of_objectives"
+    ],
+    "source": "Evidence/Native/023556a4_VoodooSauceProvider__StartGame_22556a4.c"
+  },
+  {
+    "method": "ShopMonitor$$TrackShopOpen",
+    "strings": [
+      "scene",
+      "shop_open",
+      "home",
+      "source",
+      "in_game",
+      "GameMainMenuState",
+      "menu"
+    ],
+    "source": "Evidence/Native/025605d4_ShopMonitor__TrackShopOpen_24605d4.c"
+  },
+  {
+    "method": "TimeTracker$$Begin",
+    "strings": [
+      "{0:0.000}s"
+    ],
+    "source": "Evidence/Native/025a07c0_TimeTracker__Begin_24a07c0.c"
+  },
+  {
+    "method": "Extensions$$ToAnalyticsName",
+    "strings": [
+      "streak_tower",
+      "coin_rush",
+      "unknown_liveops",
+      "core_streak",
+      "collection_bar",
+      "daily_bonus",
+      "daily_challenge",
+      "battle_pass",
+      "streak_tournament",
+      "weekly_missions",
+      "lava_quest"
+    ],
+    "source": "Evidence/Native/025e5df4_Extensions__ToAnalyticsName_24e5df4.c"
+  },
+  {
+    "method": "Extensions$$HasTracking",
+    "strings": [
+      "unknown_liveops"
+    ],
+    "source": "Evidence/Native/025e7838_Extensions__HasTracking_24e7838.c"
+  },
+  {
+    "method": "BattlePass$$GetAnalyticsData",
+    "strings": [
+      "milestone_level"
+    ],
+    "source": "Evidence/Native/0260bcf4_BattlePass__GetAnalyticsData_250bcf4.c"
+  },
+  {
+    "method": "CollectionBar$$GetAnalyticsData",
+    "strings": [
+      "milestone_level"
+    ],
+    "source": "Evidence/Native/02611c70_CollectionBar__GetAnalyticsData_2511c70.c"
+  },
+  {
+    "method": "DailyChallenge$$GetAnalyticsData",
+    "strings": [
+      "milestone_level",
+      "01",
+      "run_id",
+      "yyyyMM"
+    ],
+    "source": "Evidence/Native/026155d0_DailyChallenge__GetAnalyticsData_25155d0.c"
+  },
+  {
+    "method": "LavaQuest$$GetAnalyticsData",
+    "strings": [
+      "milestone_level"
+    ],
+    "source": "Evidence/Native/0261a310_LavaQuest__GetAnalyticsData_251a310.c"
+  },
+  {
+    "method": "StreakTournament$$GetAnalyticsData",
+    "strings": [
+      "milestone_level",
+      "current_win_streak",
+      "current_multiplier",
+      "max_multiplier"
+    ],
+    "source": "Evidence/Native/026247e0_StreakTournament__GetAnalyticsData_25247e0.c"
+  },
+  {
+    "method": "StreakTournament$$TrackPersonalRewardClaim",
+    "strings": [
+      "personal_bar"
+    ],
+    "source": "Evidence/Native/026265e0_StreakTournament__TrackPersonalRewardClaim_25265e0.c"
+  },
+  {
+    "method": "StreakTournament$$TrackLeaderboardRewardClaim",
+    "strings": [
+      "leaderboard"
+    ],
+    "source": "Evidence/Native/02626984_StreakTournament__TrackLeaderboardRewardClaim_2526984.c"
+  },
+  {
+    "method": "StreakTower$$GetAnalyticsData",
+    "strings": [
+      "milestone_level",
+      "current_win_streak"
+    ],
+    "source": "Evidence/Native/02627f9c_StreakTower__GetAnalyticsData_2527f9c.c"
+  },
+  {
+    "method": "AnalyticsModule$$OnEconomyConsume",
+    "strings": [
+      "ooc_trigger"
+    ],
+    "source": "Evidence/Native/0263fd8c_AnalyticsModule__OnEconomyConsume_253fd8c.c"
+  },
+  {
+    "method": "AnalyticsModule$$OnOutOfGolds",
+    "strings": [
+      "ooc_trigger"
+    ],
+    "source": "Evidence/Native/0263fe3c_AnalyticsModule__OnOutOfGolds_253fe3c.c"
+  },
+  {
+    "method": "AnalyticsModule$$OnEconomyConsumeFail",
+    "strings": [
+      "ooc_trigger"
+    ],
+    "source": "Evidence/Native/0263fec0_AnalyticsModule__OnEconomyConsumeFail_253fec0.c"
+  },
+  {
+    "method": "AnalyticsModule$$OnOutOfLives",
+    "strings": [
+      "ool_trigger"
+    ],
+    "source": "Evidence/Native/0263fed4_AnalyticsModule__OnOutOfLives_253fed4.c"
+  },
+  {
+    "method": "AnalyticsCustomEvent$$AddGameLevel",
+    "strings": [
+      "game_level"
+    ],
+    "source": "Evidence/Native/0263ffe8_AnalyticsCustomEvent__AddGameLevel_253ffe8.c"
+  },
+  {
+    "method": "AnalyticsCustomEvent$$AddDaysSinceInstall",
+    "strings": [
+      "days_since_install"
+    ],
+    "source": "Evidence/Native/026400b4_AnalyticsCustomEvent__AddDaysSinceInstall_25400b4.c"
+  },
+  {
+    "method": "AnalyticsCustomEvent$$AddGameCoinBalance",
+    "strings": [
+      "game_coin_balance"
+    ],
+    "source": "Evidence/Native/02640228_AnalyticsCustomEvent__AddGameCoinBalance_2540228.c"
+  },
+  {
+    "method": "AnalyticsPurchaseEvent$$CreateFrom",
+    "strings": [
+      "com.garawell.loopsort.",
+      "null"
+    ],
+    "source": "Evidence/Native/02640ca4_AnalyticsPurchaseEvent__CreateFrom_2540ca4.c"
+  },
+  {
+    "method": "AnalyticsPurchaseEvent$$ToString",
+    "strings": [
+      ", Placement:",
+      ", LevelNumber:",
+      ", UsdPrice:",
+      "Id:",
+      "values",
+      ", Reason:"
+    ],
+    "source": "Evidence/Native/02640eb8_AnalyticsPurchaseEvent__ToString_2540eb8.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$.ctor",
+    "strings": [
+      "Run-",
+      "run_id",
+      "game_level",
+      "yyyyMMdd",
+      "name",
+      "milestone_type",
+      "stage_number",
+      "null",
+      "reward_track_type",
+      "milestone_level",
+      "participation_count",
+      "Progression"
+    ],
+    "source": "Evidence/Native/02641140_AnalyticsLiveOpsEvent___ctor_2541140.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$AddGeneralData",
+    "strings": [
+      "pass_status",
+      "game_coin_balance",
+      "current_win_streak",
+      "liveops_currency_collected",
+      "max_multiplier",
+      "tournament_placement",
+      "liveops_currency_balance",
+      "max_win_streak",
+      "current_multiplier",
+      "null",
+      "liveops_currency_used",
+      "max_stage_completed",
+      "max_milestone_level",
+      "impression_trigger",
+      "placement",
+      "final_track_status"
+    ],
+    "source": "Evidence/Native/02641798_AnalyticsLiveOpsEvent__AddGeneralData_2541798.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$AddTransactionData",
+    "strings": [
+      "nb_units",
+      "item_name",
+      "days_since_install",
+      "null",
+      "transaction_type"
+    ],
+    "source": "Evidence/Native/02641d00_AnalyticsLiveOpsEvent__AddTransactionData_2541d00.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetImpressionTrigger",
+    "strings": [
+      "impression_trigger"
+    ],
+    "source": "Evidence/Native/02641f24_AnalyticsLiveOpsEvent__SetImpressionTrigger_2541f24.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetMilestoneLevel",
+    "strings": [
+      "milestone_level"
+    ],
+    "source": "Evidence/Native/02641fdc_AnalyticsLiveOpsEvent__SetMilestoneLevel_2541fdc.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetRewardTrackType",
+    "strings": [
+      "reward_track_type"
+    ],
+    "source": "Evidence/Native/02642074_AnalyticsLiveOpsEvent__SetRewardTrackType_2542074.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetStageNumber",
+    "strings": [
+      "stage_number"
+    ],
+    "source": "Evidence/Native/0264212c_AnalyticsLiveOpsEvent__SetStageNumber_254212c.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetPassStatus",
+    "strings": [
+      "pass_status"
+    ],
+    "source": "Evidence/Native/026421c4_AnalyticsLiveOpsEvent__SetPassStatus_25421c4.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetCurrencyBalance",
+    "strings": [
+      "liveops_currency_balance"
+    ],
+    "source": "Evidence/Native/0264227c_AnalyticsLiveOpsEvent__SetCurrencyBalance_254227c.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetCurrencyCollected",
+    "strings": [
+      "liveops_currency_collected"
+    ],
+    "source": "Evidence/Native/02642314_AnalyticsLiveOpsEvent__SetCurrencyCollected_2542314.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetMaxMilestoneLevel",
+    "strings": [
+      "max_milestone_level"
+    ],
+    "source": "Evidence/Native/026423ac_AnalyticsLiveOpsEvent__SetMaxMilestoneLevel_25423ac.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetMaxWinStreak",
+    "strings": [
+      "max_win_streak"
+    ],
+    "source": "Evidence/Native/02642444_AnalyticsLiveOpsEvent__SetMaxWinStreak_2542444.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetFinalTrackStatus",
+    "strings": [
+      "final_track_status"
+    ],
+    "source": "Evidence/Native/026424dc_AnalyticsLiveOpsEvent__SetFinalTrackStatus_25424dc.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetMaxStageCompleted",
+    "strings": [
+      "max_stage_completed"
+    ],
+    "source": "Evidence/Native/02642594_AnalyticsLiveOpsEvent__SetMaxStageCompleted_2542594.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetTournamentPlacement",
+    "strings": [
+      "tournament_placement"
+    ],
+    "source": "Evidence/Native/0264262c_AnalyticsLiveOpsEvent__SetTournamentPlacement_254262c.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetPlacement",
+    "strings": [
+      "placement"
+    ],
+    "source": "Evidence/Native/026426c4_AnalyticsLiveOpsEvent__SetPlacement_25426c4.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetItemName",
+    "strings": [
+      "item_name"
+    ],
+    "source": "Evidence/Native/02642734_AnalyticsLiveOpsEvent__SetItemName_2542734.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetMilestoneType",
+    "strings": [
+      "milestone_type"
+    ],
+    "source": "Evidence/Native/026427e0_AnalyticsLiveOpsEvent__SetMilestoneType_25427e0.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetUnitNumber",
+    "strings": [
+      "nb_units"
+    ],
+    "source": "Evidence/Native/02642850_AnalyticsLiveOpsEvent__SetUnitNumber_2542850.c"
+  },
+  {
+    "method": "AnalyticsLiveOpsEvent$$SetTransactionType",
+    "strings": [
+      "transaction_type"
+    ],
+    "source": "Evidence/Native/026428e8_AnalyticsLiveOpsEvent__SetTransactionType_25428e8.c"
+  }
+]

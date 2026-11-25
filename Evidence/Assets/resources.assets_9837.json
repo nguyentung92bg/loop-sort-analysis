@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 18169724928
+  },
+  "m_Name": "Camera Blends",
+  "CustomBlends": [
+    {
+      "From": "**ANY CAMERA**",
+      "To": "Cinemachine Camera",
+      "Blend": {
+        "Style": 1,
+        "Time": 0.30000001192092896,
+        "CustomCurve": {
+          "m_Curve": [],
+          "m_PreInfinity": 0,
+          "m_PostInfinity": 0,
+          "m_RotationOrder": 0
+        }
+      }
+    },
+    {
+      "From": "**ANY CAMERA**",
+      "To": "Booster Camera",
+      "Blend": {
+        "Style": 1,
+        "Time": 0.30000001192092896,
+        "CustomCurve": {
+          "m_Curve": [],
+          "m_PreInfinity": 0,
+          "m_PostInfinity": 0,
+          "m_RotationOrder": 0
+        }
+      }
+    }
+  ]
+}

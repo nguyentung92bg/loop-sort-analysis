@@ -1,0 +1,29 @@
+{
+  "source": "Evidence/Assets/resources.assets_9853.json",
+  "data": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 69809995776
+    },
+    "m_Name": "CarrierConfig",
+    "RejectedColorSeconds": 3.0,
+    "ContainerSize": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 3.450000047683716
+    },
+    "ContainerOffset": {
+      "x": 0.25,
+      "y": 0.25,
+      "z": 0.0
+    },
+    "ScaleMultiplier": 1.0,
+    "SingleColorMultiplier": 2,
+    "SplineLengthBlockMultiplier": 8.0
+  }
+}

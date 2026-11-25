@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 27850178560
+  },
+  "m_Name": "RainbowBehavior",
+  "tagID": "rainb",
+  "baseFrequency": 0.5,
+  "baseWaveSize": 0.07999999821186066
+}

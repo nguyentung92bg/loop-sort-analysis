@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 39090913280
+  },
+  "m_Name": "RocketConfig",
+  "RocketPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11794
+  },
+  "ExplosionParticlePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 1596
+  },
+  "SpawnCornerOffset": 0.0,
+  "SpawnDepth": 4.5,
+  "SpawnScale": 10.0,
+  "FlightSpeed": 50.0,
+  "ApexDepthRatio": 0.10000000149011612,
+  "Pacing": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.023905597627162933,
+        "outSlope": 1.2919195890426636,
+        "weightedMode": 2,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.21460415422916412
+      },
+      {
+        "time": 0.44710421562194824,
+        "value": 0.20005889236927032,
+        "inSlope": 0.0,
+        "outSlope": -0.05026036873459816,
+        "weightedMode": 1,
+        "inWeight": 0.5306373238563538,
+        "outWeight": 0.17158129811286926
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.89801025390625,
+        "outSlope": 2.89801025390625,
+        "weightedMode": 0,
+        "inWeight": 0.03630520775914192,
+        "outWeight": 0.3333333432674408
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ExplosionImpulse": {
+    "ImpulseChannel": 1,
+    "ImpulseShape": 3,
+    "CustomImpulseShape": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "ImpulseDuration": 0.5,
+    "ImpulseType": 0,
+    "DissipationRate": 0.0,
+    "RawSignal": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "AmplitudeGain": 1.0,
+    "FrequencyGain": 1.0,
+    "RepeatMode": 0,
+    "Randomize": 1,
+    "TimeEnvelope": {
+      "AttackShape": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "DecayShape": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "AttackTime": 0.0,
+      "SustainTime": 0.20000000298023224,
+      "DecayTime": 0.699999988079071,
+      "ScaleWithImpact": 1,
+      "HoldForever": 0
+    },
+    "ImpactRadius": 100.0,
+    "DirectionMode": 0,
+    "DissipationMode": 2,
+    "DissipationDistance": 100.0,
+    "PropagationSpeed": 343.0
+  },
+  "ExplosionShakeForce": 0.20000000298023224
+}

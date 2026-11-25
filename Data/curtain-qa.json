@@ -1,0 +1,26 @@
+{
+  "level": 20,
+  "actual": [
+    {
+      "carrier": "C",
+      "code": "Y",
+      "hex": "#f5c52a"
+    },
+    {
+      "carrier": "D",
+      "code": "B",
+      "hex": "#258be0"
+    },
+    {
+      "carrier": "E",
+      "code": "B",
+      "hex": "#258be0"
+    }
+  ],
+  "expected": {
+    "Y": "#f5c52a",
+    "B": "#258be0"
+  },
+  "source": "Colors material _BaseColor",
+  "errors": []
+}

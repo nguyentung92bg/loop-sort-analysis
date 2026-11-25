@@ -1,0 +1,82 @@
+[
+  {
+    "Rewards": "gold:300\nundobooster:1\ncapacitybooster:1\nconveyorcapacitybooster:1\nlife:60",
+    "Id": 1
+  },
+  {
+    "Rewards": "gold:200\nundobooster:1\nshufflebooster:1\nlife:45",
+    "Id": 2
+  },
+  {
+    "Rewards": "gold:100\nundobooster:1\nlife:20",
+    "Id": 3
+  },
+  {
+    "Rewards": "gold:50\nlife:15",
+    "Id": 4
+  },
+  {
+    "Rewards": "gold:20\nlife:15",
+    "Id": 5
+  },
+  {
+    "Rewards": "life:10",
+    "Id": 6
+  },
+  {
+    "Rewards": "life:10",
+    "Id": 7
+  },
+  {
+    "Rewards": "life:10",
+    "Id": 8
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 9
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 10
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 11
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 12
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 13
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 14
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 15
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 16
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 17
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 18
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 19
+  },
+  {
+    "Rewards": "life:5",
+    "Id": 20
+  }
+]

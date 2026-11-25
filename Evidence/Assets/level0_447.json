@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 40
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 2164260864
+  },
+  "m_Name": "",
+  "debugManager": {
+    "m_FileID": 0,
+    "m_PathID": 330
+  },
+  "newInfoCountText": {
+    "m_FileID": 0,
+    "m_PathID": 339
+  },
+  "newWarningCountText": {
+    "m_FileID": 0,
+    "m_PathID": 340
+  },
+  "newErrorCountText": {
+    "m_FileID": 0,
+    "m_PathID": 337
+  },
+  "alertColorInfo": {
+    "r": 0.05098039284348488,
+    "g": 0.3294117748737335,
+    "b": 0.5647059082984924,
+    "a": 1.0
+  },
+  "alertColorWarning": {
+    "r": 0.5960784554481506,
+    "g": 0.45490196347236633,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "alertColorError": {
+    "r": 0.5647059082984924,
+    "g": 0.05098039284348488,
+    "b": 0.05098039284348488,
+    "a": 1.0
+  }
+}

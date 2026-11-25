@@ -1,0 +1,106 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2214
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23420993536
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": 13412
+  },
+  "CustomOutBackEase": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -0.01400216668844223,
+        "outSlope": -0.01400216668844223,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.36248400807380676
+      },
+      {
+        "time": 0.5926081538200378,
+        "value": 1.2097411155700684,
+        "inSlope": 0.415658175945282,
+        "outSlope": 0.415658175945282,
+        "weightedMode": 3,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.8462759256362915,
+        "value": 0.9027858376502991,
+        "inSlope": 0.450181782245636,
+        "outSlope": 0.450181782245636,
+        "weightedMode": 3,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.9117622971534729,
+        "value": 1.0409903526306152,
+        "inSlope": 0.8229435086250305,
+        "outSlope": 0.8229435086250305,
+        "weightedMode": 3,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.4645446538925171,
+        "outSlope": -0.4645446538925171,
+        "weightedMode": 0,
+        "inWeight": 0.3333333432674408,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "CustomMultiplierBarEase": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.2291224002838135,
+        "outSlope": 1.2291224002838135,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.3333333432674408
+      },
+      {
+        "time": 0.840619683265686,
+        "value": 1.0332244634628296,
+        "inSlope": 0.009076204150915146,
+        "outSlope": -0.08795922994613647,
+        "weightedMode": 3,
+        "inWeight": 0.5774288773536682,
+        "outWeight": 0.3244822919368744
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": -0.4348055422306061,
+        "outSlope": -0.4348055422306061,
+        "weightedMode": 0,
+        "inWeight": 0.5839220285415649,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ChestSprite": {
+    "m_FileID": 0,
+    "m_PathID": 719
+  }
+}

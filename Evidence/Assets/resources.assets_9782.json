@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 26826768384
+  },
+  "m_Name": "PendulumBehavior",
+  "tagID": "pend",
+  "baseAmplitude": 24.700000762939453,
+  "baseFrequency": 3.0999999046325684,
+  "baseWaveSize": 0.20000000298023224,
+  "anchorBottom": 0
+}

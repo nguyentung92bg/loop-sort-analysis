@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "skeleton_Atlas",
+  "textureLoadingMode": 0,
+  "onDemandTextureLoader": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -4406827004839528962
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5164364221027811745
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7996937624579722819
+    }
+  ]
+}

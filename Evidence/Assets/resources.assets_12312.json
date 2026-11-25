@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3665
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 117440512
+  },
+  "m_Name": "",
+  "countdown": {
+    "m_FileID": 0,
+    "m_PathID": 10698
+  },
+  "bannerImage": {
+    "m_FileID": 0,
+    "m_PathID": 10415
+  },
+  "bannerButton": {
+    "m_FileID": 0,
+    "m_PathID": 10152
+  },
+  "skipButton": {
+    "m_FileID": 0,
+    "m_PathID": 12700
+  },
+  "muteButton": {
+    "m_FileID": 0,
+    "m_PathID": 12443
+  },
+  "unmuteButton": {
+    "m_FileID": 0,
+    "m_PathID": 13271
+  },
+  "showReportAdButton": {
+    "m_FileID": 0,
+    "m_PathID": 12427
+  },
+  "reportAdButton": {
+    "m_FileID": 0,
+    "m_PathID": 10439
+  },
+  "reportAdButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 13272
+  }
+}

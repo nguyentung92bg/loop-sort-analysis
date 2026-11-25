@@ -1,0 +1,13 @@
+skeleton.png
+size:1766,709
+filter:Linear,Linear
+purchaseprocess/BG
+bounds:2,2,705,705
+offsets:1,1,707,707
+purchaseprocess/Circle
+bounds:1422,364,343,342
+rotate:90
+purchaseprocess/Cube
+bounds:709,6,701,711
+offsets:1,0,702,711
+rotate:90

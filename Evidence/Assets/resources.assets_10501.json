@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3151
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 26658996224
+  },
+  "m_Name": "",
+  "title": {
+    "m_FileID": 0,
+    "m_PathID": 12505
+  },
+  "eventsContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8165
+  },
+  "copyButton": {
+    "m_FileID": 0,
+    "m_PathID": 12848
+  }
+}

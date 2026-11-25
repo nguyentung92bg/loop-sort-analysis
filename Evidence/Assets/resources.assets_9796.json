@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 69373788160
+  },
+  "m_Name": "AnalyticsSettings_ios_worldwide",
+  "platform": "ios",
+  "store": "worldwide",
+  "useFirebaseAnalytics": 1,
+  "useRemoteConfig": 1,
+  "adjustAppToken": "g752qvg1jgn4",
+  "noAdsBundleId": "com.garawell.loopsort.noad",
+  "useVoodooAnalytics": 1,
+  "conversionEvents": {
+    "UseConversionEvents": 1,
+    "DaysUntilExpiration": 1,
+    "AdEvents": [],
+    "UnknownEvents": []
+  },
+  "isChinaStore": 0,
+  "appleStoreId": "6751101794",
+  "voodooFunnels": {
+    "funnels": []
+  },
+  "gameAnalyticsGameKey": "51d65d52b0792f6ff94106db96162874",
+  "gameAnalyticsSecretKey": "[REDACTED]",
+  "excludeGameAnalyticsSDK": 0,
+  "facebookAppId": "1290675959322656"
+}

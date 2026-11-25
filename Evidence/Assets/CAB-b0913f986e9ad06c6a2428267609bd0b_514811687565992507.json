@@ -1,0 +1,155 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8846967405870129723
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1261564850,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 1008631966620525115
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1502853922,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 9027744515742900795
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "liveops_streaktower_name",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 5348664412314804795
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [],
+  "Containers": [
+    {
+      "Comment": "",
+      "Role": -1745385472,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -5384360671023324613
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1436209294,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -6894246890158611909
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1319502690,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -8502203474927934917
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -938831642,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": -491894355011231173
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 969925706,
+      "Container": {
+        "m_FileID": 0,
+        "m_PathID": 554732856378401339
+      }
+    }
+  ],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": -1502853922,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2634100144776207813
+      }
+    }
+  ],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": 35391489,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3291686863280022075
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1875862075,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3094124105034572347
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 332801758,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 4551786111736422971
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1207164779,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 3605840864433873467
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

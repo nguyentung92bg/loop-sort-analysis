@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1579
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 32312918016
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "imageColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "title": "Event Console",
+  "orderIndex": 0,
+  "mainSubScreen": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_parent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "eventInformationScreen": {
+    "m_FileID": 0,
+    "m_PathID": 11180
+  },
+  "eventFiltersScreen": {
+    "m_FileID": 0,
+    "m_PathID": 10579
+  },
+  "sessionContainer": {
+    "m_FileID": 0,
+    "m_PathID": 9057
+  },
+  "recordButton": {
+    "m_FileID": 0,
+    "m_PathID": 11990
+  },
+  "flushButton": {
+    "m_FileID": 0,
+    "m_PathID": 11982
+  },
+  "filterButton": {
+    "m_FileID": 0,
+    "m_PathID": 12058
+  },
+  "exportButton": {
+    "m_FileID": 0,
+    "m_PathID": 13300
+  },
+  "recordingImage": {
+    "m_FileID": 0,
+    "m_PathID": 11730
+  },
+  "pauseImage": {
+    "m_FileID": 0,
+    "m_PathID": 11461
+  },
+  "recordAtStartupBtnOn": {
+    "m_FileID": 0,
+    "m_PathID": 13165
+  },
+  "recordAtStartupBtnOff": {
+    "m_FileID": 0,
+    "m_PathID": 12158
+  },
+  "_exportMenuScreen": {
+    "m_FileID": 0,
+    "m_PathID": 10998
+  },
+  "_exportTypeScreen": {
+    "m_FileID": 0,
+    "m_PathID": 10821
+  },
+  "_exportSelectScreen": {
+    "m_FileID": 0,
+    "m_PathID": 11593
+  },
+  "eventLogItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 11963
+  },
+  "sessionItemPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 10501
+  }
+}

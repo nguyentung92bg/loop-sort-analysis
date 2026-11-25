@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3008
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23135780864
+  },
+  "m_Name": "",
+  "_title": {
+    "m_FileID": 0,
+    "m_PathID": 12875
+  },
+  "_icon": {
+    "m_FileID": 0,
+    "m_PathID": 11183
+  },
+  "_backButton": {
+    "m_FileID": 0,
+    "m_PathID": 10021
+  },
+  "_devBuild": {
+    "m_FileID": 0,
+    "m_PathID": 2663
+  }
+}

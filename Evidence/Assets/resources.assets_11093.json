@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3578
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 78970355712
+  },
+  "m_Name": "",
+  "DefaultTheme": 0,
+  "ShouldDisplayDefault": 1,
+  "Registries": {
+    "list": [
+      {
+        "Key": 0,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 1388
+        }
+      },
+      {
+        "Key": 1,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 4029
+        }
+      },
+      {
+        "Key": 2,
+        "Value": {
+          "m_FileID": 0,
+          "m_PathID": 2224
+        }
+      }
+    ],
+    "keyCollision": 0
+  }
+}

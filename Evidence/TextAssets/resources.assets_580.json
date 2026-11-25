@@ -1,0 +1,37 @@
+[
+  {
+    "Count": 2,
+    "WinRate": 100.0,
+    "MinTokenCap": 2200,
+    "MaxTokenCap": 2860,
+    "Id": "Exceptional"
+  },
+  {
+    "Count": 5,
+    "WinRate": 97.0,
+    "MinTokenCap": 1200,
+    "MaxTokenCap": 1560,
+    "Id": "SuperHigh"
+  },
+  {
+    "Count": 7,
+    "WinRate": 70.0,
+    "MinTokenCap": 200,
+    "MaxTokenCap": 260,
+    "Id": "High"
+  },
+  {
+    "Count": 5,
+    "WinRate": 47.0,
+    "MinTokenCap": 50,
+    "MaxTokenCap": 65,
+    "Id": "Median"
+  },
+  {
+    "Count": 0,
+    "WinRate": 0.0,
+    "MinTokenCap": 0,
+    "MaxTokenCap": 0,
+    "Id": "Low"
+  }
+]

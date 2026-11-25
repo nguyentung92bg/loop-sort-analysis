@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 6627000320
+  },
+  "m_Name": "OffsetAppearance",
+  "tagID": "offset",
+  "baseDuration": 0.5,
+  "baseAmount": 10.0,
+  "baseDirection": {
+    "x": 1.0,
+    "y": 1.0
+  }
+}

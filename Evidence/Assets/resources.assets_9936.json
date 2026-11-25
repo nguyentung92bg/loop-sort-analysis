@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1189
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 72444018688
+  },
+  "m_Name": "",
+  "minSessionCount": 0,
+  "minCustomEventsCount": 0,
+  "delayAfterInstallInHours": 0.0,
+  "delayAfterLaunchInHours": 0.0,
+  "postponeCooldownInHours": 0.0,
+  "requireInternetConnection": 1,
+  "title": "Like the game?",
+  "message": "Take a moment to rate us!",
+  "rateButton": "Rate",
+  "postponeButton": "Later",
+  "rejectButton": "",
+  "appStoreAppId": "",
+  "playMarketAppBundleId": "",
+  "useIOSReview": 0,
+  "customUIWindow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "clearOnStart": 0,
+  "logDebugMessages": 1
+}

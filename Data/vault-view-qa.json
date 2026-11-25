@@ -1,0 +1,176 @@
+{
+  "level": 41,
+  "states": [
+    {
+      "carrier": "E",
+      "prefab": "29",
+      "items": [
+        {
+          "type": 29,
+          "requiredCount": 2
+        }
+      ],
+      "warnings": [],
+      "capacity": 4
+    },
+    {
+      "carrier": "F",
+      "prefab": "29",
+      "items": [
+        {
+          "type": 29,
+          "requiredCount": 5
+        }
+      ],
+      "warnings": [],
+      "capacity": 4
+    },
+    {
+      "carrier": "H",
+      "prefab": "29",
+      "items": [
+        {
+          "type": 29,
+          "requiredCount": 6
+        }
+      ],
+      "warnings": [],
+      "capacity": 4
+    }
+  ],
+  "proof": {
+    "idle": [
+      {
+        "path": "LockTurn-Blocker",
+        "attribute": 1,
+        "idle": [
+          0,
+          2.609999895095825,
+          2.299999952316284
+        ],
+        "prefab": [
+          0,
+          2.609999895095825,
+          2.299999952316284
+        ],
+        "matches": true
+      },
+      {
+        "path": "LockTurn-Blocker/Turn",
+        "attribute": 4,
+        "idle": [
+          0,
+          0,
+          0
+        ],
+        "prefab": [
+          0,
+          0,
+          0
+        ],
+        "matches": true
+      },
+      {
+        "path": "GlassCover-Blocker/cover-l",
+        "attribute": 4,
+        "idle": [
+          0,
+          0,
+          0
+        ],
+        "prefab": [
+          0,
+          0,
+          0
+        ],
+        "matches": true
+      },
+      {
+        "path": "GlassCover-Blocker/cover-r",
+        "attribute": 4,
+        "idle": [
+          0,
+          0,
+          0
+        ],
+        "prefab": [
+          0,
+          0,
+          0
+        ],
+        "matches": true
+      },
+      {
+        "path": "GlassCover-Blocker",
+        "attribute": 3,
+        "idle": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "prefab": [
+          0.949999988079071,
+          0.949999988079071,
+          0.949999988079071
+        ],
+        "matches": true
+      },
+      {
+        "path": "LockTurn-Blocker",
+        "attribute": 3,
+        "idle": [
+          1.25,
+          1.25,
+          1.25
+        ],
+        "prefab": [
+          1.25,
+          1.25,
+          1.25
+        ],
+        "matches": true
+      }
+    ],
+    "counters": [
+      {
+        "value": 2,
+        "font": "Fredoka-Bold SDF",
+        "fontSize": 0.6000000238418579,
+        "position": {
+          "x": 0,
+          "y": 3.35473940376861,
+          "z": 2.271809174940734
+        },
+        "background": false
+      },
+      {
+        "value": 5,
+        "font": "Fredoka-Bold SDF",
+        "fontSize": 0.6000000238418579,
+        "position": {
+          "x": 0,
+          "y": 3.35473940376861,
+          "z": 2.271809174940734
+        },
+        "background": false
+      },
+      {
+        "value": 6,
+        "font": "Fredoka-Bold SDF",
+        "fontSize": 0.6000000238418579,
+        "position": {
+          "x": 0,
+          "y": 3.35473940376861,
+          "z": 2.271809174940734
+        },
+        "background": false
+      }
+    ],
+    "sourceNodes": [
+      1497,
+      4163,
+      3511
+    ]
+  },
+  "errors": []
+}

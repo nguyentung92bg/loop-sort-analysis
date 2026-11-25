@@ -1,0 +1,327 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8721444317266095956
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4504326355048561806
+  },
+  "m_Name": "",
+  "Buttons": [
+    {
+      "Comment": "",
+      "Role": -1712002915,
+      "Button": {
+        "m_FileID": 0,
+        "m_PathID": 9159656080144904020
+      }
+    }
+  ],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "liveops_lavaquest_name",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 1625568659634761556
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "TreasureHunt_Search_TextDesc_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -3246936988689322156
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "Search_TextPlayerCount_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -7639416203516203180
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "Identificator": "common_taptocontinue",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": -8267257845451411628
+      },
+      "Localize": 1
+    },
+    {
+      "Comment": "",
+      "Role": 1925560008,
+      "Identificator": "TreasureHunt_GrandPrize",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 8718612771775229780
+      },
+      "Localize": 1
+    }
+  ],
+  "Animators": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "Animator": {
+        "m_FileID": 0,
+        "m_PathID": 7453406887072149332
+      }
+    }
+  ],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -4941560203781296300
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 8812416621064466260
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -3518527539133108396
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -913406970956304556
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 9210473468818927444
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -9219963156075335852
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -1755588822824472748
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -9101735536004124844
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 8692004929496723284
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 3353608168670801748
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 4040950279862202196
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 4357236391663677268
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -3678533645837422764
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -3992990698594848940
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 3579284065609363284
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2918549228256186540
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -8994793260513644716
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -6462042149593370796
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 6961538875991437140
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": -2656698149826220204
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 2120273570575331156
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 0,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 3513968941488648020
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1541754218,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 8196198884224380756
+      }
+    }
+  ],
+  "Images": [],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [
+    {
+      "Comment": "",
+      "Role": -523123604,
+      "Object": {
+        "m_FileID": 0,
+        "m_PathID": 8515761999273307988
+      }
+    }
+  ],
+  "States": [],
+  "LocalizeOnEnable": 1,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

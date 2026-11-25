@@ -1,0 +1,169 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 93
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 75111596032
+  },
+  "m_Name": "",
+  "fpsCounter": {
+    "enabled": 1,
+    "anchor": 1,
+    "color": {
+      "r": 0.3333333432674408,
+      "g": 0.8549019694328308,
+      "b": 0.4000000059604645,
+      "a": 1.0
+    },
+    "style": 1,
+    "updateInterval": 0.5,
+    "warningLevelValue": 50,
+    "criticalLevelValue": 20,
+    "resetAverageOnNewScene": 1,
+    "resetMinMaxOnNewScene": 1,
+    "minMaxIntervalsToSkip": 3,
+    "realtimeFPS": 1,
+    "milliseconds": 0,
+    "average": 1,
+    "averageMilliseconds": 0,
+    "averageNewLine": 1,
+    "averageSamples": 50,
+    "minMax": 0,
+    "minMaxMilliseconds": 0,
+    "minMaxNewLine": 1,
+    "minMaxTwoLines": 0,
+    "render": 0,
+    "renderNewLine": 1,
+    "renderAutoAdd": 1,
+    "colorWarning": {
+      "r": 0.9254902005195618,
+      "g": 0.8784313797950745,
+      "b": 0.3450980484485626,
+      "a": 1.0
+    },
+    "colorCritical": {
+      "r": 0.9764705896377563,
+      "g": 0.35686275362968445,
+      "b": 0.35686275362968445,
+      "a": 1.0
+    },
+    "colorRender": {
+      "r": 0.6549019813537598,
+      "g": 0.4313725531101227,
+      "b": 0.8196078538894653,
+      "a": 1.0
+    }
+  },
+  "memoryCounter": {
+    "enabled": 1,
+    "anchor": 1,
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "style": 0,
+    "updateInterval": 1.0,
+    "precise": 0,
+    "total": 1,
+    "allocated": 1,
+    "monoUsage": 1,
+    "gfx": 0
+  },
+  "deviceInfoCounter": {
+    "enabled": 0,
+    "anchor": 2,
+    "color": {
+      "r": 0.6745098233222961,
+      "g": 0.6745098233222961,
+      "b": 0.6745098233222961,
+      "a": 1.0
+    },
+    "style": 0,
+    "platform": 1,
+    "cpuModel": 1,
+    "cpuModelNewLine": 1,
+    "gpuModel": 1,
+    "gpuModelNewLine": 1,
+    "gpuApi": 1,
+    "gpuApiNewLine": 1,
+    "gpuSpec": 1,
+    "gpuSpecNewLine": 1,
+    "ramSize": 1,
+    "ramSizeNewLine": 1,
+    "screenData": 1,
+    "screenDataNewLine": 1,
+    "deviceModel": 0,
+    "deviceModelNewLine": 1
+  },
+  "thermalStateCounter": {
+    "enabled": 1,
+    "anchor": 1,
+    "color": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "style": 0,
+    "updateInterval": 3.0
+  },
+  "hotKey": 96,
+  "circleGesture": 0,
+  "hotKeyCtrl": 0,
+  "hotKeyShift": 0,
+  "hotKeyAlt": 0,
+  "keepAlive": 1,
+  "operationMode": 2,
+  "forceFrameRate": 0,
+  "forcedFrameRate": -1,
+  "background": 1,
+  "backgroundColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.5882353186607361
+  },
+  "backgroundPadding": 5,
+  "shadow": 0,
+  "shadowColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.7839999794960022
+  },
+  "shadowDistance": {
+    "x": 1.0,
+    "y": -1.0
+  },
+  "outline": 0,
+  "outlineColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "outlineDistance": {
+    "x": 1.0,
+    "y": -1.0
+  },
+  "autoScale": 1,
+  "scaleFactor": 1.0,
+  "labelsFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "fontSize": 14,
+  "lineSpacing": 1.0,
+  "countersSpacing": 0,
+  "paddingOffset": {
+    "x": 50.0,
+    "y": 50.0
+  },
+  "pixelPerfect": 1,
+  "sortingOrder": 10000
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3684
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 20149436416
+  },
+  "m_Name": "",
+  "parentReference": {
+    "TypeName": "BootstrapScope"
+  },
+  "autoRun": 0,
+  "autoInjectGameObjects": []
+}

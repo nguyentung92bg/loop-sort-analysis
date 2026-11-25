@@ -1,0 +1,283 @@
+{
+  "resources.assets_4655": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 2869
+    },
+    "m_Enabled": 1,
+    "m_ClearFlags": 2,
+    "m_BackGroundColor": {
+      "r": 0.32549023628234863,
+      "g": 0.745975911617279,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "m_projectionMatrixMode": 1,
+    "m_GateFitMode": 2,
+    "m_Iso": 200,
+    "m_ShutterSpeed": 0.004999999888241291,
+    "m_Aperture": 16.0,
+    "m_FocusDistance": 10.0,
+    "m_FocalLength": 50.0,
+    "m_BladeCount": 5,
+    "m_Curvature": {
+      "x": 2.0,
+      "y": 11.0
+    },
+    "m_BarrelClipping": 0.25,
+    "m_Anamorphism": 0.0,
+    "m_SensorSize": {
+      "x": 36.0,
+      "y": 24.0
+    },
+    "m_LensShift": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_NormalizedViewPortRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "near clip plane": 0.30000001192092896,
+    "far clip plane": 1000.0,
+    "field of view": 30.0,
+    "orthographic": true,
+    "orthographic size": 1.0,
+    "m_Depth": 0.0,
+    "m_CullingMask": {
+      "m_Bits": 4294967295
+    },
+    "m_RenderingPath": -1,
+    "m_TargetTexture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_TargetDisplay": 0,
+    "m_TargetEye": 3,
+    "m_HDR": false,
+    "m_AllowMSAA": false,
+    "m_AllowDynamicResolution": false,
+    "m_ForceIntoRT": false,
+    "m_OcclusionCulling": true,
+    "m_StereoConvergence": 10.0,
+    "m_StereoSeparation": 0.02199999988079071
+  },
+  "11579": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 2293
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 24041750528
+    },
+    "m_Name": "",
+    "_statefulComponent": {
+      "m_FileID": 0,
+      "m_PathID": 11510
+    }
+  },
+  "12171": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 3182
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 7851737088
+    },
+    "m_Name": "",
+    "<ModelParent>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 3581
+    },
+    "<BlockParent>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4354
+    },
+    "<FrontPoint>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4192
+    },
+    "<HeadRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4687
+    },
+    "<BackTopRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 5042
+    },
+    "<BackRearRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 5039
+    },
+    "<View>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 13176
+    },
+    "<Highlight>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4046
+    },
+    "<LeftTire>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4394
+    },
+    "<RightTire>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4652
+    },
+    "<TransferProjectPoint>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4577
+    },
+    "<Pivot>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4628
+    },
+    "<Collider>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4988
+    },
+    "<GroupBlocks>k__BackingField": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4744
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4684
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4659
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4791
+      }
+    ],
+    "<GroupBlockFilters>k__BackingField": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4843
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4890
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4866
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4903
+      }
+    ]
+  },
+  "12636": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 3574
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 16777216,
+      "m_PathID": 7851737088
+    },
+    "m_Name": "",
+    "<ModelParent>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 3176
+    },
+    "<BlockParent>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4280
+    },
+    "<FrontPoint>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4365
+    },
+    "<HeadRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4705
+    },
+    "<BackTopRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 5045
+    },
+    "<BackRearRenderer>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 5032
+    },
+    "<View>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 11832
+    },
+    "<Highlight>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 2928
+    },
+    "<LeftTire>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4222
+    },
+    "<RightTire>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4470
+    },
+    "<TransferProjectPoint>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4509
+    },
+    "<Pivot>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4428
+    },
+    "<Collider>k__BackingField": {
+      "m_FileID": 0,
+      "m_PathID": 4992
+    },
+    "<GroupBlocks>k__BackingField": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4678
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4702
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4727
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4770
+      }
+    ],
+    "<GroupBlockFilters>k__BackingField": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4871
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4820
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4837
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4963
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2990
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 79138127872
+  },
+  "m_Name": "",
+  "parentReference": {
+    "TypeName": "MonitorScope"
+  },
+  "autoRun": 1,
+  "autoInjectGameObjects": []
+}

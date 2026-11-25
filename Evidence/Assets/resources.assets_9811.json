@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 10032775168
+  },
+  "m_Name": "VoodooDebuggerWidgetBank",
+  "debuggerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 13045
+  },
+  "widgets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 11233
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12117
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10993
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9935
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 12797
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11918
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 13361
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10078
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 11707
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 10431
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Khu vực &amp; tiến trình · Loop Sort</title><link rel="stylesheet" href="report.css"></head><body><nav><b>LOOP SORT</b><small>4.12.0 · Báo cáo phân tích</small><a class="" href="index.html">Tổng quan</a><a class="" href="Levels.html">Chi tiết level</a><a class="" href="Items.html">Vật thể &amp; cơ chế</a><a class="" href="Boosters.html">Boosters</a><a class="" href="EconomyAds.html">Kinh tế &amp; quảng cáo</a><a class="" href="Events.html">Events</a><a class="" href="Daily.html">Daily</a><a class="" href="Leaderboard.html">Leaderboard &amp; bot</a><a class="" href="IAP.html">IAP &amp; offer</a><a class="" href="Analytics.html">Analytics</a><a class="active" href="Progression.html">Khu vực &amp; tiến trình</a><a class="" href="Settings.html">Cấu hình</a><a class="" href="Evidence.html">Nguồn &amp; phương pháp</a></nav><main><header><div class="eyebrow">Game design intelligence · local report</div><h1>Khu vực &amp; tiến trình</h1><p>19 khu vực · mốc thưởng · liên kết offer</p></header><section class="item-reference"><h2>Nhận diện item</h2><p class="muted">Hình item trích từ asset gốc; tên bên dưới là tên asset để đối chiếu. Phần thưởng có mã loại:số lượng trong các bảng được gắn icon tương ứng.</p><div class="gallery"><figure><img src="Images/UI/resources.assets_891.png" alt="JourneyReward"><figcaption>JourneyReward · asset gốc</figcaption></figure><figure><img src="Images/UI/resources.assets_690.png" alt="CarIcon"><figcaption>CarIcon · asset gốc</figcaption></figure><figure><img src="Images/UI/resources.assets_743.png" alt="Gold1"><figcaption>Gold1 · asset gốc</figcaption></figure><figure><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7626281376852544542.png" alt="Gift Box"><figcaption>Gift Box · asset gốc</figcaption></figure></div></section><p>Khu vực là lớp tiến trình ngoài puzzle. Bảng Areas lưu kiểu khu vực và danh sách mốc Level/Rewards; scene bundle Home có nội dung theo khu vực. Không suy ra rằng mỗi khu vực là một bộ màn puzzle hoàn toàn khác. AreaOffer là offer thương mại liên kết khu vực, không đồng nhất với phần thưởng miễn phí của mốc.</p><h3>Đầy đủ 19 khu vực và mốc</h3><div class="tablewrap"><table><thead><tr><th>Type</th><th>Arr</th><th>Id</th></tr></thead><tbody><tr><td>NewYork</td><td><pre>[
+  {
+    &quot;Level&quot;: 1,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>1</td></tr><tr><td>Paris</td><td><pre>[
+  {
+    &quot;Level&quot;: 51,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>2</td></tr><tr><td>London</td><td><pre>[
+  {
+    &quot;Level&quot;: 76,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>3</td></tr><tr><td>Rome</td><td><pre>[
+  {
+    &quot;Level&quot;: 131,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>4</td></tr><tr><td>Amsterdam</td><td><pre>[
+  {
+    &quot;Level&quot;: 186,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>5</td></tr><tr><td>Tokyo</td><td><pre>[
+  {
+    &quot;Level&quot;: 241,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>6</td></tr><tr><td>Istanbul</td><td><pre>[
+  {
+    &quot;Level&quot;: 296,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>7</td></tr><tr><td>Dubai</td><td><pre>[
+  {
+    &quot;Level&quot;: 351,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>8</td></tr><tr><td>Barcelona</td><td><pre>[
+  {
+    &quot;Level&quot;: 406,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>9</td></tr><tr><td>SanFrancisco</td><td><pre>[
+  {
+    &quot;Level&quot;: 461,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>10</td></tr><tr><td>HongKong</td><td><pre>[
+  {
+    &quot;Level&quot;: 516,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>11</td></tr><tr><td>Prague</td><td><pre>[
+  {
+    &quot;Level&quot;: 571,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>12</td></tr><tr><td>Seoul</td><td><pre>[
+  {
+    &quot;Level&quot;: 626,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>13</td></tr><tr><td>Singapore</td><td><pre>[
+  {
+    &quot;Level&quot;: 681,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>14</td></tr><tr><td>Milano</td><td><pre>[
+  {
+    &quot;Level&quot;: 736,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>15</td></tr><tr><td>Madrid</td><td><pre>[
+  {
+    &quot;Level&quot;: 791,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>16</td></tr><tr><td>Athens</td><td><pre>[
+  {
+    &quot;Level&quot;: 846,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>17</td></tr><tr><td>Sydney</td><td><pre>[
+  {
+    &quot;Level&quot;: 901,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>18</td></tr><tr><td>Bangkok</td><td><pre>[
+  {
+    &quot;Level&quot;: 1001,
+    &quot;Rewards&quot;: &quot;-&quot;
+  }
+]</pre></td><td>19</td></tr></tbody></table></div><p class="source">Dữ liệu đầy đủ: <a href="Data/Tables/local/areas.json">areas.json</a> · 19 dòng</p><h2>Feature được theo dõi tiến trình</h2><p>Progress trong bảng features là cờ tham gia tiến trình của feature; không phải tỷ lệ xuất hiện hoặc ngày mở khóa.</p><h3>features</h3><div class="tablewrap"><table><thead><tr><th>Progress</th><th>Id</th></tr></thead><tbody><tr><td>True</td><td>Portal</td></tr><tr><td>True</td><td>HiddenCube</td></tr><tr><td>True</td><td>HiddenTruck</td></tr><tr><td>True</td><td>Rock</td></tr><tr><td>True</td><td>Ice</td></tr><tr><td>True</td><td>LockKey</td></tr><tr><td>True</td><td>Tag</td></tr><tr><td>True</td><td>ConnectedIce</td></tr><tr><td>True</td><td>Carpet</td></tr><tr><td>True</td><td>Tunnel</td></tr><tr><td>True</td><td>Sticky</td></tr><tr><td>True</td><td>Vault</td></tr><tr><td>True</td><td>Glass</td></tr><tr><td>True</td><td>MetalCube</td></tr><tr><td>True</td><td>SurpriseCube</td></tr><tr><td>True</td><td>LongTruck</td></tr><tr><td>True</td><td>Elevator</td></tr></tbody></table></div><p class="source">Dữ liệu đầy đủ: <a href="Data/Tables/local/features.json">features.json</a> · 17 dòng</p><footer>Loop Sort 4.12.0 · Phân tích dữ liệu đóng gói · 25/11/2026 · Báo cáo local, hoạt động offline.</footer></main></body></html>

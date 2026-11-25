@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 32782680064
+  },
+  "m_Name": "SwingBehavior",
+  "tagID": "swing",
+  "baseAmplitude": 22.739999771118164,
+  "baseFrequency": 3.6500000953674316,
+  "baseWaveSize": 0.17100000381469727
+}

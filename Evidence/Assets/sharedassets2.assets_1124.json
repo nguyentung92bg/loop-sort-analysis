@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 129
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 20652752896
+  },
+  "m_Name": "",
+  "_title": {
+    "m_FileID": 0,
+    "m_PathID": 1243
+  },
+  "_message": {
+    "m_FileID": 0,
+    "m_PathID": 1185
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1126
+  },
+  "_closeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1013
+  }
+}

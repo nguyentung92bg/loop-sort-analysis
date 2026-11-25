@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3574
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 46036680704
+  },
+  "m_Name": "",
+  "Model": {
+    "m_FileID": 0,
+    "m_PathID": 5031
+  },
+  "View": {
+    "m_FileID": 0,
+    "m_PathID": 10061
+  },
+  "Animator": {
+    "m_FileID": 0,
+    "m_PathID": 5005
+  }
+}

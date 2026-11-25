@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 79456894976
+  },
+  "m_Name": "UIParticleProjectSettings",
+  "m_EnableLinearToGamma": 1,
+  "m_HideGeneratedObjects": 1
+}

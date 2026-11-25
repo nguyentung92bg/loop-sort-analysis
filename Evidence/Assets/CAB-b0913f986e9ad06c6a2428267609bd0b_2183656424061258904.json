@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8287695714395173736
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7227464249729325335
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Speed": 22.0,
+  "Lifetime": {
+    "x": 5.0,
+    "y": 8.0
+  },
+  "Wobble": 10.0,
+  "MaxAlpha": 0.550000011920929,
+  "Size": {
+    "x": 8.0,
+    "y": 16.0
+  }
+}

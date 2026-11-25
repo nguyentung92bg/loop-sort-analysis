@@ -1,0 +1,20 @@
+
+LittleTree.png
+size: 128, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+LTree
+  rotate: false
+  xy: 2, 26
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+TinyVase
+  rotate: false
+  xy: 89, 94
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1

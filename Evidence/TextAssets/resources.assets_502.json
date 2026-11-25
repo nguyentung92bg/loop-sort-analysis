@@ -1,0 +1,296 @@
+[
+  {
+    "ColorData": "A;B;Y;B;Y;B;G;G;B;R;Y;Y;R:B;Y;Y;R;Y;R;G;G;B;G;R;B;B:C;Y;R;Y;B;G;R;R;Y;G;G;Y;G:D;G;R;B;R;R;B;B;G;Y;G;R;B:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 1
+  },
+  {
+    "ColorData": "A;R;G;B;B;R;B;G;R;B;B;R;R:B;G;R;G;R;B;G;B;B;G;G;R;G:C;G;G;R;B;B;G;R;B;R;B;G;R:D:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 2
+  },
+  {
+    "ColorData": "A;R;R;B;G;G;R;G;B;G;G;B;B:B;G;R;B;G;B;G;G;B;R;R;B;R:C;R;R;G;R;R;B;B;G;G;B;R;B:D:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 3
+  },
+  {
+    "ColorData": "A;B;G;B;G;G;R;R;G;R;B;R;B:B;B;B;R;R;G;G;B;R;G;G;B;G:C;R;B;G;G;R;R;G;B;B;R;B;R:D:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 4
+  },
+  {
+    "ColorData": "A;G;G;R;Y;Y;G;Y;R;B;Y;G;R:B;B;Y;B;B;G;B;R;B;Y;R;B;Y:C;G;R;G;B;R;R;Y;G;B;Y;R;Y:D;Y;G;R;R;Y;G;G;B;G;B;B;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 5
+  },
+  {
+    "ColorData": "A;B;R;R;G;G;Y;B;B;G;R;Y;B:B;B;B;Y;G;Y;R;B;G;Y;G;Y;Y:C;Y;R;R;G;R;B;G;G;B;Y;R;B:D;B;Y;G;R;R;Y;B;G;R;Y;R;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 6
+  },
+  {
+    "ColorData": "A;G;R;R;Y;B;B;G;G;R;G;B;B:B;R;B;R;Y;R;G;G;Y;Y;R;B;Y:C;B;Y;Y;B;Y;R;Y;B;G;B;G;G:D;B;B;Y;R;G;Y;G;R;R;Y;R;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 7
+  },
+  {
+    "ColorData": "A;G;Y;Y;R;R;G;Y;B;B;R;R;Y:B;G;B;R;G;R;B;G;B;G;G;Y;B:C;B;Y;B;R;R;Y;Y;B;R;R;G;B:D;Y;G;B;Y;G;Y;G;R;Y;B;G;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 8
+  },
+  {
+    "ColorData": "A;B;Y;B;B;Y_H;B;Y;G;G;R;G;G:B;Y;Y;B_H;R;G;B;G;R;G;Y;B;G:C;B_H;R;Y;G;G;R;Y;R;G;Y;Y;R:D;R;B_H;R;Y_H;R;B;R;Y;B;B;G;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 9
+  },
+  {
+    "ColorData": "A;R;B;Y;G;B;B;Y;B;Y;G_H;Y;G:B;B;B;Y;R;G;Y;R;B_H;R;R;G_H;Y:C;R;G;B;G_H;Y;B;G;Y;R;R;G;R:D;B;G;B;Y;R;Y;R_H;G;Y;G;B;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 10
+  },
+  {
+    "ColorData": "A;Y_H;Y_H;B_H;G_H;Y_H;G_H;B_H;B_H;Y_H;Y_H;R_H;G:B;R_H;B_H;R_H;Y_H;G_H;Y_H;G_H;R_H;B_H;R_H;R_H;G:C;B_H;B_H;R_H;Y_H;Y_H;R_H;G_H;B_H;B_H;R_H;G_H;Y:D;B_H;R_H;G_H;G_H;Y_H;G_H;R_H;B_H;G_H;Y_H;B_H;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 11
+  },
+  {
+    "ColorData": "A;B_H;Y_H;G_H;R_H;Y_H;Y_H;G_H;R_H;B_H;G_H;Y_H;B:B;Y_H;R_H;R_H;G_H;R_H;G_H;Y_H;Y_H;R_H;B_H;Y_H;B:C;G_H;B_H;R_H;R;Y_H;G_H;R_H;G_H;R_H;Y_H;G_H;B:D;B_H;B_H;R_H;B_H;R_H;G_H;G_H;B_H;Y_H;B_H;Y_H;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 12
+  },
+  {
+    "ColorData": "A;R_H;B_H;Y_H;Y_H;G_H;G_H;B_H;G_H;Y_H;Y_H;R_H;B:B;B_H;R_H;R_H;G_H;Y_H;G_H;B_H;Y_H;R_H;Y_H;R_H;B:C;G_H;B_H;B_H;Y_H;Y_H;B_H;G_H;G_H;R_H;R_H;Y_H;G:D;R_H;R_H;B_H;Y_H;B;G_H;G_H;R_H;B_H;Y_H;R_H;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 13
+  },
+  {
+    "ColorData": "A;B_H;R_H;G_H;G_H;B_H;G_H;Y_H;B_H;Y_H;B_H;B_H;R:B;Y_H;R_H;B_H;G_H;G_H;R_H;R_H;Y_H;G_H;R_H;Y_H;B:C;G_H;G_H;B_H;B_H;R_H;Y_H;R_H;R_H;Y_H;R_H;Y_H;G:D;R_H;B_H;Y_H;Y_H;B_H;G_H;R_H;Y_H;G_H;B_H;Y_H;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 14
+  },
+  {
+    "ColorData": "A;B;Y;Y;G;Y;R;B_H;R;R;Y;R;Y:B;Y;G;Y;B_H;B;G;R;B;B;G;R;R:C;G;G;B;G_H;Y;B;Y;G;R;G;R;R:D;G;Y;G;G;B;B;R;B;R;Y;B;Y:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 15
+  },
+  {
+    "ColorData": "A;Y;G;R_H;B_H;Y;B;R;Y;R;Y;R;G:B;G;R_H;B;B;R;R;G;Y;Y;G;G;B:C;Y;G;Y;B;B;Y;B;G;R_H;B;G;B:D;R;Y;R;R;B;G;R;G;B;G;Y;Y:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 16
+  },
+  {
+    "ColorData": "A;Y_H;G_H;B_H;Y_H;G_H;Y_H;R_H;B_H;R_H;B_H;B_H;R:B;G_H;Y_H;R_H;G_H;B_H;G_H;R_H;R_H;B_H;G_H;B_H;G:C;B_H;B_H;G_H;Y_H;G_H;R_H;G_H;Y_H;R_H;Y_H;B_H;G:D;R_H;Y_H;Y_H;R_H;B_H;G_H;R_H;Y_H;Y_H;R_H;Y_H;B:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 17
+  },
+  {
+    "ColorData": "A;B_H;G_H;B_H;G_H;G;R_H;B_H;Y;G_H;G_H;R_H;B:B;R_H;G_H;R_H;B_H;R_H;Y_H;Y_H;R_H;R_H;Y_H;Y_H;B:C;B_H;Y_H;R_H;G_H;Y_H;G_H;Y_H;B_H;R_H;B_H;B_H;Y:D;G_H;G_H;R_H;B_H;B_H;Y_H;Y_H;G_H;G_H;R_H;Y_H;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 18
+  },
+  {
+    "ColorData": "A;Y;R;R;G;Y;P_H;P;R;R;B;G;G:B;P;P;R;Y;B;P_H;Y;R;P;P;Y;R:C;Y;R_H;B;B;G;B;G;G;B;P;Y_H;R:D;B;B;Y;G;G;Y;Y;R;P;P;R;P:E;B;R;P;B;G;G;B;B;Y;G_H;Y;G:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 19
+  },
+  {
+    "ColorData": "A;G;Y;B;B_H;R;G_H;G;R;B;B;Y:B;R_H;B;R;Y;B_H;B_H;G:C;P;P;G;P_H;R_H;P;B_H;B;G:D;R;G_H;Y_H;Y;P;G;G;R;P;B:E;R_H;P;R;P_H;Y;R;Y;G;B_H;P;G;Y:F;Y;Y;R;R_H;B;Y_H;P;P;Y;P_H;G:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nF-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 20
+  },
+  {
+    "ColorData": "A;G;R;P_H;P_H;B_H;P;P:B;R;R_H;G_H;P;B;B_H;Y:C;G;R_H;B;P;P;Y;B;G;B_H;G;P;B:D;R_H;Y;R;R;P;G;B;B;P;Y;G_H;R:E;P_H;Y;B;Y_H;Y_H;G;B;R;G;Y:F;G;R;G;G_H;P;Y;R;Y;B;R_H;Y_H;Y:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nF-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 21
+  },
+  {
+    "ColorData": "A;B_H;Y;P;B;R;B_H;P;G;G;P_H;G;Y:B;B_H;B;G_H;Y;R_H;Y;Y:C;P;B;R;R;P_H;Y_H;P;R_H;B;G:D;B_H;B;P_H;G;Y_H;R;P;G;G:E;Y;P;R;R;Y;R;P_H;Y;B_H;R:F;P_H;R;G;B_H;G;G;B;R;Y;P;G;Y:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nF-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 22
+  },
+  {
+    "ColorData": "A;P;R;P;G_H;Y;G_H;B_H;R:B;G_H;P;Y;Y;R;B;R;G_H;R;G:C;B;Y;R;B_H;Y_H;P_H;G:D;Y;R;R;Y;B;G;Y;P_H;P_H;G;B;Y:E;R_H;Y_H;P;G;R;R;B;G;B_H;Y;B;G:F;G;P;P_H;R;P;Y;B_H;P;P_H;B;B:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nF-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 23
+  },
+  {
+    "ColorData": "A;B;Y_H;Y;G_H;P;G;P_H;R;Y;B:B;B;P;R_H;R;B;Y;P_H;P;G_H;G;B;R:C;G;B_H;Y;R;G_H;R;G;Y_H;G:D;B_H;R_H;Y;R;P;P;Y;P:E;G_H;R_H;Y;R;B;P;G;B_H;B:F;Y_H;G;R;P;Y;Y;B_H;P;G;P;B;R:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nF-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 24
+  },
+  {
+    "ColorData": "A;G;G_H;P;B;B_H;R;B;Y;Y;P;Y_H;G:B;B;Y;R;R;B_H;R_H;R;P;Y;P;B_H;R:C;P;P;B_H;G;P_H;Y;P;B;G;Y;P_H;G:D;P;R_H;Y;G;Y_H;B;B_H;R;Y;G_H;G;R:E;B;B;G;R;G;G_H;P;R_H;P;R;Y_H;Y:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 25
+  },
+  {
+    "ColorData": "A;B;B_H;Y;R;P;P;Y;Y;R_H;G_H;R;B:B;B;R;G;B;Y_H;P_H;Y;P;B;B_H;G_H;B:C;Y;Y;G;Y_H;Y_H;G;Y;P_H;P;G;B;R:D;P;G;R;G;R;R;G;P_H;Y_H;G;R_H;R:E;P_H;G;B_H;B;P;G;P;R_H;R;Y;P;B:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 26
+  },
+  {
+    "ColorData": "A;G_H;B;P;G;R_H;B;P;R;R_H;P;R;P:B;G;G;P;Y;B;G;G;P;G_H;B_H;P_H;Y:C;R;R;Y;Y_H;R_H;Y;G;G;B;Y;P_H;Y:D;B_H;Y;R;R;P_H;Y;R;Y;B;B_H;Y;B:E;G;B_H;G;R;B;B;P_H;P_H;G;R_H;P;Y:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 27
+  },
+  {
+    "ColorData": "A;B;Y_H;P_H;Y_H;B;G;Y;R;R;G;R;P:B;P;P_H;R;Y;P;G_H;B_H;B;R;Y;P;B:C;P;R;B_H;G_H;G_H;Y;Y;G;P;G;G_H;Y:D;Y;Y;R_H;P_H;B;G;B;R;B;R;P_H;B:E;G_H;G;R;R;B;R_H;Y;P;B_H;P;G;Y:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 28
+  },
+  {
+    "ColorData": "A;Y;R;Y;Y;B;Y_H;R_H;P;R_H;B;B;R:B;P;R;G_H;R_H;P;P;B;P;G;R_H;G;P:C;B;B;P;G_H;Y;B;P;Y_H;Y_H;G;P;G:D;R_H;P_H;R;Y;G;R_H;G;Y;Y;B_H;R;B:E;G_H;B;Y_H;B;Y;B;G_H;P;P;R;G;G:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 29
+  },
+  {
+    "ColorData": "A;Y_H;Y_H;B;R_H;R;Y;Y;B;R;Y;Y:B;G;R;B_H;Y_H;R;Y;B_H;B;G;B:C;G_H;G;B;R;G;R_H;B:D;Y;Y_H;G;G;B;G;B;G_H;R:E;B;R;Y;B;R;G;Y_H;G_H;R;G;R:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 30
+  },
+  {
+    "ColorData": "A;Y;Y;B;Y_H;Y_H;G;B;Y;B:B;R_H;R;G;Y_H;Y_H;B;G;R;R:C;B_H;R;Y_H;B;R;B;R:D;G;G;B_H;G;Y;Y_H;B;G;R_H;B;G;R:E;R;B;R;R;G_H;G;B;Y;G_H;G;Y:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 31
+  },
+  {
+    "ColorData": "A;G;B;B;G;G_H;R;G;Y;B_H;G_H;G:B;G;Y;Y;B_H;R_H;B;Y:C;G;R;Y;Y_H;B;Y;G_H;R:D;B_H;B_H;R;R;G;Y;R;G;R_H;R:E;R;B;Y;Y;R;B;Y;B_H;Y;B;R_H;G:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 32
+  },
+  {
+    "ColorData": "A;R;G;Y_H;Y_H;G;G;B:B;Y;B;Y;Y_H;R_H;R;B;Y;G;R;B:C;R_H;B;R;B;B;G_H;Y_H;R;R;B;B:D;G;Y_H;R;G;G;Y_H;G;R:E;Y;B_H;B;R;G;B;G_H;Y;R;G_H;Y:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 33
+  },
+  {
+    "ColorData": "A;Y;B;Y_H;Y;R_H;G;G;B:B;G;Y;R;Y_H;G_H;Y;B;Y:C;R;B_H;R_H;B;B;G;R;G_H;Y;R;G;G:D;B_H;Y;B;G;B_H;R_H;B;Y;B;G:E;R;G;R_H;Y;G;R;Y;R;B_H;R:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nE-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 34
+  },
+  {
+    "ColorData": "A;B;Y;R_H;B;R;G;B;G;B_H;Y;Y_H;B:B;Y;Y_H;R;B;R;G_H;R_H;Y;Y;G;B;G:C;R_H;B;R_H;R;B;Y;G;Y;R_H;G;G;Y:D;B;B;R;Y_H;R_H;G;G;B;G_H;Y;G;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 35
+  },
+  {
+    "ColorData": "A;Y_H;B;R;B;R;B_H;G_H;B;R;B;G;Y:B;G;B;Y;B;G_H;B;G;G;Y_H;B;R_H;B:C;R_H;Y;Y_H;R;Y;G_H;R;R;G;G;Y;G:D;Y;Y;R;B;Y;B;R;G_H;Y;R_H;G_H;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 36
+  },
+  {
+    "ColorData": "A;B;G;R;R;B;G_H;R_H;B;B;Y;G_H;Y:B;Y;G;Y;G;B;G;B_H;R;R;G_H;Y_H;B:C;B;G;Y_H;Y_H;R;Y;G;B;R;Y;R_H;R:D;G;Y;R;R;B_H;R_H;G;Y;B_H;B;Y;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 37
+  },
+  {
+    "ColorData": "A;G;G;B_H;B;R_H;G;R;G;B;R;R_H;B:B;G;Y;G;R;Y;G_H;Y;G;G;Y_H;G_H;R:C;R_H;B;R;B_H;B;Y;R;R;B_H;Y;R;Y:D;B;B_H;Y_H;R;B_H;B;Y;Y;G;Y;Y;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 38
+  },
+  {
+    "ColorData": "A;G;G_H;R;B;R;Y;Y;B_H;R;Y;G_H;Y:B;Y;G;G;R;B;R_H;B;R;R_H;Y_H;G;R:C;B;Y_H;G;G;B;G_H;Y;R;R_H;B;G;G:D;Y_H;Y;B;B_H;Y;Y_H;R;B;G;B;B;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 39
+  },
+  {
+    "ColorData": "A;Y;G_H;B_H;G;Y_H;R;R;Y;G;Y;G;Y:B;G;R;R_H;G;B;R_H;B;B;G;R;R_H;Y:C;B;B;Y;G_H;Y_H;B;R;G;R_H;B;Y;B:D;G;Y;Y_H;B_H;B;G_H;B;R;G;R;Y;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 40
+  },
+  {
+    "ColorData": "A;B;Y;B_H;Y;G_H;R;G;Y_H;R;R;G;G:B;B;B;G;G_H;B;Y;G;R_H;Y;B;G_H;R:C;R;Y;B_H;G;B;B;Y;B_H;Y_H;R;R;G:D;Y_H;Y_H;R_H;Y;Y;R;B;B;R;R;G;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 41
+  },
+  {
+    "ColorData": "A;R;B;G_H;B;G_H;B;G;R_H;Y;G;Y;R:B;Y;R;Y_H;B_H;B_H;Y;G;B;Y;B;R;G:C;B;Y_H;R;B;B;Y;G;Y_H;R;G_H;G;R:D;Y;B;R;R;G;Y;R;B_H;G_H;Y_H;G;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 42
+  },
+  {
+    "ColorData": "A;R_H;Y;Y;G;Y;G;B;Y_H;B_H;G;R;R:B;B;B_H;G_H;Y;R;B;B;G;R;B_H;R;G:C;Y;B;B;R;R_H;Y;R_H;G;G;Y;G_H;B:D;Y;R;B;B;R_H;Y;Y;G;R_H;G;G_H;Y:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 43
+  },
+  {
+    "ColorData": "A;R_H;B_H;B;R;G;G;R_H;G;R;Y;Y;R:B;G;Y;B;G;B_H;R;G;Y_H;B;B_H;G;Y:C;G;Y_H;R_H;B_H;R;G;B;R;B;R;Y;Y:D;R_H;G;B;B;Y;G;Y;B;R_H;Y;Y_H;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 44
+  },
+  {
+    "ColorData": "A;G_H;B;R;G;B;B;G_H;B;G;Y;R_H;R:B;G;G;R;Y_H;Y;B;R;R_H;G;R_H;G;Y:C;Y;R;Y_H;B;Y;R;B;B_H;Y;Y_H;G;R:D;B_H;Y;Y_H;G_H;G;B;G;B;R;R;Y;B:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 45
+  },
+  {
+    "ColorData": "A;Y;B;R;G;G_H;Y_H;B;R_H;G;B;B;R:B;Y_H;R_H;R;G;Y_H;B;G;Y;R;R;G;R:C;B;B;Y_H;Y;B;R;R_H;B;Y;B_H;G;Y:D;R;G_H;Y;G;G_H;Y_H;B;Y;B;R;G;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 46
+  },
+  {
+    "ColorData": "A;B;Y;B;G_H;Y;B;R;R_H;B_H;Y;Y;G:B;G;R;Y;B_H;Y;G;Y;R;G;G_H;R_H;R:C;B;R;Y;R;B_H;G;R_H;R_H;G;G;B;G:D;B;Y;G_H;R;B;B;Y_H;Y;G;Y_H;B;R:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 47
+  },
+  {
+    "ColorData": "A;Y_H;R;Y;G;Y;R;G;G;B;B_H;R_H;R:B;R;R_H;Y_H;Y_H;G;Y;B;Y;Y;B;G;B:C;B;Y;R_H;R;B;R;G;G;B_H;B;Y_H;R:D;B;R;G_H;R;G_H;B_H;G;Y;G;G;Y;B:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 48
+  },
+  {
+    "ColorData": "A;Y;R_H;B;Y;R;Y_H;B;G;B;G;G_H;R:B;B;Y;G;B;R;Y;G;R_H;Y_H;B_H;R;Y:C;R_H;Y;G;G_H;Y;Y;R;R_H;B;B;Y;B:D;G_H;R;G;Y_H;B;G;R_H;R;G;B;B;G:E:F:G:H:I:J:K:L:M:N:O:P",
+    "Features": "A-LongTruck_12\nB-LongTruck_12\nC-LongTruck_12\nD-LongTruck_12\nY-LongTruck_12\nZ-LongTruck_12",
+    "Colors": null,
+    "Id": 49
+  }
+]

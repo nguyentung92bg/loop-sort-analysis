@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 244
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 34158411776
+  },
+  "m_Name": "",
+  "_titleText": {
+    "m_FileID": 0,
+    "m_PathID": 1175
+  },
+  "_introText": {
+    "m_FileID": 0,
+    "m_PathID": 1005
+  },
+  "_privacyPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": 993
+  },
+  "_privacyPolicyButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1072
+  },
+  "_privacyPolicyButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1176
+  },
+  "_accessDataButton": {
+    "m_FileID": 0,
+    "m_PathID": 1184
+  },
+  "_accessDataButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1271
+  },
+  "_accessDataButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1266
+  },
+  "_deleteDataButton": {
+    "m_FileID": 0,
+    "m_PathID": 955
+  },
+  "_deleteDataButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1276
+  },
+  "_deleteDataButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1305
+  },
+  "_openCmpSettingsButton": {
+    "m_FileID": 0,
+    "m_PathID": 1345
+  },
+  "_openCmpSettingsButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1021
+  },
+  "_openCmpSettingsButtonImage": {
+    "m_FileID": 0,
+    "m_PathID": 1343
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1340
+  },
+  "_closeButtonText": {
+    "m_FileID": 0,
+    "m_PathID": 1312
+  }
+}

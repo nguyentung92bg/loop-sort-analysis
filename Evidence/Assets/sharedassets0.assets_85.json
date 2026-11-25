@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 58
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 69390565376
+  },
+  "m_Name": "",
+  "transformComponent": {
+    "m_FileID": 0,
+    "m_PathID": 74
+  },
+  "imageComponent": {
+    "m_FileID": 0,
+    "m_PathID": 88
+  },
+  "canvasGroupComponent": {
+    "m_FileID": 0,
+    "m_PathID": 79
+  },
+  "logText": {
+    "m_FileID": 0,
+    "m_PathID": 91
+  },
+  "logTypeImage": {
+    "m_FileID": 0,
+    "m_PathID": 84
+  },
+  "logCountParent": {
+    "m_FileID": 0,
+    "m_PathID": 55
+  },
+  "logCountText": {
+    "m_FileID": 0,
+    "m_PathID": 92
+  },
+  "copyLogButton": {
+    "m_FileID": 0,
+    "m_PathID": 90
+  }
+}

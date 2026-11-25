@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "checks": [
+    "local level switching passed",
+    "v18 level switching passed",
+    "statics level switching passed",
+    "staticring level switching passed",
+    "daily level switching passed",
+    "Camera orbit passed",
+    "Mobile width passed"
+  ]
+}

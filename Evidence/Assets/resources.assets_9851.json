@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 45566918656
+  },
+  "m_Name": "Blocks",
+  "Collection": {
+    "list": [
+      {
+        "Key": 0,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 10631
+          }
+        }
+      },
+      {
+        "Key": 1,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 12231
+          }
+        }
+      },
+      {
+        "Key": 31,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 12232
+          }
+        }
+      },
+      {
+        "Key": 32,
+        "Value": {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 12233
+          }
+        }
+      }
+    ],
+    "keyCollision": 0
+  }
+}

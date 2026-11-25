@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2002
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 20954742784
+  },
+  "m_Name": "",
+  "Model": {
+    "m_FileID": 0,
+    "m_PathID": 4316
+  },
+  "Left": {
+    "m_FileID": 0,
+    "m_PathID": 4263
+  },
+  "Right": {
+    "m_FileID": 0,
+    "m_PathID": 4305
+  },
+  "WidthOffset": 2.0999999046325684,
+  "Carpet": {
+    "m_FileID": 0,
+    "m_PathID": 4795
+  },
+  "ForwardOffset": 1.7000000476837158,
+  "BackOffset": 2.5,
+  "DividerPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2219
+  },
+  "Roll": {
+    "m_FileID": 0,
+    "m_PathID": 4609
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1475
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 35953573888
+  },
+  "m_Name": "",
+  "_data": {
+    "m_FileID": 0,
+    "m_PathID": 9810
+  },
+  "_homePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 9875
+  },
+  "_header": {
+    "m_FileID": 0,
+    "m_PathID": 9941
+  },
+  "_bodyRoot": {
+    "m_FileID": 0,
+    "m_PathID": 9371
+  },
+  "_hiddenRoot": {
+    "m_FileID": 0,
+    "m_PathID": 9161
+  },
+  "_popupScreen": {
+    "m_FileID": 0,
+    "m_PathID": 11783
+  },
+  "_customDebuggerScreen": {
+    "m_FileID": 0,
+    "m_PathID": 10149
+  }
+}

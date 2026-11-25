@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5525067123657202301
+  },
+  "m_Name": "clock_Atlas",
+  "textureLoadingMode": 0,
+  "onDemandTextureLoader": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7047413818598577695
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5516399291838604953
+    }
+  ]
+}

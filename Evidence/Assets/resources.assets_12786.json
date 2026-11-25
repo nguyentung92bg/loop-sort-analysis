@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2664
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [
+    {
+      "Comment": "",
+      "Role": 1844382282,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 12506
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1414246315,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 11838
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1185245376,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 13381
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1331046628,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 11163
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 1238709828,
+      "InnerComponent": {
+        "m_FileID": 0,
+        "m_PathID": 12658
+      }
+    }
+  ],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -786962412,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 10656
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}

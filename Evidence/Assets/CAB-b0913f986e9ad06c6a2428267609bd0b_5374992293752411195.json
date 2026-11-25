@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2340462715227018299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4998784900565310526
+  },
+  "m_Name": "",
+  "_statefulComponent": {
+    "m_FileID": 0,
+    "m_PathID": -4536119452939971525
+  },
+  "Reskin": "",
+  "ChestSprite": {
+    "m_FileID": 0,
+    "m_PathID": 536959737136456852
+  }
+}

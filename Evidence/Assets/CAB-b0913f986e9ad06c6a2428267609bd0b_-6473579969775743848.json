@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8218732453550673048
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4653830828885429247
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Mode": 1,
+  "MinAlpha": 0.0,
+  "MaxAlpha": 1.0,
+  "Speed": 6.0,
+  "BlinkInterval": {
+    "x": 1.5,
+    "y": 5.0
+  },
+  "BlinkFade": 0.30000001192092896
+}

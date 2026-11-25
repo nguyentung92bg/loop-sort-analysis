@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 19
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 56388222976
+  },
+  "m_Name": "",
+  "m_imageAllocated": {
+    "m_FileID": 0,
+    "m_PathID": 402
+  },
+  "m_imageReserved": {
+    "m_FileID": 0,
+    "m_PathID": 388
+  },
+  "m_imageMono": {
+    "m_FileID": 0,
+    "m_PathID": 392
+  },
+  "ShaderFull": {
+    "m_FileID": 3,
+    "m_PathID": 30
+  },
+  "ShaderLight": {
+    "m_FileID": 3,
+    "m_PathID": 29
+  },
+  "m_isInitialized": 0
+}

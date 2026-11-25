@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4090443034685223784
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2057359200687603136
+  },
+  "m_Name": "",
+  "UnscaledTime": 1,
+  "Amplitude": {
+    "x": 0.0,
+    "y": 1.600000023841858
+  },
+  "Frequency": 24.0,
+  "Phase": 0.0,
+  "Bounce": 1
+}

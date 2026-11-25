@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2277
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 134217728
+  },
+  "m_Name": "",
+  "audioSource": {
+    "m_FileID": 0,
+    "m_PathID": 4996
+  },
+  "mediumRectangleBanner": {
+    "m_FileID": 0,
+    "m_PathID": 12312
+  },
+  "mobileLeaderboardBanner": {
+    "m_FileID": 0,
+    "m_PathID": 13219
+  },
+  "unmutePrompt": {
+    "m_FileID": 0,
+    "m_PathID": 11534
+  },
+  "dontDestroyOnLoad": 1
+}

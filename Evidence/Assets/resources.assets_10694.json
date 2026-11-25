@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3680
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 30198988800
+  },
+  "m_Name": "",
+  "_headerText": {
+    "m_FileID": 0,
+    "m_PathID": 10848
+  },
+  "_bodyText": {
+    "m_FileID": 0,
+    "m_PathID": 13315
+  },
+  "_button": {
+    "m_FileID": 0,
+    "m_PathID": 12769
+  },
+  "_image": {
+    "m_FileID": 0,
+    "m_PathID": 11512
+  }
+}

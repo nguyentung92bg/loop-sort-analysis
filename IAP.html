@@ -1,0 +1,232 @@
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>IAP &amp; offer · Loop Sort</title><link rel="stylesheet" href="report.css"></head><body><nav><b>LOOP SORT</b><small>4.12.0 · Báo cáo phân tích</small><a class="" href="index.html">Tổng quan</a><a class="" href="Levels.html">Chi tiết level</a><a class="" href="Items.html">Vật thể &amp; cơ chế</a><a class="" href="Boosters.html">Boosters</a><a class="" href="EconomyAds.html">Kinh tế &amp; quảng cáo</a><a class="" href="Events.html">Events</a><a class="" href="Daily.html">Daily</a><a class="" href="Leaderboard.html">Leaderboard &amp; bot</a><a class="active" href="IAP.html">IAP &amp; offer</a><a class="" href="Analytics.html">Analytics</a><a class="" href="Progression.html">Khu vực &amp; tiến trình</a><a class="" href="Settings.html">Cấu hình</a><a class="" href="Evidence.html">Nguồn &amp; phương pháp</a></nav><main><header><div class="eyebrow">Game design intelligence · local report</div><h1>IAP &amp; offer</h1><p>44 SKU · 12 SKU trong shop · so sánh nguồn</p></header><section class="item-reference"><h2>Nhận diện item</h2><p class="muted">Hình item trích từ asset gốc; tên bên dưới là tên asset để đối chiếu. Phần thưởng có mã loại:số lượng trong các bảng được gắn icon tương ứng.</p><div class="gallery"><figure><img src="Images/UI/resources.assets_743.png" alt="Gold1"><figcaption>Gold1 · asset gốc</figcaption></figure><figure><img src="Images/UI/resources.assets_1017.png" alt="Gold3"><figcaption>Gold3 · asset gốc</figcaption></figure><figure><img src="Images/UI/resources.assets_976.png" alt="Gold6"><figcaption>Gold6 · asset gốc</figcaption></figure><figure><img src="Images/UI/resources.assets_1172.png" alt="NOads"><figcaption>NOads · asset gốc</figcaption></figure><figure><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5111258784164956549.png" alt="MiniBoosters"><figcaption>MiniBoosters · asset gốc</figcaption></figure><figure><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity"><figcaption>Heart Infinity · asset gốc</figcaption></figure></div></section><div class="gallery"><figure><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7328262994867625809.png" alt="StarterVisual"><figcaption>StarterVisual · asset gốc</figcaption></figure><figure><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-7626281376852544542.png" alt="Gift Box"><figcaption>Gift Box · asset gốc</figcaption></figure></div><p>Có ba nguồn cần đọc riêng: ShopVoodoo xác định SKU được bố trí trong shop; ProductMasters/provider payout mô tả sản phẩm và phần nhận; Unity IAP catalog chứa catalog/giá đóng gói, có nhiều mục legacy. Không lấy số trong tên coin2/coin8 làm giá tiền. Những SKU hiện tại không có giá catalog được ghi “chưa biết giá store”. Giá số trong catalog không kèm xác nhận tiền tệ/giá theo quốc gia và không phải báo giá cửa hàng hôm nay.</p><aside>Cùng SKU có thể khác payout giữa nguồn cũ và provider: starterbundle có catalog 1.000 Gold nhưng provider 3.000 Gold; largebundle và megabundle cũng khác. Bảng giữ cả hai để người đọc thấy xung đột, không cộng hai nguồn thành một gói.</aside><p>Life = phút mạng vô hạn; NoAds quantity 0 = cấp quyền; Boosters generic trong catalog cũ không tự chia thành từng loại. Chỉ các provider payout ghi rõ từng booster mới được liệt kê theo loại.</p><div class="tablewrap"><table><thead><tr><th>SKU</th><th>Shop hiện tại</th><th>ProductMaster</th><th>Giá số catalog</th><th>Loại catalog</th><th>Provider payout</th><th>Catalog payout (đối chiếu)</th></tr></thead><tbody><tr><td>com.garawell.loopsort.areaoffer1</td><td>Không có dòng ShopVoodoo</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 4000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 120.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.areaoffer2</td><td>Không có dòng ShopVoodoo</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 7000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 90.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.areaoffer3</td><td>Không có dòng ShopVoodoo</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 24000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 180.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.bigbundle</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>19.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 8000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 8.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 8.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 8.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 720.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 8000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 8.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 720.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.bigbundle27</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 20000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 240.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.bonustripoffer</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 1200.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 60.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone1</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 3000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 2.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone11</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 5500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 30.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone18</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 12000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 60.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone2</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 6500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 4.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone3</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 12500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 8.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 8.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 8.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseone6</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 2500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 15.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseoneall</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 22000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 14.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 12.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 8.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.chooseoneall20</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 20000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 4.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 105.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin100</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 100000.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin14</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 10000.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin2</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 1000.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin30</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 25000.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin55</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 50000.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coin8</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 5000.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.coinrush</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>2.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.failoffer</td><td>Không có dòng ShopVoodoo</td><td>Có</td><td>2.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 2000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 60.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 1200.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 1.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack1</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>1.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 1000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 1000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack2</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>7.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 5000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 5000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack3</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>14.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 10000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 10000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack4</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>29.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 25000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 25000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack5</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>54.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 50000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 50000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.goldpack6</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>99.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 100000.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 100000.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.largebundle</td><td>Có</td><td>Có</td><td>49.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 40000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 6.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 6.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 6.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 6.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 480.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 20000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 18.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 2160.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.mediumbundle</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>9.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 4000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 360.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 4000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 3.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 360.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.mediumbundle13</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 7500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 120.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.megabundle</td><td>Có</td><td>Có</td><td>99.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 90000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 12.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 12.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 12.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 12.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 1440.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 60000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 36.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 4320.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.noad</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.noads</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>8.99</td><td>Non-consumable</td><td>Chưa có trong nguồn này</td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.noadsbundle9</td><td>Không có dòng ShopVoodoo</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 3000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.pack1</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>0.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.pack2</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>1.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.pack3</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>2.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.pack4</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>3.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.parisoffer</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>6.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 5000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 3.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 2.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 120.0</span>; <span class="reward-item"><img src="Images/UI/resources.assets_1172.png" alt="NOads" title="NOads">NoAds: 0.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 3000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 2.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 240.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.piggybank</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>1.99</td><td>Consumable</td><td>Chưa có trong nguồn này</td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.smallbundle</td><td>Không có dòng ShopVoodoo</td><td>—</td><td>4.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 2000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 180.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 2000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 1.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 180.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;noads&quot;,
+    &quot;q&quot;: 0.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr><tr><td>com.garawell.loopsort.smallbundle6</td><td>Có</td><td>Có</td><td>Chưa biết giá store</td><td>Không có</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 2500.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 30.0</span></td><td>Không có payout cố định</td></tr><tr><td>com.garawell.loopsort.starterbundle</td><td>Có</td><td>Có</td><td>0.99</td><td>Consumable</td><td><span class="reward-item"><img src="Images/UI/resources.assets_743.png" alt="Gold1" title="Gold1">Gold: 3000.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-6994468684935181165.png" alt="MiniBoosterUndo" title="MiniBoosterUndo">UndoBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_-5071816112349158952.png" alt="MiniBoosterShuffle" title="MiniBoosterShuffle">ShuffleBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_4246259576754341040.png" alt="MiniBoosterCapacity" title="MiniBoosterCapacity">CapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_1374404114091871336.png" alt="MiniBoosterConveyorCapacity" title="MiniBoosterConveyorCapacity">ConveyorCapacityBooster: 1.0</span>; <span class="reward-item"><img src="Images/UI/CAB-b0913f986e9ad06c6a2428267609bd0b_2780066323315819407.png" alt="Heart Infinity" title="Heart Infinity">Life: 60.0</span></td><td><pre>[
+  {
+    &quot;t&quot;: &quot;Currency&quot;,
+    &quot;st&quot;: &quot;gold&quot;,
+    &quot;q&quot;: 1000.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Resource&quot;,
+    &quot;st&quot;: &quot;boosters&quot;,
+    &quot;q&quot;: 1.0,
+    &quot;d&quot;: &quot;&quot;
+  },
+  {
+    &quot;t&quot;: &quot;Other&quot;,
+    &quot;st&quot;: &quot;life&quot;,
+    &quot;q&quot;: 60.0,
+    &quot;d&quot;: &quot;&quot;
+  }
+]</pre></td></tr></tbody></table></div><h2>Quyền lợi, thanh toán và khả dụng</h2><p>NoAds là entitlement; không phải số lần xem quảng cáo. PiggyBank và các SKU không có payout cố định cần logic tích lũy hoặc event để xác định phần nhận, vì vậy không ghi “không có thưởng”. Non-consumable khác consumable ở vòng đời mua/khôi phục; loại chỉ được ghi khi catalog có dữ liệu. Tình trạng đang bán, giá địa phương và giao dịch thành công cần provider/store runtime để xác nhận.</p><p class="source"><a href="Data/products.json">Bảng hợp nhất 44 SKU</a> · <a href="Data/Configs/ShopVoodoo.json">Shop</a> · <a href="Data/Configs/PayoutsOffersV2.json">Payout provider</a> · <a href="Data/Configs/ProductMasters.json">Product masters</a></p><p class="source">Đối chiếu logic: <a href="Evidence/Native/02352cec_VoodooPurchasingProvider__InitializeSdk_2252cec.c">VoodooPurchasingProvider$$InitializeSdk</a> · <a href="Evidence/Native/02352d50_VoodooPurchasingProvider__GetStatus_2252d50.c">VoodooPurchasingProvider$$GetStatus</a> · <a href="Evidence/Native/02352dbc_VoodooPurchasingProvider__StartPurchase_2252dbc.c">VoodooPurchasingProvider$$StartPurchase</a> · <a href="Evidence/Native/02353554_VoodooPurchasingProvider__CreatePayouts_2253554.c">VoodooPurchasingProvider$$CreatePayouts</a> · <a href="Evidence/Native/02353620_VoodooPurchasingProvider__GetPurchaseContextProperties_2253620.c">VoodooPurchasingProvider$$GetPurchaseContextProperties</a></p><footer>Loop Sort 4.12.0 · Phân tích dữ liệu đóng gói · 25/11/2026 · Báo cáo local, hoạt động offline.</footer></main></body></html>

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 177
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 68736253952
+  },
+  "m_Name": "",
+  "voodooSauceLogo": {
+    "m_FileID": 0,
+    "m_PathID": 333
+  },
+  "recordingLogo": {
+    "m_FileID": 0,
+    "m_PathID": 62
+  },
+  "bubbleButton": {
+    "m_FileID": 0,
+    "m_PathID": 1194
+  },
+  "hidePanel": {
+    "m_FileID": 0,
+    "m_PathID": 1191
+  }
+}

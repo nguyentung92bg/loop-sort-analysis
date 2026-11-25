@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3154
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 16777216,
+    "m_PathID": 23119003648
+  },
+  "m_Name": "",
+  "Buttons": [],
+  "Texts": [
+    {
+      "Comment": "",
+      "Role": -555757312,
+      "Identificator": "Podium_TextName_00",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10518
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": -1339960366,
+      "Identificator": "Podium_TextName_01",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10031
+      },
+      "Localize": 0
+    },
+    {
+      "Comment": "",
+      "Role": 869183319,
+      "Identificator": "Podium_TextName_02",
+      "IsTextMeshPro": 1,
+      "Text": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TMP": {
+        "m_FileID": 0,
+        "m_PathID": 10731
+      },
+      "Localize": 0
+    }
+  ],
+  "Animators": [],
+  "Containers": [],
+  "Sliders": [],
+  "Toggles": [],
+  "InnerComponents": [],
+  "Images": [
+    {
+      "Comment": "",
+      "Role": -555757312,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 13406
+      }
+    },
+    {
+      "Comment": "",
+      "Role": -1339960366,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 13021
+      }
+    },
+    {
+      "Comment": "",
+      "Role": 869183319,
+      "Image": {
+        "m_FileID": 0,
+        "m_PathID": 13189
+      }
+    }
+  ],
+  "VideoPlayers": [],
+  "Dropdowns": [],
+  "TextsInputs": [],
+  "Objects": [],
+  "States": [],
+  "LocalizeOnEnable": 0,
+  "ApplyInitialStateOnEnable": 0,
+  "_initialState": {
+    "Comment": "",
+    "Role": -1,
+    "NodeData": {
+      "Position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "ParentRoles": []
+    },
+    "Description": []
+  }
+}
